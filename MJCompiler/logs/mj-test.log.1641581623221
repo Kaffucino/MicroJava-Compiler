@@ -1,0 +1,14 @@
+INFO  19:53:20,199 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:53:20,228 - #2 program
+INFO  19:53:20,228 - #16 PROG
+INFO  19:53:20,228 - #3 {
+INFO  19:53:20,229 - #16 int
+INFO  19:53:20,229 - #16 main
+INFO  19:53:20,229 - #6 (
+INFO  19:53:20,229 - #7 )
+INFO  19:53:20,230 - #3 {
+INFO  19:53:20,230 - #42 goto
+INFO  19:53:20,230 - #16 skip
+INFO  19:53:20,230 - #5 ;
+INFO  19:53:20,230 - #4 }
+INFO  19:53:20,231 - #4 }

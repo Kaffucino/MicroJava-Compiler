@@ -1,0 +1,64 @@
+INFO  17:21:06,184 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:21:06,215 - #2 program
+INFO  17:21:06,215 - #16 test302
+INFO  17:21:06,215 - #48 const
+INFO  17:21:06,215 - #16 int
+INFO  17:21:06,215 - #16 jedan
+INFO  17:21:06,216 - #13 =
+INFO  17:21:06,216 - #15 1
+INFO  17:21:06,216 - #5 ;
+INFO  17:21:06,216 - #16 int
+INFO  17:21:06,217 - #16 i
+INFO  17:21:06,217 - #5 ;
+INFO  17:21:06,217 - #16 int
+INFO  17:21:06,217 - #16 niz2
+INFO  17:21:06,217 - #5 ;
+INFO  17:21:06,217 - #49 record
+INFO  17:21:06,217 - #16 Test
+INFO  17:21:06,217 - #3 {
+INFO  17:21:06,218 - #16 int
+INFO  17:21:06,218 - #16 niz
+INFO  17:21:06,218 - #50 [
+INFO  17:21:06,218 - #51 ]
+INFO  17:21:06,218 - #5 ;
+INFO  17:21:06,220 - #16 int
+INFO  17:21:06,220 - #16 a
+INFO  17:21:06,220 - #5 ;
+INFO  17:21:06,220 - #4 }
+INFO  17:21:06,221 - #16 Test
+INFO  17:21:06,221 - #16 t1
+INFO  17:21:06,221 - #8 ,
+INFO  17:21:06,221 - #16 t2
+INFO  17:21:06,221 - #5 ;
+INFO  17:21:06,221 - #3 {
+INFO  17:21:06,222 - #14 void
+INFO  17:21:06,222 - #16 main
+INFO  17:21:06,222 - #6 (
+INFO  17:21:06,222 - #7 )
+INFO  17:21:06,223 - #3 {
+INFO  17:21:06,223 - #16 t1
+INFO  17:21:06,223 - #13 =
+INFO  17:21:06,224 - #36 new
+INFO  17:21:06,224 - #16 Test
+INFO  17:21:06,224 - #5 ;
+INFO  17:21:06,225 - #9 print
+INFO  17:21:06,225 - #6 (
+INFO  17:21:06,225 - #16 eol
+INFO  17:21:06,225 - #7 )
+INFO  17:21:06,226 - #5 ;
+INFO  17:21:06,226 - #16 i
+INFO  17:21:06,226 - #13 =
+INFO  17:21:06,226 - #15 0
+INFO  17:21:06,226 - #5 ;
+INFO  17:21:06,226 - #4 }
+INFO  17:21:06,226 - #4 }
+INFO  17:21:06,234 - Trenutan tip konstante je:  int na liniji 5
+INFO  17:21:06,234 - Deklarisana promenljiva i na liniji 7
+INFO  17:21:06,234 - Deklarisana promenljiva niz2 na liniji 10
+INFO  17:21:06,234 - Deklarisana je rekord :  Test na liniji 12
+INFO  17:21:06,234 - Deklarisana promenljiva niz na liniji 13
+INFO  17:21:06,234 - Deklarisana promenljiva a na liniji 14
+INFO  17:21:06,235 - Deklarisana promenljiva t2 na liniji 17
+INFO  17:21:06,235 - Deklarisana promenljiva t1 na liniji 17
+INFO  17:21:06,235 - Obradjuje se funkcija main na liniji 40
+INFO  17:21:06,246 - Parsiranje uspesno zavrseno!

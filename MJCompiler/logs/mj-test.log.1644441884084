@@ -1,0 +1,56 @@
+INFO  22:22:18,644 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:22:18,675 - #2 program
+INFO  22:22:18,675 - #16 test302
+INFO  22:22:18,676 - #48 const
+INFO  22:22:18,676 - #16 int
+INFO  22:22:18,676 - #16 jedan
+INFO  22:22:18,676 - #13 =
+INFO  22:22:18,676 - #15 1
+INFO  22:22:18,676 - #5 ;
+INFO  22:22:18,677 - #3 {
+INFO  22:22:18,678 - #14 void
+INFO  22:22:18,678 - #16 main
+INFO  22:22:18,679 - #6 (
+INFO  22:22:18,679 - #7 )
+INFO  22:22:18,679 - #16 int
+INFO  22:22:18,679 - #16 niz
+INFO  22:22:18,680 - #50 [
+INFO  22:22:18,680 - #51 ]
+INFO  22:22:18,680 - #5 ;
+INFO  22:22:18,680 - #3 {
+INFO  22:22:18,680 - #16 niz
+INFO  22:22:18,681 - #13 =
+INFO  22:22:18,681 - #36 new
+INFO  22:22:18,686 - #16 int
+INFO  22:22:18,687 - #50 [
+INFO  22:22:18,687 - #15 5
+INFO  22:22:18,687 - #51 ]
+INFO  22:22:18,688 - #5 ;
+INFO  22:22:18,688 - #16 niz
+INFO  22:22:18,688 - #50 [
+INFO  22:22:18,688 - #15 2
+INFO  22:22:18,688 - #51 ]
+INFO  22:22:18,688 - #13 =
+INFO  22:22:18,689 - #15 3
+INFO  22:22:18,689 - #5 ;
+INFO  22:22:18,689 - #16 niz
+INFO  22:22:18,689 - #50 [
+INFO  22:22:18,689 - #15 2
+INFO  22:22:18,689 - #51 ]
+INFO  22:22:18,689 - #46 ++
+INFO  22:22:18,689 - #5 ;
+INFO  22:22:18,689 - #9 print
+INFO  22:22:18,689 - #6 (
+INFO  22:22:18,689 - #16 niz
+INFO  22:22:18,689 - #50 [
+INFO  22:22:18,689 - #15 2
+INFO  22:22:18,689 - #51 ]
+INFO  22:22:18,689 - #7 )
+INFO  22:22:18,689 - #5 ;
+INFO  22:22:18,689 - #4 }
+INFO  22:22:18,690 - #4 }
+INFO  22:22:18,697 - Trenutan tip konstante je:  int na liniji 5
+INFO  22:22:18,697 - Obradjuje se funkcija main na liniji 12
+INFO  22:22:18,698 - Deklarisana promenljiva niz na liniji 13
+ERROR 22:22:18,698 - Semanticka greska na liniji 17 ++ operator zahteva tip Int!
+ERROR 22:22:18,700 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,68 @@
+INFO  00:49:24,110 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:49:24,139 - #2 program
+INFO  00:49:24,139 - #16 Cofi
+INFO  00:49:24,139 - #16 int
+INFO  00:49:24,139 - #16 y
+INFO  00:49:24,139 - #5 ;
+INFO  00:49:24,140 - #16 char
+INFO  00:49:24,140 - #16 zz
+INFO  00:49:24,140 - #5 ;
+INFO  00:49:24,140 - #16 bool
+INFO  00:49:24,140 - #16 zy
+INFO  00:49:24,140 - #5 ;
+INFO  00:49:24,140 - #3 {
+INFO  00:49:24,141 - #14 void
+INFO  00:49:24,141 - #16 main2
+INFO  00:49:24,141 - #6 (
+INFO  00:49:24,142 - #7 )
+INFO  00:49:24,142 - #16 int
+INFO  00:49:24,142 - #16 x
+INFO  00:49:24,142 - #5 ;
+INFO  00:49:24,142 - #3 {
+INFO  00:49:24,143 - #16 x
+INFO  00:49:24,143 - #46 ++
+INFO  00:49:24,143 - #5 ;
+INFO  00:49:24,143 - #4 }
+INFO  00:49:24,144 - #16 int
+INFO  00:49:24,144 - #16 main
+INFO  00:49:24,144 - #6 (
+INFO  00:49:24,144 - #7 )
+INFO  00:49:24,144 - #16 int
+INFO  00:49:24,144 - #16 x
+INFO  00:49:24,144 - #5 ;
+INFO  00:49:24,145 - #3 {
+INFO  00:49:24,145 - #16 skip
+INFO  00:49:24,145 - #21 :
+INFO  00:49:24,145 - #16 x
+INFO  00:49:24,145 - #46 ++
+INFO  00:49:24,145 - #5 ;
+INFO  00:49:24,145 - #16 zz
+INFO  00:49:24,145 - #46 ++
+INFO  00:49:24,145 - #5 ;
+INFO  00:49:24,145 - #34 do
+INFO  00:49:24,145 - #3 {
+INFO  00:49:24,146 - #16 x
+INFO  00:49:24,146 - #46 ++
+INFO  00:49:24,146 - #5 ;
+INFO  00:49:24,146 - #4 }
+INFO  00:49:24,146 - #35 while
+INFO  00:49:24,146 - #6 (
+INFO  00:49:24,146 - #16 x
+INFO  00:49:24,146 - #24 >
+INFO  00:49:24,147 - #15 5
+INFO  00:49:24,148 - #7 )
+INFO  00:49:24,150 - #5 ;
+INFO  00:49:24,150 - #10 return
+INFO  00:49:24,150 - #15 1
+INFO  00:49:24,150 - #5 ;
+INFO  00:49:24,150 - #4 }
+INFO  00:49:24,150 - #4 }
+INFO  00:49:24,156 - Deklarisana promenljiva y na liniji 3
+INFO  00:49:24,156 - Deklarisana promenljiva zz na liniji 4
+INFO  00:49:24,156 - Deklarisana promenljiva zy na liniji 5
+INFO  00:49:24,156 - Obradjuje se funkcija main2 na liniji 9
+INFO  00:49:24,156 - Deklarisana promenljiva x na liniji 9
+INFO  00:49:24,156 - Obradjuje se funkcija main na liniji 15
+INFO  00:49:24,156 - Deklarisana promenljiva x na liniji 15
+ERROR 00:49:24,157 - Semanticka greska na liniji 20 ++ operator zahteva tip Int!
+ERROR 00:49:24,157 - Parsiranje NIJE uspesno zavrseno!

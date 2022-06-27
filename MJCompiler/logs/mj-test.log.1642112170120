@@ -1,0 +1,51 @@
+INFO  23:15:57,344 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:15:57,375 - #2 program
+INFO  23:15:57,375 - #16 PR
+INFO  23:15:57,375 - #16 int
+INFO  23:15:57,375 - #16 x
+INFO  23:15:57,376 - #8 ,
+INFO  23:15:57,376 - #16 z
+INFO  23:15:57,376 - #5 ;
+INFO  23:15:57,376 - #48 const
+INFO  23:15:57,377 - #16 bool
+INFO  23:15:57,377 - #16 xx
+INFO  23:15:57,377 - #13 =
+INFO  23:15:57,377 - #15 1
+INFO  23:15:57,377 - #5 ;
+INFO  23:15:57,377 - #3 {
+INFO  23:15:57,378 - #16 int
+INFO  23:15:57,378 - #16 fun
+INFO  23:15:57,378 - #6 (
+INFO  23:15:57,379 - #16 int
+INFO  23:15:57,379 - #16 x
+INFO  23:15:57,379 - #8 ,
+INFO  23:15:57,379 - #16 int
+INFO  23:15:57,379 - #16 y
+INFO  23:15:57,382 - #7 )
+INFO  23:15:57,382 - #3 {
+INFO  23:15:57,383 - #10 return
+INFO  23:15:57,383 - #15 0
+INFO  23:15:57,383 - #5 ;
+INFO  23:15:57,384 - #4 }
+INFO  23:15:57,384 - #16 int
+INFO  23:15:57,384 - #16 main
+INFO  23:15:57,384 - #6 (
+INFO  23:15:57,384 - #7 )
+INFO  23:15:57,385 - #16 int
+INFO  23:15:57,385 - #16 y
+INFO  23:15:57,385 - #8 ,
+INFO  23:15:57,385 - #16 zz
+INFO  23:15:57,385 - #50 [
+INFO  23:15:57,385 - #51 ]
+INFO  23:15:57,385 - #5 ;
+INFO  23:15:57,385 - #3 {
+INFO  23:15:57,385 - #4 }
+INFO  23:15:57,385 - #4 }
+INFO  23:15:57,392 - Deklarisana promenljiva z na liniji 3
+INFO  23:15:57,392 - Deklarisana promenljiva x na liniji 3
+ERROR 23:15:57,392 - Nije pronadjen tip bool u tabeli simbola
+INFO  23:15:57,392 - Trenutan tip konstante je:  bool na liniji 5
+ERROR 23:15:57,392 - Greska na liniji 5 : Tip bool ne odgovara konstanti xx
+INFO  23:15:57,392 - Deklarisana promenljiva zz na liniji 15
+INFO  23:15:57,392 - Deklarisana promenljiva y na liniji 15
+ERROR 23:15:57,393 - Parsiranje NIJE uspesno zavrseno!

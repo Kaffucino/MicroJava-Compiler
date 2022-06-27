@@ -1,0 +1,58 @@
+INFO  01:02:50,589 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:02:50,621 - #2 program
+INFO  01:02:50,621 - #16 PR
+INFO  01:02:50,621 - #16 int
+INFO  01:02:50,622 - #16 x
+INFO  01:02:50,622 - #8 ,
+INFO  01:02:50,622 - #16 z
+INFO  01:02:50,622 - #5 ;
+INFO  01:02:50,623 - #3 {
+INFO  01:02:50,623 - #16 int
+INFO  01:02:50,623 - #16 fun
+INFO  01:02:50,623 - #6 (
+INFO  01:02:50,624 - #7 )
+INFO  01:02:50,624 - #3 {
+INFO  01:02:50,624 - #10 return
+INFO  01:02:50,624 - #15 0
+INFO  01:02:50,624 - #5 ;
+INFO  01:02:50,625 - #4 }
+INFO  01:02:50,626 - #16 int
+INFO  01:02:50,626 - #16 main
+INFO  01:02:50,626 - #6 (
+INFO  01:02:50,626 - #7 )
+INFO  01:02:50,626 - #16 int
+INFO  01:02:50,626 - #16 y
+INFO  01:02:50,628 - #8 ,
+INFO  01:02:50,628 - #16 zz
+INFO  01:02:50,628 - #50 [
+INFO  01:02:50,628 - #51 ]
+INFO  01:02:50,628 - #5 ;
+INFO  01:02:50,628 - #3 {
+INFO  01:02:50,628 - #16 zz
+INFO  01:02:50,629 - #13 =
+INFO  01:02:50,629 - #36 new
+INFO  01:02:50,629 - #16 int
+INFO  01:02:50,629 - #50 [
+INFO  01:02:50,629 - #15 3
+INFO  01:02:50,630 - #51 ]
+INFO  01:02:50,630 - #5 ;
+INFO  01:02:50,630 - #16 zz
+INFO  01:02:50,630 - #50 [
+INFO  01:02:50,630 - #15 2
+INFO  01:02:50,630 - #51 ]
+INFO  01:02:50,630 - #13 =
+INFO  01:02:50,630 - #15 2
+INFO  01:02:50,630 - #5 ;
+INFO  01:02:50,630 - #16 y
+INFO  01:02:50,630 - #13 =
+INFO  01:02:50,630 - #17 'a'
+INFO  01:02:50,630 - #5 ;
+INFO  01:02:50,631 - #4 }
+INFO  01:02:50,631 - #4 }
+INFO  01:02:50,636 - Deklarisana promenljiva z na liniji 3
+INFO  01:02:50,636 - Deklarisana promenljiva x na liniji 3
+INFO  01:02:50,636 - Obradjuje se funkcija fun na liniji 9
+INFO  01:02:50,636 - Obradjuje se funkcija main na liniji 14
+INFO  01:02:50,636 - Deklarisana promenljiva zz na liniji 14
+INFO  01:02:50,636 - Deklarisana promenljiva y na liniji 14
+INFO  01:02:50,644 - Parsiranje uspesno zavrseno!

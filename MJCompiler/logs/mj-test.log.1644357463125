@@ -1,0 +1,53 @@
+INFO  22:57:29,928 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:57:29,959 - #2 program
+INFO  22:57:29,959 - #16 test
+INFO  22:57:29,959 - #16 int
+INFO  22:57:29,960 - #16 niz
+INFO  22:57:29,960 - #50 [
+INFO  22:57:29,960 - #51 ]
+INFO  22:57:29,960 - #5 ;
+INFO  22:57:29,960 - #3 {
+INFO  22:57:29,961 - #14 void
+INFO  22:57:29,961 - #16 main
+INFO  22:57:29,961 - #6 (
+INFO  22:57:29,962 - #7 )
+INFO  22:57:29,962 - #3 {
+INFO  22:57:29,963 - #16 niz
+INFO  22:57:29,963 - #13 =
+INFO  22:57:29,963 - #36 new
+INFO  22:57:29,963 - #16 int
+INFO  22:57:29,963 - #50 [
+INFO  22:57:29,964 - #15 3
+INFO  22:57:29,964 - #51 ]
+INFO  22:57:29,965 - #5 ;
+INFO  22:57:29,965 - #16 niz
+INFO  22:57:29,965 - #50 [
+INFO  22:57:29,965 - #15 2
+INFO  22:57:29,966 - #51 ]
+INFO  22:57:29,966 - #13 =
+INFO  22:57:29,966 - #15 5
+INFO  22:57:29,966 - #5 ;
+INFO  22:57:29,966 - #16 int
+INFO  22:57:29,966 - #16 a
+ERROR 22:57:29,966 - 
+Sintaksna greska na liniji 10
+INFO  22:57:29,966 - #13 =
+INFO  22:57:29,966 - #16 niz
+INFO  22:57:29,966 - #50 [
+INFO  22:57:29,967 - #15 2
+INFO  22:57:29,967 - #51 ]
+INFO  22:57:29,967 - #5 ;
+INFO  22:57:29,967 - #9 print
+INFO  22:57:29,967 - #6 (
+INFO  22:57:29,967 - #16 a
+ERROR 22:57:29,967 - Izvrsen oporavak do ; u liniji 10
+INFO  22:57:29,967 - #7 )
+INFO  22:57:29,967 - #5 ;
+INFO  22:57:29,967 - #4 }
+INFO  22:57:29,968 - #4 }
+INFO  22:57:29,975 - Deklarisana promenljiva niz na liniji 2
+INFO  22:57:29,975 - Obradjuje se funkcija main na liniji 5
+ERROR 22:57:29,975 - Greska na liniji 11 : ime a nije deklarisano! 
+ERROR 22:57:29,976 - Semanticka greska na liniji 11  a ne postoji!
+ERROR 22:57:29,976 - Semanticka greska na liniji 11  a mora biti int, char ili bool!
+ERROR 22:57:29,977 - Parsiranje NIJE uspesno zavrseno!

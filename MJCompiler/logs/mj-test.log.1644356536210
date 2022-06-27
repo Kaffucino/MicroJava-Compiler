@@ -1,0 +1,72 @@
+INFO  22:40:27,062 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:40:27,092 - #2 program
+INFO  22:40:27,092 - #16 Prog
+INFO  22:40:27,092 - #49 record
+INFO  22:40:27,092 - #16 Test
+INFO  22:40:27,092 - #3 {
+INFO  22:40:27,092 - #16 int
+INFO  22:40:27,092 - #16 c
+INFO  22:40:27,093 - #5 ;
+INFO  22:40:27,093 - #16 int
+INFO  22:40:27,093 - #16 b
+INFO  22:40:27,093 - #5 ;
+INFO  22:40:27,093 - #4 }
+INFO  22:40:27,094 - #16 int
+INFO  22:40:27,094 - #16 a
+INFO  22:40:27,094 - #5 ;
+INFO  22:40:27,094 - #16 char
+INFO  22:40:27,094 - #16 cc
+INFO  22:40:27,094 - #5 ;
+INFO  22:40:27,094 - #16 Test
+INFO  22:40:27,094 - #16 t
+INFO  22:40:27,094 - #5 ;
+INFO  22:40:27,095 - #3 {
+INFO  22:40:27,100 - #14 void
+INFO  22:40:27,100 - #16 main
+INFO  22:40:27,100 - #6 (
+INFO  22:40:27,101 - #7 )
+INFO  22:40:27,101 - #3 {
+INFO  22:40:27,101 - #16 t
+INFO  22:40:27,101 - #13 =
+INFO  22:40:27,102 - #36 new
+INFO  22:40:27,102 - #16 Test
+INFO  22:40:27,102 - #5 ;
+INFO  22:40:27,103 - #16 t
+INFO  22:40:27,104 - #43 .
+INFO  22:40:27,104 - #16 c
+INFO  22:40:27,104 - #13 =
+INFO  22:40:27,104 - #15 2
+INFO  22:40:27,104 - #5 ;
+INFO  22:40:27,104 - #16 t
+INFO  22:40:27,104 - #43 .
+INFO  22:40:27,104 - #16 b
+INFO  22:40:27,104 - #13 =
+INFO  22:40:27,104 - #16 t
+INFO  22:40:27,104 - #43 .
+INFO  22:40:27,104 - #16 c
+INFO  22:40:27,104 - #11 +
+INFO  22:40:27,104 - #15 3
+INFO  22:40:27,105 - #5 ;
+INFO  22:40:27,105 - #16 a
+INFO  22:40:27,105 - #13 =
+INFO  22:40:27,105 - #16 t
+INFO  22:40:27,105 - #43 .
+INFO  22:40:27,105 - #16 b
+INFO  22:40:27,105 - #5 ;
+INFO  22:40:27,105 - #9 print
+INFO  22:40:27,106 - #6 (
+INFO  22:40:27,106 - #16 t
+INFO  22:40:27,106 - #43 .
+INFO  22:40:27,106 - #16 b
+INFO  22:40:27,106 - #7 )
+INFO  22:40:27,106 - #5 ;
+INFO  22:40:27,106 - #4 }
+INFO  22:40:27,106 - #4 }
+INFO  22:40:27,113 - Deklarisana je rekord :  Test na liniji 3
+INFO  22:40:27,113 - Deklarisana promenljiva c na liniji 5
+INFO  22:40:27,113 - Deklarisana promenljiva b na liniji 6
+INFO  22:40:27,114 - Deklarisana promenljiva a na liniji 9
+INFO  22:40:27,116 - Deklarisana promenljiva cc na liniji 10
+INFO  22:40:27,116 - Deklarisana promenljiva t na liniji 11
+INFO  22:40:27,116 - Obradjuje se funkcija main na liniji 15
+INFO  22:40:27,126 - Parsiranje uspesno zavrseno!

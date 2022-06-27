@@ -1,0 +1,52 @@
+INFO  19:50:35,747 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:50:35,779 - #2 program
+INFO  19:50:35,779 - #16 prg
+INFO  19:50:35,779 - #3 {
+INFO  19:50:35,780 - #14 void
+INFO  19:50:35,780 - #16 main
+INFO  19:50:35,780 - #6 (
+INFO  19:50:35,781 - #7 )
+INFO  19:50:35,781 - #16 int
+INFO  19:50:35,781 - #16 niz
+INFO  19:50:35,781 - #50 [
+INFO  19:50:35,781 - #51 ]
+INFO  19:50:35,781 - #3 {
+ERROR 19:50:35,781 - 
+Sintaksna greska na liniji 6
+INFO  19:50:35,781 - #16 niz
+INFO  19:50:35,782 - #13 =
+INFO  19:50:35,782 - #36 new
+INFO  19:50:35,782 - #16 int
+INFO  19:50:35,782 - #50 [
+INFO  19:50:35,782 - #15 5
+INFO  19:50:35,782 - #51 ]
+INFO  19:50:35,782 - #5 ;
+INFO  19:50:35,782 - #16 niz
+INFO  19:50:35,784 - #50 [
+INFO  19:50:35,784 - #15 2
+INFO  19:50:35,784 - #51 ]
+INFO  19:50:35,784 - #13 =
+INFO  19:50:35,784 - #15 3
+INFO  19:50:35,784 - #5 ;
+INFO  19:50:35,784 - #16 niz
+INFO  19:50:35,784 - #50 [
+ERROR 19:50:35,784 - Izvrsen oporavak do ; u liniji 10
+ERROR 19:50:35,785 - 
+Sintaksna greska na liniji 11
+INFO  19:50:35,785 - #15 2
+INFO  19:50:35,785 - #51 ]
+INFO  19:50:35,785 - #46 ++
+INFO  19:50:35,785 - #5 ;
+INFO  19:50:35,785 - #9 print
+INFO  19:50:35,785 - #6 (
+INFO  19:50:35,785 - #16 niz
+INFO  19:50:35,785 - #50 [
+INFO  19:50:35,785 - #15 2
+INFO  19:50:35,785 - #51 ]
+INFO  19:50:35,785 - #7 )
+INFO  19:50:35,785 - #5 ;
+INFO  19:50:35,786 - #4 }
+INFO  19:50:35,786 - #4 }
+ERROR 19:50:35,786 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 17
+ERROR 19:50:35,792 - Nije pronadjen tip niz u tabeli simbola
+ERROR 19:50:35,793 - Parsiranje NIJE uspesno zavrseno!

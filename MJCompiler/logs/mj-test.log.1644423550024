@@ -1,0 +1,78 @@
+INFO  17:18:12,828 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:18:12,859 - #2 program
+INFO  17:18:12,859 - #16 test302
+INFO  17:18:12,859 - #48 const
+INFO  17:18:12,859 - #16 int
+INFO  17:18:12,859 - #16 jedan
+INFO  17:18:12,859 - #13 =
+INFO  17:18:12,860 - #15 1
+INFO  17:18:12,860 - #5 ;
+INFO  17:18:12,860 - #16 int
+INFO  17:18:12,860 - #16 i
+INFO  17:18:12,861 - #5 ;
+INFO  17:18:12,861 - #16 bool
+INFO  17:18:12,861 - #16 ibool
+INFO  17:18:12,861 - #5 ;
+INFO  17:18:12,861 - #16 int
+INFO  17:18:12,861 - #16 niz2
+INFO  17:18:12,861 - #5 ;
+INFO  17:18:12,861 - #49 record
+INFO  17:18:12,861 - #16 Test
+INFO  17:18:12,861 - #3 {
+INFO  17:18:12,862 - #16 int
+INFO  17:18:12,862 - #16 niz
+INFO  17:18:12,862 - #50 [
+INFO  17:18:12,862 - #51 ]
+INFO  17:18:12,862 - #5 ;
+INFO  17:18:12,862 - #16 int
+INFO  17:18:12,862 - #16 a
+INFO  17:18:12,862 - #5 ;
+INFO  17:18:12,862 - #4 }
+INFO  17:18:12,863 - #16 int
+INFO  17:18:12,864 - #16 nizz
+INFO  17:18:12,864 - #50 [
+INFO  17:18:12,864 - #51 ]
+INFO  17:18:12,864 - #5 ;
+INFO  17:18:12,864 - #16 Test
+INFO  17:18:12,864 - #16 t1
+INFO  17:18:12,864 - #8 ,
+INFO  17:18:12,864 - #16 t2
+INFO  17:18:12,864 - #5 ;
+INFO  17:18:12,864 - #3 {
+INFO  17:18:12,864 - #14 void
+INFO  17:18:12,864 - #16 main
+INFO  17:18:12,865 - #6 (
+INFO  17:18:12,865 - #7 )
+INFO  17:18:12,866 - #3 {
+INFO  17:18:12,866 - #16 t1
+INFO  17:18:12,866 - #13 =
+INFO  17:18:12,867 - #36 new
+INFO  17:18:12,867 - #16 Test
+INFO  17:18:12,867 - #5 ;
+INFO  17:18:12,869 - #16 t1
+INFO  17:18:12,869 - #43 .
+INFO  17:18:12,869 - #16 a
+INFO  17:18:12,869 - #13 =
+INFO  17:18:12,869 - #15 5
+INFO  17:18:12,869 - #5 ;
+INFO  17:18:12,869 - #9 print
+INFO  17:18:12,869 - #6 (
+INFO  17:18:12,869 - #16 t1
+INFO  17:18:12,869 - #43 .
+INFO  17:18:12,869 - #16 a
+INFO  17:18:12,869 - #7 )
+INFO  17:18:12,869 - #5 ;
+INFO  17:18:12,870 - #4 }
+INFO  17:18:12,870 - #4 }
+INFO  17:18:12,877 - Trenutan tip konstante je:  int na liniji 5
+INFO  17:18:12,878 - Deklarisana promenljiva i na liniji 7
+INFO  17:18:12,881 - Deklarisana promenljiva ibool na liniji 8
+INFO  17:18:12,881 - Deklarisana promenljiva niz2 na liniji 10
+INFO  17:18:12,881 - Deklarisana je rekord :  Test na liniji 12
+INFO  17:18:12,881 - Deklarisana promenljiva niz na liniji 13
+INFO  17:18:12,881 - Deklarisana promenljiva a na liniji 14
+INFO  17:18:12,881 - Deklarisana promenljiva nizz na liniji 18
+INFO  17:18:12,881 - Deklarisana promenljiva t2 na liniji 19
+INFO  17:18:12,882 - Deklarisana promenljiva t1 na liniji 19
+INFO  17:18:12,882 - Obradjuje se funkcija main na liniji 25
+INFO  17:18:12,892 - Parsiranje uspesno zavrseno!

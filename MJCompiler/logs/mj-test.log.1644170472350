@@ -1,0 +1,39 @@
+INFO  19:00:50,897 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:00:50,926 - #2 program
+INFO  19:00:50,926 - #16 Cofi
+INFO  19:00:50,926 - #16 int
+INFO  19:00:50,927 - #16 x
+INFO  19:00:50,927 - #13 =
+ERROR 19:00:50,927 - 
+Sintaksna greska na liniji 2
+INFO  19:00:50,927 - #15 66
+INFO  19:00:50,927 - #5 ;
+INFO  19:00:50,927 - #3 {
+INFO  19:00:50,927 - #14 void
+ERROR 19:00:50,928 - Izvrsen oporavak do ; u liniji 2
+INFO  19:00:50,928 - #16 main
+INFO  19:00:50,928 - #6 (
+INFO  19:00:50,929 - #7 )
+INFO  19:00:50,929 - #3 {
+INFO  19:00:50,930 - #9 print
+INFO  19:00:50,930 - #6 (
+INFO  19:00:50,930 - #15 1
+INFO  19:00:50,930 - #7 )
+INFO  19:00:50,931 - #5 ;
+INFO  19:00:50,931 - #9 print
+INFO  19:00:50,933 - #6 (
+INFO  19:00:50,933 - #15 2
+INFO  19:00:50,933 - #7 )
+INFO  19:00:50,933 - #5 ;
+INFO  19:00:50,933 - #9 print
+INFO  19:00:50,933 - #6 (
+INFO  19:00:50,933 - #16 x
+INFO  19:00:50,933 - #7 )
+INFO  19:00:50,934 - #5 ;
+INFO  19:00:50,934 - #4 }
+INFO  19:00:50,934 - #4 }
+INFO  19:00:50,941 - Obradjuje se funkcija main na liniji 5
+ERROR 19:00:50,941 - Greska na liniji 9 : ime x nije deklarisano! 
+ERROR 19:00:50,941 - Semanticka greska na liniji 9  x ne postoji!
+ERROR 19:00:50,941 - Semanticka greska na liniji 9  x mora biti int, char ili bool!
+ERROR 19:00:50,942 - Parsiranje NIJE uspesno zavrseno!

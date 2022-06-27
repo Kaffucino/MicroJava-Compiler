@@ -1,0 +1,33 @@
+INFO  00:33:24,414 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:33:24,444 - #2 program
+INFO  00:33:24,444 - #16 PR
+INFO  00:33:24,444 - #16 int
+INFO  00:33:24,444 - #16 x
+INFO  00:33:24,445 - #8 ,
+INFO  00:33:24,445 - #16 z
+INFO  00:33:24,445 - #5 ;
+INFO  00:33:24,445 - #3 {
+INFO  00:33:24,446 - #16 int
+INFO  00:33:24,446 - #16 main
+INFO  00:33:24,446 - #6 (
+INFO  00:33:24,446 - #7 )
+INFO  00:33:24,446 - #16 int
+INFO  00:33:24,446 - #16 y
+INFO  00:33:24,446 - #5 ;
+INFO  00:33:24,447 - #16 int
+INFO  00:33:24,447 - #16 zz
+INFO  00:33:24,447 - #50 [
+INFO  00:33:24,447 - #15 3
+ERROR 00:33:24,447 - 
+Sintaksna greska na liniji 7
+INFO  00:33:24,447 - #51 ]
+INFO  00:33:24,447 - #5 ;
+INFO  00:33:24,449 - #3 {
+INFO  00:33:24,449 - #16 y
+INFO  00:33:24,449 - #13 =
+INFO  00:33:24,449 - #17 'a'
+INFO  00:33:24,449 - #5 ;
+INFO  00:33:24,449 - #4 }
+INFO  00:33:24,449 - #4 }
+ERROR 00:33:24,449 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12
+ERROR 00:33:24,454 - Parsiranje NIJE uspesno zavrseno!

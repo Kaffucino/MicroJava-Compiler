@@ -1,0 +1,673 @@
+INFO  19:01:11,834 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:01:11,864 - #2 program
+INFO  19:01:11,864 - #16 test302
+INFO  19:01:11,865 - #48 const
+INFO  19:01:11,865 - #16 int
+INFO  19:01:11,865 - #16 jedan
+INFO  19:01:11,865 - #13 =
+INFO  19:01:11,865 - #15 1
+INFO  19:01:11,866 - #5 ;
+INFO  19:01:11,866 - #16 int
+INFO  19:01:11,866 - #16 i
+INFO  19:01:11,866 - #5 ;
+INFO  19:01:11,867 - #16 bool
+INFO  19:01:11,867 - #16 ibool
+INFO  19:01:11,867 - #5 ;
+INFO  19:01:11,867 - #16 int
+INFO  19:01:11,867 - #16 niz2
+INFO  19:01:11,867 - #5 ;
+INFO  19:01:11,867 - #49 record
+INFO  19:01:11,867 - #16 Test
+INFO  19:01:11,867 - #3 {
+INFO  19:01:11,868 - #16 int
+INFO  19:01:11,868 - #16 niz
+INFO  19:01:11,870 - #50 [
+INFO  19:01:11,870 - #51 ]
+INFO  19:01:11,870 - #5 ;
+INFO  19:01:11,870 - #16 int
+INFO  19:01:11,870 - #16 a
+INFO  19:01:11,870 - #5 ;
+INFO  19:01:11,870 - #4 }
+INFO  19:01:11,871 - #16 Test
+INFO  19:01:11,871 - #16 t1
+INFO  19:01:11,871 - #8 ,
+INFO  19:01:11,871 - #16 t2
+INFO  19:01:11,871 - #5 ;
+INFO  19:01:11,871 - #3 {
+INFO  19:01:11,872 - #16 int
+INFO  19:01:11,872 - #16 sum
+INFO  19:01:11,872 - #6 (
+INFO  19:01:11,872 - #16 int
+INFO  19:01:11,872 - #16 z
+INFO  19:01:11,872 - #8 ,
+INFO  19:01:11,872 - #16 int
+INFO  19:01:11,872 - #16 d
+INFO  19:01:11,873 - #7 )
+INFO  19:01:11,873 - #3 {
+INFO  19:01:11,874 - #10 return
+INFO  19:01:11,874 - #16 z
+INFO  19:01:11,874 - #11 +
+INFO  19:01:11,875 - #16 d
+INFO  19:01:11,875 - #5 ;
+INFO  19:01:11,876 - #4 }
+INFO  19:01:11,877 - #16 int
+INFO  19:01:11,877 - #16 inkrement
+INFO  19:01:11,877 - #6 (
+INFO  19:01:11,877 - #16 int
+INFO  19:01:11,877 - #16 a
+INFO  19:01:11,877 - #8 ,
+INFO  19:01:11,877 - #16 int
+INFO  19:01:11,877 - #16 inc
+INFO  19:01:11,877 - #7 )
+INFO  19:01:11,877 - #16 int
+INFO  19:01:11,877 - #16 pom
+INFO  19:01:11,877 - #5 ;
+INFO  19:01:11,877 - #3 {
+INFO  19:01:11,878 - #19 if
+INFO  19:01:11,878 - #6 (
+INFO  19:01:11,878 - #16 inc
+INFO  19:01:11,878 - #22 ==
+INFO  19:01:11,880 - #16 jedan
+INFO  19:01:11,881 - #7 )
+INFO  19:01:11,882 - #16 pom
+INFO  19:01:11,883 - #13 =
+INFO  19:01:11,883 - #15 1
+INFO  19:01:11,883 - #5 ;
+INFO  19:01:11,883 - #20 else
+INFO  19:01:11,883 - #19 if
+INFO  19:01:11,883 - #6 (
+INFO  19:01:11,883 - #16 inc
+INFO  19:01:11,883 - #22 ==
+INFO  19:01:11,883 - #15 2
+INFO  19:01:11,883 - #7 )
+INFO  19:01:11,884 - #16 pom
+INFO  19:01:11,884 - #13 =
+INFO  19:01:11,884 - #16 a
+INFO  19:01:11,884 - #5 ;
+INFO  19:01:11,884 - #10 return
+INFO  19:01:11,884 - #16 sum
+INFO  19:01:11,884 - #6 (
+INFO  19:01:11,884 - #16 a
+INFO  19:01:11,884 - #8 ,
+INFO  19:01:11,884 - #16 pom
+INFO  19:01:11,884 - #7 )
+INFO  19:01:11,885 - #5 ;
+INFO  19:01:11,885 - #4 }
+INFO  19:01:11,885 - #16 bool
+INFO  19:01:11,885 - #16 verify
+INFO  19:01:11,885 - #6 (
+INFO  19:01:11,885 - #7 )
+INFO  19:01:11,886 - #3 {
+INFO  19:01:11,886 - #9 print
+INFO  19:01:11,886 - #6 (
+INFO  19:01:11,886 - #17 'v'
+INFO  19:01:11,886 - #7 )
+INFO  19:01:11,886 - #5 ;
+INFO  19:01:11,886 - #10 return
+INFO  19:01:11,886 - #18 false
+INFO  19:01:11,886 - #5 ;
+INFO  19:01:11,886 - #4 }
+INFO  19:01:11,886 - #14 void
+INFO  19:01:11,887 - #16 main
+INFO  19:01:11,887 - #6 (
+INFO  19:01:11,887 - #7 )
+INFO  19:01:11,887 - #3 {
+INFO  19:01:11,887 - #19 if
+INFO  19:01:11,887 - #6 (
+INFO  19:01:11,887 - #15 1
+INFO  19:01:11,887 - #23 !=
+INFO  19:01:11,887 - #15 1
+INFO  19:01:11,888 - #7 )
+INFO  19:01:11,888 - #9 print
+INFO  19:01:11,888 - #6 (
+INFO  19:01:11,888 - #12 -
+INFO  19:01:11,888 - #15 6
+INFO  19:01:11,888 - #7 )
+INFO  19:01:11,888 - #5 ;
+INFO  19:01:11,888 - #20 else
+INFO  19:01:11,888 - #9 print
+INFO  19:01:11,888 - #6 (
+INFO  19:01:11,888 - #15 0
+INFO  19:01:11,889 - #7 )
+INFO  19:01:11,889 - #5 ;
+INFO  19:01:11,889 - #16 ibool
+INFO  19:01:11,889 - #13 =
+INFO  19:01:11,889 - #18 false
+INFO  19:01:11,889 - #5 ;
+INFO  19:01:11,889 - #16 i
+INFO  19:01:11,889 - #13 =
+INFO  19:01:11,889 - #15 0
+INFO  19:01:11,889 - #5 ;
+INFO  19:01:11,889 - #34 do
+INFO  19:01:11,889 - #3 {
+INFO  19:01:11,890 - #19 if
+INFO  19:01:11,890 - #6 (
+INFO  19:01:11,890 - #16 i
+INFO  19:01:11,890 - #22 ==
+INFO  19:01:11,890 - #15 2
+INFO  19:01:11,890 - #7 )
+INFO  19:01:11,890 - #16 ibool
+INFO  19:01:11,890 - #13 =
+INFO  19:01:11,890 - #18 true
+INFO  19:01:11,890 - #5 ;
+INFO  19:01:11,890 - #16 i
+INFO  19:01:11,890 - #46 ++
+INFO  19:01:11,890 - #5 ;
+INFO  19:01:11,890 - #4 }
+INFO  19:01:11,890 - #35 while
+INFO  19:01:11,891 - #6 (
+INFO  19:01:11,891 - #16 i
+INFO  19:01:11,891 - #26 <
+INFO  19:01:11,891 - #15 5
+INFO  19:01:11,891 - #7 )
+INFO  19:01:11,891 - #5 ;
+INFO  19:01:11,891 - #19 if
+INFO  19:01:11,891 - #6 (
+INFO  19:01:11,891 - #16 ibool
+INFO  19:01:11,891 - #7 )
+INFO  19:01:11,891 - #19 if
+INFO  19:01:11,891 - #6 (
+INFO  19:01:11,891 - #16 i
+INFO  19:01:11,891 - #22 ==
+INFO  19:01:11,891 - #15 5
+INFO  19:01:11,892 - #7 )
+INFO  19:01:11,892 - #9 print
+INFO  19:01:11,892 - #6 (
+INFO  19:01:11,892 - #15 1
+INFO  19:01:11,892 - #7 )
+INFO  19:01:11,892 - #5 ;
+INFO  19:01:11,892 - #20 else
+INFO  19:01:11,892 - #9 print
+INFO  19:01:11,892 - #6 (
+INFO  19:01:11,892 - #12 -
+INFO  19:01:11,892 - #15 1
+INFO  19:01:11,892 - #7 )
+INFO  19:01:11,892 - #5 ;
+INFO  19:01:11,892 - #16 t1
+INFO  19:01:11,892 - #13 =
+INFO  19:01:11,892 - #36 new
+INFO  19:01:11,892 - #16 Test
+INFO  19:01:11,892 - #5 ;
+INFO  19:01:11,892 - #16 t1
+INFO  19:01:11,892 - #43 .
+INFO  19:01:11,893 - #16 a
+INFO  19:01:11,893 - #13 =
+INFO  19:01:11,893 - #15 2
+INFO  19:01:11,893 - #5 ;
+INFO  19:01:11,893 - #16 t1
+INFO  19:01:11,893 - #43 .
+INFO  19:01:11,893 - #16 niz
+INFO  19:01:11,893 - #13 =
+INFO  19:01:11,893 - #36 new
+INFO  19:01:11,893 - #16 int
+INFO  19:01:11,893 - #50 [
+INFO  19:01:11,893 - #15 3
+INFO  19:01:11,893 - #51 ]
+INFO  19:01:11,893 - #5 ;
+INFO  19:01:11,893 - #16 t1
+INFO  19:01:11,893 - #43 .
+INFO  19:01:11,894 - #16 niz
+INFO  19:01:11,894 - #50 [
+INFO  19:01:11,894 - #15 0
+INFO  19:01:11,894 - #51 ]
+INFO  19:01:11,894 - #13 =
+INFO  19:01:11,894 - #15 1
+INFO  19:01:11,894 - #28 *
+INFO  19:01:11,894 - #16 t1
+INFO  19:01:11,894 - #43 .
+INFO  19:01:11,894 - #16 a
+INFO  19:01:11,894 - #5 ;
+INFO  19:01:11,895 - #16 t1
+INFO  19:01:11,895 - #43 .
+INFO  19:01:11,895 - #16 niz
+INFO  19:01:11,895 - #50 [
+INFO  19:01:11,895 - #15 1
+INFO  19:01:11,895 - #51 ]
+INFO  19:01:11,895 - #13 =
+INFO  19:01:11,895 - #15 2
+INFO  19:01:11,895 - #28 *
+INFO  19:01:11,895 - #16 t1
+INFO  19:01:11,895 - #43 .
+INFO  19:01:11,895 - #16 a
+INFO  19:01:11,895 - #5 ;
+INFO  19:01:11,895 - #16 t1
+INFO  19:01:11,895 - #43 .
+INFO  19:01:11,895 - #16 niz
+INFO  19:01:11,895 - #50 [
+INFO  19:01:11,895 - #15 2
+INFO  19:01:11,895 - #51 ]
+INFO  19:01:11,895 - #13 =
+INFO  19:01:11,895 - #16 sum
+INFO  19:01:11,895 - #6 (
+INFO  19:01:11,895 - #16 t1
+INFO  19:01:11,895 - #43 .
+INFO  19:01:11,895 - #16 niz
+INFO  19:01:11,895 - #50 [
+INFO  19:01:11,895 - #15 1
+INFO  19:01:11,895 - #51 ]
+INFO  19:01:11,895 - #8 ,
+INFO  19:01:11,895 - #16 t1
+INFO  19:01:11,895 - #43 .
+INFO  19:01:11,896 - #16 niz
+INFO  19:01:11,896 - #50 [
+INFO  19:01:11,896 - #15 0
+INFO  19:01:11,896 - #51 ]
+INFO  19:01:11,896 - #7 )
+INFO  19:01:11,896 - #28 *
+INFO  19:01:11,896 - #16 t1
+INFO  19:01:11,896 - #43 .
+INFO  19:01:11,896 - #16 a
+INFO  19:01:11,896 - #11 +
+INFO  19:01:11,896 - #15 1
+INFO  19:01:11,896 - #5 ;
+INFO  19:01:11,896 - #19 if
+INFO  19:01:11,896 - #6 (
+INFO  19:01:11,896 - #16 verify
+INFO  19:01:11,896 - #6 (
+INFO  19:01:11,896 - #7 )
+ERROR 19:01:11,897 - 
+Sintaksna greska na liniji 61
+INFO  19:01:11,897 - #45 ||
+INFO  19:01:11,897 - #16 t1
+INFO  19:01:11,897 - #43 .
+INFO  19:01:11,898 - #16 niz
+INFO  19:01:11,898 - #50 [
+INFO  19:01:11,898 - #15 2
+INFO  19:01:11,898 - #51 ]
+INFO  19:01:11,898 - #22 ==
+INFO  19:01:11,898 - #15 4
+INFO  19:01:11,898 - #7 )
+INFO  19:01:11,898 - #9 print
+INFO  19:01:11,898 - #6 (
+INFO  19:01:11,898 - #16 ord
+ERROR 19:01:11,898 - Izvrsen oporavak do ) u liniji 61
+INFO  19:01:11,898 - #6 (
+INFO  19:01:11,898 - #17 'A'
+INFO  19:01:11,899 - #7 )
+INFO  19:01:11,899 - #7 )
+INFO  19:01:11,899 - #5 ;
+INFO  19:01:11,899 - #20 else
+INFO  19:01:11,899 - #9 print
+INFO  19:01:11,899 - #6 (
+INFO  19:01:11,899 - #16 ord
+INFO  19:01:11,899 - #6 (
+INFO  19:01:11,899 - #17 'a'
+INFO  19:01:11,899 - #7 )
+INFO  19:01:11,899 - #7 )
+INFO  19:01:11,899 - #5 ;
+INFO  19:01:11,899 - #9 print
+INFO  19:01:11,899 - #6 (
+INFO  19:01:11,899 - #16 eol
+INFO  19:01:11,900 - #7 )
+INFO  19:01:11,900 - #5 ;
+INFO  19:01:11,900 - #16 i
+INFO  19:01:11,900 - #13 =
+INFO  19:01:11,900 - #15 0
+INFO  19:01:11,900 - #5 ;
+INFO  19:01:11,901 - #34 do
+INFO  19:01:11,901 - #3 {
+INFO  19:01:11,901 - #19 if
+INFO  19:01:11,901 - #6 (
+INFO  19:01:11,901 - #16 i
+INFO  19:01:11,901 - #22 ==
+INFO  19:01:11,901 - #15 3
+INFO  19:01:11,901 - #7 )
+INFO  19:01:11,902 - #3 {
+INFO  19:01:11,902 - #16 i
+INFO  19:01:11,902 - #46 ++
+INFO  19:01:11,902 - #5 ;
+INFO  19:01:11,902 - #39 continue
+INFO  19:01:11,902 - #5 ;
+INFO  19:01:11,902 - #4 }
+INFO  19:01:11,903 - #19 if
+INFO  19:01:11,903 - #6 (
+INFO  19:01:11,903 - #16 i
+INFO  19:01:11,903 - #22 ==
+INFO  19:01:11,903 - #15 4
+INFO  19:01:11,903 - #7 )
+INFO  19:01:11,903 - #31 break
+INFO  19:01:11,903 - #5 ;
+INFO  19:01:11,903 - #16 i
+INFO  19:01:11,903 - #13 =
+INFO  19:01:11,903 - #16 inkrement
+INFO  19:01:11,903 - #6 (
+INFO  19:01:11,903 - #16 i
+INFO  19:01:11,903 - #8 ,
+INFO  19:01:11,903 - #15 1
+INFO  19:01:11,903 - #7 )
+INFO  19:01:11,903 - #5 ;
+INFO  19:01:11,903 - #4 }
+INFO  19:01:11,904 - #35 while
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #16 i
+INFO  19:01:11,904 - #26 <
+INFO  19:01:11,904 - #15 10
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #5 ;
+INFO  19:01:11,904 - #19 if
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #16 i
+INFO  19:01:11,904 - #22 ==
+INFO  19:01:11,904 - #15 3
+INFO  19:01:11,904 - #44 &&
+INFO  19:01:11,904 - #16 verify
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #7 )
+ERROR 19:01:11,904 - 
+Sintaksna greska na liniji 76
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #9 print
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #12 -
+ERROR 19:01:11,904 - Izvrsen oporavak do ) u liniji 76
+INFO  19:01:11,904 - #15 4
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #5 ;
+INFO  19:01:11,904 - #20 else
+INFO  19:01:11,904 - #9 print
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #15 4
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #5 ;
+INFO  19:01:11,904 - #37 read
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #16 t1
+INFO  19:01:11,904 - #43 .
+INFO  19:01:11,904 - #16 niz
+INFO  19:01:11,904 - #50 [
+INFO  19:01:11,904 - #15 0
+INFO  19:01:11,904 - #51 ]
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #5 ;
+INFO  19:01:11,904 - #37 read
+INFO  19:01:11,904 - #6 (
+INFO  19:01:11,904 - #16 t1
+INFO  19:01:11,904 - #43 .
+INFO  19:01:11,904 - #16 niz
+INFO  19:01:11,904 - #50 [
+INFO  19:01:11,904 - #15 1
+INFO  19:01:11,904 - #51 ]
+INFO  19:01:11,904 - #7 )
+INFO  19:01:11,904 - #5 ;
+INFO  19:01:11,904 - #37 read
+INFO  19:01:11,905 - #6 (
+INFO  19:01:11,905 - #16 t1
+INFO  19:01:11,905 - #43 .
+INFO  19:01:11,905 - #16 niz
+INFO  19:01:11,905 - #50 [
+INFO  19:01:11,905 - #15 2
+INFO  19:01:11,905 - #51 ]
+INFO  19:01:11,905 - #7 )
+INFO  19:01:11,905 - #5 ;
+INFO  19:01:11,905 - #9 print
+INFO  19:01:11,905 - #6 (
+INFO  19:01:11,905 - #16 eol
+INFO  19:01:11,905 - #7 )
+INFO  19:01:11,905 - #5 ;
+INFO  19:01:11,905 - #9 print
+INFO  19:01:11,905 - #6 (
+INFO  19:01:11,905 - #16 sum
+INFO  19:01:11,905 - #6 (
+INFO  19:01:11,905 - #16 sum
+INFO  19:01:11,905 - #6 (
+INFO  19:01:11,905 - #16 t1
+INFO  19:01:11,905 - #43 .
+INFO  19:01:11,905 - #16 niz
+INFO  19:01:11,905 - #50 [
+INFO  19:01:11,905 - #15 0
+INFO  19:01:11,905 - #51 ]
+INFO  19:01:11,905 - #8 ,
+INFO  19:01:11,905 - #16 t1
+INFO  19:01:11,906 - #43 .
+INFO  19:01:11,906 - #16 niz
+INFO  19:01:11,906 - #50 [
+INFO  19:01:11,906 - #15 1
+INFO  19:01:11,906 - #51 ]
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #8 ,
+INFO  19:01:11,906 - #16 t1
+INFO  19:01:11,906 - #43 .
+INFO  19:01:11,906 - #16 niz
+INFO  19:01:11,906 - #50 [
+INFO  19:01:11,906 - #15 2
+INFO  19:01:11,906 - #51 ]
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #9 print
+INFO  19:01:11,906 - #6 (
+INFO  19:01:11,906 - #16 eol
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #9 print
+INFO  19:01:11,906 - #6 (
+INFO  19:01:11,906 - #16 inkrement
+INFO  19:01:11,906 - #6 (
+INFO  19:01:11,906 - #16 t1
+INFO  19:01:11,906 - #43 .
+INFO  19:01:11,906 - #16 niz
+INFO  19:01:11,906 - #50 [
+INFO  19:01:11,906 - #15 2
+INFO  19:01:11,906 - #51 ]
+INFO  19:01:11,906 - #8 ,
+INFO  19:01:11,906 - #15 2
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #7 )
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #16 t2
+INFO  19:01:11,906 - #13 =
+INFO  19:01:11,906 - #36 new
+INFO  19:01:11,906 - #16 Test
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #16 t2
+INFO  19:01:11,906 - #43 .
+INFO  19:01:11,906 - #16 a
+INFO  19:01:11,906 - #13 =
+INFO  19:01:11,906 - #15 3
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #16 t2
+INFO  19:01:11,906 - #43 .
+INFO  19:01:11,906 - #16 niz
+INFO  19:01:11,906 - #13 =
+INFO  19:01:11,906 - #36 new
+INFO  19:01:11,906 - #16 int
+INFO  19:01:11,906 - #50 [
+INFO  19:01:11,906 - #15 3
+INFO  19:01:11,906 - #51 ]
+INFO  19:01:11,906 - #5 ;
+INFO  19:01:11,906 - #16 i
+INFO  19:01:11,906 - #13 =
+INFO  19:01:11,906 - #15 0
+INFO  19:01:11,907 - #5 ;
+INFO  19:01:11,907 - #34 do
+INFO  19:01:11,907 - #3 {
+INFO  19:01:11,907 - #16 t2
+INFO  19:01:11,907 - #43 .
+INFO  19:01:11,907 - #16 niz
+INFO  19:01:11,907 - #50 [
+INFO  19:01:11,907 - #16 i
+INFO  19:01:11,907 - #51 ]
+INFO  19:01:11,907 - #13 =
+INFO  19:01:11,907 - #16 t1
+INFO  19:01:11,907 - #43 .
+INFO  19:01:11,907 - #16 niz
+INFO  19:01:11,907 - #50 [
+INFO  19:01:11,907 - #16 i
+INFO  19:01:11,907 - #51 ]
+INFO  19:01:11,907 - #28 *
+INFO  19:01:11,907 - #15 2
+INFO  19:01:11,907 - #28 *
+INFO  19:01:11,907 - #16 t2
+INFO  19:01:11,907 - #43 .
+INFO  19:01:11,907 - #16 a
+INFO  19:01:11,907 - #5 ;
+INFO  19:01:11,907 - #16 i
+INFO  19:01:11,907 - #46 ++
+INFO  19:01:11,908 - #5 ;
+INFO  19:01:11,908 - #4 }
+INFO  19:01:11,908 - #35 while
+INFO  19:01:11,908 - #6 (
+INFO  19:01:11,908 - #16 i
+INFO  19:01:11,908 - #26 <
+INFO  19:01:11,908 - #15 3
+INFO  19:01:11,908 - #7 )
+INFO  19:01:11,908 - #5 ;
+INFO  19:01:11,911 - #9 print
+INFO  19:01:11,911 - #6 (
+INFO  19:01:11,911 - #16 t2
+INFO  19:01:11,911 - #43 .
+INFO  19:01:11,912 - #16 niz
+INFO  19:01:11,912 - #50 [
+INFO  19:01:11,912 - #15 0
+INFO  19:01:11,912 - #51 ]
+INFO  19:01:11,912 - #7 )
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #9 print
+INFO  19:01:11,912 - #6 (
+INFO  19:01:11,912 - #16 t2
+INFO  19:01:11,912 - #43 .
+INFO  19:01:11,912 - #16 niz
+INFO  19:01:11,912 - #50 [
+INFO  19:01:11,912 - #15 1
+INFO  19:01:11,912 - #51 ]
+INFO  19:01:11,912 - #7 )
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #9 print
+INFO  19:01:11,912 - #6 (
+INFO  19:01:11,912 - #16 t2
+INFO  19:01:11,912 - #43 .
+INFO  19:01:11,912 - #16 niz
+INFO  19:01:11,912 - #50 [
+INFO  19:01:11,912 - #15 2
+INFO  19:01:11,912 - #51 ]
+INFO  19:01:11,912 - #7 )
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #9 print
+INFO  19:01:11,912 - #6 (
+INFO  19:01:11,912 - #16 eol
+INFO  19:01:11,912 - #7 )
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #16 i
+INFO  19:01:11,912 - #13 =
+INFO  19:01:11,912 - #15 0
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #16 niz2
+INFO  19:01:11,912 - #13 =
+INFO  19:01:11,912 - #15 0
+INFO  19:01:11,912 - #5 ;
+INFO  19:01:11,912 - #34 do
+INFO  19:01:11,912 - #3 {
+INFO  19:01:11,912 - #16 niz2
+INFO  19:01:11,912 - #13 =
+INFO  19:01:11,912 - #16 niz2
+INFO  19:01:11,912 - #11 +
+INFO  19:01:11,912 - #16 t1
+INFO  19:01:11,912 - #43 .
+INFO  19:01:11,912 - #16 niz
+INFO  19:01:11,912 - #50 [
+INFO  19:01:11,912 - #16 i
+INFO  19:01:11,912 - #51 ]
+INFO  19:01:11,912 - #28 *
+INFO  19:01:11,912 - #16 t2
+INFO  19:01:11,912 - #43 .
+INFO  19:01:11,912 - #16 niz
+INFO  19:01:11,913 - #50 [
+INFO  19:01:11,913 - #16 i
+INFO  19:01:11,913 - #51 ]
+INFO  19:01:11,913 - #5 ;
+INFO  19:01:11,913 - #16 i
+INFO  19:01:11,913 - #46 ++
+INFO  19:01:11,913 - #5 ;
+INFO  19:01:11,913 - #4 }
+INFO  19:01:11,913 - #35 while
+INFO  19:01:11,913 - #6 (
+INFO  19:01:11,913 - #16 i
+INFO  19:01:11,913 - #26 <
+INFO  19:01:11,913 - #15 3
+INFO  19:01:11,913 - #7 )
+INFO  19:01:11,913 - #5 ;
+INFO  19:01:11,913 - #9 print
+INFO  19:01:11,913 - #6 (
+INFO  19:01:11,913 - #16 niz2
+INFO  19:01:11,913 - #7 )
+INFO  19:01:11,913 - #5 ;
+INFO  19:01:11,913 - #9 print
+INFO  19:01:11,913 - #6 (
+INFO  19:01:11,913 - #16 eol
+INFO  19:01:11,913 - #7 )
+INFO  19:01:11,913 - #5 ;
+INFO  19:01:11,913 - #4 }
+INFO  19:01:11,913 - #4 }
+INFO  19:01:11,920 - Trenutan tip konstante je:  int na liniji 5
+INFO  19:01:11,921 - Deklarisana promenljiva i na liniji 7
+INFO  19:01:11,921 - Deklarisana promenljiva ibool na liniji 8
+INFO  19:01:11,921 - Deklarisana promenljiva niz2 na liniji 10
+INFO  19:01:11,921 - Obradjuje se rekord Test na liniji 12
+INFO  19:01:11,921 - Deklarisana promenljiva niz na liniji 13
+INFO  19:01:11,921 - Deklarisana promenljiva a na liniji 14
+ERROR 19:01:11,921 - Greska na liniji 12 Rekord: Test je vec deklarisan! 
+ERROR 19:01:11,921 - Greska: Ime Test ne predstavlja tip  na liniji 17
+INFO  19:01:11,921 - Deklarisana promenljiva t2 na liniji 17
+INFO  19:01:11,921 - Deklarisana promenljiva t1 na liniji 17
+INFO  19:01:11,921 - Obradjuje se funkcija sum na liniji 21
+INFO  19:01:11,921 - Naveden argument d na liniji 21
+INFO  19:01:11,921 - Naveden argument z na liniji 21
+INFO  19:01:11,921 - Obradjuje se funkcija inkrement na liniji 26
+INFO  19:01:11,921 - Naveden argument inc na liniji 26
+INFO  19:01:11,921 - Naveden argument a na liniji 26
+INFO  19:01:11,921 - Deklarisana promenljiva pom na liniji 27
+INFO  19:01:11,922 - Obradjuje se funkcija verify na liniji 35
+INFO  19:01:11,922 - Obradjuje se funkcija main na liniji 40
+ERROR 19:01:11,922 - Greska: Ime Test ne predstavlja tip  na liniji 55
+ERROR 19:01:11,922 - Semanticka greska na liniji 55 Navedeni rekord ne postoji!
+ERROR 19:01:11,922 - Semanticka greska na liniji 55 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 56 : ime a nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 56 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 57 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 57 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 58 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 58 : ime a nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 58 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 59 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 59 : ime a nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 59 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 60 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 60 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 60 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 60 : ime a nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 60 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Semanticka greska na liniji 61 print prima samo num, char ili bool!
+ERROR 19:01:11,922 - Semanticka greska na liniji 62 print prima samo num, char ili bool!
+ERROR 19:01:11,922 - Greska na liniji 79 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 79  t1 mora biti int, char ili bool!
+ERROR 19:01:11,922 - Greska na liniji 80 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 80  t1 mora biti int, char ili bool!
+ERROR 19:01:11,922 - Greska na liniji 81 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 81  t1 mora biti int, char ili bool!
+ERROR 19:01:11,922 - Greska na liniji 84 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 84 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 84 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 84 print prima samo num, char ili bool!
+ERROR 19:01:11,922 - Greska na liniji 87 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 87 print prima samo num, char ili bool!
+ERROR 19:01:11,922 - Greska: Ime Test ne predstavlja tip  na liniji 89
+ERROR 19:01:11,922 - Semanticka greska na liniji 89 Navedeni rekord ne postoji!
+ERROR 19:01:11,922 - Semanticka greska na liniji 89 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 90 : ime a nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 90 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 91 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Semanticka greska na liniji 91 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,922 - Greska na liniji 94 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 94 : ime niz nije deklarisano! 
+ERROR 19:01:11,922 - Greska na liniji 94 : ime a nije deklarisano! 
+ERROR 19:01:11,923 - Semanticka greska na liniji 94 nekompatibilni tipovi prilikom dodele!
+ERROR 19:01:11,923 - Greska na liniji 97 : ime niz nije deklarisano! 
+ERROR 19:01:11,923 - Semanticka greska na liniji 97  t2 mora biti int, char ili bool!
+ERROR 19:01:11,923 - Greska na liniji 98 : ime niz nije deklarisano! 
+ERROR 19:01:11,923 - Semanticka greska na liniji 98  t2 mora biti int, char ili bool!
+ERROR 19:01:11,923 - Greska na liniji 99 : ime niz nije deklarisano! 
+ERROR 19:01:11,923 - Semanticka greska na liniji 99  t2 mora biti int, char ili bool!
+ERROR 19:01:11,923 - Greska na liniji 105 : ime niz nije deklarisano! 
+ERROR 19:01:11,923 - Greska na liniji 105 : ime niz nije deklarisano! 
+ERROR 19:01:11,923 - Semanticka greska na liniji 105 nekompatibilni tipovi za aritmeticku operaciju!
+ERROR 19:01:11,923 - Parsiranje NIJE uspesno zavrseno!

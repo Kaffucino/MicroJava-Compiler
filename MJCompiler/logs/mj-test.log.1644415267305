@@ -1,0 +1,192 @@
+INFO  15:00:24,221 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:00:24,253 - #2 program
+INFO  15:00:24,253 - #16 test302
+INFO  15:00:24,253 - #48 const
+INFO  15:00:24,254 - #16 int
+INFO  15:00:24,254 - #16 jedan
+INFO  15:00:24,254 - #13 =
+INFO  15:00:24,255 - #15 1
+INFO  15:00:24,255 - #5 ;
+INFO  15:00:24,255 - #16 int
+INFO  15:00:24,255 - #16 i
+INFO  15:00:24,256 - #5 ;
+INFO  15:00:24,256 - #16 bool
+INFO  15:00:24,256 - #16 ibool
+INFO  15:00:24,256 - #5 ;
+INFO  15:00:24,256 - #16 int
+INFO  15:00:24,256 - #16 niz2
+INFO  15:00:24,256 - #5 ;
+INFO  15:00:24,257 - #49 record
+INFO  15:00:24,257 - #16 Test
+INFO  15:00:24,257 - #3 {
+INFO  15:00:24,257 - #16 int
+INFO  15:00:24,257 - #16 niz
+INFO  15:00:24,262 - #50 [
+INFO  15:00:24,262 - #51 ]
+INFO  15:00:24,262 - #5 ;
+INFO  15:00:24,263 - #16 int
+INFO  15:00:24,263 - #16 a
+INFO  15:00:24,263 - #5 ;
+INFO  15:00:24,263 - #4 }
+INFO  15:00:24,264 - #16 Test
+INFO  15:00:24,264 - #16 t1
+INFO  15:00:24,264 - #8 ,
+INFO  15:00:24,264 - #16 t2
+INFO  15:00:24,264 - #5 ;
+INFO  15:00:24,264 - #3 {
+INFO  15:00:24,265 - #16 int
+INFO  15:00:24,265 - #16 sum
+INFO  15:00:24,265 - #6 (
+INFO  15:00:24,266 - #16 int
+INFO  15:00:24,266 - #16 z
+INFO  15:00:24,266 - #8 ,
+INFO  15:00:24,266 - #16 int
+INFO  15:00:24,266 - #16 d
+INFO  15:00:24,266 - #7 )
+INFO  15:00:24,266 - #3 {
+INFO  15:00:24,267 - #10 return
+INFO  15:00:24,267 - #16 z
+INFO  15:00:24,267 - #11 +
+INFO  15:00:24,268 - #16 d
+INFO  15:00:24,269 - #5 ;
+INFO  15:00:24,269 - #4 }
+INFO  15:00:24,269 - #16 int
+INFO  15:00:24,270 - #16 inkrement
+INFO  15:00:24,270 - #6 (
+INFO  15:00:24,270 - #16 int
+INFO  15:00:24,270 - #16 a
+INFO  15:00:24,270 - #8 ,
+INFO  15:00:24,270 - #16 int
+INFO  15:00:24,270 - #16 inc
+INFO  15:00:24,270 - #7 )
+INFO  15:00:24,270 - #16 int
+INFO  15:00:24,270 - #16 pom
+INFO  15:00:24,270 - #5 ;
+INFO  15:00:24,270 - #3 {
+INFO  15:00:24,271 - #19 if
+INFO  15:00:24,271 - #6 (
+INFO  15:00:24,271 - #16 inc
+INFO  15:00:24,271 - #22 ==
+INFO  15:00:24,274 - #16 jedan
+INFO  15:00:24,275 - #7 )
+INFO  15:00:24,276 - #16 pom
+INFO  15:00:24,276 - #13 =
+INFO  15:00:24,276 - #15 1
+INFO  15:00:24,277 - #5 ;
+INFO  15:00:24,277 - #20 else
+INFO  15:00:24,277 - #19 if
+INFO  15:00:24,277 - #6 (
+INFO  15:00:24,277 - #16 inc
+INFO  15:00:24,277 - #22 ==
+INFO  15:00:24,277 - #15 2
+INFO  15:00:24,277 - #7 )
+INFO  15:00:24,277 - #16 pom
+INFO  15:00:24,277 - #13 =
+INFO  15:00:24,277 - #16 a
+INFO  15:00:24,277 - #5 ;
+INFO  15:00:24,278 - #10 return
+INFO  15:00:24,278 - #16 sum
+INFO  15:00:24,278 - #6 (
+INFO  15:00:24,278 - #16 a
+INFO  15:00:24,278 - #8 ,
+INFO  15:00:24,278 - #16 pom
+INFO  15:00:24,278 - #7 )
+INFO  15:00:24,279 - #5 ;
+INFO  15:00:24,279 - #4 }
+INFO  15:00:24,279 - #16 bool
+INFO  15:00:24,280 - #16 verify
+INFO  15:00:24,280 - #6 (
+INFO  15:00:24,280 - #7 )
+INFO  15:00:24,280 - #3 {
+INFO  15:00:24,280 - #9 print
+INFO  15:00:24,280 - #6 (
+INFO  15:00:24,281 - #17 'v'
+INFO  15:00:24,281 - #7 )
+INFO  15:00:24,281 - #5 ;
+INFO  15:00:24,281 - #10 return
+INFO  15:00:24,281 - #18 false
+INFO  15:00:24,281 - #5 ;
+INFO  15:00:24,281 - #4 }
+INFO  15:00:24,281 - #14 void
+INFO  15:00:24,281 - #16 main
+INFO  15:00:24,282 - #6 (
+INFO  15:00:24,282 - #7 )
+INFO  15:00:24,282 - #3 {
+INFO  15:00:24,282 - #16 t1
+INFO  15:00:24,282 - #13 =
+INFO  15:00:24,282 - #36 new
+INFO  15:00:24,282 - #16 Test
+INFO  15:00:24,282 - #5 ;
+INFO  15:00:24,282 - #16 t1
+INFO  15:00:24,282 - #43 .
+INFO  15:00:24,282 - #16 a
+INFO  15:00:24,282 - #13 =
+INFO  15:00:24,282 - #15 66
+INFO  15:00:24,282 - #5 ;
+INFO  15:00:24,282 - #16 t1
+INFO  15:00:24,282 - #43 .
+INFO  15:00:24,283 - #16 niz
+INFO  15:00:24,283 - #13 =
+INFO  15:00:24,283 - #36 new
+INFO  15:00:24,283 - #16 int
+INFO  15:00:24,283 - #50 [
+INFO  15:00:24,283 - #15 3
+INFO  15:00:24,283 - #51 ]
+INFO  15:00:24,283 - #5 ;
+INFO  15:00:24,283 - #16 t1
+INFO  15:00:24,283 - #43 .
+INFO  15:00:24,283 - #16 niz
+INFO  15:00:24,283 - #50 [
+INFO  15:00:24,283 - #15 0
+INFO  15:00:24,283 - #51 ]
+INFO  15:00:24,283 - #13 =
+INFO  15:00:24,283 - #15 66
+INFO  15:00:24,283 - #5 ;
+INFO  15:00:24,283 - #16 t1
+INFO  15:00:24,283 - #43 .
+INFO  15:00:24,283 - #16 niz
+INFO  15:00:24,283 - #50 [
+INFO  15:00:24,283 - #15 1
+INFO  15:00:24,283 - #51 ]
+INFO  15:00:24,284 - #13 =
+INFO  15:00:24,284 - #15 2
+INFO  15:00:24,284 - #28 *
+INFO  15:00:24,284 - #16 t1
+INFO  15:00:24,285 - #43 .
+INFO  15:00:24,285 - #16 a
+INFO  15:00:24,285 - #5 ;
+INFO  15:00:24,285 - #16 t1
+INFO  15:00:24,285 - #43 .
+INFO  15:00:24,285 - #16 niz
+INFO  15:00:24,285 - #50 [
+INFO  15:00:24,285 - #15 2
+INFO  15:00:24,285 - #51 ]
+INFO  15:00:24,285 - #13 =
+INFO  15:00:24,285 - #16 t1
+INFO  15:00:24,285 - #43 .
+INFO  15:00:24,285 - #16 a
+INFO  15:00:24,285 - #11 +
+INFO  15:00:24,285 - #15 1
+INFO  15:00:24,285 - #5 ;
+INFO  15:00:24,285 - #4 }
+INFO  15:00:24,285 - #4 }
+INFO  15:00:24,292 - Trenutan tip konstante je:  int na liniji 5
+INFO  15:00:24,293 - Deklarisana promenljiva i na liniji 7
+INFO  15:00:24,293 - Deklarisana promenljiva ibool na liniji 8
+INFO  15:00:24,293 - Deklarisana promenljiva niz2 na liniji 10
+INFO  15:00:24,293 - Deklarisana je rekord :  Test na liniji 12
+INFO  15:00:24,293 - Deklarisana promenljiva niz na liniji 13
+INFO  15:00:24,293 - Deklarisana promenljiva a na liniji 14
+INFO  15:00:24,293 - Deklarisana promenljiva t2 na liniji 17
+INFO  15:00:24,293 - Deklarisana promenljiva t1 na liniji 17
+INFO  15:00:24,293 - Obradjuje se funkcija sum na liniji 21
+INFO  15:00:24,293 - Naveden argument d na liniji 21
+INFO  15:00:24,293 - Naveden argument z na liniji 21
+INFO  15:00:24,294 - Obradjuje se funkcija inkrement na liniji 26
+INFO  15:00:24,294 - Naveden argument inc na liniji 26
+INFO  15:00:24,294 - Naveden argument a na liniji 26
+INFO  15:00:24,294 - Deklarisana promenljiva pom na liniji 27
+INFO  15:00:24,294 - Pronadjen poziv funkcije sum na liniji 32
+INFO  15:00:24,294 - Obradjuje se funkcija verify na liniji 35
+INFO  15:00:24,294 - Obradjuje se funkcija main na liniji 40
+INFO  15:00:24,305 - Parsiranje uspesno zavrseno!

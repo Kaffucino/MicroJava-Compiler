@@ -1,0 +1,49 @@
+INFO  23:11:03,460 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:11:03,492 - #2 program
+INFO  23:11:03,492 - #16 PR
+INFO  23:11:03,492 - #16 int
+INFO  23:11:03,492 - #16 x
+INFO  23:11:03,492 - #8 ,
+INFO  23:11:03,493 - #16 z
+INFO  23:11:03,493 - #5 ;
+INFO  23:11:03,493 - #48 const
+INFO  23:11:03,493 - #16 char
+INFO  23:11:03,493 - #16 xx
+INFO  23:11:03,493 - #13 =
+INFO  23:11:03,493 - #15 1
+INFO  23:11:03,493 - #5 ;
+INFO  23:11:03,494 - #3 {
+INFO  23:11:03,495 - #16 int
+INFO  23:11:03,495 - #16 fun
+INFO  23:11:03,495 - #6 (
+INFO  23:11:03,495 - #16 int
+INFO  23:11:03,495 - #16 x
+INFO  23:11:03,495 - #8 ,
+INFO  23:11:03,495 - #16 int
+INFO  23:11:03,495 - #16 y
+INFO  23:11:03,497 - #7 )
+INFO  23:11:03,498 - #3 {
+INFO  23:11:03,498 - #10 return
+INFO  23:11:03,498 - #15 0
+INFO  23:11:03,498 - #5 ;
+INFO  23:11:03,500 - #4 }
+INFO  23:11:03,500 - #16 int
+INFO  23:11:03,500 - #16 main
+INFO  23:11:03,500 - #6 (
+INFO  23:11:03,500 - #7 )
+INFO  23:11:03,501 - #16 int
+INFO  23:11:03,501 - #16 y
+INFO  23:11:03,501 - #8 ,
+INFO  23:11:03,501 - #16 zz
+INFO  23:11:03,501 - #50 [
+INFO  23:11:03,501 - #51 ]
+INFO  23:11:03,501 - #5 ;
+INFO  23:11:03,501 - #3 {
+INFO  23:11:03,501 - #4 }
+INFO  23:11:03,501 - #4 }
+INFO  23:11:03,509 - Deklarisana promenljiva z na liniji 3
+INFO  23:11:03,509 - Deklarisana promenljiva x na liniji 3
+INFO  23:11:03,509 - Trenutan tip konstante je:  char na liniji 5
+INFO  23:11:03,510 - Deklarisana promenljiva zz na liniji 15
+INFO  23:11:03,510 - Deklarisana promenljiva y na liniji 15
+INFO  23:11:03,518 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,18 @@
+INFO  16:45:12,981 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:45:13,009 - #2 program
+INFO  16:45:13,009 - #16 p
+INFO  16:45:13,009 - #16 int
+INFO  16:45:13,009 - #16 a
+INFO  16:45:13,010 - #5 ;
+INFO  16:45:13,010 - #48 const
+INFO  16:45:13,011 - #16 char
+INFO  16:45:13,011 - #16 b
+INFO  16:45:13,011 - #13 =
+INFO  16:45:13,011 - #17 'b'
+INFO  16:45:13,011 - #5 ;
+INFO  16:45:13,012 - #3 {
+INFO  16:45:13,013 - #16 a
+INFO  16:45:13,013 - #13 =
+ERROR 16:45:13,013 - 
+Sintaksna greska na liniji 10
+ERROR 16:45:13,013 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 10

@@ -1,0 +1,39 @@
+INFO  15:37:35,265 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:37:35,295 - #2 program
+INFO  15:37:35,295 - #16 Prog
+INFO  15:37:35,295 - #16 int
+INFO  15:37:35,296 - #16 y
+INFO  15:37:35,296 - #5 ;
+INFO  15:37:35,297 - #3 {
+INFO  15:37:35,298 - #14 void
+INFO  15:37:35,298 - #16 main
+INFO  15:37:35,298 - #6 (
+INFO  15:37:35,298 - #7 )
+INFO  15:37:35,299 - #16 int
+INFO  15:37:35,299 - #16 x
+INFO  15:37:35,299 - #5 ;
+INFO  15:37:35,299 - #3 {
+INFO  15:37:35,299 - #16 x
+INFO  15:37:35,299 - #13 =
+INFO  15:37:35,300 - #15 5
+INFO  15:37:35,300 - #5 ;
+INFO  15:37:35,301 - #16 y
+INFO  15:37:35,301 - #13 =
+INFO  15:37:35,301 - #15 22
+INFO  15:37:35,302 - #5 ;
+INFO  15:37:35,302 - #9 print
+INFO  15:37:35,302 - #6 (
+INFO  15:37:35,302 - #16 x
+INFO  15:37:35,302 - #7 )
+INFO  15:37:35,302 - #5 ;
+INFO  15:37:35,302 - #9 print
+INFO  15:37:35,302 - #6 (
+INFO  15:37:35,303 - #16 y
+INFO  15:37:35,303 - #7 )
+INFO  15:37:35,303 - #4 }
+ERROR 15:37:35,303 - 
+Sintaksna greska na liniji 13
+INFO  15:37:35,303 - #4 }
+ERROR 15:37:35,303 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15
+ERROR 15:37:35,309 - Greska na liniji 12 : ime y nije deklarisano! 
+ERROR 15:37:35,310 - Parsiranje NIJE uspesno zavrseno!

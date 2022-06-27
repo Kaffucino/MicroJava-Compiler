@@ -1,0 +1,163 @@
+INFO  20:13:28,083 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:13:28,118 - #2 program
+INFO  20:13:28,119 - #16 PR
+INFO  20:13:28,119 - #16 char
+INFO  20:13:28,119 - #16 x
+INFO  20:13:28,119 - #5 ;
+INFO  20:13:28,120 - #48 const
+INFO  20:13:28,120 - #16 bool
+INFO  20:13:28,120 - #16 Cofi
+INFO  20:13:28,120 - #13 =
+INFO  20:13:28,120 - #18 true
+INFO  20:13:28,120 - #5 ;
+INFO  20:13:28,121 - #49 record
+INFO  20:13:28,121 - #16 Board
+INFO  20:13:28,121 - #3 {
+INFO  20:13:28,121 - #16 int
+INFO  20:13:28,121 - #16 rows
+INFO  20:13:28,122 - #8 ,
+INFO  20:13:28,122 - #16 columns
+INFO  20:13:28,122 - #5 ;
+INFO  20:13:28,122 - #4 }
+INFO  20:13:28,122 - #49 record
+INFO  20:13:28,122 - #16 Board2
+INFO  20:13:28,123 - #3 {
+INFO  20:13:28,123 - #16 int
+INFO  20:13:28,123 - #16 rows
+INFO  20:13:28,123 - #8 ,
+INFO  20:13:28,123 - #16 columns
+INFO  20:13:28,123 - #5 ;
+INFO  20:13:28,123 - #4 }
+INFO  20:13:28,123 - #32 class
+INFO  20:13:28,123 - #16 Table
+INFO  20:13:28,123 - #38 extends
+INFO  20:13:28,123 - #16 Board2
+INFO  20:13:28,123 - #3 {
+INFO  20:13:28,123 - #16 int
+INFO  20:13:28,124 - #16 pos
+INFO  20:13:28,124 - #50 [
+INFO  20:13:28,124 - #51 ]
+INFO  20:13:28,124 - #8 ,
+INFO  20:13:28,124 - #16 neg
+INFO  20:13:28,124 - #50 [
+INFO  20:13:28,124 - #51 ]
+INFO  20:13:28,124 - #5 ;
+INFO  20:13:28,124 - #3 {
+INFO  20:13:28,125 - #14 void
+INFO  20:13:28,125 - #16 putp
+INFO  20:13:28,126 - #6 (
+INFO  20:13:28,126 - #7 )
+INFO  20:13:28,127 - #3 {
+INFO  20:13:28,127 - #4 }
+INFO  20:13:28,127 - #4 }
+INFO  20:13:28,128 - #4 }
+INFO  20:13:28,128 - #32 class
+INFO  20:13:28,128 - #16 Table
+INFO  20:13:28,128 - #3 {
+INFO  20:13:28,129 - #16 int
+INFO  20:13:28,129 - #16 posss
+INFO  20:13:28,129 - #50 [
+INFO  20:13:28,129 - #51 ]
+INFO  20:13:28,129 - #8 ,
+INFO  20:13:28,129 - #16 negggg
+INFO  20:13:28,129 - #50 [
+INFO  20:13:28,129 - #51 ]
+INFO  20:13:28,129 - #5 ;
+INFO  20:13:28,129 - #3 {
+INFO  20:13:28,129 - #14 void
+INFO  20:13:28,129 - #16 putp
+INFO  20:13:28,129 - #6 (
+INFO  20:13:28,132 - #7 )
+INFO  20:13:28,132 - #3 {
+INFO  20:13:28,132 - #4 }
+INFO  20:13:28,132 - #4 }
+INFO  20:13:28,132 - #4 }
+INFO  20:13:28,132 - #32 class
+INFO  20:13:28,132 - #16 Lola
+INFO  20:13:28,133 - #3 {
+INFO  20:13:28,133 - #16 int
+INFO  20:13:28,133 - #16 c
+INFO  20:13:28,133 - #8 ,
+INFO  20:13:28,133 - #16 cc
+INFO  20:13:28,133 - #5 ;
+INFO  20:13:28,133 - #3 {
+INFO  20:13:28,133 - #14 void
+INFO  20:13:28,133 - #16 putp
+INFO  20:13:28,133 - #6 (
+INFO  20:13:28,133 - #7 )
+INFO  20:13:28,133 - #3 {
+INFO  20:13:28,133 - #4 }
+INFO  20:13:28,133 - #4 }
+INFO  20:13:28,133 - #4 }
+INFO  20:13:28,133 - #3 {
+INFO  20:13:28,134 - #16 int
+INFO  20:13:28,134 - #16 fun
+INFO  20:13:28,134 - #6 (
+INFO  20:13:28,134 - #16 int
+INFO  20:13:28,134 - #16 x
+INFO  20:13:28,134 - #8 ,
+INFO  20:13:28,134 - #16 int
+INFO  20:13:28,134 - #16 y
+INFO  20:13:28,134 - #7 )
+INFO  20:13:28,135 - #16 int
+INFO  20:13:28,135 - #16 z
+INFO  20:13:28,135 - #5 ;
+INFO  20:13:28,135 - #3 {
+INFO  20:13:28,135 - #10 return
+INFO  20:13:28,135 - #15 0
+INFO  20:13:28,135 - #5 ;
+INFO  20:13:28,136 - #4 }
+INFO  20:13:28,137 - #16 int
+INFO  20:13:28,137 - #16 fun2
+INFO  20:13:28,137 - #6 (
+INFO  20:13:28,137 - #16 int
+INFO  20:13:28,137 - #16 x
+INFO  20:13:28,137 - #8 ,
+INFO  20:13:28,137 - #16 int
+INFO  20:13:28,137 - #16 y
+INFO  20:13:28,137 - #7 )
+INFO  20:13:28,137 - #16 int
+INFO  20:13:28,137 - #16 z
+INFO  20:13:28,137 - #5 ;
+INFO  20:13:28,137 - #3 {
+INFO  20:13:28,137 - #10 return
+INFO  20:13:28,137 - #15 0
+INFO  20:13:28,137 - #5 ;
+INFO  20:13:28,137 - #4 }
+INFO  20:13:28,137 - #16 int
+INFO  20:13:28,137 - #16 main
+INFO  20:13:28,138 - #6 (
+INFO  20:13:28,138 - #7 )
+INFO  20:13:28,138 - #16 int
+INFO  20:13:28,138 - #16 y
+INFO  20:13:28,138 - #8 ,
+INFO  20:13:28,138 - #16 zz
+INFO  20:13:28,138 - #50 [
+INFO  20:13:28,138 - #51 ]
+INFO  20:13:28,138 - #5 ;
+INFO  20:13:28,138 - #3 {
+INFO  20:13:28,138 - #4 }
+INFO  20:13:28,138 - #4 }
+INFO  20:13:28,144 - Deklarisana promenljiva x na liniji 5
+INFO  20:13:28,144 - Trenutan tip konstante je:  bool na liniji 7
+INFO  20:13:28,144 - Deklarisana promenljiva columns na liniji 10
+INFO  20:13:28,144 - Deklarisana promenljiva rows na liniji 10
+INFO  20:13:28,145 - Deklarisana je rekord :  Board na liniji 9
+ERROR 20:13:28,145 - Promenljiva columns je vec deklarisana!
+ERROR 20:13:28,145 - Promenljiva rows je vec deklarisana!
+INFO  20:13:28,145 - Deklarisana je rekord :  Board2 na liniji 13
+ERROR 20:13:28,145 - Greska na liniji 19 Board2 predstavlja rekord! 
+INFO  20:13:28,145 - Deklarisana promenljiva neg na liniji 20
+INFO  20:13:28,145 - Deklarisana promenljiva pos na liniji 20
+INFO  20:13:28,145 - Deklarisana je klasa :  Table na liniji 19
+INFO  20:13:28,145 - Deklarisana promenljiva negggg na liniji 27
+INFO  20:13:28,145 - Deklarisana promenljiva posss na liniji 27
+ERROR 20:13:28,145 - Greska na liniji 26 Klasa: Table je vec deklarisana! 
+INFO  20:13:28,145 - Deklarisana promenljiva cc na liniji 38
+INFO  20:13:28,145 - Deklarisana promenljiva c na liniji 38
+INFO  20:13:28,145 - Deklarisana je klasa :  Lola na liniji 37
+INFO  20:13:28,145 - Deklarisana promenljiva z na liniji 53
+ERROR 20:13:28,145 - Promenljiva z je vec deklarisana!
+INFO  20:13:28,145 - Deklarisana promenljiva zz na liniji 65
+INFO  20:13:28,145 - Deklarisana promenljiva y na liniji 65
+ERROR 20:13:28,146 - Parsiranje NIJE uspesno zavrseno!

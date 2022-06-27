@@ -1,0 +1,29 @@
+INFO  23:53:18,231 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:53:18,262 - #2 program
+INFO  23:53:18,262 - #16 COFI
+INFO  23:53:18,262 - #3 {
+INFO  23:53:18,262 - #14 void
+INFO  23:53:18,262 - #16 main
+INFO  23:53:18,263 - #6 (
+INFO  23:53:18,263 - #7 )
+INFO  23:53:18,263 - #16 int
+INFO  23:53:18,263 - #16 x
+INFO  23:53:18,264 - #5 ;
+INFO  23:53:18,264 - #3 {
+INFO  23:53:18,265 - #4 }
+INFO  23:53:18,265 - #16 int
+INFO  23:53:18,265 - #16 main2
+INFO  23:53:18,265 - #6 (
+INFO  23:53:18,265 - #7 )
+INFO  23:53:18,265 - #16 int
+INFO  23:53:18,265 - #16 x
+INFO  23:53:18,265 - #5 ;
+INFO  23:53:18,265 - #3 {
+INFO  23:53:18,265 - #4 }
+INFO  23:53:18,266 - #4 }
+INFO  23:53:18,272 - Obradjuje se funkcija main na liniji 9
+INFO  23:53:18,277 - Deklarisana promenljiva x na liniji 9
+INFO  23:53:18,277 - Obradjuje se funkcija main2 na liniji 13
+INFO  23:53:18,277 - Deklarisana promenljiva x na liniji 13
+ERROR 23:53:18,277 - Semanticka greska na liniji 13: funkcija main2 nema return iskaz!
+ERROR 23:53:18,277 - Parsiranje NIJE uspesno zavrseno!

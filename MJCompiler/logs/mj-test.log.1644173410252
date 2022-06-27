@@ -1,0 +1,32 @@
+INFO  19:49:28,701 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:49:28,732 - #2 program
+INFO  19:49:28,732 - #16 Prog
+INFO  19:49:28,732 - #3 {
+INFO  19:49:28,733 - #14 void
+INFO  19:49:28,733 - #16 main
+INFO  19:49:28,733 - #6 (
+INFO  19:49:28,733 - #7 )
+INFO  19:49:28,734 - #16 int
+INFO  19:49:28,734 - #16 x
+INFO  19:49:28,734 - #5 ;
+INFO  19:49:28,735 - #3 {
+INFO  19:49:28,735 - #9 print
+INFO  19:49:28,735 - #6 (
+INFO  19:49:28,735 - #15 1
+INFO  19:49:28,735 - #7 )
+INFO  19:49:28,736 - #5 ;
+INFO  19:49:28,736 - #9 print
+INFO  19:49:28,737 - #6 (
+INFO  19:49:28,737 - #17 'a'
+INFO  19:49:28,737 - #7 )
+INFO  19:49:28,737 - #5 ;
+INFO  19:49:28,737 - #9 print
+INFO  19:49:28,737 - #6 (
+INFO  19:49:28,737 - #18 true
+INFO  19:49:28,737 - #7 )
+INFO  19:49:28,737 - #5 ;
+INFO  19:49:28,737 - #4 }
+INFO  19:49:28,738 - #4 }
+INFO  19:49:28,745 - Obradjuje se funkcija main na liniji 4
+INFO  19:49:28,745 - Deklarisana promenljiva x na liniji 4
+INFO  19:49:28,755 - Parsiranje uspesno zavrseno!

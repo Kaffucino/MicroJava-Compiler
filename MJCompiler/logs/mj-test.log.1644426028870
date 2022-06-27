@@ -1,0 +1,95 @@
+INFO  18:00:01,157 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:00:01,188 - #2 program
+INFO  18:00:01,188 - #16 test302
+INFO  18:00:01,188 - #48 const
+INFO  18:00:01,188 - #16 int
+INFO  18:00:01,189 - #16 jedan
+INFO  18:00:01,189 - #13 =
+INFO  18:00:01,189 - #15 1
+INFO  18:00:01,189 - #5 ;
+INFO  18:00:01,190 - #16 int
+INFO  18:00:01,190 - #16 i
+INFO  18:00:01,190 - #5 ;
+INFO  18:00:01,191 - #16 int
+INFO  18:00:01,191 - #16 niz2
+INFO  18:00:01,191 - #5 ;
+INFO  18:00:01,191 - #49 record
+INFO  18:00:01,191 - #16 Test
+INFO  18:00:01,191 - #3 {
+INFO  18:00:01,191 - #16 int
+INFO  18:00:01,191 - #16 niz
+INFO  18:00:01,191 - #50 [
+INFO  18:00:01,191 - #51 ]
+INFO  18:00:01,192 - #5 ;
+INFO  18:00:01,196 - #16 int
+INFO  18:00:01,196 - #16 a
+INFO  18:00:01,196 - #5 ;
+INFO  18:00:01,196 - #4 }
+INFO  18:00:01,197 - #16 int
+INFO  18:00:01,197 - #16 nizz
+INFO  18:00:01,197 - #50 [
+INFO  18:00:01,197 - #51 ]
+INFO  18:00:01,197 - #5 ;
+INFO  18:00:01,197 - #16 Test
+INFO  18:00:01,197 - #16 t1
+INFO  18:00:01,197 - #8 ,
+INFO  18:00:01,198 - #16 t2
+INFO  18:00:01,198 - #5 ;
+INFO  18:00:01,198 - #3 {
+INFO  18:00:01,198 - #14 void
+INFO  18:00:01,198 - #16 main
+INFO  18:00:01,199 - #6 (
+INFO  18:00:01,199 - #7 )
+INFO  18:00:01,199 - #3 {
+INFO  18:00:01,200 - #16 t1
+INFO  18:00:01,200 - #13 =
+INFO  18:00:01,200 - #36 new
+INFO  18:00:01,200 - #16 Test
+INFO  18:00:01,200 - #5 ;
+INFO  18:00:01,201 - #16 t2
+INFO  18:00:01,202 - #13 =
+INFO  18:00:01,202 - #36 new
+INFO  18:00:01,202 - #16 Test
+INFO  18:00:01,202 - #5 ;
+INFO  18:00:01,202 - #16 t1
+INFO  18:00:01,202 - #43 .
+INFO  18:00:01,202 - #16 a
+INFO  18:00:01,202 - #13 =
+INFO  18:00:01,202 - #15 221
+INFO  18:00:01,202 - #5 ;
+INFO  18:00:01,202 - #16 t2
+INFO  18:00:01,202 - #43 .
+INFO  18:00:01,202 - #16 a
+INFO  18:00:01,202 - #13 =
+INFO  18:00:01,203 - #15 300
+INFO  18:00:01,203 - #5 ;
+INFO  18:00:01,203 - #16 t1
+INFO  18:00:01,203 - #43 .
+INFO  18:00:01,203 - #16 a
+INFO  18:00:01,203 - #13 =
+INFO  18:00:01,203 - #16 t2
+INFO  18:00:01,203 - #43 .
+INFO  18:00:01,203 - #16 a
+INFO  18:00:01,203 - #11 +
+INFO  18:00:01,203 - #15 5
+INFO  18:00:01,204 - #5 ;
+INFO  18:00:01,204 - #9 print
+INFO  18:00:01,204 - #6 (
+INFO  18:00:01,204 - #16 t1
+INFO  18:00:01,204 - #43 .
+INFO  18:00:01,204 - #16 a
+INFO  18:00:01,204 - #7 )
+INFO  18:00:01,204 - #5 ;
+INFO  18:00:01,204 - #4 }
+INFO  18:00:01,205 - #4 }
+INFO  18:00:01,212 - Trenutan tip konstante je:  int na liniji 5
+INFO  18:00:01,212 - Deklarisana promenljiva i na liniji 7
+INFO  18:00:01,212 - Deklarisana promenljiva niz2 na liniji 9
+INFO  18:00:01,212 - Deklarisana je rekord :  Test na liniji 11
+INFO  18:00:01,212 - Deklarisana promenljiva niz na liniji 12
+INFO  18:00:01,212 - Deklarisana promenljiva a na liniji 13
+INFO  18:00:01,212 - Deklarisana promenljiva nizz na liniji 17
+INFO  18:00:01,212 - Deklarisana promenljiva t2 na liniji 18
+INFO  18:00:01,212 - Deklarisana promenljiva t1 na liniji 18
+INFO  18:00:01,212 - Obradjuje se funkcija main na liniji 24
+INFO  18:00:01,222 - Parsiranje uspesno zavrseno!

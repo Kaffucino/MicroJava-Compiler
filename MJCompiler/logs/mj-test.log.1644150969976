@@ -1,0 +1,46 @@
+INFO  13:35:52,791 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:35:52,823 - #2 program
+INFO  13:35:52,823 - #16 Cofi
+INFO  13:35:52,823 - #3 {
+INFO  13:35:52,824 - #16 int
+INFO  13:35:52,824 - #16 sum
+INFO  13:35:52,825 - #6 (
+INFO  13:35:52,825 - #16 int
+INFO  13:35:52,825 - #16 a
+INFO  13:35:52,825 - #8 ,
+INFO  13:35:52,825 - #16 int
+INFO  13:35:52,825 - #16 b
+INFO  13:35:52,825 - #7 )
+INFO  13:35:52,826 - #3 {
+INFO  13:35:52,826 - #10 return
+INFO  13:35:52,826 - #16 a
+INFO  13:35:52,826 - #11 +
+INFO  13:35:52,827 - #16 b
+INFO  13:35:52,828 - #5 ;
+INFO  13:35:52,828 - #4 }
+INFO  13:35:52,829 - #14 void
+INFO  13:35:52,829 - #16 main
+INFO  13:35:52,829 - #6 (
+INFO  13:35:52,830 - #7 )
+INFO  13:35:52,830 - #3 {
+INFO  13:35:52,830 - #16 sum
+INFO  13:35:52,830 - #6 (
+INFO  13:35:52,830 - #16 sum
+INFO  13:35:52,830 - #6 (
+INFO  13:35:52,830 - #15 1
+INFO  13:35:52,830 - #8 ,
+INFO  13:35:52,830 - #15 2
+INFO  13:35:52,830 - #7 )
+INFO  13:35:52,831 - #8 ,
+INFO  13:35:52,831 - #15 1
+INFO  13:35:52,831 - #7 )
+INFO  13:35:52,831 - #5 ;
+INFO  13:35:52,832 - #4 }
+INFO  13:35:52,832 - #4 }
+INFO  13:35:52,839 - Obradjuje se funkcija sum na liniji 4
+INFO  13:35:52,839 - Naveden argument b na liniji 4
+INFO  13:35:52,839 - Naveden argument a na liniji 4
+INFO  13:35:52,840 - Obradjuje se funkcija main na liniji 9
+INFO  13:35:52,840 - Pronadjen poziv funkcije sum na liniji 11
+INFO  13:35:52,840 - Pronadjen poziv funkcije sum na liniji 11
+INFO  13:35:52,848 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,163 @@
+INFO  19:57:48,925 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:57:48,956 - #2 program
+INFO  19:57:48,956 - #16 test302
+INFO  19:57:48,956 - #48 const
+INFO  19:57:48,957 - #16 int
+INFO  19:57:48,957 - #16 jedan
+INFO  19:57:48,957 - #13 =
+INFO  19:57:48,957 - #15 1
+INFO  19:57:48,957 - #5 ;
+INFO  19:57:48,958 - #16 int
+INFO  19:57:48,958 - #16 i
+INFO  19:57:48,959 - #5 ;
+INFO  19:57:48,959 - #16 bool
+INFO  19:57:48,959 - #16 ibool
+INFO  19:57:48,959 - #5 ;
+INFO  19:57:48,959 - #16 int
+INFO  19:57:48,960 - #16 niz2
+INFO  19:57:48,960 - #5 ;
+INFO  19:57:48,960 - #49 record
+INFO  19:57:48,960 - #16 Test
+INFO  19:57:48,960 - #3 {
+INFO  19:57:48,960 - #16 int
+INFO  19:57:48,960 - #16 a
+INFO  19:57:48,966 - #5 ;
+INFO  19:57:48,966 - #16 int
+INFO  19:57:48,966 - #16 b
+INFO  19:57:48,966 - #5 ;
+INFO  19:57:48,966 - #16 int
+INFO  19:57:48,966 - #16 niz
+INFO  19:57:48,966 - #50 [
+INFO  19:57:48,966 - #51 ]
+INFO  19:57:48,966 - #5 ;
+INFO  19:57:48,966 - #16 int
+INFO  19:57:48,966 - #16 c
+INFO  19:57:48,966 - #5 ;
+INFO  19:57:48,966 - #16 int
+INFO  19:57:48,966 - #16 d
+INFO  19:57:48,966 - #5 ;
+INFO  19:57:48,966 - #4 }
+INFO  19:57:48,967 - #16 Test
+INFO  19:57:48,967 - #16 t1
+INFO  19:57:48,967 - #8 ,
+INFO  19:57:48,967 - #16 t2
+INFO  19:57:48,967 - #5 ;
+INFO  19:57:48,967 - #3 {
+INFO  19:57:48,968 - #14 void
+INFO  19:57:48,968 - #16 main
+INFO  19:57:48,968 - #6 (
+INFO  19:57:48,969 - #7 )
+INFO  19:57:48,969 - #3 {
+INFO  19:57:48,969 - #16 t1
+INFO  19:57:48,969 - #13 =
+INFO  19:57:48,970 - #36 new
+INFO  19:57:48,970 - #16 Test
+INFO  19:57:48,970 - #5 ;
+INFO  19:57:48,971 - #16 t1
+INFO  19:57:48,971 - #43 .
+INFO  19:57:48,972 - #16 a
+INFO  19:57:48,972 - #13 =
+INFO  19:57:48,972 - #15 2
+INFO  19:57:48,972 - #5 ;
+INFO  19:57:48,972 - #16 t1
+INFO  19:57:48,972 - #43 .
+INFO  19:57:48,972 - #16 niz
+INFO  19:57:48,972 - #13 =
+INFO  19:57:48,972 - #36 new
+INFO  19:57:48,972 - #16 int
+INFO  19:57:48,972 - #50 [
+INFO  19:57:48,972 - #15 3
+INFO  19:57:48,975 - #51 ]
+INFO  19:57:48,975 - #5 ;
+INFO  19:57:48,975 - #16 t1
+INFO  19:57:48,975 - #43 .
+INFO  19:57:48,975 - #16 niz
+INFO  19:57:48,975 - #50 [
+INFO  19:57:48,975 - #15 0
+INFO  19:57:48,975 - #51 ]
+INFO  19:57:48,975 - #13 =
+INFO  19:57:48,975 - #15 1
+INFO  19:57:48,976 - #28 *
+INFO  19:57:48,976 - #16 t1
+INFO  19:57:48,976 - #43 .
+INFO  19:57:48,976 - #16 a
+INFO  19:57:48,976 - #5 ;
+INFO  19:57:48,976 - #16 t1
+INFO  19:57:48,976 - #43 .
+INFO  19:57:48,977 - #16 niz
+INFO  19:57:48,977 - #50 [
+INFO  19:57:48,977 - #15 1
+INFO  19:57:48,977 - #51 ]
+INFO  19:57:48,977 - #13 =
+INFO  19:57:48,977 - #15 2
+INFO  19:57:48,977 - #28 *
+INFO  19:57:48,977 - #16 t1
+INFO  19:57:48,977 - #43 .
+INFO  19:57:48,977 - #16 a
+INFO  19:57:48,977 - #5 ;
+INFO  19:57:48,977 - #16 t1
+INFO  19:57:48,977 - #43 .
+INFO  19:57:48,977 - #16 niz
+INFO  19:57:48,977 - #50 [
+INFO  19:57:48,977 - #15 2
+INFO  19:57:48,977 - #51 ]
+INFO  19:57:48,977 - #13 =
+INFO  19:57:48,977 - #16 t1
+INFO  19:57:48,977 - #43 .
+INFO  19:57:48,977 - #16 a
+INFO  19:57:48,977 - #11 +
+INFO  19:57:48,977 - #15 1
+INFO  19:57:48,978 - #5 ;
+INFO  19:57:48,978 - #16 t1
+INFO  19:57:48,978 - #43 .
+INFO  19:57:48,978 - #16 b
+INFO  19:57:48,978 - #13 =
+INFO  19:57:48,978 - #15 3
+INFO  19:57:48,978 - #5 ;
+INFO  19:57:48,978 - #16 t1
+INFO  19:57:48,978 - #43 .
+INFO  19:57:48,979 - #16 c
+INFO  19:57:48,979 - #13 =
+INFO  19:57:48,979 - #15 66
+INFO  19:57:48,979 - #5 ;
+INFO  19:57:48,979 - #16 t1
+INFO  19:57:48,979 - #43 .
+INFO  19:57:48,979 - #16 d
+INFO  19:57:48,979 - #13 =
+INFO  19:57:48,979 - #15 77
+INFO  19:57:48,979 - #5 ;
+INFO  19:57:48,979 - #16 t1
+INFO  19:57:48,979 - #43 .
+INFO  19:57:48,979 - #16 niz
+INFO  19:57:48,979 - #50 [
+INFO  19:57:48,979 - #15 0
+INFO  19:57:48,979 - #51 ]
+INFO  19:57:48,979 - #13 =
+INFO  19:57:48,979 - #16 t1
+INFO  19:57:48,979 - #43 .
+INFO  19:57:48,979 - #16 d
+INFO  19:57:48,979 - #12 -
+INFO  19:57:48,979 - #16 t1
+INFO  19:57:48,980 - #43 .
+INFO  19:57:48,980 - #16 c
+INFO  19:57:48,980 - #11 +
+INFO  19:57:48,980 - #16 t1
+INFO  19:57:48,980 - #43 .
+INFO  19:57:48,980 - #16 b
+INFO  19:57:48,980 - #5 ;
+INFO  19:57:48,980 - #4 }
+INFO  19:57:48,980 - #4 }
+INFO  19:57:48,988 - Trenutan tip konstante je:  int na liniji 5
+INFO  19:57:48,988 - Deklarisana promenljiva i na liniji 7
+INFO  19:57:48,988 - Deklarisana promenljiva ibool na liniji 8
+INFO  19:57:48,988 - Deklarisana promenljiva niz2 na liniji 10
+INFO  19:57:48,988 - Deklarisana je rekord :  Test na liniji 12
+INFO  19:57:48,988 - Deklarisana promenljiva a na liniji 14
+INFO  19:57:48,988 - Deklarisana promenljiva b na liniji 15
+INFO  19:57:48,989 - Deklarisana promenljiva niz na liniji 16
+INFO  19:57:48,989 - Deklarisana promenljiva c na liniji 17
+INFO  19:57:48,989 - Deklarisana promenljiva d na liniji 18
+INFO  19:57:48,989 - Deklarisana promenljiva t2 na liniji 21
+INFO  19:57:48,989 - Deklarisana promenljiva t1 na liniji 21
+INFO  19:57:48,989 - Obradjuje se funkcija main na liniji 27
+INFO  19:57:49,000 - Parsiranje uspesno zavrseno!

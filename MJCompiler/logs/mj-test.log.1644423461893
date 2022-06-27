@@ -1,0 +1,71 @@
+INFO  17:17:27,750 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:17:27,781 - #2 program
+INFO  17:17:27,781 - #16 test302
+INFO  17:17:27,781 - #48 const
+INFO  17:17:27,782 - #16 int
+INFO  17:17:27,782 - #16 jedan
+INFO  17:17:27,782 - #13 =
+INFO  17:17:27,783 - #15 1
+INFO  17:17:27,783 - #5 ;
+INFO  17:17:27,783 - #16 int
+INFO  17:17:27,784 - #16 i
+INFO  17:17:27,784 - #5 ;
+INFO  17:17:27,784 - #16 bool
+INFO  17:17:27,784 - #16 ibool
+INFO  17:17:27,785 - #5 ;
+INFO  17:17:27,785 - #16 int
+INFO  17:17:27,785 - #16 niz2
+INFO  17:17:27,785 - #5 ;
+INFO  17:17:27,785 - #49 record
+INFO  17:17:27,785 - #16 Test
+INFO  17:17:27,785 - #3 {
+INFO  17:17:27,785 - #16 int
+INFO  17:17:27,785 - #16 niz
+INFO  17:17:27,787 - #50 [
+INFO  17:17:27,787 - #51 ]
+INFO  17:17:27,787 - #5 ;
+INFO  17:17:27,787 - #16 int
+INFO  17:17:27,787 - #16 a
+INFO  17:17:27,787 - #5 ;
+INFO  17:17:27,787 - #4 }
+INFO  17:17:27,787 - #16 int
+INFO  17:17:27,788 - #16 nizz
+INFO  17:17:27,788 - #50 [
+INFO  17:17:27,788 - #51 ]
+INFO  17:17:27,788 - #5 ;
+INFO  17:17:27,788 - #16 Test
+INFO  17:17:27,788 - #16 t1
+INFO  17:17:27,788 - #8 ,
+INFO  17:17:27,788 - #16 t2
+INFO  17:17:27,788 - #5 ;
+INFO  17:17:27,788 - #3 {
+INFO  17:17:27,789 - #14 void
+INFO  17:17:27,789 - #16 main
+INFO  17:17:27,789 - #6 (
+INFO  17:17:27,789 - #7 )
+INFO  17:17:27,790 - #3 {
+INFO  17:17:27,790 - #16 t1
+INFO  17:17:27,790 - #13 =
+INFO  17:17:27,791 - #36 new
+INFO  17:17:27,791 - #16 Test
+INFO  17:17:27,791 - #5 ;
+INFO  17:17:27,792 - #16 t1
+INFO  17:17:27,792 - #43 .
+INFO  17:17:27,792 - #16 a
+INFO  17:17:27,792 - #13 =
+INFO  17:17:27,792 - #15 5
+INFO  17:17:27,792 - #5 ;
+INFO  17:17:27,793 - #4 }
+INFO  17:17:27,793 - #4 }
+INFO  17:17:27,801 - Trenutan tip konstante je:  int na liniji 5
+INFO  17:17:27,801 - Deklarisana promenljiva i na liniji 7
+INFO  17:17:27,801 - Deklarisana promenljiva ibool na liniji 8
+INFO  17:17:27,801 - Deklarisana promenljiva niz2 na liniji 10
+INFO  17:17:27,801 - Deklarisana je rekord :  Test na liniji 12
+INFO  17:17:27,801 - Deklarisana promenljiva niz na liniji 13
+INFO  17:17:27,801 - Deklarisana promenljiva a na liniji 14
+INFO  17:17:27,801 - Deklarisana promenljiva nizz na liniji 18
+INFO  17:17:27,801 - Deklarisana promenljiva t2 na liniji 19
+INFO  17:17:27,804 - Deklarisana promenljiva t1 na liniji 19
+INFO  17:17:27,804 - Obradjuje se funkcija main na liniji 25
+INFO  17:17:27,815 - Parsiranje uspesno zavrseno!

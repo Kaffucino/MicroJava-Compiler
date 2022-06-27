@@ -1,0 +1,54 @@
+INFO  14:16:35,550 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:16:35,642 - #2 program
+INFO  14:16:35,642 - #16 PR
+INFO  14:16:35,642 - #16 int
+INFO  14:16:35,643 - #16 x
+INFO  14:16:35,645 - #8 ,
+INFO  14:16:35,645 - #16 z
+INFO  14:16:35,645 - #5 ;
+INFO  14:16:35,646 - #48 const
+INFO  14:16:35,646 - #16 bool
+INFO  14:16:35,646 - #16 Cofi
+INFO  14:16:35,646 - #13 =
+INFO  14:16:35,646 - #15 1
+INFO  14:16:35,646 - #5 ;
+INFO  14:16:35,647 - #3 {
+INFO  14:16:35,649 - #16 int
+INFO  14:16:35,649 - #16 fun
+INFO  14:16:35,649 - #6 (
+INFO  14:16:35,650 - #16 int
+INFO  14:16:35,650 - #16 x
+INFO  14:16:35,650 - #8 ,
+INFO  14:16:35,650 - #16 int
+INFO  14:16:35,650 - #16 y
+INFO  14:16:35,651 - #7 )
+INFO  14:16:35,652 - #16 int
+INFO  14:16:35,652 - #16 z
+INFO  14:16:35,652 - #5 ;
+INFO  14:16:35,652 - #3 {
+INFO  14:16:35,653 - #10 return
+INFO  14:16:35,653 - #15 0
+INFO  14:16:35,653 - #5 ;
+INFO  14:16:35,655 - #4 }
+INFO  14:16:35,656 - #16 int
+INFO  14:16:35,656 - #16 main
+INFO  14:16:35,656 - #6 (
+INFO  14:16:35,656 - #7 )
+INFO  14:16:35,657 - #16 int
+INFO  14:16:35,657 - #16 y
+INFO  14:16:35,657 - #8 ,
+INFO  14:16:35,657 - #16 zz
+INFO  14:16:35,658 - #50 [
+INFO  14:16:35,658 - #51 ]
+INFO  14:16:35,658 - #5 ;
+INFO  14:16:35,658 - #3 {
+INFO  14:16:35,658 - #4 }
+INFO  14:16:35,658 - #4 }
+INFO  14:16:35,668 - Deklarisana promenljiva z na liniji 3
+INFO  14:16:35,668 - Deklarisana promenljiva x na liniji 3
+INFO  14:16:35,668 - Trenutan tip konstante je:  bool na liniji 5
+ERROR 14:16:35,668 - Greska na liniji 5 : Tip bool ne odgovara vrednosti konstante Cofi
+INFO  14:16:35,668 - Deklarisana promenljiva z na liniji 9
+INFO  14:16:35,668 - Deklarisana promenljiva zz na liniji 15
+INFO  14:16:35,668 - Deklarisana promenljiva y na liniji 15
+ERROR 14:16:35,669 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,66 @@
+INFO  18:03:34,241 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:03:34,269 - #2 program
+INFO  18:03:34,269 - #16 COfa
+INFO  18:03:34,269 - #16 int
+INFO  18:03:34,269 - #16 x
+INFO  18:03:34,270 - #50 [
+INFO  18:03:34,270 - #51 ]
+INFO  18:03:34,270 - #5 ;
+INFO  18:03:34,270 - #16 char
+INFO  18:03:34,271 - #16 z
+INFO  18:03:34,271 - #5 ;
+INFO  18:03:34,271 - #16 int
+INFO  18:03:34,271 - #16 y
+INFO  18:03:34,271 - #5 ;
+INFO  18:03:34,271 - #3 {
+INFO  18:03:34,271 - #14 void
+INFO  18:03:34,271 - #16 zbir
+INFO  18:03:34,272 - #6 (
+INFO  18:03:34,272 - #7 )
+INFO  18:03:34,273 - #3 {
+INFO  18:03:34,273 - #4 }
+INFO  18:03:34,274 - #16 int
+INFO  18:03:34,274 - #16 main
+INFO  18:03:34,279 - #6 (
+INFO  18:03:34,279 - #7 )
+INFO  18:03:34,279 - #3 {
+INFO  18:03:34,279 - #16 x
+INFO  18:03:34,279 - #13 =
+INFO  18:03:34,280 - #36 new
+INFO  18:03:34,280 - #16 int
+INFO  18:03:34,280 - #50 [
+INFO  18:03:34,280 - #16 z
+INFO  18:03:34,280 - #51 ]
+INFO  18:03:34,281 - #5 ;
+INFO  18:03:34,281 - #16 zbir
+INFO  18:03:34,281 - #6 (
+INFO  18:03:34,281 - #7 )
+INFO  18:03:34,281 - #5 ;
+INFO  18:03:34,282 - #19 if
+INFO  18:03:34,282 - #6 (
+INFO  18:03:34,282 - #16 x
+INFO  18:03:34,282 - #45 ||
+INFO  18:03:34,282 - #16 x
+INFO  18:03:34,282 - #7 )
+INFO  18:03:34,283 - #3 {
+INFO  18:03:34,283 - #16 y
+INFO  18:03:34,283 - #13 =
+INFO  18:03:34,283 - #16 x
+INFO  18:03:34,283 - #50 [
+INFO  18:03:34,283 - #16 y
+INFO  18:03:34,283 - #51 ]
+INFO  18:03:34,284 - #5 ;
+INFO  18:03:34,284 - #4 }
+INFO  18:03:34,284 - #10 return
+INFO  18:03:34,285 - #15 20
+INFO  18:03:34,285 - #5 ;
+INFO  18:03:34,285 - #4 }
+INFO  18:03:34,285 - #4 }
+INFO  18:03:34,292 - Deklarisana promenljiva x na liniji 3
+INFO  18:03:34,292 - Deklarisana promenljiva z na liniji 4
+INFO  18:03:34,292 - Deklarisana promenljiva y na liniji 6
+INFO  18:03:34,292 - Obradjuje se funkcija zbir na liniji 9
+INFO  18:03:34,292 - Obradjuje se funkcija main na liniji 12
+ERROR 18:03:34,293 - Semanticka greska na liniji 13 nekompatibilni tipovi prilikom dodele!
+INFO  18:03:34,293 - Pronadjen poziv funkcije zbir na liniji 15
+ERROR 18:03:34,294 - Parsiranje NIJE uspesno zavrseno!

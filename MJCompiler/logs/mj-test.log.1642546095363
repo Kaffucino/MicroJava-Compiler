@@ -1,0 +1,39 @@
+INFO  23:47:58,227 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:47:58,260 - #2 program
+INFO  23:47:58,260 - #16 COFI
+INFO  23:47:58,260 - #49 record
+INFO  23:47:58,260 - #16 Predmet
+INFO  23:47:58,260 - #3 {
+INFO  23:47:58,261 - #16 int
+INFO  23:47:58,261 - #16 tezina
+INFO  23:47:58,261 - #5 ;
+INFO  23:47:58,261 - #16 int
+INFO  23:47:58,261 - #16 koefTezine
+INFO  23:47:58,261 - #5 ;
+INFO  23:47:58,261 - #16 char
+INFO  23:47:58,262 - #16 vrsta
+INFO  23:47:58,262 - #5 ;
+INFO  23:47:58,262 - #16 int
+INFO  23:47:58,262 - #16 Cofa
+INFO  23:47:58,262 - #6 (
+ERROR 23:47:58,262 - 
+Sintaksna greska na liniji 8
+INFO  23:47:58,262 - #7 )
+INFO  23:47:58,262 - #3 {
+INFO  23:47:58,262 - #10 return
+INFO  23:47:58,263 - #15 1
+INFO  23:47:58,263 - #5 ;
+INFO  23:47:58,263 - #4 }
+INFO  23:47:58,263 - #4 }
+ERROR 23:47:58,263 - Izvrsen oporavak do ; u liniji 9
+ERROR 23:47:58,263 - 
+Sintaksna greska na liniji 11
+INFO  23:47:58,263 - #3 {
+INFO  23:47:58,263 - #14 void
+INFO  23:47:58,263 - #16 main
+INFO  23:47:58,263 - #6 (
+INFO  23:47:58,263 - #7 )
+INFO  23:47:58,263 - #3 {
+INFO  23:47:58,263 - #4 }
+INFO  23:47:58,264 - #4 }
+ERROR 23:47:58,264 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 26

@@ -1,0 +1,44 @@
+INFO  15:33:13,107 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:33:13,117 - #2 program
+INFO  15:33:13,117 - #15 MJProgram
+INFO  15:33:13,117 - #15 int
+INFO  15:33:13,117 - #15 x
+INFO  15:33:13,118 - #22 [
+INFO  15:33:13,118 - #23 ]
+INFO  15:33:13,118 - #8 ,
+INFO  15:33:13,118 - #15 y
+INFO  15:33:13,118 - #8 ,
+INFO  15:33:13,118 - #15 z
+INFO  15:33:13,118 - #22 [
+INFO  15:33:13,118 - #23 ]
+INFO  15:33:13,118 - #8 ,
+INFO  15:33:13,118 - #15 w
+INFO  15:33:13,118 - #5 ;
+INFO  15:33:13,119 - #20 const
+INFO  15:33:13,120 - #15 int
+INFO  15:33:13,120 - #15 y
+INFO  15:33:13,120 - #12 =
+INFO  15:33:13,120 - #14 5
+INFO  15:33:13,120 - #8 ,
+INFO  15:33:13,120 - #15 z
+INFO  15:33:13,120 - #12 =
+INFO  15:33:13,125 - #14 6
+INFO  15:33:13,125 - #8 ,
+INFO  15:33:13,126 - #15 w
+INFO  15:33:13,126 - #12 =
+INFO  15:33:13,126 - #14 8
+INFO  15:33:13,126 - #5 ;
+INFO  15:33:13,127 - #20 const
+INFO  15:33:13,127 - #15 bool
+INFO  15:33:13,127 - #15 lol
+INFO  15:33:13,127 - #12 =
+INFO  15:33:13,127 - #17 false
+INFO  15:33:13,127 - #5 ;
+INFO  15:33:13,128 - #20 const
+INFO  15:33:13,128 - #15 char
+INFO  15:33:13,128 - #15 zz
+INFO  15:33:13,128 - #12 =
+INFO  15:33:13,128 - #15 aa
+ERROR 15:33:13,128 - 
+Sintaksna greska na liniji 6
+ERROR 15:33:13,128 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

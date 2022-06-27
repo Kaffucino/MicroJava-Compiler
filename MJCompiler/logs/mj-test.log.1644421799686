@@ -1,0 +1,68 @@
+INFO  16:49:39,909 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:49:39,941 - #2 program
+INFO  16:49:39,942 - #16 test302
+INFO  16:49:39,942 - #48 const
+INFO  16:49:39,942 - #16 int
+INFO  16:49:39,942 - #16 jedan
+INFO  16:49:39,942 - #13 =
+INFO  16:49:39,943 - #15 1
+INFO  16:49:39,943 - #5 ;
+INFO  16:49:39,943 - #16 int
+INFO  16:49:39,944 - #16 i
+INFO  16:49:39,944 - #5 ;
+INFO  16:49:39,944 - #16 bool
+INFO  16:49:39,944 - #16 ibool
+INFO  16:49:39,944 - #5 ;
+INFO  16:49:39,944 - #16 int
+INFO  16:49:39,944 - #16 niz2
+INFO  16:49:39,944 - #5 ;
+INFO  16:49:39,944 - #49 record
+INFO  16:49:39,945 - #16 Test
+INFO  16:49:39,945 - #3 {
+INFO  16:49:39,945 - #16 int
+INFO  16:49:39,945 - #16 niz
+INFO  16:49:39,945 - #50 [
+INFO  16:49:39,945 - #51 ]
+INFO  16:49:39,945 - #5 ;
+INFO  16:49:39,945 - #16 int
+INFO  16:49:39,946 - #16 a
+INFO  16:49:39,946 - #5 ;
+INFO  16:49:39,946 - #4 }
+INFO  16:49:39,946 - #16 int
+INFO  16:49:39,947 - #16 nizz
+INFO  16:49:39,947 - #50 [
+INFO  16:49:39,947 - #51 ]
+INFO  16:49:39,947 - #5 ;
+INFO  16:49:39,947 - #16 Test
+INFO  16:49:39,947 - #16 t1
+INFO  16:49:39,947 - #8 ,
+INFO  16:49:39,947 - #16 t2
+INFO  16:49:39,947 - #5 ;
+INFO  16:49:39,947 - #3 {
+INFO  16:49:39,948 - #14 void
+INFO  16:49:39,948 - #16 main
+INFO  16:49:39,948 - #6 (
+INFO  16:49:39,949 - #7 )
+INFO  16:49:39,949 - #3 {
+INFO  16:49:39,949 - #16 nizz
+INFO  16:49:39,949 - #13 =
+INFO  16:49:39,950 - #36 new
+INFO  16:49:39,950 - #16 int
+INFO  16:49:39,950 - #50 [
+INFO  16:49:39,951 - #15 10
+INFO  16:49:39,951 - #51 ]
+INFO  16:49:39,952 - #5 ;
+INFO  16:49:39,952 - #4 }
+INFO  16:49:39,953 - #4 }
+INFO  16:49:39,960 - Trenutan tip konstante je:  int na liniji 5
+INFO  16:49:39,960 - Deklarisana promenljiva i na liniji 7
+INFO  16:49:39,960 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:49:39,960 - Deklarisana promenljiva niz2 na liniji 10
+INFO  16:49:39,960 - Deklarisana je rekord :  Test na liniji 12
+INFO  16:49:39,960 - Deklarisana promenljiva niz na liniji 13
+INFO  16:49:39,961 - Deklarisana promenljiva a na liniji 14
+INFO  16:49:39,961 - Deklarisana promenljiva nizz na liniji 18
+INFO  16:49:39,961 - Deklarisana promenljiva t2 na liniji 19
+INFO  16:49:39,961 - Deklarisana promenljiva t1 na liniji 19
+INFO  16:49:39,961 - Obradjuje se funkcija main na liniji 25
+INFO  16:49:39,975 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,59 @@
+INFO  15:40:02,407 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:40:02,437 - #2 program
+INFO  15:40:02,437 - #16 Prog
+INFO  15:40:02,437 - #16 int
+INFO  15:40:02,437 - #16 y
+INFO  15:40:02,437 - #5 ;
+INFO  15:40:02,438 - #3 {
+INFO  15:40:02,438 - #14 void
+INFO  15:40:02,438 - #16 main
+INFO  15:40:02,439 - #6 (
+INFO  15:40:02,439 - #7 )
+INFO  15:40:02,439 - #16 int
+INFO  15:40:02,439 - #16 x
+INFO  15:40:02,440 - #5 ;
+INFO  15:40:02,440 - #3 {
+INFO  15:40:02,440 - #16 x
+INFO  15:40:02,440 - #13 =
+INFO  15:40:02,440 - #15 5
+INFO  15:40:02,441 - #5 ;
+INFO  15:40:02,442 - #16 y
+INFO  15:40:02,442 - #13 =
+INFO  15:40:02,442 - #15 22
+INFO  15:40:02,442 - #5 ;
+INFO  15:40:02,442 - #9 print
+INFO  15:40:02,443 - #6 (
+INFO  15:40:02,443 - #16 x
+INFO  15:40:02,443 - #7 )
+INFO  15:40:02,443 - #5 ;
+INFO  15:40:02,443 - #9 print
+INFO  15:40:02,443 - #6 (
+INFO  15:40:02,443 - #16 y
+INFO  15:40:02,443 - #7 )
+INFO  15:40:02,443 - #5 ;
+INFO  15:40:02,443 - #4 }
+INFO  15:40:02,444 - #16 int
+INFO  15:40:02,444 - #16 main2
+INFO  15:40:02,444 - #6 (
+INFO  15:40:02,444 - #16 int
+INFO  15:40:02,444 - #16 x
+INFO  15:40:02,444 - #8 ,
+INFO  15:40:02,445 - #16 int
+INFO  15:40:02,445 - #16 yy
+INFO  15:40:02,445 - #7 )
+INFO  15:40:02,445 - #3 {
+INFO  15:40:02,445 - #9 print
+INFO  15:40:02,445 - #6 (
+INFO  15:40:02,445 - #15 1
+INFO  15:40:02,445 - #7 )
+INFO  15:40:02,445 - #5 ;
+INFO  15:40:02,446 - #4 }
+INFO  15:40:02,446 - #4 }
+INFO  15:40:02,453 - Deklarisana promenljiva y na liniji 3
+INFO  15:40:02,453 - Obradjuje se funkcija main na liniji 9
+INFO  15:40:02,453 - Deklarisana promenljiva x na liniji 9
+INFO  15:40:02,453 - Obradjuje se funkcija main2 na liniji 17
+INFO  15:40:02,453 - Naveden argument yy na liniji 17
+INFO  15:40:02,453 - Naveden argument x na liniji 17
+ERROR 15:40:02,454 - Semanticka greska na liniji 17: funkcija main2 nema return iskaz!
+ERROR 15:40:02,454 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,50 @@
+INFO  23:43:56,483 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:43:56,513 - #2 program
+INFO  23:43:56,513 - #16 COFI
+INFO  23:43:56,513 - #49 record
+INFO  23:43:56,513 - #16 Predmet
+INFO  23:43:56,513 - #3 {
+INFO  23:43:56,513 - #16 int
+INFO  23:43:56,514 - #16 tezina
+INFO  23:43:56,514 - #5 ;
+INFO  23:43:56,514 - #16 int
+INFO  23:43:56,514 - #16 koefTezine
+INFO  23:43:56,514 - #5 ;
+INFO  23:43:56,514 - #16 char
+INFO  23:43:56,514 - #16 vrsta
+INFO  23:43:56,515 - #5 ;
+INFO  23:43:56,515 - #4 }
+INFO  23:43:56,515 - #32 class
+INFO  23:43:56,515 - #16 Predmet2
+INFO  23:43:56,515 - #38 extends
+INFO  23:43:56,515 - #16 Predmet
+INFO  23:43:56,515 - #3 {
+INFO  23:43:56,515 - #16 int
+INFO  23:43:56,520 - #16 tezina
+INFO  23:43:56,520 - #5 ;
+INFO  23:43:56,520 - #16 int
+INFO  23:43:56,520 - #16 koefTezine
+INFO  23:43:56,520 - #5 ;
+INFO  23:43:56,520 - #16 char
+INFO  23:43:56,520 - #16 vrsta
+INFO  23:43:56,521 - #5 ;
+INFO  23:43:56,521 - #4 }
+INFO  23:43:56,521 - #3 {
+INFO  23:43:56,522 - #14 void
+INFO  23:43:56,522 - #16 main
+INFO  23:43:56,522 - #6 (
+INFO  23:43:56,523 - #7 )
+INFO  23:43:56,523 - #3 {
+INFO  23:43:56,523 - #4 }
+INFO  23:43:56,523 - #4 }
+INFO  23:43:56,530 - Deklarisana promenljiva tezina na liniji 5
+INFO  23:43:56,530 - Deklarisana promenljiva koefTezine na liniji 6
+INFO  23:43:56,530 - Deklarisana promenljiva vrsta na liniji 7
+INFO  23:43:56,530 - Deklarisana je rekord :  Predmet na liniji 3
+ERROR 23:43:56,530 - Greska na liniji 13 Predmet predstavlja rekord! 
+ERROR 23:43:56,530 - Promenljiva tezina je vec deklarisana!
+ERROR 23:43:56,530 - Promenljiva koefTezine je vec deklarisana!
+ERROR 23:43:56,530 - Promenljiva vrsta je vec deklarisana!
+INFO  23:43:56,530 - Deklarisana je klasa :  Predmet2 na liniji 13
+INFO  23:43:56,530 - Obradjuje se funkcija main na liniji 24
+ERROR 23:43:56,531 - Parsiranje NIJE uspesno zavrseno!

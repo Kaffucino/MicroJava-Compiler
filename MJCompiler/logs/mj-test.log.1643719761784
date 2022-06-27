@@ -1,0 +1,17 @@
+INFO  13:48:52,436 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:48:52,470 - #2 program
+INFO  13:48:52,470 - #16 COfa
+INFO  13:48:52,470 - #16 int
+INFO  13:48:52,471 - #16 x
+INFO  13:48:52,471 - #5 ;
+INFO  13:48:52,471 - #3 {
+INFO  13:48:52,472 - #14 void
+INFO  13:48:52,472 - #16 main
+INFO  13:48:52,478 - #6 (
+INFO  13:48:52,478 - #7 )
+INFO  13:48:52,479 - #3 {
+INFO  13:48:52,479 - #4 }
+INFO  13:48:52,479 - #4 }
+INFO  13:48:52,488 - Deklarisana promenljiva x na liniji 3
+INFO  13:48:52,488 - Obradjuje se funkcija main na liniji 9
+INFO  13:48:52,496 - Parsiranje uspesno zavrseno!

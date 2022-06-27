@@ -1,0 +1,64 @@
+INFO  19:38:26,544 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:38:26,576 - #2 program
+INFO  19:38:26,576 - #16 Cofa
+INFO  19:38:26,576 - #49 record
+INFO  19:38:26,577 - #16 Rek
+INFO  19:38:26,577 - #3 {
+INFO  19:38:26,577 - #16 int
+INFO  19:38:26,577 - #16 niz
+INFO  19:38:26,578 - #50 [
+INFO  19:38:26,578 - #51 ]
+INFO  19:38:26,578 - #5 ;
+INFO  19:38:26,578 - #16 int
+INFO  19:38:26,578 - #16 b
+INFO  19:38:26,578 - #5 ;
+INFO  19:38:26,578 - #4 }
+INFO  19:38:26,579 - #16 Rek
+INFO  19:38:26,579 - #16 r
+INFO  19:38:26,579 - #5 ;
+INFO  19:38:26,579 - #3 {
+INFO  19:38:26,580 - #14 void
+INFO  19:38:26,580 - #16 main
+INFO  19:38:26,580 - #6 (
+INFO  19:38:26,580 - #7 )
+INFO  19:38:26,581 - #3 {
+INFO  19:38:26,581 - #16 r
+INFO  19:38:26,581 - #13 =
+INFO  19:38:26,582 - #36 new
+INFO  19:38:26,582 - #16 Rek
+INFO  19:38:26,582 - #5 ;
+INFO  19:38:26,583 - #16 r
+INFO  19:38:26,584 - #43 .
+INFO  19:38:26,584 - #16 niz
+INFO  19:38:26,584 - #13 =
+INFO  19:38:26,584 - #36 new
+INFO  19:38:26,584 - #16 int
+INFO  19:38:26,584 - #50 [
+INFO  19:38:26,584 - #15 5
+INFO  19:38:26,584 - #51 ]
+INFO  19:38:26,584 - #5 ;
+INFO  19:38:26,584 - #16 r
+INFO  19:38:26,584 - #43 .
+INFO  19:38:26,584 - #16 niz
+INFO  19:38:26,584 - #50 [
+INFO  19:38:26,584 - #15 0
+INFO  19:38:26,584 - #51 ]
+INFO  19:38:26,584 - #13 =
+INFO  19:38:26,585 - #15 5
+INFO  19:38:26,585 - #5 ;
+INFO  19:38:26,585 - #16 r
+INFO  19:38:26,585 - #43 .
+INFO  19:38:26,585 - #16 niz
+INFO  19:38:26,585 - #50 [
+INFO  19:38:26,585 - #15 0
+INFO  19:38:26,585 - #51 ]
+INFO  19:38:26,585 - #46 ++
+INFO  19:38:26,585 - #5 ;
+INFO  19:38:26,585 - #4 }
+INFO  19:38:26,585 - #4 }
+INFO  19:38:26,593 - Deklarisana je rekord :  Rek na liniji 3
+INFO  19:38:26,593 - Deklarisana promenljiva niz na liniji 5
+INFO  19:38:26,593 - Deklarisana promenljiva b na liniji 6
+INFO  19:38:26,594 - Deklarisana promenljiva r na liniji 9
+INFO  19:38:26,594 - Obradjuje se funkcija main na liniji 13
+INFO  19:38:26,604 - Parsiranje uspesno zavrseno!

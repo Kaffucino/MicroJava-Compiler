@@ -1,0 +1,127 @@
+INFO  16:21:17,027 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:21:17,056 - #2 program
+INFO  16:21:17,056 - #16 PR
+INFO  16:21:17,056 - #16 char
+INFO  16:21:17,057 - #16 x
+INFO  16:21:17,057 - #5 ;
+INFO  16:21:17,057 - #48 const
+INFO  16:21:17,058 - #16 bool
+INFO  16:21:17,058 - #16 Cofi
+INFO  16:21:17,058 - #13 =
+INFO  16:21:17,058 - #18 true
+INFO  16:21:17,058 - #5 ;
+INFO  16:21:17,058 - #49 record
+INFO  16:21:17,059 - #16 Board
+INFO  16:21:17,059 - #3 {
+INFO  16:21:17,059 - #16 int
+INFO  16:21:17,059 - #16 rows
+INFO  16:21:17,059 - #8 ,
+INFO  16:21:17,059 - #16 columns
+INFO  16:21:17,059 - #5 ;
+INFO  16:21:17,059 - #4 }
+INFO  16:21:17,060 - #32 class
+INFO  16:21:17,060 - #16 Table
+INFO  16:21:17,062 - #38 extends
+INFO  16:21:17,062 - #16 Board
+INFO  16:21:17,062 - #3 {
+INFO  16:21:17,062 - #16 int
+INFO  16:21:17,062 - #16 pos
+INFO  16:21:17,062 - #50 [
+INFO  16:21:17,062 - #51 ]
+INFO  16:21:17,062 - #8 ,
+INFO  16:21:17,062 - #16 neg
+INFO  16:21:17,062 - #50 [
+INFO  16:21:17,062 - #51 ]
+INFO  16:21:17,062 - #5 ;
+INFO  16:21:17,062 - #3 {
+INFO  16:21:17,063 - #14 void
+INFO  16:21:17,064 - #16 putp
+INFO  16:21:17,064 - #6 (
+INFO  16:21:17,064 - #7 )
+INFO  16:21:17,065 - #3 {
+INFO  16:21:17,065 - #4 }
+INFO  16:21:17,065 - #4 }
+INFO  16:21:17,066 - #4 }
+INFO  16:21:17,066 - #32 class
+INFO  16:21:17,066 - #16 Lola
+INFO  16:21:17,066 - #3 {
+INFO  16:21:17,066 - #16 int
+INFO  16:21:17,066 - #16 c
+INFO  16:21:17,066 - #8 ,
+INFO  16:21:17,067 - #16 cc
+INFO  16:21:17,067 - #5 ;
+INFO  16:21:17,067 - #3 {
+INFO  16:21:17,067 - #14 void
+INFO  16:21:17,067 - #16 putp
+INFO  16:21:17,067 - #6 (
+INFO  16:21:17,067 - #7 )
+INFO  16:21:17,067 - #3 {
+INFO  16:21:17,067 - #4 }
+INFO  16:21:17,067 - #4 }
+INFO  16:21:17,067 - #4 }
+INFO  16:21:17,067 - #3 {
+INFO  16:21:17,067 - #16 int
+INFO  16:21:17,068 - #16 fun
+INFO  16:21:17,068 - #6 (
+INFO  16:21:17,068 - #16 int
+INFO  16:21:17,068 - #16 x
+INFO  16:21:17,068 - #8 ,
+INFO  16:21:17,068 - #16 int
+INFO  16:21:17,068 - #16 y
+INFO  16:21:17,068 - #7 )
+INFO  16:21:17,068 - #16 int
+INFO  16:21:17,068 - #16 z
+INFO  16:21:17,069 - #5 ;
+INFO  16:21:17,069 - #3 {
+INFO  16:21:17,069 - #10 return
+INFO  16:21:17,069 - #15 0
+INFO  16:21:17,069 - #5 ;
+INFO  16:21:17,070 - #4 }
+INFO  16:21:17,070 - #16 int
+INFO  16:21:17,070 - #16 fun2
+INFO  16:21:17,070 - #6 (
+INFO  16:21:17,070 - #16 int
+INFO  16:21:17,070 - #16 x
+INFO  16:21:17,070 - #8 ,
+INFO  16:21:17,070 - #16 int
+INFO  16:21:17,070 - #16 y
+INFO  16:21:17,070 - #7 )
+INFO  16:21:17,070 - #16 int
+INFO  16:21:17,070 - #16 z
+INFO  16:21:17,070 - #5 ;
+INFO  16:21:17,070 - #3 {
+INFO  16:21:17,070 - #10 return
+INFO  16:21:17,070 - #15 0
+INFO  16:21:17,070 - #5 ;
+INFO  16:21:17,070 - #4 }
+INFO  16:21:17,071 - #16 int
+INFO  16:21:17,071 - #16 main
+INFO  16:21:17,071 - #6 (
+INFO  16:21:17,071 - #7 )
+INFO  16:21:17,071 - #16 int
+INFO  16:21:17,071 - #16 y
+INFO  16:21:17,071 - #8 ,
+INFO  16:21:17,071 - #16 zz
+INFO  16:21:17,071 - #50 [
+INFO  16:21:17,071 - #51 ]
+INFO  16:21:17,071 - #5 ;
+INFO  16:21:17,071 - #3 {
+INFO  16:21:17,071 - #4 }
+INFO  16:21:17,071 - #4 }
+INFO  16:21:17,076 - Deklarisana promenljiva x na liniji 5
+INFO  16:21:17,077 - Trenutan tip konstante je:  bool na liniji 7
+INFO  16:21:17,077 - Deklarisana promenljiva columns na liniji 10
+INFO  16:21:17,077 - Deklarisana promenljiva rows na liniji 10
+INFO  16:21:17,077 - Deklarisana je rekord :  Board na liniji 9
+ERROR 16:21:17,077 - Greska na liniji 14 Board predstavlja rekord! 
+INFO  16:21:17,077 - Deklarisana promenljiva neg na liniji 15
+INFO  16:21:17,077 - Deklarisana promenljiva pos na liniji 15
+INFO  16:21:17,077 - Deklarisana je klasa :  Table na liniji 14
+INFO  16:21:17,077 - Deklarisana promenljiva cc na liniji 26
+INFO  16:21:17,077 - Deklarisana promenljiva c na liniji 26
+INFO  16:21:17,077 - Deklarisana je klasa :  Lola na liniji 25
+INFO  16:21:17,077 - Deklarisana promenljiva z na liniji 41
+ERROR 16:21:17,077 - Promenljiva z je vec deklarisana!
+INFO  16:21:17,077 - Deklarisana promenljiva zz na liniji 53
+INFO  16:21:17,077 - Deklarisana promenljiva y na liniji 53
+ERROR 16:21:17,078 - Parsiranje NIJE uspesno zavrseno!

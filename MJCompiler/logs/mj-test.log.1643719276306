@@ -1,0 +1,23 @@
+INFO  01:14:11,547 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:14:11,577 - #2 program
+INFO  01:14:11,577 - #16 COfa
+INFO  01:14:11,577 - #16 char
+INFO  01:14:11,577 - #16 x
+INFO  01:14:11,578 - #5 ;
+INFO  01:14:11,578 - #3 {
+INFO  01:14:11,579 - #16 char
+INFO  01:14:11,579 - #16 main
+INFO  01:14:11,579 - #6 (
+INFO  01:14:11,579 - #7 )
+INFO  01:14:11,580 - #3 {
+INFO  01:14:11,580 - #10 return
+INFO  01:14:11,580 - #16 z
+INFO  01:14:11,580 - #5 ;
+INFO  01:14:11,581 - #4 }
+INFO  01:14:11,582 - #4 }
+INFO  01:14:11,588 - Deklarisana promenljiva x na liniji 3
+INFO  01:14:11,588 - Obradjuje se funkcija main na liniji 9
+ERROR 01:14:11,588 - Greska na liniji 11 : ime z nije deklarisano! 
+ERROR 01:14:11,588 - Semanticka greska na liniji 11  z ne postoji!
+ERROR 01:14:11,588 - Semanticka greska na liniji 11: funkcija main kao povratni tip prihvata: char
+ERROR 01:14:11,588 - Parsiranje NIJE uspesno zavrseno!

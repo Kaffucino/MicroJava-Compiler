@@ -1,0 +1,62 @@
+INFO  18:04:13,365 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:04:13,395 - #2 program
+INFO  18:04:13,395 - #16 COfa
+INFO  18:04:13,395 - #16 int
+INFO  18:04:13,395 - #16 x
+INFO  18:04:13,396 - #50 [
+INFO  18:04:13,396 - #51 ]
+INFO  18:04:13,396 - #5 ;
+INFO  18:04:13,396 - #16 int
+INFO  18:04:13,396 - #16 z
+INFO  18:04:13,396 - #5 ;
+INFO  18:04:13,396 - #16 int
+INFO  18:04:13,397 - #16 y
+INFO  18:04:13,397 - #5 ;
+INFO  18:04:13,397 - #3 {
+INFO  18:04:13,397 - #14 void
+INFO  18:04:13,397 - #16 zbir
+INFO  18:04:13,398 - #6 (
+INFO  18:04:13,398 - #7 )
+INFO  18:04:13,398 - #3 {
+INFO  18:04:13,399 - #4 }
+INFO  18:04:13,399 - #16 int
+INFO  18:04:13,399 - #16 main
+INFO  18:04:13,401 - #6 (
+INFO  18:04:13,401 - #7 )
+INFO  18:04:13,401 - #3 {
+INFO  18:04:13,401 - #16 zbir
+INFO  18:04:13,401 - #6 (
+INFO  18:04:13,401 - #7 )
+INFO  18:04:13,401 - #5 ;
+INFO  18:04:13,402 - #19 if
+INFO  18:04:13,402 - #6 (
+INFO  18:04:13,402 - #16 x
+INFO  18:04:13,402 - #45 ||
+INFO  18:04:13,403 - #16 x
+INFO  18:04:13,403 - #7 )
+INFO  18:04:13,404 - #3 {
+INFO  18:04:13,404 - #16 y
+INFO  18:04:13,404 - #13 =
+INFO  18:04:13,404 - #16 x
+INFO  18:04:13,405 - #50 [
+INFO  18:04:13,405 - #6 (
+INFO  18:04:13,405 - #16 z
+INFO  18:04:13,405 - #11 +
+INFO  18:04:13,405 - #15 5
+INFO  18:04:13,405 - #7 )
+INFO  18:04:13,406 - #51 ]
+INFO  18:04:13,406 - #5 ;
+INFO  18:04:13,406 - #4 }
+INFO  18:04:13,406 - #10 return
+INFO  18:04:13,407 - #15 20
+INFO  18:04:13,407 - #5 ;
+INFO  18:04:13,407 - #4 }
+INFO  18:04:13,407 - #4 }
+INFO  18:04:13,413 - Deklarisana promenljiva x na liniji 3
+INFO  18:04:13,413 - Deklarisana promenljiva z na liniji 4
+INFO  18:04:13,413 - Deklarisana promenljiva y na liniji 6
+INFO  18:04:13,413 - Obradjuje se funkcija zbir na liniji 9
+INFO  18:04:13,413 - Obradjuje se funkcija main na liniji 12
+INFO  18:04:13,413 - Pronadjen poziv funkcije zbir na liniji 15
+ERROR 18:04:13,413 - Semanticka greska na liniji 17 za indexiranje je potreban tip int!
+ERROR 18:04:13,414 - Parsiranje NIJE uspesno zavrseno!

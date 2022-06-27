@@ -1,0 +1,49 @@
+INFO  23:54:00,492 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:54:00,524 - #2 program
+INFO  23:54:00,524 - #16 Cofi
+INFO  23:54:00,524 - #16 int
+INFO  23:54:00,524 - #16 y
+INFO  23:54:00,525 - #5 ;
+INFO  23:54:00,525 - #16 char
+INFO  23:54:00,525 - #16 zz
+INFO  23:54:00,525 - #5 ;
+INFO  23:54:00,526 - #16 bool
+INFO  23:54:00,526 - #16 zy
+INFO  23:54:00,526 - #5 ;
+INFO  23:54:00,526 - #3 {
+INFO  23:54:00,526 - #16 int
+INFO  23:54:00,526 - #16 main
+INFO  23:54:00,526 - #6 (
+INFO  23:54:00,527 - #7 )
+INFO  23:54:00,527 - #16 int
+INFO  23:54:00,527 - #16 x
+INFO  23:54:00,527 - #5 ;
+INFO  23:54:00,527 - #3 {
+INFO  23:54:00,528 - #16 skip
+INFO  23:54:00,528 - #21 :
+INFO  23:54:00,528 - #16 x
+INFO  23:54:00,528 - #46 ++
+INFO  23:54:00,529 - #5 ;
+INFO  23:54:00,529 - #42 goto
+INFO  23:54:00,529 - #16 skip
+INFO  23:54:00,529 - #5 ;
+INFO  23:54:00,529 - #4 }
+INFO  23:54:00,530 - #14 void
+INFO  23:54:00,530 - #16 main2
+INFO  23:54:00,530 - #6 (
+INFO  23:54:00,530 - #7 )
+INFO  23:54:00,530 - #16 int
+INFO  23:54:00,530 - #16 x
+INFO  23:54:00,531 - #5 ;
+INFO  23:54:00,531 - #3 {
+INFO  23:54:00,531 - #4 }
+INFO  23:54:00,531 - #4 }
+INFO  23:54:00,537 - Deklarisana promenljiva y na liniji 3
+INFO  23:54:00,538 - Deklarisana promenljiva zz na liniji 4
+INFO  23:54:00,538 - Deklarisana promenljiva zy na liniji 5
+INFO  23:54:00,538 - Obradjuje se funkcija main na liniji 9
+INFO  23:54:00,538 - Deklarisana promenljiva x na liniji 9
+ERROR 23:54:00,538 - Semanticka greska na liniji 9: funkcija main nema return iskaz!
+INFO  23:54:00,538 - Obradjuje se funkcija main2 na liniji 15
+INFO  23:54:00,538 - Deklarisana promenljiva x na liniji 15
+ERROR 23:54:00,539 - Parsiranje NIJE uspesno zavrseno!

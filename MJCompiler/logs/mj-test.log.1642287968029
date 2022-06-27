@@ -1,0 +1,36 @@
+INFO  00:05:57,838 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:05:57,868 - #2 program
+INFO  00:05:57,868 - #16 Cofi
+INFO  00:05:57,868 - #3 {
+INFO  00:05:57,869 - #14 void
+INFO  00:05:57,869 - #16 main
+INFO  00:05:57,869 - #6 (
+INFO  00:05:57,869 - #7 )
+INFO  00:05:57,870 - #16 int
+INFO  00:05:57,870 - #16 x
+INFO  00:05:57,870 - #5 ;
+INFO  00:05:57,870 - #3 {
+INFO  00:05:57,871 - #10 return
+INFO  00:05:57,871 - #15 2
+INFO  00:05:57,871 - #5 ;
+INFO  00:05:57,872 - #4 }
+INFO  00:05:57,873 - #14 void
+INFO  00:05:57,873 - #16 main2
+INFO  00:05:57,873 - #6 (
+INFO  00:05:57,873 - #7 )
+INFO  00:05:57,873 - #16 int
+INFO  00:05:57,873 - #16 x
+INFO  00:05:57,873 - #5 ;
+INFO  00:05:57,875 - #3 {
+INFO  00:05:57,875 - #10 return
+INFO  00:05:57,875 - #15 2
+INFO  00:05:57,875 - #5 ;
+INFO  00:05:57,875 - #4 }
+INFO  00:05:57,875 - #4 }
+INFO  00:05:57,881 - Obradjuje se funkcija main na liniji 6
+INFO  00:05:57,881 - Deklarisana promenljiva x na liniji 6
+ERROR 00:05:57,881 - Semanticka greska na liniji 6: funkcija main ne moze imati return iskaz ako je povratni tip void!
+INFO  00:05:57,881 - Obradjuje se funkcija main2 na liniji 11
+INFO  00:05:57,881 - Deklarisana promenljiva x na liniji 11
+ERROR 00:05:57,881 - Semanticka greska na liniji 11: funkcija main2 ne moze imati return iskaz ako je povratni tip void!
+ERROR 00:05:57,882 - Parsiranje NIJE uspesno zavrseno!

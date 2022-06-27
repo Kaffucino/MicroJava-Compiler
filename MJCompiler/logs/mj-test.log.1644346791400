@@ -1,0 +1,46 @@
+INFO  19:58:22,561 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:58:22,592 - #2 program
+INFO  19:58:22,592 - #16 Prog
+INFO  19:58:22,592 - #49 record
+INFO  19:58:22,592 - #16 Test
+INFO  19:58:22,592 - #3 {
+INFO  19:58:22,593 - #16 int
+INFO  19:58:22,593 - #16 a
+INFO  19:58:22,593 - #5 ;
+INFO  19:58:22,593 - #16 char
+INFO  19:58:22,593 - #16 b
+INFO  19:58:22,593 - #5 ;
+INFO  19:58:22,593 - #4 }
+INFO  19:58:22,594 - #16 int
+INFO  19:58:22,594 - #16 a
+INFO  19:58:22,594 - #5 ;
+INFO  19:58:22,594 - #16 Test
+INFO  19:58:22,594 - #16 t
+INFO  19:58:22,594 - #5 ;
+INFO  19:58:22,594 - #3 {
+INFO  19:58:22,595 - #14 void
+INFO  19:58:22,595 - #16 main
+INFO  19:58:22,595 - #6 (
+INFO  19:58:22,601 - #7 )
+INFO  19:58:22,602 - #3 {
+INFO  19:58:22,602 - #16 t
+INFO  19:58:22,602 - #13 =
+INFO  19:58:22,602 - #36 new
+INFO  19:58:22,603 - #16 Test
+INFO  19:58:22,603 - #5 ;
+INFO  19:58:22,604 - #16 t
+INFO  19:58:22,604 - #43 .
+INFO  19:58:22,604 - #16 a
+INFO  19:58:22,604 - #13 =
+INFO  19:58:22,604 - #15 1
+INFO  19:58:22,604 - #5 ;
+INFO  19:58:22,604 - #4 }
+INFO  19:58:22,605 - #4 }
+INFO  19:58:22,612 - Deklarisana je rekord :  Test na liniji 3
+INFO  19:58:22,612 - Deklarisana promenljiva a na liniji 5
+INFO  19:58:22,612 - Deklarisana promenljiva b na liniji 6
+INFO  19:58:22,613 - Deklarisana promenljiva a na liniji 9
+INFO  19:58:22,613 - Deklarisana promenljiva t na liniji 11
+INFO  19:58:22,613 - Obradjuje se funkcija main na liniji 15
+ERROR 19:58:22,613 - Semanticka greska na liniji 17 nekompatibilni tipovi prilikom dodele!
+ERROR 19:58:22,614 - Parsiranje NIJE uspesno zavrseno!

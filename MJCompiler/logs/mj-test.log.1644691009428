@@ -1,0 +1,104 @@
+INFO  19:34:58,986 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:34:59,017 - #2 program
+INFO  19:34:59,017 - #16 test2
+INFO  19:34:59,017 - #16 int
+INFO  19:34:59,017 - #16 y
+INFO  19:34:59,018 - #50 [
+INFO  19:34:59,018 - #51 ]
+INFO  19:34:59,018 - #5 ;
+INFO  19:34:59,018 - #16 int
+INFO  19:34:59,019 - #16 x
+INFO  19:34:59,019 - #50 [
+INFO  19:34:59,019 - #51 ]
+INFO  19:34:59,019 - #5 ;
+INFO  19:34:59,019 - #16 int
+INFO  19:34:59,019 - #16 i
+INFO  19:34:59,019 - #5 ;
+INFO  19:34:59,019 - #49 record
+INFO  19:34:59,019 - #16 prvi
+INFO  19:34:59,019 - #3 {
+INFO  19:34:59,020 - #4 }
+INFO  19:34:59,020 - #49 record
+INFO  19:34:59,020 - #16 drugi
+INFO  19:34:59,020 - #3 {
+INFO  19:34:59,022 - #4 }
+INFO  19:34:59,022 - #16 prvi
+INFO  19:34:59,022 - #16 a
+INFO  19:34:59,022 - #5 ;
+INFO  19:34:59,022 - #16 drugi
+INFO  19:34:59,022 - #16 b
+INFO  19:34:59,022 - #5 ;
+INFO  19:34:59,022 - #3 {
+INFO  19:34:59,022 - #14 void
+INFO  19:34:59,022 - #16 main
+INFO  19:34:59,023 - #6 (
+INFO  19:34:59,023 - #7 )
+INFO  19:34:59,024 - #3 {
+INFO  19:34:59,024 - #16 x
+INFO  19:34:59,024 - #13 =
+INFO  19:34:59,024 - #36 new
+INFO  19:34:59,025 - #16 char
+INFO  19:34:59,025 - #50 [
+INFO  19:34:59,025 - #15 5
+INFO  19:34:59,025 - #51 ]
+INFO  19:34:59,026 - #5 ;
+INFO  19:34:59,026 - #16 a
+INFO  19:34:59,026 - #13 =
+INFO  19:34:59,026 - #36 new
+INFO  19:34:59,026 - #16 drugi
+INFO  19:34:59,026 - #5 ;
+INFO  19:34:59,027 - #16 i
+INFO  19:34:59,027 - #13 =
+INFO  19:34:59,027 - #36 new
+INFO  19:34:59,027 - #16 int
+INFO  19:34:59,027 - #5 ;
+INFO  19:34:59,027 - #16 a
+INFO  19:34:59,027 - #13 =
+INFO  19:34:59,027 - #36 new
+INFO  19:34:59,027 - #16 prvi
+INFO  19:34:59,027 - #5 ;
+INFO  19:34:59,027 - #16 b
+INFO  19:34:59,027 - #13 =
+INFO  19:34:59,027 - #36 new
+INFO  19:34:59,027 - #16 drugi
+INFO  19:34:59,027 - #5 ;
+INFO  19:34:59,027 - #16 x
+INFO  19:34:59,027 - #13 =
+INFO  19:34:59,027 - #36 new
+INFO  19:34:59,027 - #16 int
+INFO  19:34:59,027 - #50 [
+INFO  19:34:59,028 - #15 3
+INFO  19:34:59,028 - #51 ]
+INFO  19:34:59,028 - #5 ;
+INFO  19:34:59,028 - #16 y
+INFO  19:34:59,028 - #13 =
+INFO  19:34:59,028 - #36 new
+INFO  19:34:59,028 - #16 int
+INFO  19:34:59,028 - #50 [
+INFO  19:34:59,028 - #15 4
+INFO  19:34:59,028 - #51 ]
+INFO  19:34:59,028 - #5 ;
+INFO  19:34:59,028 - #19 if
+INFO  19:34:59,028 - #6 (
+INFO  19:34:59,029 - #16 a
+INFO  19:34:59,029 - #24 >
+INFO  19:34:59,029 - #16 b
+INFO  19:34:59,029 - #7 )
+INFO  19:34:59,031 - #3 {
+INFO  19:34:59,031 - #4 }
+INFO  19:34:59,032 - #4 }
+INFO  19:34:59,033 - #4 }
+INFO  19:34:59,040 - Deklarisana promenljiva y na liniji 4
+INFO  19:34:59,040 - Deklarisana promenljiva x na liniji 5
+INFO  19:34:59,040 - Deklarisana promenljiva i na liniji 6
+INFO  19:34:59,040 - Deklarisana je rekord :  prvi na liniji 7
+INFO  19:34:59,040 - Deklarisana je rekord :  drugi na liniji 10
+INFO  19:34:59,040 - Deklarisana promenljiva a na liniji 14
+INFO  19:34:59,040 - Deklarisana promenljiva b na liniji 15
+INFO  19:34:59,040 - Obradjuje se funkcija main na liniji 19
+ERROR 19:34:59,040 - Semanticka greska na liniji 21 nekompatibilni tipovi prilikom dodele!
+ERROR 19:34:59,041 - Semanticka greska na liniji 23 Navedeni rekord ne postoji!
+ERROR 19:34:59,041 - Semanticka greska na liniji 23 nekompatibilni tipovi prilikom dodele!
+ERROR 19:34:59,041 - Semanticka greska na liniji 29 promenljiva: b mora biti tipa int!
+ERROR 19:34:59,041 - Semanticka greska na liniji 29 promenljiva: a mora biti tipa int!
+ERROR 19:34:59,042 - Parsiranje NIJE uspesno zavrseno!

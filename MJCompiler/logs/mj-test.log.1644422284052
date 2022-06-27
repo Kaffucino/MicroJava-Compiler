@@ -1,0 +1,103 @@
+INFO  16:57:01,066 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:57:01,097 - #2 program
+INFO  16:57:01,097 - #16 test302
+INFO  16:57:01,097 - #48 const
+INFO  16:57:01,097 - #16 int
+INFO  16:57:01,097 - #16 jedan
+INFO  16:57:01,098 - #13 =
+INFO  16:57:01,098 - #15 1
+INFO  16:57:01,098 - #5 ;
+INFO  16:57:01,098 - #16 int
+INFO  16:57:01,099 - #16 i
+INFO  16:57:01,099 - #5 ;
+INFO  16:57:01,099 - #16 bool
+INFO  16:57:01,100 - #16 ibool
+INFO  16:57:01,100 - #5 ;
+INFO  16:57:01,100 - #16 int
+INFO  16:57:01,100 - #16 niz2
+INFO  16:57:01,100 - #5 ;
+INFO  16:57:01,100 - #49 record
+INFO  16:57:01,100 - #16 Test
+INFO  16:57:01,100 - #3 {
+INFO  16:57:01,100 - #16 int
+INFO  16:57:01,101 - #16 niz
+INFO  16:57:01,101 - #50 [
+INFO  16:57:01,101 - #51 ]
+INFO  16:57:01,101 - #5 ;
+INFO  16:57:01,101 - #16 int
+INFO  16:57:01,101 - #16 a
+INFO  16:57:01,101 - #5 ;
+INFO  16:57:01,101 - #4 }
+INFO  16:57:01,101 - #16 int
+INFO  16:57:01,102 - #16 nizz
+INFO  16:57:01,102 - #50 [
+INFO  16:57:01,102 - #51 ]
+INFO  16:57:01,102 - #5 ;
+INFO  16:57:01,102 - #16 Test
+INFO  16:57:01,102 - #16 t1
+INFO  16:57:01,102 - #8 ,
+INFO  16:57:01,102 - #16 t2
+INFO  16:57:01,102 - #5 ;
+INFO  16:57:01,102 - #3 {
+INFO  16:57:01,102 - #14 void
+INFO  16:57:01,103 - #16 main
+INFO  16:57:01,103 - #6 (
+INFO  16:57:01,103 - #7 )
+INFO  16:57:01,104 - #3 {
+INFO  16:57:01,104 - #16 nizz
+INFO  16:57:01,104 - #13 =
+INFO  16:57:01,104 - #36 new
+INFO  16:57:01,105 - #16 int
+INFO  16:57:01,105 - #50 [
+INFO  16:57:01,105 - #15 10
+INFO  16:57:01,105 - #51 ]
+INFO  16:57:01,106 - #5 ;
+INFO  16:57:01,106 - #16 t1
+INFO  16:57:01,106 - #13 =
+INFO  16:57:01,106 - #36 new
+INFO  16:57:01,106 - #16 Test
+INFO  16:57:01,106 - #5 ;
+INFO  16:57:01,107 - #16 t1
+INFO  16:57:01,107 - #43 .
+INFO  16:57:01,107 - #16 a
+INFO  16:57:01,107 - #13 =
+INFO  16:57:01,107 - #15 5
+INFO  16:57:01,107 - #5 ;
+INFO  16:57:01,107 - #9 print
+INFO  16:57:01,107 - #6 (
+INFO  16:57:01,107 - #16 t1
+INFO  16:57:01,107 - #43 .
+INFO  16:57:01,110 - #16 a
+INFO  16:57:01,110 - #7 )
+INFO  16:57:01,110 - #5 ;
+INFO  16:57:01,110 - #16 nizz
+INFO  16:57:01,111 - #50 [
+INFO  16:57:01,111 - #15 5
+INFO  16:57:01,111 - #51 ]
+INFO  16:57:01,111 - #13 =
+INFO  16:57:01,111 - #15 2
+INFO  16:57:01,111 - #5 ;
+INFO  16:57:01,111 - #16 nizz
+INFO  16:57:01,111 - #50 [
+INFO  16:57:01,111 - #15 7
+INFO  16:57:01,111 - #51 ]
+INFO  16:57:01,111 - #13 =
+INFO  16:57:01,111 - #16 nizz
+INFO  16:57:01,111 - #50 [
+INFO  16:57:01,111 - #15 5
+INFO  16:57:01,111 - #51 ]
+INFO  16:57:01,111 - #5 ;
+INFO  16:57:01,111 - #4 }
+INFO  16:57:01,112 - #4 }
+INFO  16:57:01,120 - Trenutan tip konstante je:  int na liniji 5
+INFO  16:57:01,120 - Deklarisana promenljiva i na liniji 7
+INFO  16:57:01,120 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:57:01,120 - Deklarisana promenljiva niz2 na liniji 10
+INFO  16:57:01,120 - Deklarisana je rekord :  Test na liniji 12
+INFO  16:57:01,120 - Deklarisana promenljiva niz na liniji 13
+INFO  16:57:01,120 - Deklarisana promenljiva a na liniji 14
+INFO  16:57:01,121 - Deklarisana promenljiva nizz na liniji 18
+INFO  16:57:01,121 - Deklarisana promenljiva t2 na liniji 19
+INFO  16:57:01,121 - Deklarisana promenljiva t1 na liniji 19
+INFO  16:57:01,121 - Obradjuje se funkcija main na liniji 25
+INFO  16:57:01,133 - Parsiranje uspesno zavrseno!

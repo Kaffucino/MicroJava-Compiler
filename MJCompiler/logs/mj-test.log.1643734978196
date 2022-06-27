@@ -1,0 +1,65 @@
+INFO  17:34:18,079 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:34:18,108 - #2 program
+INFO  17:34:18,108 - #16 COfa
+INFO  17:34:18,108 - #16 int
+INFO  17:34:18,108 - #16 x
+INFO  17:34:18,109 - #50 [
+INFO  17:34:18,109 - #51 ]
+INFO  17:34:18,109 - #5 ;
+INFO  17:34:18,109 - #16 char
+INFO  17:34:18,109 - #16 z
+INFO  17:34:18,109 - #5 ;
+INFO  17:34:18,109 - #16 int
+INFO  17:34:18,110 - #16 y
+INFO  17:34:18,110 - #5 ;
+INFO  17:34:18,110 - #3 {
+INFO  17:34:18,110 - #14 void
+INFO  17:34:18,110 - #16 zbir
+INFO  17:34:18,110 - #6 (
+INFO  17:34:18,111 - #7 )
+INFO  17:34:18,111 - #3 {
+INFO  17:34:18,112 - #4 }
+INFO  17:34:18,112 - #16 int
+INFO  17:34:18,112 - #16 main
+INFO  17:34:18,117 - #6 (
+INFO  17:34:18,117 - #7 )
+INFO  17:34:18,117 - #3 {
+INFO  17:34:18,117 - #16 x
+INFO  17:34:18,117 - #13 =
+INFO  17:34:18,118 - #36 new
+INFO  17:34:18,118 - #16 int
+INFO  17:34:18,118 - #50 [
+INFO  17:34:18,118 - #15 5
+INFO  17:34:18,118 - #51 ]
+INFO  17:34:18,119 - #5 ;
+INFO  17:34:18,120 - #16 zbir
+INFO  17:34:18,120 - #6 (
+INFO  17:34:18,120 - #7 )
+INFO  17:34:18,120 - #5 ;
+INFO  17:34:18,120 - #19 if
+INFO  17:34:18,120 - #6 (
+INFO  17:34:18,120 - #16 x
+INFO  17:34:18,120 - #45 ||
+INFO  17:34:18,121 - #16 x
+INFO  17:34:18,121 - #7 )
+INFO  17:34:18,122 - #3 {
+INFO  17:34:18,122 - #16 y
+INFO  17:34:18,122 - #13 =
+INFO  17:34:18,122 - #16 x
+INFO  17:34:18,122 - #50 [
+INFO  17:34:18,122 - #16 y
+INFO  17:34:18,122 - #51 ]
+INFO  17:34:18,122 - #5 ;
+INFO  17:34:18,122 - #4 }
+INFO  17:34:18,122 - #10 return
+INFO  17:34:18,123 - #15 20
+INFO  17:34:18,123 - #5 ;
+INFO  17:34:18,123 - #4 }
+INFO  17:34:18,123 - #4 }
+INFO  17:34:18,129 - Deklarisana promenljiva x na liniji 3
+INFO  17:34:18,129 - Deklarisana promenljiva z na liniji 6
+INFO  17:34:18,129 - Deklarisana promenljiva y na liniji 7
+INFO  17:34:18,129 - Obradjuje se funkcija zbir na liniji 10
+INFO  17:34:18,130 - Obradjuje se funkcija main na liniji 13
+INFO  17:34:18,130 - Pronadjen poziv funkcije zbir na liniji 16
+INFO  17:34:18,138 - Parsiranje uspesno zavrseno!

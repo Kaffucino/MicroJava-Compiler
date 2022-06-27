@@ -1,0 +1,57 @@
+INFO  21:09:57,350 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:09:57,386 - #2 program
+INFO  21:09:57,386 - #16 Test
+INFO  21:09:57,386 - #16 int
+INFO  21:09:57,386 - #16 niz2
+INFO  21:09:57,387 - #50 [
+INFO  21:09:57,387 - #51 ]
+INFO  21:09:57,387 - #5 ;
+INFO  21:09:57,387 - #49 record
+INFO  21:09:57,387 - #16 Rec
+INFO  21:09:57,387 - #3 {
+INFO  21:09:57,388 - #16 int
+INFO  21:09:57,388 - #16 niz
+INFO  21:09:57,388 - #50 [
+INFO  21:09:57,388 - #51 ]
+INFO  21:09:57,388 - #5 ;
+INFO  21:09:57,388 - #16 int
+INFO  21:09:57,388 - #16 a
+INFO  21:09:57,388 - #5 ;
+INFO  21:09:57,388 - #4 }
+INFO  21:09:57,389 - #16 Rec
+INFO  21:09:57,390 - #16 r1
+INFO  21:09:57,390 - #5 ;
+INFO  21:09:57,390 - #3 {
+INFO  21:09:57,390 - #14 void
+INFO  21:09:57,390 - #16 main
+INFO  21:09:57,391 - #6 (
+INFO  21:09:57,391 - #7 )
+INFO  21:09:57,391 - #3 {
+INFO  21:09:57,392 - #16 r1
+INFO  21:09:57,392 - #13 =
+INFO  21:09:57,392 - #36 new
+INFO  21:09:57,393 - #16 Rec
+INFO  21:09:57,393 - #5 ;
+INFO  21:09:57,394 - #37 read
+INFO  21:09:57,395 - #6 (
+INFO  21:09:57,395 - #16 r1
+INFO  21:09:57,395 - #43 .
+INFO  21:09:57,395 - #16 a
+INFO  21:09:57,395 - #7 )
+INFO  21:09:57,395 - #5 ;
+INFO  21:09:57,395 - #9 print
+INFO  21:09:57,395 - #6 (
+INFO  21:09:57,396 - #16 r1
+INFO  21:09:57,396 - #43 .
+INFO  21:09:57,396 - #16 a
+INFO  21:09:57,396 - #7 )
+INFO  21:09:57,396 - #5 ;
+INFO  21:09:57,396 - #4 }
+INFO  21:09:57,397 - #4 }
+INFO  21:09:57,406 - Deklarisana promenljiva niz2 na liniji 2
+INFO  21:09:57,406 - Deklarisana je rekord :  Rec na liniji 4
+INFO  21:09:57,406 - Deklarisana promenljiva niz na liniji 6
+INFO  21:09:57,406 - Deklarisana promenljiva a na liniji 7
+INFO  21:09:57,406 - Deklarisana promenljiva r1 na liniji 9
+INFO  21:09:57,407 - Obradjuje se funkcija main na liniji 12
+INFO  21:09:57,418 - Parsiranje uspesno zavrseno!

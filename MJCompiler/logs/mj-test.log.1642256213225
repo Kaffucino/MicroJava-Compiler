@@ -1,0 +1,68 @@
+INFO  14:37:19,674 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:37:19,703 - #2 program
+INFO  14:37:19,703 - #16 PR
+INFO  14:37:19,703 - #16 char
+INFO  14:37:19,703 - #16 x
+INFO  14:37:19,704 - #5 ;
+INFO  14:37:19,704 - #48 const
+INFO  14:37:19,704 - #16 bool
+INFO  14:37:19,704 - #16 Cofi
+INFO  14:37:19,704 - #13 =
+INFO  14:37:19,704 - #18 true
+INFO  14:37:19,704 - #5 ;
+INFO  14:37:19,705 - #3 {
+INFO  14:37:19,705 - #16 int
+INFO  14:37:19,706 - #16 fun
+INFO  14:37:19,706 - #6 (
+INFO  14:37:19,706 - #16 int
+INFO  14:37:19,706 - #16 x
+INFO  14:37:19,706 - #8 ,
+INFO  14:37:19,706 - #16 int
+INFO  14:37:19,706 - #16 y
+INFO  14:37:19,707 - #7 )
+INFO  14:37:19,707 - #16 int
+INFO  14:37:19,707 - #16 z
+INFO  14:37:19,707 - #5 ;
+INFO  14:37:19,707 - #3 {
+INFO  14:37:19,708 - #10 return
+INFO  14:37:19,708 - #15 0
+INFO  14:37:19,708 - #5 ;
+INFO  14:37:19,709 - #4 }
+INFO  14:37:19,710 - #16 int
+INFO  14:37:19,710 - #16 fun2
+INFO  14:37:19,710 - #6 (
+INFO  14:37:19,710 - #16 int
+INFO  14:37:19,710 - #16 x
+INFO  14:37:19,710 - #8 ,
+INFO  14:37:19,710 - #16 int
+INFO  14:37:19,710 - #16 y
+INFO  14:37:19,710 - #7 )
+INFO  14:37:19,710 - #16 int
+INFO  14:37:19,710 - #16 z
+INFO  14:37:19,710 - #5 ;
+INFO  14:37:19,710 - #3 {
+INFO  14:37:19,710 - #10 return
+INFO  14:37:19,710 - #15 0
+INFO  14:37:19,710 - #5 ;
+INFO  14:37:19,710 - #4 }
+INFO  14:37:19,710 - #16 int
+INFO  14:37:19,711 - #16 main
+INFO  14:37:19,711 - #6 (
+INFO  14:37:19,711 - #7 )
+INFO  14:37:19,711 - #16 int
+INFO  14:37:19,712 - #16 y
+INFO  14:37:19,712 - #8 ,
+INFO  14:37:19,712 - #16 zz
+INFO  14:37:19,712 - #50 [
+INFO  14:37:19,712 - #51 ]
+INFO  14:37:19,712 - #5 ;
+INFO  14:37:19,712 - #3 {
+INFO  14:37:19,712 - #4 }
+INFO  14:37:19,712 - #4 }
+INFO  14:37:19,719 - Deklarisana promenljiva x na liniji 5
+INFO  14:37:19,719 - Trenutan tip konstante je:  bool na liniji 7
+INFO  14:37:19,719 - Deklarisana promenljiva z na liniji 11
+ERROR 14:37:19,719 - Promenljiva z je vec deklarisana!
+INFO  14:37:19,719 - Deklarisana promenljiva zz na liniji 23
+INFO  14:37:19,720 - Deklarisana promenljiva y na liniji 23
+ERROR 14:37:19,720 - Parsiranje NIJE uspesno zavrseno!

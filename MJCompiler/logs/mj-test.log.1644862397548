@@ -1,0 +1,41 @@
+INFO  19:12:58,117 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:12:58,150 - #2 program
+INFO  19:12:58,150 - #16 Cofa
+INFO  19:12:58,150 - #49 record
+INFO  19:12:58,151 - #16 Rek
+INFO  19:12:58,151 - #3 {
+INFO  19:12:58,151 - #16 int
+INFO  19:12:58,151 - #16 a
+INFO  19:12:58,152 - #5 ;
+INFO  19:12:58,152 - #16 int
+INFO  19:12:58,152 - #16 b
+INFO  19:12:58,152 - #5 ;
+INFO  19:12:58,153 - #4 }
+INFO  19:12:58,153 - #16 Rek
+INFO  19:12:58,153 - #16 r
+INFO  19:12:58,154 - #5 ;
+INFO  19:12:58,154 - #3 {
+INFO  19:12:58,154 - #14 void
+INFO  19:12:58,154 - #16 main
+INFO  19:12:58,155 - #6 (
+INFO  19:12:58,155 - #7 )
+INFO  19:12:58,156 - #3 {
+INFO  19:12:58,156 - #16 r
+INFO  19:12:58,161 - #13 =
+INFO  19:12:58,162 - #36 new
+INFO  19:12:58,162 - #16 Rek
+INFO  19:12:58,162 - #5 ;
+INFO  19:12:58,164 - #16 r
+INFO  19:12:58,164 - #43 .
+INFO  19:12:58,164 - #16 a
+INFO  19:12:58,164 - #13 =
+INFO  19:12:58,165 - #15 1
+INFO  19:12:58,165 - #5 ;
+INFO  19:12:58,165 - #4 }
+INFO  19:12:58,165 - #4 }
+INFO  19:12:58,173 - Deklarisana je rekord :  Rek na liniji 3
+INFO  19:12:58,173 - Deklarisana promenljiva a na liniji 5
+INFO  19:12:58,173 - Deklarisana promenljiva b na liniji 6
+INFO  19:12:58,173 - Deklarisana promenljiva r na liniji 9
+INFO  19:12:58,173 - Obradjuje se funkcija main na liniji 13
+INFO  19:12:58,185 - Parsiranje uspesno zavrseno!

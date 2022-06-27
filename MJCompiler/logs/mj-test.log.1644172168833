@@ -1,0 +1,23 @@
+INFO  19:23:45,996 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:23:46,028 - #2 program
+INFO  19:23:46,028 - #16 Prog
+INFO  19:23:46,028 - #3 {
+INFO  19:23:46,029 - #14 void
+INFO  19:23:46,029 - #16 main
+INFO  19:23:46,029 - #6 (
+INFO  19:23:46,030 - #7 )
+INFO  19:23:46,030 - #3 {
+INFO  19:23:46,030 - #9 print
+INFO  19:23:46,031 - #6 (
+INFO  19:23:46,031 - #15 1
+INFO  19:23:46,031 - #7 )
+INFO  19:23:46,032 - #5 ;
+INFO  19:23:46,032 - #9 print
+INFO  19:23:46,032 - #6 (
+INFO  19:23:46,032 - #15 2
+INFO  19:23:46,032 - #7 )
+INFO  19:23:46,032 - #5 ;
+INFO  19:23:46,032 - #4 }
+INFO  19:23:46,033 - #4 }
+INFO  19:23:46,040 - Obradjuje se funkcija main na liniji 4
+INFO  19:23:46,048 - Parsiranje uspesno zavrseno!

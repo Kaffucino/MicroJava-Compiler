@@ -1,0 +1,53 @@
+INFO  23:42:20,083 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:42:20,113 - #2 program
+INFO  23:42:20,113 - #16 Cofi
+INFO  23:42:20,113 - #16 int
+INFO  23:42:20,114 - #16 y
+INFO  23:42:20,114 - #5 ;
+INFO  23:42:20,114 - #16 char
+INFO  23:42:20,115 - #16 zz
+INFO  23:42:20,115 - #5 ;
+INFO  23:42:20,115 - #16 bool
+INFO  23:42:20,115 - #16 zy
+INFO  23:42:20,115 - #5 ;
+INFO  23:42:20,115 - #3 {
+INFO  23:42:20,115 - #16 int
+INFO  23:42:20,115 - #16 main
+INFO  23:42:20,116 - #6 (
+INFO  23:42:20,116 - #7 )
+INFO  23:42:20,116 - #16 int
+INFO  23:42:20,116 - #16 x
+INFO  23:42:20,116 - #5 ;
+INFO  23:42:20,117 - #3 {
+INFO  23:42:20,117 - #16 x
+INFO  23:42:20,117 - #13 =
+INFO  23:42:20,118 - #16 zy
+INFO  23:42:20,118 - #5 ;
+INFO  23:42:20,119 - #15 3
+ERROR 23:42:20,119 - 
+Sintaksna greska na liniji 11
+INFO  23:42:20,120 - #46 ++
+INFO  23:42:20,120 - #5 ;
+INFO  23:42:20,120 - #10 return
+INFO  23:42:20,120 - #16 y
+INFO  23:42:20,120 - #5 ;
+ERROR 23:42:20,120 - Izvrsen oporavak do ; u liniji 10
+INFO  23:42:20,121 - #4 }
+INFO  23:42:20,121 - #14 void
+INFO  23:42:20,121 - #16 main2
+INFO  23:42:20,122 - #6 (
+INFO  23:42:20,122 - #7 )
+INFO  23:42:20,122 - #16 int
+INFO  23:42:20,122 - #16 x
+INFO  23:42:20,122 - #5 ;
+INFO  23:42:20,122 - #3 {
+INFO  23:42:20,122 - #4 }
+INFO  23:42:20,122 - #4 }
+INFO  23:42:20,127 - Deklarisana promenljiva y na liniji 3
+INFO  23:42:20,128 - Deklarisana promenljiva zz na liniji 4
+INFO  23:42:20,128 - Deklarisana promenljiva zy na liniji 5
+INFO  23:42:20,128 - Obradjuje se funkcija main na liniji 9
+INFO  23:42:20,128 - Deklarisana promenljiva x na liniji 9
+INFO  23:42:20,128 - Obradjuje se funkcija main2 na liniji 15
+INFO  23:42:20,128 - Deklarisana promenljiva x na liniji 15
+ERROR 23:42:20,129 - Parsiranje NIJE uspesno zavrseno!

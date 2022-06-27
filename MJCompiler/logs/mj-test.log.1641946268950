@@ -1,0 +1,63 @@
+INFO  01:10:57,537 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:10:57,569 - #2 program
+INFO  01:10:57,569 - #16 PR
+INFO  01:10:57,569 - #16 int
+INFO  01:10:57,569 - #16 x
+INFO  01:10:57,570 - #8 ,
+INFO  01:10:57,570 - #16 z
+INFO  01:10:57,570 - #5 ;
+INFO  01:10:57,570 - #3 {
+INFO  01:10:57,571 - #16 int
+INFO  01:10:57,571 - #16 fun
+INFO  01:10:57,571 - #6 (
+INFO  01:10:57,571 - #7 )
+INFO  01:10:57,571 - #3 {
+INFO  01:10:57,572 - #10 return
+INFO  01:10:57,572 - #15 0
+INFO  01:10:57,572 - #5 ;
+INFO  01:10:57,573 - #4 }
+INFO  01:10:57,574 - #16 int
+INFO  01:10:57,574 - #16 main
+INFO  01:10:57,574 - #6 (
+INFO  01:10:57,574 - #7 )
+INFO  01:10:57,574 - #16 int
+INFO  01:10:57,574 - #16 y
+INFO  01:10:57,580 - #8 ,
+INFO  01:10:57,580 - #16 zz
+INFO  01:10:57,580 - #50 [
+INFO  01:10:57,580 - #51 ]
+INFO  01:10:57,580 - #5 ;
+INFO  01:10:57,580 - #3 {
+INFO  01:10:57,580 - #16 zz
+INFO  01:10:57,580 - #13 =
+INFO  01:10:57,581 - #36 new
+INFO  01:10:57,581 - #16 int
+INFO  01:10:57,581 - #50 [
+INFO  01:10:57,581 - #15 3
+INFO  01:10:57,581 - #51 ]
+INFO  01:10:57,581 - #5 ;
+INFO  01:10:57,581 - #16 zz
+INFO  01:10:57,582 - #50 [
+INFO  01:10:57,582 - #15 2
+INFO  01:10:57,582 - #51 ]
+INFO  01:10:57,582 - #13 =
+INFO  01:10:57,582 - #15 2
+INFO  01:10:57,582 - #5 ;
+INFO  01:10:57,582 - #16 y
+INFO  01:10:57,582 - #13 =
+INFO  01:10:57,582 - #17 'a'
+INFO  01:10:57,582 - #5 ;
+INFO  01:10:57,582 - #16 fun
+INFO  01:10:57,582 - #6 (
+INFO  01:10:57,582 - #7 )
+INFO  01:10:57,582 - #5 ;
+INFO  01:10:57,582 - #4 }
+INFO  01:10:57,582 - #4 }
+INFO  01:10:57,588 - Deklarisana promenljiva z na liniji 3
+INFO  01:10:57,588 - Deklarisana promenljiva x na liniji 3
+INFO  01:10:57,588 - Obradjuje se funkcija fun na liniji 9
+INFO  01:10:57,588 - Obradjuje se funkcija main na liniji 14
+INFO  01:10:57,588 - Deklarisana promenljiva zz na liniji 14
+INFO  01:10:57,588 - Deklarisana promenljiva y na liniji 14
+INFO  01:10:57,589 - Pronadjen poziv funkcije fun na liniji 21
+INFO  01:10:57,597 - Parsiranje uspesno zavrseno!

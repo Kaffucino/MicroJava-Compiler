@@ -1,0 +1,67 @@
+INFO  00:39:47,524 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:39:47,553 - #2 program
+INFO  00:39:47,553 - #16 Cofi
+INFO  00:39:47,553 - #16 int
+INFO  00:39:47,553 - #16 y
+INFO  00:39:47,554 - #5 ;
+INFO  00:39:47,554 - #16 char
+INFO  00:39:47,554 - #16 zz
+INFO  00:39:47,554 - #5 ;
+INFO  00:39:47,555 - #16 bool
+INFO  00:39:47,555 - #16 zy
+INFO  00:39:47,555 - #5 ;
+INFO  00:39:47,555 - #3 {
+INFO  00:39:47,555 - #14 void
+INFO  00:39:47,555 - #16 main2
+INFO  00:39:47,556 - #6 (
+INFO  00:39:47,556 - #7 )
+INFO  00:39:47,556 - #16 int
+INFO  00:39:47,556 - #16 x
+INFO  00:39:47,556 - #5 ;
+INFO  00:39:47,557 - #3 {
+INFO  00:39:47,557 - #16 x
+INFO  00:39:47,557 - #46 ++
+INFO  00:39:47,559 - #5 ;
+INFO  00:39:47,559 - #4 }
+INFO  00:39:47,560 - #16 int
+INFO  00:39:47,560 - #16 main
+INFO  00:39:47,560 - #6 (
+INFO  00:39:47,560 - #7 )
+INFO  00:39:47,560 - #16 int
+INFO  00:39:47,560 - #16 x
+INFO  00:39:47,560 - #5 ;
+INFO  00:39:47,560 - #3 {
+INFO  00:39:47,560 - #16 skip
+INFO  00:39:47,560 - #21 :
+INFO  00:39:47,561 - #16 x
+INFO  00:39:47,561 - #46 ++
+INFO  00:39:47,561 - #5 ;
+INFO  00:39:47,561 - #31 break
+INFO  00:39:47,561 - #5 ;
+INFO  00:39:47,561 - #34 do
+INFO  00:39:47,561 - #3 {
+INFO  00:39:47,562 - #16 x
+INFO  00:39:47,562 - #46 ++
+INFO  00:39:47,562 - #5 ;
+INFO  00:39:47,562 - #4 }
+INFO  00:39:47,562 - #35 while
+INFO  00:39:47,563 - #6 (
+INFO  00:39:47,563 - #16 x
+INFO  00:39:47,563 - #24 >
+INFO  00:39:47,564 - #15 5
+INFO  00:39:47,564 - #7 )
+INFO  00:39:47,566 - #5 ;
+INFO  00:39:47,566 - #10 return
+INFO  00:39:47,566 - #15 1
+INFO  00:39:47,566 - #5 ;
+INFO  00:39:47,566 - #4 }
+INFO  00:39:47,566 - #4 }
+INFO  00:39:47,572 - Deklarisana promenljiva y na liniji 3
+INFO  00:39:47,572 - Deklarisana promenljiva zz na liniji 4
+INFO  00:39:47,572 - Deklarisana promenljiva zy na liniji 5
+INFO  00:39:47,572 - Obradjuje se funkcija main2 na liniji 9
+INFO  00:39:47,572 - Deklarisana promenljiva x na liniji 9
+INFO  00:39:47,572 - Obradjuje se funkcija main na liniji 15
+INFO  00:39:47,572 - Deklarisana promenljiva x na liniji 15
+ERROR 00:39:47,573 - Semanticka greska na liniji 0 break moze da se javi samo u okviru do-while petlje! 
+ERROR 00:39:47,573 - Parsiranje NIJE uspesno zavrseno!

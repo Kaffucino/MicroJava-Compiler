@@ -1,0 +1,82 @@
+INFO  13:55:34,318 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:55:34,352 - #2 program
+INFO  13:55:34,352 - #16 Test
+INFO  13:55:34,352 - #49 record
+INFO  13:55:34,352 - #16 Rekord
+INFO  13:55:34,352 - #3 {
+INFO  13:55:34,353 - #16 int
+INFO  13:55:34,353 - #16 a
+INFO  13:55:34,353 - #5 ;
+INFO  13:55:34,354 - #16 int
+INFO  13:55:34,354 - #16 niz
+INFO  13:55:34,354 - #50 [
+INFO  13:55:34,354 - #51 ]
+INFO  13:55:34,354 - #5 ;
+INFO  13:55:34,354 - #16 int
+INFO  13:55:34,354 - #16 b
+INFO  13:55:34,354 - #5 ;
+INFO  13:55:34,354 - #4 }
+INFO  13:55:34,355 - #16 int
+INFO  13:55:34,355 - #16 nizz
+INFO  13:55:34,355 - #50 [
+INFO  13:55:34,355 - #51 ]
+INFO  13:55:34,355 - #5 ;
+INFO  13:55:34,355 - #16 Rekord
+INFO  13:55:34,355 - #16 r
+INFO  13:55:34,355 - #5 ;
+INFO  13:55:34,355 - #3 {
+INFO  13:55:34,356 - #14 void
+INFO  13:55:34,356 - #16 main
+INFO  13:55:34,357 - #6 (
+INFO  13:55:34,357 - #7 )
+INFO  13:55:34,358 - #3 {
+INFO  13:55:34,358 - #16 r
+INFO  13:55:34,358 - #13 =
+INFO  13:55:34,359 - #36 new
+INFO  13:55:34,360 - #16 Rekord
+INFO  13:55:34,360 - #5 ;
+INFO  13:55:34,361 - #16 r
+INFO  13:55:34,361 - #43 .
+INFO  13:55:34,362 - #16 niz
+INFO  13:55:34,362 - #13 =
+INFO  13:55:34,362 - #36 new
+INFO  13:55:34,362 - #16 int
+INFO  13:55:34,362 - #50 [
+INFO  13:55:34,362 - #15 6
+INFO  13:55:34,362 - #51 ]
+INFO  13:55:34,362 - #5 ;
+INFO  13:55:34,362 - #16 r
+INFO  13:55:34,362 - #43 .
+INFO  13:55:34,362 - #16 niz
+INFO  13:55:34,362 - #50 [
+INFO  13:55:34,362 - #15 4
+INFO  13:55:34,362 - #51 ]
+INFO  13:55:34,362 - #13 =
+INFO  13:55:34,363 - #15 3
+INFO  13:55:34,363 - #5 ;
+INFO  13:55:34,363 - #16 r
+INFO  13:55:34,363 - #43 .
+INFO  13:55:34,363 - #16 niz
+INFO  13:55:34,363 - #50 [
+INFO  13:55:34,363 - #15 5
+INFO  13:55:34,363 - #51 ]
+INFO  13:55:34,363 - #13 =
+INFO  13:55:34,363 - #16 r
+INFO  13:55:34,363 - #43 .
+INFO  13:55:34,363 - #16 niz
+INFO  13:55:34,363 - #50 [
+INFO  13:55:34,363 - #15 4
+INFO  13:55:34,363 - #51 ]
+INFO  13:55:34,364 - #11 +
+INFO  13:55:34,364 - #15 2
+INFO  13:55:34,365 - #5 ;
+INFO  13:55:34,365 - #4 }
+INFO  13:55:34,366 - #4 }
+INFO  13:55:34,375 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  13:55:34,375 - Deklarisana promenljiva a na liniji 5
+INFO  13:55:34,375 - Deklarisana promenljiva niz na liniji 7
+INFO  13:55:34,375 - Deklarisana promenljiva b na liniji 9
+INFO  13:55:34,376 - Deklarisana promenljiva nizz na liniji 12
+INFO  13:55:34,377 - Deklarisana promenljiva r na liniji 13
+INFO  13:55:34,377 - Obradjuje se funkcija main na liniji 17
+INFO  13:55:34,389 - Parsiranje uspesno zavrseno!

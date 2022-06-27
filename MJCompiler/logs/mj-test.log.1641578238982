@@ -1,0 +1,51 @@
+INFO  18:55:09,054 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:55:09,124 - #2 program
+INFO  18:55:09,124 - #16 PROG
+INFO  18:55:09,124 - #16 char
+INFO  18:55:09,124 - #16 x
+INFO  18:55:09,124 - #13 =
+ERROR 18:55:09,125 - 
+Sintaksna greska na liniji 4
+INFO  18:55:09,125 - #17 'a'
+INFO  18:55:09,125 - #8 ,
+INFO  18:55:09,125 - #16 y
+INFO  18:55:09,125 - #5 ;
+ERROR 18:55:09,125 - Izvrsen oporavak do , u liniji 4
+ERROR 18:55:09,125 - 
+Sintaksna greska na liniji 4
+INFO  18:55:09,125 - #16 bool
+INFO  18:55:09,125 - #16 z
+INFO  18:55:09,125 - #8 ,
+INFO  18:55:09,126 - #16 zz
+INFO  18:55:09,126 - #13 =
+INFO  18:55:09,126 - #18 false
+INFO  18:55:09,126 - #5 ;
+INFO  18:55:09,126 - #16 int
+INFO  18:55:09,128 - #16 i
+ERROR 18:55:09,128 - Izvrsen oporavak do ; u liniji 5
+INFO  18:55:09,128 - #13 =
+ERROR 18:55:09,128 - 
+Sintaksna greska na liniji 6
+INFO  18:55:09,128 - #15 7
+INFO  18:55:09,128 - #8 ,
+INFO  18:55:09,128 - #16 ii
+INFO  18:55:09,128 - #13 =
+ERROR 18:55:09,128 - Izvrsen oporavak do , u liniji 6
+ERROR 18:55:09,128 - 
+Sintaksna greska na liniji 6
+INFO  18:55:09,128 - #15 5
+INFO  18:55:09,128 - #8 ,
+INFO  18:55:09,128 - #16 zz
+INFO  18:55:09,128 - #5 ;
+ERROR 18:55:09,128 - Izvrsen oporavak do , u liniji 6
+ERROR 18:55:09,128 - 
+Sintaksna greska na liniji 6
+INFO  18:55:09,128 - #3 {
+INFO  18:55:09,129 - #16 int
+INFO  18:55:09,129 - #16 main
+INFO  18:55:09,129 - #6 (
+INFO  18:55:09,129 - #7 )
+INFO  18:55:09,129 - #3 {
+INFO  18:55:09,129 - #4 }
+INFO  18:55:09,129 - #4 }
+ERROR 18:55:09,129 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

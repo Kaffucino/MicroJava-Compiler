@@ -1,0 +1,22 @@
+INFO  17:17:21,396 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:17:21,426 - #2 program
+INFO  17:17:21,426 - #16 PROBA
+INFO  17:17:21,427 - #3 {
+INFO  17:17:21,427 - #16 int
+INFO  17:17:21,427 - #16 getValue
+INFO  17:17:21,427 - #6 (
+INFO  17:17:21,427 - #16 int
+INFO  17:17:21,428 - #16 a
+INFO  17:17:21,428 - #7 )
+INFO  17:17:21,428 - #16 int
+INFO  17:17:21,428 - #16 b
+INFO  17:17:21,428 - #5 ;
+INFO  17:17:21,429 - #16 bool
+INFO  17:17:21,429 - #16 c
+INFO  17:17:21,429 - #5 ;
+INFO  17:17:21,429 - #3 {
+INFO  17:17:21,429 - #10 return
+INFO  17:17:21,429 - #16 a
+INFO  17:17:21,429 - #5 ;
+INFO  17:17:21,431 - #4 }
+INFO  17:17:21,432 - #4 }

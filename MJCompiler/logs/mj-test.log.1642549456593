@@ -1,0 +1,27 @@
+INFO  00:44:05,156 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:44:05,186 - #2 program
+INFO  00:44:05,187 - #16 COfa
+INFO  00:44:05,187 - #16 bool
+INFO  00:44:05,187 - #16 x
+INFO  00:44:05,187 - #5 ;
+INFO  00:44:05,188 - #3 {
+INFO  00:44:05,188 - #16 int
+INFO  00:44:05,188 - #16 main
+INFO  00:44:05,188 - #6 (
+INFO  00:44:05,189 - #7 )
+INFO  00:44:05,189 - #3 {
+INFO  00:44:05,189 - #9 print
+INFO  00:44:05,190 - #6 (
+INFO  00:44:05,190 - #16 ab
+INFO  00:44:05,190 - #7 )
+INFO  00:44:05,192 - #5 ;
+INFO  00:44:05,192 - #10 return
+INFO  00:44:05,192 - #15 1
+INFO  00:44:05,192 - #5 ;
+INFO  00:44:05,192 - #4 }
+INFO  00:44:05,193 - #4 }
+INFO  00:44:05,199 - Deklarisana promenljiva x na liniji 3
+INFO  00:44:05,201 - Obradjuje se funkcija main na liniji 9
+ERROR 00:44:05,201 - Greska na liniji 11 : ime ab nije deklarisano! 
+ERROR 00:44:05,201 - Semanticka greska na liniji 11  ab ne postoji!
+ERROR 00:44:05,202 - Parsiranje NIJE uspesno zavrseno!

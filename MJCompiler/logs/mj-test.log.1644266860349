@@ -1,0 +1,57 @@
+INFO  21:47:23,073 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:47:23,107 - #2 program
+INFO  21:47:23,107 - #16 test301
+INFO  21:47:23,107 - #48 const
+INFO  21:47:23,107 - #16 int
+INFO  21:47:23,107 - #16 pet
+INFO  21:47:23,108 - #13 =
+INFO  21:47:23,108 - #15 5
+INFO  21:47:23,108 - #8 ,
+INFO  21:47:23,108 - #16 sest
+INFO  21:47:23,108 - #13 =
+INFO  21:47:23,108 - #15 6
+INFO  21:47:23,108 - #8 ,
+INFO  21:47:23,108 - #16 sedam
+INFO  21:47:23,108 - #13 =
+INFO  21:47:23,108 - #15 7
+INFO  21:47:23,108 - #5 ;
+INFO  21:47:23,109 - #48 const
+INFO  21:47:23,109 - #16 int
+INFO  21:47:23,109 - #16 osam
+INFO  21:47:23,109 - #13 =
+INFO  21:47:23,109 - #15 8
+INFO  21:47:23,109 - #5 ;
+INFO  21:47:23,111 - #3 {
+INFO  21:47:23,111 - #14 void
+INFO  21:47:23,112 - #16 main
+INFO  21:47:23,112 - #6 (
+INFO  21:47:23,113 - #7 )
+INFO  21:47:23,113 - #3 {
+INFO  21:47:23,113 - #9 print
+INFO  21:47:23,113 - #6 (
+INFO  21:47:23,114 - #16 pet
+INFO  21:47:23,114 - #7 )
+INFO  21:47:23,115 - #5 ;
+INFO  21:47:23,115 - #9 print
+INFO  21:47:23,115 - #6 (
+INFO  21:47:23,115 - #16 sest
+INFO  21:47:23,115 - #7 )
+INFO  21:47:23,115 - #5 ;
+INFO  21:47:23,116 - #9 print
+INFO  21:47:23,116 - #6 (
+INFO  21:47:23,116 - #16 sedam
+INFO  21:47:23,116 - #7 )
+INFO  21:47:23,116 - #5 ;
+INFO  21:47:23,116 - #9 print
+INFO  21:47:23,116 - #6 (
+INFO  21:47:23,116 - #16 osam
+INFO  21:47:23,116 - #7 )
+INFO  21:47:23,116 - #5 ;
+INFO  21:47:23,116 - #4 }
+INFO  21:47:23,117 - #4 }
+INFO  21:47:23,125 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:47:23,125 - Dodata u listu konstanta sest na liniji 7
+INFO  21:47:23,125 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:47:23,125 - Trenutan tip konstante je:  int na liniji 8
+INFO  21:47:23,125 - Obradjuje se funkcija main na liniji 13
+INFO  21:47:23,138 - Parsiranje uspesno zavrseno!

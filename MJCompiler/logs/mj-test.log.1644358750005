@@ -1,0 +1,56 @@
+INFO  23:17:50,278 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:17:50,325 - #2 program
+INFO  23:17:50,325 - #16 Test
+INFO  23:17:50,325 - #49 record
+INFO  23:17:50,326 - #16 Rekord
+INFO  23:17:50,326 - #3 {
+INFO  23:17:50,326 - #16 int
+INFO  23:17:50,327 - #16 a
+INFO  23:17:50,328 - #5 ;
+INFO  23:17:50,328 - #16 int
+INFO  23:17:50,329 - #16 b
+INFO  23:17:50,329 - #5 ;
+INFO  23:17:50,329 - #4 }
+INFO  23:17:50,330 - #16 int
+INFO  23:17:50,331 - #16 cc
+INFO  23:17:50,331 - #5 ;
+INFO  23:17:50,331 - #16 Rekord
+INFO  23:17:50,331 - #16 r
+INFO  23:17:50,331 - #5 ;
+INFO  23:17:50,333 - #3 {
+INFO  23:17:50,333 - #14 void
+INFO  23:17:50,333 - #16 main
+INFO  23:17:50,334 - #6 (
+INFO  23:17:50,336 - #7 )
+INFO  23:17:50,336 - #3 {
+INFO  23:17:50,337 - #16 r
+INFO  23:17:50,337 - #13 =
+INFO  23:17:50,337 - #36 new
+INFO  23:17:50,337 - #16 Rekord
+INFO  23:17:50,338 - #5 ;
+INFO  23:17:50,339 - #16 r
+INFO  23:17:50,339 - #43 .
+INFO  23:17:50,339 - #16 a
+INFO  23:17:50,339 - #13 =
+INFO  23:17:50,339 - #15 77
+INFO  23:17:50,339 - #5 ;
+INFO  23:17:50,339 - #16 cc
+INFO  23:17:50,339 - #13 =
+INFO  23:17:50,339 - #16 r
+INFO  23:17:50,339 - #43 .
+INFO  23:17:50,339 - #16 a
+INFO  23:17:50,339 - #5 ;
+INFO  23:17:50,340 - #9 print
+INFO  23:17:50,340 - #6 (
+INFO  23:17:50,340 - #16 cc
+INFO  23:17:50,340 - #7 )
+INFO  23:17:50,340 - #5 ;
+INFO  23:17:50,340 - #4 }
+INFO  23:17:50,340 - #4 }
+INFO  23:17:50,351 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  23:17:50,351 - Deklarisana promenljiva a na liniji 5
+INFO  23:17:50,351 - Deklarisana promenljiva b na liniji 6
+INFO  23:17:50,352 - Deklarisana promenljiva cc na liniji 9
+INFO  23:17:50,353 - Deklarisana promenljiva r na liniji 11
+INFO  23:17:50,353 - Obradjuje se funkcija main na liniji 15
+INFO  23:17:50,366 - Parsiranje uspesno zavrseno!

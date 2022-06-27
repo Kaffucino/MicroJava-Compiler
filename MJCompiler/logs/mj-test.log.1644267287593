@@ -1,0 +1,65 @@
+INFO  21:47:51,065 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:47:51,094 - #2 program
+INFO  21:47:51,094 - #16 test301
+INFO  21:47:51,094 - #48 const
+INFO  21:47:51,094 - #16 int
+INFO  21:47:51,094 - #16 pet
+INFO  21:47:51,094 - #13 =
+INFO  21:47:51,095 - #15 5
+INFO  21:47:51,095 - #8 ,
+INFO  21:47:51,095 - #16 sest
+INFO  21:47:51,095 - #13 =
+INFO  21:47:51,095 - #15 6
+INFO  21:47:51,095 - #8 ,
+INFO  21:47:51,095 - #16 sedam
+INFO  21:47:51,095 - #13 =
+INFO  21:47:51,095 - #15 7
+INFO  21:47:51,095 - #5 ;
+INFO  21:47:51,095 - #48 const
+INFO  21:47:51,096 - #16 int
+INFO  21:47:51,096 - #16 osam
+INFO  21:47:51,096 - #13 =
+INFO  21:47:51,096 - #15 8
+INFO  21:47:51,096 - #5 ;
+INFO  21:47:51,101 - #16 int
+INFO  21:47:51,101 - #16 a
+INFO  21:47:51,101 - #5 ;
+INFO  21:47:51,102 - #3 {
+INFO  21:47:51,102 - #14 void
+INFO  21:47:51,102 - #16 main
+INFO  21:47:51,103 - #6 (
+INFO  21:47:51,103 - #7 )
+INFO  21:47:51,104 - #3 {
+INFO  21:47:51,104 - #16 a
+INFO  21:47:51,104 - #13 =
+INFO  21:47:51,104 - #15 5
+INFO  21:47:51,105 - #5 ;
+INFO  21:47:51,106 - #9 print
+INFO  21:47:51,106 - #6 (
+INFO  21:47:51,106 - #16 pet
+INFO  21:47:51,106 - #7 )
+INFO  21:47:51,106 - #5 ;
+INFO  21:47:51,106 - #9 print
+INFO  21:47:51,106 - #6 (
+INFO  21:47:51,106 - #16 sest
+INFO  21:47:51,106 - #7 )
+INFO  21:47:51,106 - #5 ;
+INFO  21:47:51,106 - #9 print
+INFO  21:47:51,106 - #6 (
+INFO  21:47:51,106 - #16 sedam
+INFO  21:47:51,106 - #7 )
+INFO  21:47:51,106 - #5 ;
+INFO  21:47:51,106 - #9 print
+INFO  21:47:51,107 - #6 (
+INFO  21:47:51,107 - #16 a
+INFO  21:47:51,107 - #7 )
+INFO  21:47:51,107 - #5 ;
+INFO  21:47:51,107 - #4 }
+INFO  21:47:51,107 - #4 }
+INFO  21:47:51,114 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:47:51,114 - Dodata u listu konstanta sest na liniji 7
+INFO  21:47:51,114 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:47:51,115 - Trenutan tip konstante je:  int na liniji 8
+INFO  21:47:51,115 - Deklarisana promenljiva a na liniji 11
+INFO  21:47:51,115 - Obradjuje se funkcija main na liniji 14
+INFO  21:47:51,124 - Parsiranje uspesno zavrseno!

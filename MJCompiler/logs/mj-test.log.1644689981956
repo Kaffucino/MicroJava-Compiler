@@ -1,0 +1,84 @@
+INFO  19:18:31,764 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:18:31,796 - #2 program
+INFO  19:18:31,796 - #16 program1
+INFO  19:18:31,796 - #16 int
+INFO  19:18:31,797 - #16 niz
+INFO  19:18:31,797 - #50 [
+INFO  19:18:31,797 - #51 ]
+INFO  19:18:31,797 - #5 ;
+INFO  19:18:31,798 - #16 int
+INFO  19:18:31,798 - #16 i
+INFO  19:18:31,798 - #5 ;
+INFO  19:18:31,798 - #16 int
+INFO  19:18:31,798 - #16 duzina
+INFO  19:18:31,798 - #5 ;
+INFO  19:18:31,798 - #16 int
+INFO  19:18:31,798 - #16 zbir
+INFO  19:18:31,798 - #5 ;
+INFO  19:18:31,798 - #3 {
+INFO  19:18:31,799 - #14 void
+INFO  19:18:31,799 - #16 main
+INFO  19:18:31,799 - #6 (
+INFO  19:18:31,800 - #7 )
+INFO  19:18:31,800 - #3 {
+INFO  19:18:31,800 - #16 niz
+INFO  19:18:31,800 - #13 =
+INFO  19:18:31,801 - #36 new
+INFO  19:18:31,801 - #16 int
+INFO  19:18:31,801 - #50 [
+INFO  19:18:31,801 - #15 5
+INFO  19:18:31,801 - #51 ]
+INFO  19:18:31,803 - #5 ;
+INFO  19:18:31,803 - #16 duzina
+INFO  19:18:31,803 - #13 =
+INFO  19:18:31,803 - #16 len
+INFO  19:18:31,803 - #6 (
+INFO  19:18:31,803 - #16 niz
+INFO  19:18:31,803 - #7 )
+INFO  19:18:31,804 - #5 ;
+INFO  19:18:31,804 - #16 niz
+INFO  19:18:31,804 - #50 [
+INFO  19:18:31,804 - #15 1
+INFO  19:18:31,804 - #51 ]
+INFO  19:18:31,804 - #13 =
+INFO  19:18:31,804 - #15 1
+INFO  19:18:31,804 - #5 ;
+INFO  19:18:31,804 - #16 niz
+INFO  19:18:31,804 - #50 [
+INFO  19:18:31,805 - #15 2
+INFO  19:18:31,805 - #51 ]
+INFO  19:18:31,805 - #13 =
+INFO  19:18:31,805 - #15 2
+INFO  19:18:31,805 - #5 ;
+INFO  19:18:31,805 - #16 niz
+INFO  19:18:31,805 - #50 [
+INFO  19:18:31,805 - #15 3
+INFO  19:18:31,805 - #51 ]
+INFO  19:18:31,805 - #13 =
+INFO  19:18:31,805 - #15 3
+INFO  19:18:31,805 - #5 ;
+INFO  19:18:31,805 - #16 niz
+INFO  19:18:31,805 - #50 [
+INFO  19:18:31,805 - #15 4
+INFO  19:18:31,805 - #51 ]
+INFO  19:18:31,806 - #13 =
+INFO  19:18:31,806 - #15 4
+INFO  19:18:31,806 - #5 ;
+INFO  19:18:31,806 - #16 i
+INFO  19:18:31,806 - #13 =
+INFO  19:18:31,806 - #15 0
+INFO  19:18:31,806 - #5 ;
+INFO  19:18:31,806 - #16 zbir
+INFO  19:18:31,806 - #13 =
+INFO  19:18:31,806 - #15 0
+INFO  19:18:31,806 - #5 ;
+INFO  19:18:31,806 - #4 }
+INFO  19:18:31,807 - #4 }
+INFO  19:18:31,813 - Deklarisana promenljiva niz na liniji 3
+INFO  19:18:31,814 - Deklarisana promenljiva i na liniji 4
+INFO  19:18:31,814 - Deklarisana promenljiva duzina na liniji 5
+INFO  19:18:31,814 - Deklarisana promenljiva zbir na liniji 6
+INFO  19:18:31,814 - Obradjuje se funkcija main na liniji 11
+INFO  19:18:31,814 - Pronadjen poziv funkcije len na liniji 13
+ERROR 19:18:31,814 - Pogresan TIP argumenta u funkciji: len na liniji 13
+ERROR 19:18:31,815 - Parsiranje NIJE uspesno zavrseno!

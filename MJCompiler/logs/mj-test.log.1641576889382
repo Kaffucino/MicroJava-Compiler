@@ -1,0 +1,19 @@
+INFO  13:51:37,982 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:51:38,009 - #2 program
+INFO  13:51:38,010 - #16 PROG
+INFO  13:51:38,010 - #16 int
+INFO  13:51:38,010 - #16 x
+INFO  13:51:38,010 - #13 =
+ERROR 13:51:38,010 - 
+Sintaksna greska na liniji 3
+INFO  13:51:38,010 - #15 5
+INFO  13:51:38,011 - #5 ;
+INFO  13:51:38,011 - #3 {
+INFO  13:51:38,011 - #16 int
+ERROR 13:51:38,011 - Izvrsen oporavak do ; u liniji 3
+INFO  13:51:38,012 - #16 main
+INFO  13:51:38,012 - #6 (
+INFO  13:51:38,012 - #7 )
+INFO  13:51:38,012 - #3 {
+INFO  13:51:38,013 - #4 }
+INFO  13:51:38,013 - #4 }

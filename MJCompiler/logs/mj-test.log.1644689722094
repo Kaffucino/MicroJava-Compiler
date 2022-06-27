@@ -1,0 +1,57 @@
+INFO  19:14:19,522 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:14:19,554 - #2 program
+INFO  19:14:19,554 - #16 Cofi
+INFO  19:14:19,554 - #16 int
+INFO  19:14:19,554 - #16 i
+INFO  19:14:19,555 - #5 ;
+INFO  19:14:19,555 - #16 int
+INFO  19:14:19,555 - #16 j
+INFO  19:14:19,555 - #5 ;
+INFO  19:14:19,555 - #16 int
+INFO  19:14:19,555 - #16 z
+INFO  19:14:19,555 - #5 ;
+INFO  19:14:19,555 - #3 {
+INFO  19:14:19,556 - #14 void
+INFO  19:14:19,556 - #16 main
+INFO  19:14:19,557 - #6 (
+INFO  19:14:19,557 - #7 )
+INFO  19:14:19,557 - #3 {
+INFO  19:14:19,558 - #16 i
+INFO  19:14:19,558 - #13 =
+INFO  19:14:19,558 - #15 0
+INFO  19:14:19,559 - #5 ;
+INFO  19:14:19,560 - #16 j
+INFO  19:14:19,560 - #13 =
+INFO  19:14:19,560 - #15 5
+INFO  19:14:19,560 - #5 ;
+INFO  19:14:19,560 - #16 z
+INFO  19:14:19,560 - #13 =
+INFO  19:14:19,561 - #15 0
+INFO  19:14:19,561 - #5 ;
+INFO  19:14:19,561 - #31 break
+INFO  19:14:19,561 - #5 ;
+INFO  19:14:19,561 - #19 if
+INFO  19:14:19,561 - #6 (
+INFO  19:14:19,562 - #16 i
+INFO  19:14:19,562 - #26 <
+INFO  19:14:19,562 - #15 5
+INFO  19:14:19,563 - #7 )
+INFO  19:14:19,564 - #3 {
+INFO  19:14:19,564 - #16 i
+INFO  19:14:19,564 - #46 ++
+INFO  19:14:19,564 - #5 ;
+INFO  19:14:19,564 - #4 }
+INFO  19:14:19,565 - #20 else
+INFO  19:14:19,565 - #3 {
+INFO  19:14:19,566 - #16 z
+INFO  19:14:19,566 - #46 ++
+INFO  19:14:19,566 - #5 ;
+INFO  19:14:19,566 - #4 }
+INFO  19:14:19,566 - #4 }
+INFO  19:14:19,566 - #4 }
+INFO  19:14:19,576 - Deklarisana promenljiva i na liniji 3
+INFO  19:14:19,576 - Deklarisana promenljiva j na liniji 4
+INFO  19:14:19,576 - Deklarisana promenljiva z na liniji 5
+INFO  19:14:19,576 - Obradjuje se funkcija main na liniji 8
+ERROR 19:14:19,576 - Semanticka greska!  break moze da se javi samo u okviru do-while petlje! 
+ERROR 19:14:19,577 - Parsiranje NIJE uspesno zavrseno!

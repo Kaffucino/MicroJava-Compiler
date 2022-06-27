@@ -1,0 +1,43 @@
+INFO  20:16:53,940 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:16:53,974 - #2 program
+INFO  20:16:53,974 - #16 test301
+INFO  20:16:53,974 - #16 int
+INFO  20:16:53,974 - #16 a
+INFO  20:16:53,975 - #5 ;
+INFO  20:16:53,975 - #3 {
+INFO  20:16:53,975 - #14 void
+INFO  20:16:53,976 - #16 main
+INFO  20:16:53,976 - #6 (
+INFO  20:16:53,976 - #7 )
+INFO  20:16:53,977 - #16 int
+INFO  20:16:53,977 - #16 bodovi
+INFO  20:16:53,977 - #5 ;
+INFO  20:16:53,977 - #3 {
+INFO  20:16:53,977 - #16 bodovi
+INFO  20:16:53,977 - #13 =
+INFO  20:16:53,978 - #6 (
+INFO  20:16:53,979 - #15 1
+INFO  20:16:53,979 - #11 +
+INFO  20:16:53,979 - #15 3
+INFO  20:16:53,980 - #11 +
+INFO  20:16:53,980 - #15 5
+INFO  20:16:53,986 - #7 )
+INFO  20:16:53,986 - #28 *
+INFO  20:16:53,986 - #15 3
+INFO  20:16:53,987 - #5 ;
+INFO  20:16:53,987 - #37 read
+INFO  20:16:53,988 - #6 (
+INFO  20:16:53,988 - #16 bodovi
+INFO  20:16:53,988 - #7 )
+INFO  20:16:53,988 - #5 ;
+INFO  20:16:53,988 - #9 print
+INFO  20:16:53,988 - #6 (
+INFO  20:16:53,988 - #16 bodovi
+INFO  20:16:53,988 - #7 )
+INFO  20:16:53,988 - #5 ;
+INFO  20:16:53,988 - #4 }
+INFO  20:16:53,988 - #4 }
+INFO  20:16:53,996 - Deklarisana promenljiva a na liniji 8
+INFO  20:16:53,996 - Obradjuje se funkcija main na liniji 14
+INFO  20:16:53,996 - Deklarisana promenljiva bodovi na liniji 15
+INFO  20:16:54,006 - Parsiranje uspesno zavrseno!

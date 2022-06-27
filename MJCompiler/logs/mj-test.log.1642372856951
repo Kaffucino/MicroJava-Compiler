@@ -1,0 +1,48 @@
+INFO  23:40:28,917 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:40:28,947 - #2 program
+INFO  23:40:28,947 - #16 Cofi
+INFO  23:40:28,947 - #16 int
+INFO  23:40:28,947 - #16 y
+INFO  23:40:28,948 - #5 ;
+INFO  23:40:28,948 - #16 char
+INFO  23:40:28,948 - #16 zz
+INFO  23:40:28,948 - #5 ;
+INFO  23:40:28,948 - #16 bool
+INFO  23:40:28,948 - #16 zy
+INFO  23:40:28,949 - #5 ;
+INFO  23:40:28,949 - #3 {
+INFO  23:40:28,949 - #16 int
+INFO  23:40:28,949 - #16 main
+INFO  23:40:28,949 - #6 (
+INFO  23:40:28,950 - #7 )
+INFO  23:40:28,950 - #16 int
+INFO  23:40:28,950 - #16 x
+INFO  23:40:28,951 - #5 ;
+INFO  23:40:28,951 - #3 {
+INFO  23:40:28,951 - #16 x
+INFO  23:40:28,951 - #13 =
+INFO  23:40:28,953 - #16 zy
+INFO  23:40:28,953 - #5 ;
+INFO  23:40:28,955 - #10 return
+INFO  23:40:28,955 - #16 y
+INFO  23:40:28,955 - #5 ;
+INFO  23:40:28,955 - #4 }
+INFO  23:40:28,956 - #14 void
+INFO  23:40:28,956 - #16 main2
+INFO  23:40:28,956 - #6 (
+INFO  23:40:28,956 - #7 )
+INFO  23:40:28,956 - #16 int
+INFO  23:40:28,956 - #16 x
+INFO  23:40:28,957 - #5 ;
+INFO  23:40:28,957 - #3 {
+INFO  23:40:28,957 - #4 }
+INFO  23:40:28,957 - #4 }
+INFO  23:40:28,964 - Deklarisana promenljiva y na liniji 3
+INFO  23:40:28,964 - Deklarisana promenljiva zz na liniji 4
+INFO  23:40:28,964 - Deklarisana promenljiva zy na liniji 5
+INFO  23:40:28,964 - Obradjuje se funkcija main na liniji 9
+INFO  23:40:28,964 - Deklarisana promenljiva x na liniji 9
+ERROR 23:40:28,964 - Semanticka greska na liniji 10 nekompatibilni tipovi za dodelu!
+INFO  23:40:28,964 - Obradjuje se funkcija main2 na liniji 15
+INFO  23:40:28,965 - Deklarisana promenljiva x na liniji 15
+ERROR 23:40:28,965 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,52 @@
+INFO  19:32:46,860 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:32:46,894 - #2 program
+INFO  19:32:46,894 - #16 PROG
+INFO  19:32:46,894 - #16 int
+INFO  19:32:46,894 - #16 zz
+INFO  19:32:46,895 - #13 =
+ERROR 19:32:46,895 - 
+Sintaksna greska na liniji 3
+INFO  19:32:46,895 - #15 1
+INFO  19:32:46,895 - #5 ;
+INFO  19:32:46,895 - #16 char
+INFO  19:32:46,895 - #16 x
+ERROR 19:32:46,895 - Izvrsen oporavak do ; u liniji 3
+INFO  19:32:46,896 - #13 =
+ERROR 19:32:46,896 - 
+Sintaksna greska na liniji 4
+INFO  19:32:46,896 - #17 'a'
+INFO  19:32:46,896 - #8 ,
+INFO  19:32:46,896 - #16 y
+INFO  19:32:46,896 - #5 ;
+ERROR 19:32:46,896 - Izvrsen oporavak do , u liniji 4
+ERROR 19:32:46,896 - 
+Sintaksna greska na liniji 4
+INFO  19:32:46,901 - #16 bool
+INFO  19:32:46,901 - #16 z
+INFO  19:32:46,901 - #8 ,
+INFO  19:32:46,901 - #16 zz
+INFO  19:32:46,901 - #13 =
+INFO  19:32:46,901 - #18 false
+INFO  19:32:46,901 - #5 ;
+INFO  19:32:46,902 - #3 {
+INFO  19:32:46,902 - #16 int
+ERROR 19:32:46,902 - Izvrsen oporavak do ; u liniji 5
+INFO  19:32:46,903 - #16 main
+INFO  19:32:46,903 - #6 (
+INFO  19:32:46,903 - #7 )
+INFO  19:32:46,904 - #3 {
+INFO  19:32:46,904 - #19 if
+INFO  19:32:46,904 - #6 (
+INFO  19:32:46,904 - #16 a
+INFO  19:32:46,905 - #24 >
+INFO  19:32:46,908 - #15 5
+INFO  19:32:46,908 - #7 )
+INFO  19:32:46,910 - #3 {
+INFO  19:32:46,910 - #16 x
+INFO  19:32:46,910 - #13 =
+INFO  19:32:46,910 - #15 5
+INFO  19:32:46,910 - #5 ;
+INFO  19:32:46,911 - #4 }
+INFO  19:32:46,911 - #4 }
+INFO  19:32:46,912 - #4 }
+ERROR 19:32:46,921 - Parsiranje NIJE uspesno zavrseno!

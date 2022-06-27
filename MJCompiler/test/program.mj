@@ -1,0 +1,52 @@
+program Rekordi
+
+record Rekord{
+int niz[];
+char ime;
+}
+
+Rekord a, b;
+
+int i;
+int brojevi;
+int inkr1, inkr2;
+{
+
+	void main(){
+	a = new Rekord;	
+	a.niz = new int[4];
+	b = new Rekord;
+	b.niz = new int[5];
+	
+	i=0;
+	brojevi = 0;
+	inkr1 = 2;
+	inkr2 = 3;
+	a.ime = 'A';
+	b.ime = 'B';
+	
+	print(a.ime);
+	print(b.ime);
+	print(eol);
+	
+	do{
+	i++;
+	brojevi++;
+	a.niz[i] = brojevi + inkr1;
+	b.niz[i] = brojevi + inkr2;
+	print(a.niz[i]);
+	print(b.niz[i]);
+	print(eol);
+	}while(i<3);
+	
+	do{
+	
+	print(a.niz[i]);
+	print(b.niz[i]);
+	print(eol);
+	}while(i<3);
+	
+	
+}
+
+}

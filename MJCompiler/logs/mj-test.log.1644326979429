@@ -1,0 +1,71 @@
+INFO  14:28:58,869 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:28:58,899 - #2 program
+INFO  14:28:58,899 - #16 test301
+INFO  14:28:58,899 - #48 const
+INFO  14:28:58,900 - #16 int
+INFO  14:28:58,900 - #16 nula
+INFO  14:28:58,900 - #13 =
+INFO  14:28:58,901 - #15 0
+INFO  14:28:58,901 - #5 ;
+INFO  14:28:58,901 - #48 const
+INFO  14:28:58,902 - #16 int
+INFO  14:28:58,902 - #16 jedan
+INFO  14:28:58,902 - #13 =
+INFO  14:28:58,902 - #15 1
+INFO  14:28:58,902 - #5 ;
+INFO  14:28:58,902 - #48 const
+INFO  14:28:58,902 - #16 int
+INFO  14:28:58,902 - #16 pet
+INFO  14:28:58,902 - #13 =
+INFO  14:28:58,902 - #15 5
+INFO  14:28:58,902 - #5 ;
+INFO  14:28:58,902 - #16 int
+INFO  14:28:58,902 - #16 niz
+INFO  14:28:58,903 - #50 [
+INFO  14:28:58,903 - #51 ]
+INFO  14:28:58,903 - #5 ;
+INFO  14:28:58,903 - #16 int
+INFO  14:28:58,903 - #16 niz2
+INFO  14:28:58,903 - #50 [
+INFO  14:28:58,904 - #51 ]
+INFO  14:28:58,904 - #5 ;
+INFO  14:28:58,904 - #16 char
+INFO  14:28:58,904 - #16 nizch
+INFO  14:28:58,904 - #50 [
+INFO  14:28:58,904 - #51 ]
+INFO  14:28:58,904 - #5 ;
+INFO  14:28:58,904 - #3 {
+INFO  14:28:58,904 - #14 void
+INFO  14:28:58,904 - #16 main
+INFO  14:28:58,905 - #6 (
+INFO  14:28:58,905 - #7 )
+INFO  14:28:58,906 - #16 int
+INFO  14:28:58,906 - #16 bodovi
+INFO  14:28:58,906 - #5 ;
+INFO  14:28:58,906 - #3 {
+INFO  14:28:58,906 - #16 nizch
+INFO  14:28:58,906 - #13 =
+INFO  14:28:58,907 - #36 new
+INFO  14:28:58,907 - #16 char
+INFO  14:28:58,907 - #50 [
+INFO  14:28:58,907 - #15 3
+INFO  14:28:58,907 - #51 ]
+INFO  14:28:58,908 - #5 ;
+INFO  14:28:58,908 - #16 nizch
+INFO  14:28:58,909 - #50 [
+INFO  14:28:58,909 - #15 0
+INFO  14:28:58,909 - #51 ]
+INFO  14:28:58,909 - #13 =
+INFO  14:28:58,909 - #17 'a'
+INFO  14:28:58,909 - #5 ;
+INFO  14:28:58,909 - #4 }
+INFO  14:28:58,909 - #4 }
+INFO  14:28:58,917 - Trenutan tip konstante je:  int na liniji 5
+INFO  14:28:58,917 - Trenutan tip konstante je:  int na liniji 6
+INFO  14:28:58,917 - Trenutan tip konstante je:  int na liniji 7
+INFO  14:28:58,917 - Deklarisana promenljiva niz na liniji 8
+INFO  14:28:58,917 - Deklarisana promenljiva niz2 na liniji 9
+INFO  14:28:58,917 - Deklarisana promenljiva nizch na liniji 10
+INFO  14:28:58,920 - Obradjuje se funkcija main na liniji 13
+INFO  14:28:58,920 - Deklarisana promenljiva bodovi na liniji 14
+INFO  14:28:58,931 - Parsiranje uspesno zavrseno!

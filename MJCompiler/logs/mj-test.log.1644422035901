@@ -1,0 +1,75 @@
+INFO  16:52:16,226 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:52:16,262 - #2 program
+INFO  16:52:16,262 - #16 test302
+INFO  16:52:16,263 - #48 const
+INFO  16:52:16,263 - #16 int
+INFO  16:52:16,263 - #16 jedan
+INFO  16:52:16,263 - #13 =
+INFO  16:52:16,263 - #15 1
+INFO  16:52:16,264 - #5 ;
+INFO  16:52:16,264 - #16 int
+INFO  16:52:16,265 - #16 i
+INFO  16:52:16,265 - #5 ;
+INFO  16:52:16,265 - #16 bool
+INFO  16:52:16,265 - #16 ibool
+INFO  16:52:16,265 - #5 ;
+INFO  16:52:16,265 - #16 int
+INFO  16:52:16,265 - #16 niz2
+INFO  16:52:16,265 - #5 ;
+INFO  16:52:16,266 - #49 record
+INFO  16:52:16,266 - #16 Test
+INFO  16:52:16,266 - #3 {
+INFO  16:52:16,266 - #16 int
+INFO  16:52:16,266 - #16 niz
+INFO  16:52:16,266 - #50 [
+INFO  16:52:16,266 - #51 ]
+INFO  16:52:16,266 - #5 ;
+INFO  16:52:16,266 - #16 int
+INFO  16:52:16,266 - #16 a
+INFO  16:52:16,267 - #5 ;
+INFO  16:52:16,267 - #4 }
+INFO  16:52:16,267 - #16 int
+INFO  16:52:16,268 - #16 nizz
+INFO  16:52:16,268 - #50 [
+INFO  16:52:16,268 - #51 ]
+INFO  16:52:16,268 - #5 ;
+INFO  16:52:16,268 - #16 Test
+INFO  16:52:16,268 - #16 t1
+INFO  16:52:16,268 - #8 ,
+INFO  16:52:16,268 - #16 t2
+INFO  16:52:16,269 - #5 ;
+INFO  16:52:16,269 - #3 {
+INFO  16:52:16,269 - #14 void
+INFO  16:52:16,269 - #16 main
+INFO  16:52:16,270 - #6 (
+INFO  16:52:16,270 - #7 )
+INFO  16:52:16,270 - #3 {
+INFO  16:52:16,271 - #16 nizz
+INFO  16:52:16,271 - #13 =
+INFO  16:52:16,271 - #36 new
+INFO  16:52:16,272 - #16 int
+INFO  16:52:16,272 - #50 [
+INFO  16:52:16,272 - #15 10
+INFO  16:52:16,272 - #51 ]
+INFO  16:52:16,273 - #5 ;
+INFO  16:52:16,273 - #16 nizz
+INFO  16:52:16,274 - #50 [
+INFO  16:52:16,274 - #15 5
+INFO  16:52:16,274 - #51 ]
+INFO  16:52:16,274 - #13 =
+INFO  16:52:16,274 - #15 2
+INFO  16:52:16,274 - #5 ;
+INFO  16:52:16,274 - #4 }
+INFO  16:52:16,274 - #4 }
+INFO  16:52:16,283 - Trenutan tip konstante je:  int na liniji 5
+INFO  16:52:16,283 - Deklarisana promenljiva i na liniji 7
+INFO  16:52:16,283 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:52:16,283 - Deklarisana promenljiva niz2 na liniji 10
+INFO  16:52:16,283 - Deklarisana je rekord :  Test na liniji 12
+INFO  16:52:16,286 - Deklarisana promenljiva niz na liniji 13
+INFO  16:52:16,286 - Deklarisana promenljiva a na liniji 14
+INFO  16:52:16,287 - Deklarisana promenljiva nizz na liniji 18
+INFO  16:52:16,287 - Deklarisana promenljiva t2 na liniji 19
+INFO  16:52:16,287 - Deklarisana promenljiva t1 na liniji 19
+INFO  16:52:16,287 - Obradjuje se funkcija main na liniji 25
+INFO  16:52:16,298 - Parsiranje uspesno zavrseno!

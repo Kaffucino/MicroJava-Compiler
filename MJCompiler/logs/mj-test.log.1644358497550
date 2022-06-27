@@ -1,0 +1,68 @@
+INFO  23:14:47,587 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:14:47,627 - #2 program
+INFO  23:14:47,627 - #16 Test
+INFO  23:14:47,627 - #49 record
+INFO  23:14:47,628 - #16 Rekord
+INFO  23:14:47,628 - #3 {
+INFO  23:14:47,628 - #16 int
+INFO  23:14:47,628 - #16 a
+INFO  23:14:47,629 - #5 ;
+INFO  23:14:47,629 - #16 int
+INFO  23:14:47,629 - #16 b
+INFO  23:14:47,629 - #5 ;
+INFO  23:14:47,629 - #4 }
+INFO  23:14:47,630 - #16 int
+INFO  23:14:47,630 - #16 cc
+INFO  23:14:47,630 - #5 ;
+INFO  23:14:47,630 - #16 Rekord
+INFO  23:14:47,630 - #16 r
+INFO  23:14:47,630 - #5 ;
+INFO  23:14:47,630 - #3 {
+INFO  23:14:47,631 - #14 void
+INFO  23:14:47,631 - #16 main
+INFO  23:14:47,631 - #6 (
+INFO  23:14:47,634 - #7 )
+INFO  23:14:47,635 - #3 {
+INFO  23:14:47,636 - #16 r
+INFO  23:14:47,636 - #13 =
+INFO  23:14:47,636 - #36 new
+INFO  23:14:47,637 - #16 Rekord
+INFO  23:14:47,637 - #5 ;
+INFO  23:14:47,638 - #16 r
+INFO  23:14:47,638 - #43 .
+INFO  23:14:47,638 - #16 a
+INFO  23:14:47,638 - #13 =
+INFO  23:14:47,638 - #15 1
+INFO  23:14:47,638 - #5 ;
+INFO  23:14:47,639 - #16 r
+INFO  23:14:47,639 - #43 .
+INFO  23:14:47,639 - #16 a
+INFO  23:14:47,639 - #5 ;
+ERROR 23:14:47,639 - 
+Sintaksna greska na liniji 19
+INFO  23:14:47,639 - #16 cc
+INFO  23:14:47,639 - #13 =
+INFO  23:14:47,639 - #16 r
+ERROR 23:14:47,640 - Izvrsen oporavak do ; u liniji 19
+INFO  23:14:47,641 - #43 .
+INFO  23:14:47,641 - #16 a
+INFO  23:14:47,641 - #5 ;
+INFO  23:14:47,641 - #16 c
+INFO  23:14:47,641 - #46 ++
+INFO  23:14:47,641 - #5 ;
+INFO  23:14:47,641 - #9 print
+INFO  23:14:47,641 - #6 (
+INFO  23:14:47,641 - #16 cc
+INFO  23:14:47,641 - #7 )
+INFO  23:14:47,641 - #5 ;
+INFO  23:14:47,642 - #4 }
+INFO  23:14:47,642 - #4 }
+INFO  23:14:47,654 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  23:14:47,654 - Deklarisana promenljiva a na liniji 5
+INFO  23:14:47,654 - Deklarisana promenljiva b na liniji 6
+INFO  23:14:47,655 - Deklarisana promenljiva cc na liniji 9
+INFO  23:14:47,655 - Deklarisana promenljiva r na liniji 11
+INFO  23:14:47,655 - Obradjuje se funkcija main na liniji 15
+ERROR 23:14:47,655 - Greska na liniji 21 : ime c nije deklarisano! 
+ERROR 23:14:47,655 - Semanticka greska na liniji 21 ++ operator zahteva tip Int!
+ERROR 23:14:47,656 - Parsiranje NIJE uspesno zavrseno!

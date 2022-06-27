@@ -1,0 +1,55 @@
+INFO  23:06:32,968 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:06:33,005 - #2 program
+INFO  23:06:33,005 - #16 PR
+INFO  23:06:33,005 - #16 int
+INFO  23:06:33,006 - #16 x
+INFO  23:06:33,006 - #8 ,
+INFO  23:06:33,006 - #16 z
+INFO  23:06:33,006 - #5 ;
+INFO  23:06:33,007 - #48 const
+INFO  23:06:33,007 - #16 int
+INFO  23:06:33,007 - #16 xx
+INFO  23:06:33,007 - #13 =
+INFO  23:06:33,007 - #17 'a'
+INFO  23:06:33,007 - #8 ,
+INFO  23:06:33,007 - #16 yyyy
+INFO  23:06:33,007 - #13 =
+INFO  23:06:33,007 - #17 'a'
+INFO  23:06:33,007 - #5 ;
+INFO  23:06:33,008 - #3 {
+INFO  23:06:33,009 - #16 int
+INFO  23:06:33,009 - #16 fun
+INFO  23:06:33,009 - #6 (
+INFO  23:06:33,010 - #16 int
+INFO  23:06:33,011 - #16 x
+INFO  23:06:33,011 - #8 ,
+INFO  23:06:33,011 - #16 int
+INFO  23:06:33,011 - #16 y
+INFO  23:06:33,011 - #7 )
+INFO  23:06:33,012 - #3 {
+INFO  23:06:33,013 - #10 return
+INFO  23:06:33,013 - #15 0
+INFO  23:06:33,013 - #5 ;
+INFO  23:06:33,014 - #4 }
+INFO  23:06:33,014 - #16 int
+INFO  23:06:33,015 - #16 main
+INFO  23:06:33,015 - #6 (
+INFO  23:06:33,015 - #7 )
+INFO  23:06:33,015 - #16 int
+INFO  23:06:33,015 - #16 y
+INFO  23:06:33,015 - #8 ,
+INFO  23:06:33,015 - #16 zz
+INFO  23:06:33,015 - #50 [
+INFO  23:06:33,015 - #51 ]
+INFO  23:06:33,015 - #5 ;
+INFO  23:06:33,015 - #3 {
+INFO  23:06:33,016 - #4 }
+INFO  23:06:33,016 - #4 }
+INFO  23:06:33,022 - Deklarisana promenljiva z na liniji 3
+INFO  23:06:33,022 - Deklarisana promenljiva x na liniji 3
+INFO  23:06:33,023 - Dodata u listu konstanta yyyy na liniji 5
+INFO  23:06:33,023 - Trenutan tip konstante je:  int na liniji 5
+ERROR 23:06:33,023 - Greska na liniji 5 : Tip int ne odgovara tipu: yyyy
+INFO  23:06:33,023 - Deklarisana promenljiva zz na liniji 15
+INFO  23:06:33,023 - Deklarisana promenljiva y na liniji 15
+ERROR 23:06:33,023 - Parsiranje NIJE uspesno zavrseno!

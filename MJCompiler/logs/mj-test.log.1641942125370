@@ -1,0 +1,28 @@
+INFO  00:01:43,705 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:01:43,735 - #2 program
+INFO  00:01:43,735 - #16 PR
+INFO  00:01:43,735 - #16 int
+INFO  00:01:43,735 - #16 x
+INFO  00:01:43,736 - #8 ,
+INFO  00:01:43,736 - #16 z
+INFO  00:01:43,736 - #5 ;
+INFO  00:01:43,737 - #3 {
+INFO  00:01:43,737 - #16 int
+INFO  00:01:43,738 - #16 main
+INFO  00:01:43,738 - #6 (
+INFO  00:01:43,738 - #7 )
+INFO  00:01:43,739 - #16 int
+INFO  00:01:43,739 - #16 y
+INFO  00:01:43,739 - #5 ;
+INFO  00:01:43,739 - #3 {
+INFO  00:01:43,740 - #16 ss
+INFO  00:01:43,740 - #13 =
+INFO  00:01:43,741 - #17 'a'
+INFO  00:01:43,742 - #5 ;
+INFO  00:01:43,743 - #4 }
+INFO  00:01:43,743 - #4 }
+INFO  00:01:43,751 - Deklarisana promenljiva z na liniji 3
+INFO  00:01:43,756 - Deklarisana promenljiva x na liniji 3
+INFO  00:01:43,756 - Deklarisana promenljiva y na liniji 7
+ERROR 00:01:43,756 - Greska na liniji 9 : ime ss nije deklarisano! 
+ERROR 00:01:43,756 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,142 @@
+INFO  19:34:06,133 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:34:06,165 - #2 program
+INFO  19:34:06,165 - #16 test1
+INFO  19:34:06,165 - #48 const
+INFO  19:34:06,165 - #16 int
+INFO  19:34:06,165 - #16 aa
+INFO  19:34:06,166 - #13 =
+INFO  19:34:06,166 - #17 'a'
+INFO  19:34:06,166 - #5 ;
+INFO  19:34:06,166 - #16 int
+INFO  19:34:06,167 - #16 prom1
+INFO  19:34:06,167 - #5 ;
+INFO  19:34:06,167 - #16 char
+INFO  19:34:06,167 - #16 prom2
+INFO  19:34:06,167 - #5 ;
+INFO  19:34:06,167 - #16 bool
+INFO  19:34:06,167 - #16 prom3
+INFO  19:34:06,167 - #5 ;
+INFO  19:34:06,167 - #16 prom
+INFO  19:34:06,168 - #16 prom4
+INFO  19:34:06,168 - #5 ;
+INFO  19:34:06,168 - #49 record
+INFO  19:34:06,172 - #16 Rek
+INFO  19:34:06,172 - #3 {
+INFO  19:34:06,173 - #16 int
+INFO  19:34:06,173 - #16 a
+INFO  19:34:06,173 - #5 ;
+INFO  19:34:06,173 - #4 }
+INFO  19:34:06,173 - #3 {
+INFO  19:34:06,174 - #16 int
+INFO  19:34:06,174 - #16 fja
+INFO  19:34:06,174 - #6 (
+INFO  19:34:06,175 - #7 )
+INFO  19:34:06,175 - #3 {
+INFO  19:34:06,175 - #10 return
+INFO  19:34:06,175 - #17 'a'
+INFO  19:34:06,175 - #5 ;
+INFO  19:34:06,176 - #4 }
+INFO  19:34:06,177 - #14 void
+INFO  19:34:06,177 - #16 fja1
+INFO  19:34:06,177 - #6 (
+INFO  19:34:06,178 - #16 int
+INFO  19:34:06,178 - #16 p1
+INFO  19:34:06,178 - #8 ,
+INFO  19:34:06,178 - #16 char
+INFO  19:34:06,178 - #16 p2
+INFO  19:34:06,178 - #7 )
+INFO  19:34:06,179 - #3 {
+INFO  19:34:06,179 - #4 }
+INFO  19:34:06,179 - #14 void
+INFO  19:34:06,179 - #16 fja2
+INFO  19:34:06,179 - #6 (
+INFO  19:34:06,179 - #7 )
+INFO  19:34:06,179 - #3 {
+INFO  19:34:06,179 - #4 }
+INFO  19:34:06,179 - #14 void
+INFO  19:34:06,179 - #16 main
+INFO  19:34:06,179 - #6 (
+INFO  19:34:06,179 - #7 )
+INFO  19:34:06,179 - #3 {
+INFO  19:34:06,179 - #16 prom1
+INFO  19:34:06,179 - #13 =
+INFO  19:34:06,180 - #17 'a'
+INFO  19:34:06,180 - #5 ;
+INFO  19:34:06,180 - #16 prom2
+INFO  19:34:06,180 - #13 =
+INFO  19:34:06,180 - #15 56
+INFO  19:34:06,181 - #5 ;
+INFO  19:34:06,181 - #16 prom3
+INFO  19:34:06,183 - #13 =
+INFO  19:34:06,183 - #15 1
+INFO  19:34:06,183 - #5 ;
+INFO  19:34:06,183 - #31 break
+INFO  19:34:06,184 - #5 ;
+INFO  19:34:06,184 - #39 continue
+INFO  19:34:06,184 - #5 ;
+INFO  19:34:06,184 - #19 if
+INFO  19:34:06,184 - #6 (
+INFO  19:34:06,185 - #15 1
+INFO  19:34:06,185 - #7 )
+INFO  19:34:06,186 - #9 print
+INFO  19:34:06,187 - #6 (
+INFO  19:34:06,187 - #17 'a'
+INFO  19:34:06,187 - #7 )
+INFO  19:34:06,187 - #5 ;
+INFO  19:34:06,187 - #16 fja1
+INFO  19:34:06,188 - #6 (
+INFO  19:34:06,189 - #16 prom1
+INFO  19:34:06,189 - #8 ,
+INFO  19:34:06,189 - #16 prom1
+INFO  19:34:06,189 - #7 )
+INFO  19:34:06,190 - #5 ;
+INFO  19:34:06,190 - #16 fja1
+INFO  19:34:06,190 - #6 (
+INFO  19:34:06,190 - #16 prom1
+INFO  19:34:06,190 - #8 ,
+INFO  19:34:06,190 - #16 prom2
+INFO  19:34:06,190 - #8 ,
+INFO  19:34:06,190 - #16 prom1
+INFO  19:34:06,190 - #7 )
+INFO  19:34:06,191 - #5 ;
+INFO  19:34:06,191 - #16 fja2
+INFO  19:34:06,191 - #6 (
+INFO  19:34:06,191 - #16 prom1
+INFO  19:34:06,191 - #7 )
+INFO  19:34:06,191 - #5 ;
+INFO  19:34:06,191 - #16 fja1
+INFO  19:34:06,191 - #6 (
+INFO  19:34:06,191 - #7 )
+INFO  19:34:06,191 - #5 ;
+INFO  19:34:06,192 - #4 }
+INFO  19:34:06,192 - #4 }
+INFO  19:34:06,200 - Trenutan tip konstante je:  int na liniji 3
+ERROR 19:34:06,200 - Greska na liniji 3 : Tip int ne odgovara vrednosti konstante aa
+INFO  19:34:06,200 - Deklarisana promenljiva prom1 na liniji 5
+INFO  19:34:06,200 - Deklarisana promenljiva prom2 na liniji 6
+INFO  19:34:06,200 - Deklarisana promenljiva prom3 na liniji 7
+ERROR 19:34:06,200 - Nije pronadjen tip prom u tabeli simbola
+INFO  19:34:06,200 - Deklarisana promenljiva prom4 na liniji 9
+INFO  19:34:06,200 - Deklarisana je rekord :  Rek na liniji 11
+INFO  19:34:06,200 - Deklarisana promenljiva a na liniji 12
+INFO  19:34:06,200 - Obradjuje se funkcija fja na liniji 18
+ERROR 19:34:06,200 - Semanticka greska na liniji 20: funkcija fja kao povratni tip prihvata: int
+INFO  19:34:06,201 - Obradjuje se funkcija fja1 na liniji 23
+INFO  19:34:06,201 - Naveden argument p2 na liniji 23
+INFO  19:34:06,201 - Naveden argument p1 na liniji 23
+INFO  19:34:06,201 - Obradjuje se funkcija fja2 na liniji 28
+INFO  19:34:06,201 - Obradjuje se funkcija main na liniji 33
+ERROR 19:34:06,201 - Semanticka greska na liniji 34 nekompatibilni tipovi prilikom dodele!
+ERROR 19:34:06,201 - Semanticka greska na liniji 35 nekompatibilni tipovi prilikom dodele!
+ERROR 19:34:06,201 - Semanticka greska na liniji 36 nekompatibilni tipovi prilikom dodele!
+ERROR 19:34:06,201 - Semanticka greska!  break moze da se javi samo u okviru do-while petlje! 
+ERROR 19:34:06,201 - Semanticka greska na liniji 0 continue moze da se javi samo u okviru do-while petlje! 
+ERROR 19:34:06,201 - Semanticka greska na liniji 40 uslov u If-u mora biti tipa bool!
+INFO  19:34:06,201 - Pronadjen poziv funkcije fja1 na liniji 41
+ERROR 19:34:06,202 - Pogresan tip argumenta u funkciji: fja1 na liniji 41
+INFO  19:34:06,202 - Pronadjen poziv funkcije fja1 na liniji 42
+ERROR 19:34:06,202 - Pogresan broj argumenta u funkciji: fja1 na liniji 42
+INFO  19:34:06,202 - Pronadjen poziv funkcije fja2 na liniji 43
+ERROR 19:34:06,202 - Pogresan broj argumenta u funkciji: fja2 na liniji 43
+INFO  19:34:06,202 - Pronadjen poziv funkcije fja1 na liniji 44
+ERROR 19:34:06,202 - Parsiranje NIJE uspesno zavrseno!

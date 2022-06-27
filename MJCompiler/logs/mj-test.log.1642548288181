@@ -1,0 +1,31 @@
+INFO  00:24:35,419 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:24:35,449 - #2 program
+INFO  00:24:35,449 - #16 COfa
+INFO  00:24:35,449 - #49 record
+INFO  00:24:35,449 - #16 x
+INFO  00:24:35,449 - #3 {
+INFO  00:24:35,449 - #16 int
+INFO  00:24:35,449 - #16 y
+INFO  00:24:35,450 - #5 ;
+INFO  00:24:35,450 - #4 }
+INFO  00:24:35,450 - #3 {
+INFO  00:24:35,451 - #16 int
+INFO  00:24:35,451 - #16 main
+INFO  00:24:35,451 - #6 (
+INFO  00:24:35,451 - #7 )
+INFO  00:24:35,452 - #3 {
+INFO  00:24:35,452 - #37 read
+INFO  00:24:35,452 - #6 (
+INFO  00:24:35,452 - #16 x
+INFO  00:24:35,452 - #7 )
+INFO  00:24:35,453 - #5 ;
+INFO  00:24:35,453 - #10 return
+INFO  00:24:35,453 - #15 1
+INFO  00:24:35,454 - #5 ;
+INFO  00:24:35,455 - #4 }
+INFO  00:24:35,456 - #4 }
+INFO  00:24:35,462 - Deklarisana promenljiva y na liniji 6
+INFO  00:24:35,463 - Deklarisana je rekord :  x na liniji 3
+INFO  00:24:35,463 - Obradjuje se funkcija main na liniji 12
+ERROR 00:24:35,463 - Semanticka greska na liniji 14  x mora biti int, char ili bool!
+ERROR 00:24:35,463 - Parsiranje NIJE uspesno zavrseno!

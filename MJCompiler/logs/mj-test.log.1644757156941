@@ -1,0 +1,79 @@
+INFO  13:58:25,275 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:58:25,305 - #2 program
+INFO  13:58:25,305 - #16 lexGreska
+INFO  13:58:25,305 - #16 int
+INFO  13:58:25,305 - #16 a
+INFO  13:58:25,306 - #5 ;
+INFO  13:58:25,306 - #16 int
+INFO  13:58:25,306 - #16 b
+INFO  13:58:25,306 - #5 ;
+INFO  13:58:25,306 - #16 int
+INFO  13:58:25,306 - #16 niz
+INFO  13:58:25,306 - #50 [
+INFO  13:58:25,306 - #51 ]
+INFO  13:58:25,306 - #8 ,
+INFO  13:58:25,306 - #16 niz1
+INFO  13:58:25,307 - #50 [
+INFO  13:58:25,307 - #51 ]
+INFO  13:58:25,307 - #5 ;
+INFO  13:58:25,307 - #16 bool
+INFO  13:58:25,307 - #16 istina
+INFO  13:58:25,307 - #5 ;
+INFO  13:58:25,307 - #3 {
+INFO  13:58:25,307 - #16 int
+INFO  13:58:25,308 - #16 fja
+INFO  13:58:25,308 - #6 (
+INFO  13:58:25,308 - #16 int
+INFO  13:58:25,308 - #16 f
+INFO  13:58:25,308 - #8 ,
+INFO  13:58:25,308 - #16 int
+INFO  13:58:25,308 - #16 ff
+INFO  13:58:25,308 - #8 ,
+INFO  13:58:25,308 - #16 char
+INFO  13:58:25,308 - #16 fff
+INFO  13:58:25,309 - #8 ,
+INFO  13:58:25,309 - #16 tip
+INFO  13:58:25,309 - #7 )
+ERROR 13:58:25,309 - 
+Sintaksna greska na liniji 11
+INFO  13:58:25,309 - #3 {
+INFO  13:58:25,309 - #16 a
+INFO  13:58:25,309 - #13 =
+ERROR 13:58:25,309 - Izvrsen oporavak do ) u liniji 11
+INFO  13:58:25,310 - #15 7
+INFO  13:58:25,311 - #5 ;
+INFO  13:58:25,312 - #10 return
+INFO  13:58:25,312 - #16 a
+INFO  13:58:25,312 - #5 ;
+INFO  13:58:25,312 - #4 }
+INFO  13:58:25,312 - #14 void
+INFO  13:58:25,313 - #16 main
+INFO  13:58:25,313 - #6 (
+INFO  13:58:25,313 - #7 )
+INFO  13:58:25,313 - #3 {
+INFO  13:58:25,313 - #16 istina
+INFO  13:58:25,313 - #13 =
+INFO  13:58:25,313 - #5 ;
+ERROR 13:58:25,313 - 
+Sintaksna greska na liniji 18
+INFO  13:58:25,313 - #19 if
+INFO  13:58:25,313 - #6 (
+INFO  13:58:25,313 - #16 istina
+ERROR 13:58:25,313 - Izvrsen oporavak do ; u liniji 18
+INFO  13:58:25,314 - #13 =
+ERROR 13:58:25,314 - 
+Sintaksna greska na liniji 20
+INFO  13:58:25,314 - #7 )
+INFO  13:58:25,314 - #3 {
+INFO  13:58:25,314 - #4 }
+INFO  13:58:25,314 - #4 }
+ERROR 13:58:25,314 - Izvrsen oporavak do ) u liniji 20
+INFO  13:58:25,316 - #4 }
+INFO  13:58:25,326 - Deklarisana promenljiva a na liniji 3
+INFO  13:58:25,326 - Deklarisana promenljiva b na liniji 4
+INFO  13:58:25,327 - Deklarisana promenljiva niz1 na liniji 5
+INFO  13:58:25,327 - Deklarisana promenljiva niz na liniji 5
+INFO  13:58:25,327 - Deklarisana promenljiva istina na liniji 6
+INFO  13:58:25,327 - Obradjuje se funkcija fja na liniji 11
+INFO  13:58:25,327 - Obradjuje se funkcija main na liniji 17
+ERROR 13:58:25,328 - Parsiranje NIJE uspesno zavrseno!

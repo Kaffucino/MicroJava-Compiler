@@ -1,0 +1,40 @@
+INFO  00:05:28,308 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:05:28,336 - #2 program
+INFO  00:05:28,336 - #16 Cofi
+INFO  00:05:28,336 - #16 int
+INFO  00:05:28,336 - #16 x
+INFO  00:05:28,337 - #5 ;
+INFO  00:05:28,337 - #3 {
+INFO  00:05:28,338 - #14 void
+INFO  00:05:28,338 - #16 main
+INFO  00:05:28,338 - #6 (
+INFO  00:05:28,338 - #7 )
+INFO  00:05:28,339 - #16 int
+INFO  00:05:28,339 - #16 x
+INFO  00:05:28,339 - #5 ;
+INFO  00:05:28,339 - #3 {
+INFO  00:05:28,339 - #10 return
+INFO  00:05:28,339 - #15 2
+INFO  00:05:28,340 - #5 ;
+INFO  00:05:28,341 - #4 }
+INFO  00:05:28,341 - #14 void
+INFO  00:05:28,341 - #16 main2
+INFO  00:05:28,342 - #6 (
+INFO  00:05:28,342 - #7 )
+INFO  00:05:28,342 - #16 int
+INFO  00:05:28,342 - #16 x
+INFO  00:05:28,342 - #5 ;
+INFO  00:05:28,342 - #3 {
+INFO  00:05:28,342 - #10 return
+INFO  00:05:28,342 - #15 2
+INFO  00:05:28,342 - #5 ;
+INFO  00:05:28,342 - #4 }
+INFO  00:05:28,342 - #4 }
+INFO  00:05:28,349 - Deklarisana promenljiva x na liniji 3
+INFO  00:05:28,349 - Obradjuje se funkcija main na liniji 7
+ERROR 00:05:28,349 - Promenljiva x je vec deklarisana!
+ERROR 00:05:28,349 - Semanticka greska na liniji 7: funkcija main ne moze imati return iskaz ako je povratni tip void!
+INFO  00:05:28,349 - Obradjuje se funkcija main2 na liniji 12
+ERROR 00:05:28,349 - Promenljiva x je vec deklarisana!
+ERROR 00:05:28,349 - Semanticka greska na liniji 12: funkcija main2 ne moze imati return iskaz ako je povratni tip void!
+ERROR 00:05:28,350 - Parsiranje NIJE uspesno zavrseno!

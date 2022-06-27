@@ -1,0 +1,41 @@
+INFO  15:11:06,566 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:11:06,597 - #2 program
+INFO  15:11:06,597 - #16 COfa
+INFO  15:11:06,597 - #16 int
+INFO  15:11:06,598 - #16 x
+INFO  15:11:06,598 - #16 char
+ERROR 15:11:06,598 - 
+Sintaksna greska na liniji 6
+INFO  15:11:06,598 - #16 z
+INFO  15:11:06,598 - #5 ;
+INFO  15:11:06,598 - #16 int
+INFO  15:11:06,598 - #16 y
+INFO  15:11:06,599 - #5 ;
+INFO  15:11:06,599 - #3 {
+INFO  15:11:06,599 - #16 int
+INFO  15:11:06,599 - #16 main
+INFO  15:11:06,599 - #6 (
+INFO  15:11:06,599 - #7 )
+INFO  15:11:06,599 - #3 {
+INFO  15:11:06,599 - #19 if
+INFO  15:11:06,599 - #6 (
+INFO  15:11:06,599 - #16 x
+INFO  15:11:06,599 - #45 ||
+INFO  15:11:06,599 - #16 x
+INFO  15:11:06,604 - #7 )
+INFO  15:11:06,605 - #3 {
+INFO  15:11:06,605 - #16 y
+INFO  15:11:06,605 - #13 =
+INFO  15:11:06,605 - #16 x
+INFO  15:11:06,605 - #50 [
+INFO  15:11:06,605 - #16 y
+INFO  15:11:06,605 - #51 ]
+INFO  15:11:06,605 - #5 ;
+INFO  15:11:06,605 - #4 }
+INFO  15:11:06,605 - #10 return
+INFO  15:11:06,605 - #16 x
+INFO  15:11:06,605 - #5 ;
+INFO  15:11:06,605 - #4 }
+INFO  15:11:06,605 - #4 }
+ERROR 15:11:06,605 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 20
+ERROR 15:11:06,612 - Parsiranje NIJE uspesno zavrseno!

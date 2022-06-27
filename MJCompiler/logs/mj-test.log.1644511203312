@@ -1,0 +1,42 @@
+INFO  17:39:16,412 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:39:16,445 - #2 program
+INFO  17:39:16,445 - #16 test302
+INFO  17:39:16,445 - #48 const
+INFO  17:39:16,446 - #16 int
+INFO  17:39:16,446 - #16 jedan
+INFO  17:39:16,447 - #13 =
+INFO  17:39:16,447 - #15 1
+INFO  17:39:16,447 - #5 ;
+INFO  17:39:16,447 - #16 int
+INFO  17:39:16,448 - #16 i
+INFO  17:39:16,448 - #5 ;
+INFO  17:39:16,448 - #16 int
+INFO  17:39:16,448 - #16 j
+INFO  17:39:16,448 - #5 ;
+INFO  17:39:16,448 - #16 int
+INFO  17:39:16,448 - #16 z
+INFO  17:39:16,448 - #5 ;
+INFO  17:39:16,449 - #3 {
+INFO  17:39:16,449 - #14 void
+INFO  17:39:16,449 - #16 main
+INFO  17:39:16,450 - #6 (
+INFO  17:39:16,450 - #7 )
+INFO  17:39:16,453 - #3 {
+INFO  17:39:16,453 - #16 i
+INFO  17:39:16,453 - #13 =
+INFO  17:39:16,454 - #12 -
+INFO  17:39:16,454 - #15 5
+INFO  17:39:16,454 - #5 ;
+INFO  17:39:16,456 - #9 print
+INFO  17:39:16,456 - #6 (
+INFO  17:39:16,456 - #16 i
+INFO  17:39:16,456 - #7 )
+INFO  17:39:16,456 - #5 ;
+INFO  17:39:16,456 - #4 }
+INFO  17:39:16,457 - #4 }
+INFO  17:39:16,465 - Trenutan tip konstante je:  int na liniji 5
+INFO  17:39:16,465 - Deklarisana promenljiva i na liniji 7
+INFO  17:39:16,465 - Deklarisana promenljiva j na liniji 8
+INFO  17:39:16,465 - Deklarisana promenljiva z na liniji 9
+INFO  17:39:16,465 - Obradjuje se funkcija main na liniji 12
+INFO  17:39:16,478 - Parsiranje uspesno zavrseno!

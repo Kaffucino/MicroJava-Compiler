@@ -1,0 +1,111 @@
+INFO  15:27:08,925 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:27:08,954 - #2 program
+INFO  15:27:08,955 - #16 PR
+INFO  15:27:08,955 - #16 char
+INFO  15:27:08,955 - #16 x
+INFO  15:27:08,955 - #5 ;
+INFO  15:27:08,956 - #48 const
+INFO  15:27:08,956 - #16 bool
+INFO  15:27:08,956 - #16 Cofi
+INFO  15:27:08,956 - #13 =
+INFO  15:27:08,956 - #18 true
+INFO  15:27:08,956 - #5 ;
+INFO  15:27:08,956 - #32 class
+INFO  15:27:08,957 - #16 Table
+INFO  15:27:08,957 - #38 extends
+INFO  15:27:08,957 - #16 Cofi
+INFO  15:27:08,957 - #3 {
+INFO  15:27:08,957 - #16 int
+INFO  15:27:08,957 - #16 pos
+INFO  15:27:08,957 - #50 [
+INFO  15:27:08,957 - #51 ]
+INFO  15:27:08,957 - #8 ,
+INFO  15:27:08,957 - #16 neg
+INFO  15:27:08,959 - #50 [
+INFO  15:27:08,959 - #51 ]
+INFO  15:27:08,959 - #5 ;
+INFO  15:27:08,959 - #3 {
+INFO  15:27:08,960 - #14 void
+INFO  15:27:08,960 - #16 putp
+INFO  15:27:08,961 - #6 (
+INFO  15:27:08,961 - #16 int
+INFO  15:27:08,961 - #16 a
+INFO  15:27:08,961 - #8 ,
+INFO  15:27:08,961 - #16 int
+INFO  15:27:08,961 - #16 idx
+INFO  15:27:08,961 - #7 )
+INFO  15:27:08,962 - #3 {
+INFO  15:27:08,962 - #40 this
+INFO  15:27:08,962 - #43 .
+INFO  15:27:08,962 - #16 pos
+INFO  15:27:08,962 - #50 [
+INFO  15:27:08,962 - #16 idx
+INFO  15:27:08,962 - #51 ]
+INFO  15:27:08,964 - #13 =
+INFO  15:27:08,964 - #16 a
+INFO  15:27:08,964 - #5 ;
+INFO  15:27:08,964 - #4 }
+INFO  15:27:08,965 - #4 }
+INFO  15:27:08,965 - #4 }
+INFO  15:27:08,965 - #3 {
+INFO  15:27:08,966 - #16 int
+INFO  15:27:08,966 - #16 fun
+INFO  15:27:08,966 - #6 (
+INFO  15:27:08,966 - #16 int
+INFO  15:27:08,966 - #16 x
+INFO  15:27:08,966 - #8 ,
+INFO  15:27:08,966 - #16 int
+INFO  15:27:08,966 - #16 y
+INFO  15:27:08,966 - #7 )
+INFO  15:27:08,966 - #16 int
+INFO  15:27:08,966 - #16 z
+INFO  15:27:08,966 - #5 ;
+INFO  15:27:08,967 - #3 {
+INFO  15:27:08,967 - #10 return
+INFO  15:27:08,967 - #15 0
+INFO  15:27:08,967 - #5 ;
+INFO  15:27:08,967 - #4 }
+INFO  15:27:08,967 - #16 int
+INFO  15:27:08,967 - #16 fun2
+INFO  15:27:08,967 - #6 (
+INFO  15:27:08,967 - #16 int
+INFO  15:27:08,967 - #16 x
+INFO  15:27:08,967 - #8 ,
+INFO  15:27:08,967 - #16 int
+INFO  15:27:08,967 - #16 y
+INFO  15:27:08,967 - #7 )
+INFO  15:27:08,968 - #16 int
+INFO  15:27:08,968 - #16 z
+INFO  15:27:08,968 - #5 ;
+INFO  15:27:08,968 - #3 {
+INFO  15:27:08,968 - #10 return
+INFO  15:27:08,968 - #15 0
+INFO  15:27:08,968 - #5 ;
+INFO  15:27:08,968 - #4 }
+INFO  15:27:08,968 - #16 int
+INFO  15:27:08,969 - #16 main
+INFO  15:27:08,969 - #6 (
+INFO  15:27:08,969 - #7 )
+INFO  15:27:08,969 - #16 int
+INFO  15:27:08,969 - #16 y
+INFO  15:27:08,969 - #8 ,
+INFO  15:27:08,969 - #16 zz
+INFO  15:27:08,969 - #50 [
+INFO  15:27:08,969 - #51 ]
+INFO  15:27:08,969 - #5 ;
+INFO  15:27:08,969 - #3 {
+INFO  15:27:08,969 - #4 }
+INFO  15:27:08,969 - #4 }
+INFO  15:27:08,975 - Deklarisana promenljiva x na liniji 5
+INFO  15:27:08,975 - Trenutan tip konstante je:  bool na liniji 7
+ERROR 15:27:08,975 - Greska: Ime Cofi ne predstavlja tip  na liniji 9
+INFO  15:27:08,975 - Deklarisana promenljiva neg na liniji 10
+INFO  15:27:08,975 - Deklarisana promenljiva pos na liniji 10
+ERROR 15:27:08,975 - Greska na liniji 12 : ime idx nije deklarisano! 
+ERROR 15:27:08,975 - Greska na liniji 12 : ime a nije deklarisano! 
+INFO  15:27:08,975 - Deklarisana je klasa :  Table na liniji 7
+INFO  15:27:08,975 - Deklarisana promenljiva z na liniji 21
+ERROR 15:27:08,975 - Promenljiva z je vec deklarisana!
+INFO  15:27:08,975 - Deklarisana promenljiva zz na liniji 33
+INFO  15:27:08,975 - Deklarisana promenljiva y na liniji 33
+ERROR 15:27:08,976 - Parsiranje NIJE uspesno zavrseno!

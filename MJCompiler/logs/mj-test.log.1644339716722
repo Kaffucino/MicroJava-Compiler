@@ -1,0 +1,70 @@
+INFO  18:01:49,470 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:01:49,501 - #2 program
+INFO  18:01:49,501 - #16 test302
+INFO  18:01:49,501 - #48 const
+INFO  18:01:49,501 - #16 int
+INFO  18:01:49,501 - #16 jedan
+INFO  18:01:49,502 - #13 =
+INFO  18:01:49,502 - #15 1
+INFO  18:01:49,502 - #5 ;
+INFO  18:01:49,502 - #16 int
+INFO  18:01:49,503 - #16 i
+INFO  18:01:49,503 - #5 ;
+INFO  18:01:49,503 - #16 int
+INFO  18:01:49,503 - #16 niz2
+INFO  18:01:49,503 - #5 ;
+INFO  18:01:49,504 - #49 record
+INFO  18:01:49,504 - #16 Test
+INFO  18:01:49,504 - #3 {
+INFO  18:01:49,504 - #16 int
+INFO  18:01:49,504 - #16 niz
+INFO  18:01:49,504 - #50 [
+INFO  18:01:49,504 - #51 ]
+INFO  18:01:49,504 - #5 ;
+INFO  18:01:49,506 - #16 int
+INFO  18:01:49,506 - #16 a
+INFO  18:01:49,506 - #5 ;
+INFO  18:01:49,506 - #4 }
+INFO  18:01:49,506 - #16 Test
+INFO  18:01:49,507 - #16 t1
+INFO  18:01:49,507 - #8 ,
+INFO  18:01:49,507 - #16 t2
+INFO  18:01:49,507 - #5 ;
+INFO  18:01:49,507 - #3 {
+INFO  18:01:49,507 - #14 void
+INFO  18:01:49,507 - #16 main
+INFO  18:01:49,508 - #6 (
+INFO  18:01:49,508 - #7 )
+INFO  18:01:49,509 - #3 {
+INFO  18:01:49,509 - #16 t1
+INFO  18:01:49,509 - #13 =
+INFO  18:01:49,510 - #36 new
+INFO  18:01:49,510 - #16 Test
+INFO  18:01:49,510 - #5 ;
+INFO  18:01:49,511 - #16 t1
+INFO  18:01:49,511 - #43 .
+INFO  18:01:49,512 - #16 a
+INFO  18:01:49,512 - #13 =
+INFO  18:01:49,512 - #15 2
+INFO  18:01:49,512 - #5 ;
+INFO  18:01:49,512 - #9 print
+INFO  18:01:49,512 - #6 (
+INFO  18:01:49,512 - #16 eol
+INFO  18:01:49,512 - #7 )
+INFO  18:01:49,512 - #5 ;
+INFO  18:01:49,512 - #16 i
+INFO  18:01:49,512 - #13 =
+INFO  18:01:49,512 - #15 0
+INFO  18:01:49,512 - #5 ;
+INFO  18:01:49,512 - #4 }
+INFO  18:01:49,513 - #4 }
+INFO  18:01:49,520 - Trenutan tip konstante je:  int na liniji 5
+INFO  18:01:49,520 - Deklarisana promenljiva i na liniji 7
+INFO  18:01:49,520 - Deklarisana promenljiva niz2 na liniji 10
+INFO  18:01:49,520 - Deklarisana je rekord :  Test na liniji 12
+INFO  18:01:49,520 - Deklarisana promenljiva niz na liniji 13
+INFO  18:01:49,520 - Deklarisana promenljiva a na liniji 14
+INFO  18:01:49,520 - Deklarisana promenljiva t2 na liniji 17
+INFO  18:01:49,520 - Deklarisana promenljiva t1 na liniji 17
+INFO  18:01:49,523 - Obradjuje se funkcija main na liniji 40
+INFO  18:01:49,534 - Parsiranje uspesno zavrseno!

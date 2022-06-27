@@ -1,0 +1,66 @@
+INFO  01:12:35,126 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:12:35,156 - #2 program
+INFO  01:12:35,156 - #16 Test
+INFO  01:12:35,156 - #49 record
+INFO  01:12:35,156 - #16 Rekord
+INFO  01:12:35,156 - #3 {
+INFO  01:12:35,157 - #16 int
+INFO  01:12:35,157 - #16 a
+INFO  01:12:35,157 - #5 ;
+INFO  01:12:35,158 - #16 int
+INFO  01:12:35,158 - #16 b
+INFO  01:12:35,158 - #5 ;
+INFO  01:12:35,158 - #16 int
+INFO  01:12:35,158 - #16 niz
+INFO  01:12:35,158 - #50 [
+INFO  01:12:35,158 - #51 ]
+INFO  01:12:35,158 - #5 ;
+INFO  01:12:35,158 - #4 }
+INFO  01:12:35,159 - #16 int
+INFO  01:12:35,159 - #16 nizz
+INFO  01:12:35,159 - #50 [
+INFO  01:12:35,159 - #51 ]
+INFO  01:12:35,159 - #5 ;
+INFO  01:12:35,161 - #16 Rekord
+INFO  01:12:35,161 - #16 r
+INFO  01:12:35,161 - #5 ;
+INFO  01:12:35,161 - #3 {
+INFO  01:12:35,162 - #14 void
+INFO  01:12:35,162 - #16 main
+INFO  01:12:35,162 - #6 (
+INFO  01:12:35,163 - #7 )
+INFO  01:12:35,163 - #3 {
+INFO  01:12:35,163 - #16 r
+INFO  01:12:35,163 - #13 =
+INFO  01:12:35,164 - #36 new
+INFO  01:12:35,164 - #16 Rekord
+INFO  01:12:35,164 - #5 ;
+INFO  01:12:35,166 - #16 r
+INFO  01:12:35,166 - #43 .
+INFO  01:12:35,166 - #16 niz
+INFO  01:12:35,166 - #13 =
+INFO  01:12:35,166 - #36 new
+INFO  01:12:35,166 - #16 int
+INFO  01:12:35,166 - #50 [
+INFO  01:12:35,166 - #15 5
+INFO  01:12:35,166 - #51 ]
+INFO  01:12:35,166 - #5 ;
+INFO  01:12:35,166 - #16 r
+INFO  01:12:35,166 - #43 .
+INFO  01:12:35,166 - #16 niz
+INFO  01:12:35,167 - #50 [
+INFO  01:12:35,167 - #15 2
+INFO  01:12:35,167 - #51 ]
+INFO  01:12:35,167 - #13 =
+INFO  01:12:35,167 - #15 2
+INFO  01:12:35,167 - #5 ;
+INFO  01:12:35,167 - #4 }
+INFO  01:12:35,167 - #4 }
+INFO  01:12:35,175 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  01:12:35,175 - Deklarisana promenljiva a na liniji 5
+INFO  01:12:35,175 - Deklarisana promenljiva b na liniji 6
+INFO  01:12:35,175 - Deklarisana promenljiva niz na liniji 7
+INFO  01:12:35,175 - Deklarisana promenljiva nizz na liniji 10
+INFO  01:12:35,175 - Deklarisana promenljiva r na liniji 11
+INFO  01:12:35,176 - Obradjuje se funkcija main na liniji 15
+INFO  01:12:35,186 - Parsiranje uspesno zavrseno!

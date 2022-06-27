@@ -1,0 +1,39 @@
+INFO  23:02:45,405 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:02:45,435 - #2 program
+INFO  23:02:45,435 - #16 Cofi
+INFO  23:02:45,435 - #16 int
+INFO  23:02:45,435 - #16 y
+INFO  23:02:45,435 - #5 ;
+INFO  23:02:45,436 - #3 {
+INFO  23:02:45,437 - #16 int
+INFO  23:02:45,437 - #16 main
+INFO  23:02:45,437 - #6 (
+INFO  23:02:45,437 - #7 )
+INFO  23:02:45,438 - #16 int
+INFO  23:02:45,438 - #16 x
+INFO  23:02:45,438 - #5 ;
+INFO  23:02:45,438 - #3 {
+INFO  23:02:45,438 - #16 x
+INFO  23:02:45,438 - #13 =
+INFO  23:02:45,439 - #15 1
+INFO  23:02:45,439 - #5 ;
+INFO  23:02:45,440 - #10 return
+INFO  23:02:45,440 - #16 y
+INFO  23:02:45,440 - #5 ;
+INFO  23:02:45,441 - #4 }
+INFO  23:02:45,441 - #14 void
+INFO  23:02:45,443 - #16 main2
+INFO  23:02:45,443 - #6 (
+INFO  23:02:45,443 - #7 )
+INFO  23:02:45,443 - #16 int
+INFO  23:02:45,443 - #16 x
+INFO  23:02:45,443 - #5 ;
+INFO  23:02:45,443 - #3 {
+INFO  23:02:45,443 - #4 }
+INFO  23:02:45,443 - #4 }
+INFO  23:02:45,449 - Deklarisana promenljiva y na liniji 3
+INFO  23:02:45,450 - Obradjuje se funkcija main na liniji 8
+INFO  23:02:45,450 - Deklarisana promenljiva x na liniji 8
+INFO  23:02:45,450 - Obradjuje se funkcija main2 na liniji 14
+INFO  23:02:45,450 - Deklarisana promenljiva x na liniji 14
+INFO  23:02:45,457 - Parsiranje uspesno zavrseno!

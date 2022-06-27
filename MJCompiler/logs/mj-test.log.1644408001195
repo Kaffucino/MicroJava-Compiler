@@ -1,0 +1,49 @@
+INFO  12:59:51,112 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  12:59:51,143 - #2 program
+INFO  12:59:51,143 - #16 Test
+INFO  12:59:51,143 - #49 record
+INFO  12:59:51,143 - #16 Rekord
+INFO  12:59:51,143 - #3 {
+INFO  12:59:51,144 - #16 int
+INFO  12:59:51,144 - #16 a
+INFO  12:59:51,144 - #5 ;
+INFO  12:59:51,145 - #16 int
+INFO  12:59:51,145 - #16 b
+INFO  12:59:51,145 - #5 ;
+INFO  12:59:51,145 - #16 int
+INFO  12:59:51,145 - #16 niz
+INFO  12:59:51,145 - #50 [
+INFO  12:59:51,145 - #51 ]
+INFO  12:59:51,145 - #5 ;
+INFO  12:59:51,145 - #4 }
+INFO  12:59:51,146 - #16 int
+INFO  12:59:51,146 - #16 nizz
+INFO  12:59:51,146 - #50 [
+INFO  12:59:51,146 - #51 ]
+INFO  12:59:51,146 - #5 ;
+INFO  12:59:51,147 - #16 Rekord
+INFO  12:59:51,147 - #16 r
+INFO  12:59:51,147 - #5 ;
+INFO  12:59:51,147 - #3 {
+INFO  12:59:51,147 - #14 void
+INFO  12:59:51,147 - #16 main
+INFO  12:59:51,148 - #6 (
+INFO  12:59:51,148 - #7 )
+INFO  12:59:51,148 - #3 {
+INFO  12:59:51,149 - #16 r
+INFO  12:59:51,149 - #13 =
+INFO  12:59:51,149 - #36 new
+INFO  12:59:51,149 - #16 Record
+INFO  12:59:51,149 - #5 ;
+INFO  12:59:51,151 - #4 }
+INFO  12:59:51,151 - #4 }
+INFO  12:59:51,159 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  12:59:51,159 - Deklarisana promenljiva a na liniji 5
+INFO  12:59:51,159 - Deklarisana promenljiva b na liniji 6
+INFO  12:59:51,159 - Deklarisana promenljiva niz na liniji 7
+INFO  12:59:51,159 - Deklarisana promenljiva nizz na liniji 10
+INFO  12:59:51,159 - Deklarisana promenljiva r na liniji 11
+INFO  12:59:51,159 - Obradjuje se funkcija main na liniji 15
+ERROR 12:59:51,159 - Nije pronadjen tip Record u tabeli simbola
+ERROR 12:59:51,160 - Semanticka greska na liniji 17 Navedeni rekord ne postoji!
+ERROR 12:59:51,160 - Parsiranje NIJE uspesno zavrseno!

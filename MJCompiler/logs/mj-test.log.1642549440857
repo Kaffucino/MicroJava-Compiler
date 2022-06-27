@@ -1,0 +1,35 @@
+INFO  00:42:55,608 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:42:55,637 - #2 program
+INFO  00:42:55,637 - #16 COfa
+INFO  00:42:55,638 - #16 bool
+INFO  00:42:55,638 - #16 x
+INFO  00:42:55,638 - #5 ;
+INFO  00:42:55,639 - #32 class
+INFO  00:42:55,639 - #16 zz
+INFO  00:42:55,639 - #3 {
+INFO  00:42:55,639 - #16 int
+INFO  00:42:55,639 - #16 zzzzz
+INFO  00:42:55,639 - #5 ;
+INFO  00:42:55,639 - #4 }
+INFO  00:42:55,640 - #3 {
+INFO  00:42:55,641 - #16 int
+INFO  00:42:55,641 - #16 main
+INFO  00:42:55,641 - #6 (
+INFO  00:42:55,641 - #7 )
+INFO  00:42:55,642 - #3 {
+INFO  00:42:55,642 - #9 print
+INFO  00:42:55,642 - #6 (
+INFO  00:42:55,642 - #16 zz
+INFO  00:42:55,643 - #7 )
+INFO  00:42:55,644 - #5 ;
+INFO  00:42:55,644 - #10 return
+INFO  00:42:55,644 - #15 1
+INFO  00:42:55,644 - #5 ;
+INFO  00:42:55,645 - #4 }
+INFO  00:42:55,645 - #4 }
+INFO  00:42:55,651 - Deklarisana promenljiva x na liniji 3
+INFO  00:42:55,652 - Deklarisana promenljiva zzzzz na liniji 7
+INFO  00:42:55,652 - Deklarisana je klasa :  zz na liniji 5
+INFO  00:42:55,652 - Obradjuje se funkcija main na liniji 12
+ERROR 00:42:55,652 - Semanticka greska na liniji 14  zz mora biti int, char ili bool!
+ERROR 00:42:55,652 - Parsiranje NIJE uspesno zavrseno!

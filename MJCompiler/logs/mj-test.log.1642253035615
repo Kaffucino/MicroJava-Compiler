@@ -1,0 +1,55 @@
+INFO  14:23:40,079 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:23:40,121 - #2 program
+INFO  14:23:40,121 - #16 PR
+INFO  14:23:40,121 - #16 int
+INFO  14:23:40,121 - #16 x
+INFO  14:23:40,122 - #8 ,
+INFO  14:23:40,122 - #16 z
+INFO  14:23:40,122 - #5 ;
+INFO  14:23:40,122 - #48 const
+INFO  14:23:40,123 - #16 cofi
+INFO  14:23:40,123 - #16 Cofi
+INFO  14:23:40,123 - #13 =
+INFO  14:23:40,123 - #15 1
+INFO  14:23:40,123 - #5 ;
+INFO  14:23:40,124 - #3 {
+INFO  14:23:40,125 - #16 int
+INFO  14:23:40,125 - #16 fun
+INFO  14:23:40,125 - #6 (
+INFO  14:23:40,126 - #16 int
+INFO  14:23:40,126 - #16 x
+INFO  14:23:40,126 - #8 ,
+INFO  14:23:40,126 - #16 int
+INFO  14:23:40,126 - #16 y
+INFO  14:23:40,126 - #7 )
+INFO  14:23:40,127 - #16 int
+INFO  14:23:40,127 - #16 z
+INFO  14:23:40,127 - #5 ;
+INFO  14:23:40,127 - #3 {
+INFO  14:23:40,128 - #10 return
+INFO  14:23:40,128 - #15 0
+INFO  14:23:40,128 - #5 ;
+INFO  14:23:40,129 - #4 }
+INFO  14:23:40,130 - #16 int
+INFO  14:23:40,130 - #16 main
+INFO  14:23:40,130 - #6 (
+INFO  14:23:40,130 - #7 )
+INFO  14:23:40,130 - #16 int
+INFO  14:23:40,131 - #16 y
+INFO  14:23:40,131 - #8 ,
+INFO  14:23:40,131 - #16 zz
+INFO  14:23:40,131 - #50 [
+INFO  14:23:40,131 - #51 ]
+INFO  14:23:40,131 - #5 ;
+INFO  14:23:40,131 - #3 {
+INFO  14:23:40,131 - #4 }
+INFO  14:23:40,131 - #4 }
+INFO  14:23:40,139 - Deklarisana promenljiva z na liniji 3
+INFO  14:23:40,139 - Deklarisana promenljiva x na liniji 3
+ERROR 14:23:40,139 - Nije pronadjen tip cofi u tabeli simbola
+INFO  14:23:40,139 - Trenutan tip konstante je:  cofi na liniji 5
+ERROR 14:23:40,139 - Greska na liniji 5 : Tip cofi ne odgovara vrednosti konstante Cofi
+INFO  14:23:40,139 - Deklarisana promenljiva z na liniji 9
+INFO  14:23:40,139 - Deklarisana promenljiva zz na liniji 15
+INFO  14:23:40,139 - Deklarisana promenljiva y na liniji 15
+ERROR 14:23:40,140 - Parsiranje NIJE uspesno zavrseno!

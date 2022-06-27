@@ -1,0 +1,73 @@
+INFO  21:12:47,612 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:12:47,647 - #2 program
+INFO  21:12:47,647 - #16 Test
+INFO  21:12:47,647 - #16 int
+INFO  21:12:47,647 - #16 niz2
+INFO  21:12:47,648 - #50 [
+INFO  21:12:47,648 - #51 ]
+INFO  21:12:47,648 - #5 ;
+INFO  21:12:47,648 - #49 record
+INFO  21:12:47,648 - #16 Rec
+INFO  21:12:47,649 - #3 {
+INFO  21:12:47,649 - #16 int
+INFO  21:12:47,649 - #16 niz
+INFO  21:12:47,649 - #50 [
+INFO  21:12:47,649 - #51 ]
+INFO  21:12:47,650 - #5 ;
+INFO  21:12:47,650 - #16 int
+INFO  21:12:47,650 - #16 a
+INFO  21:12:47,650 - #5 ;
+INFO  21:12:47,650 - #4 }
+INFO  21:12:47,650 - #16 Rec
+INFO  21:12:47,651 - #16 r1
+INFO  21:12:47,651 - #5 ;
+INFO  21:12:47,656 - #3 {
+INFO  21:12:47,656 - #14 void
+INFO  21:12:47,656 - #16 main
+INFO  21:12:47,657 - #6 (
+INFO  21:12:47,657 - #7 )
+INFO  21:12:47,658 - #3 {
+INFO  21:12:47,658 - #16 r1
+INFO  21:12:47,658 - #13 =
+INFO  21:12:47,659 - #36 new
+INFO  21:12:47,659 - #16 Rec
+INFO  21:12:47,659 - #5 ;
+INFO  21:12:47,660 - #16 r1
+INFO  21:12:47,661 - #43 .
+INFO  21:12:47,661 - #16 niz
+INFO  21:12:47,661 - #13 =
+INFO  21:12:47,661 - #36 new
+INFO  21:12:47,661 - #16 int
+INFO  21:12:47,661 - #50 [
+INFO  21:12:47,661 - #15 5
+INFO  21:12:47,661 - #51 ]
+INFO  21:12:47,661 - #5 ;
+INFO  21:12:47,661 - #37 read
+INFO  21:12:47,661 - #6 (
+INFO  21:12:47,661 - #16 r1
+INFO  21:12:47,661 - #43 .
+INFO  21:12:47,661 - #16 niz
+INFO  21:12:47,661 - #50 [
+INFO  21:12:47,662 - #15 0
+INFO  21:12:47,662 - #51 ]
+INFO  21:12:47,662 - #7 )
+INFO  21:12:47,662 - #5 ;
+INFO  21:12:47,662 - #9 print
+INFO  21:12:47,662 - #6 (
+INFO  21:12:47,662 - #16 r1
+INFO  21:12:47,662 - #43 .
+INFO  21:12:47,662 - #16 niz
+INFO  21:12:47,662 - #50 [
+INFO  21:12:47,662 - #15 0
+INFO  21:12:47,662 - #51 ]
+INFO  21:12:47,662 - #7 )
+INFO  21:12:47,662 - #5 ;
+INFO  21:12:47,663 - #4 }
+INFO  21:12:47,663 - #4 }
+INFO  21:12:47,673 - Deklarisana promenljiva niz2 na liniji 2
+INFO  21:12:47,673 - Deklarisana je rekord :  Rec na liniji 4
+INFO  21:12:47,676 - Deklarisana promenljiva niz na liniji 6
+INFO  21:12:47,677 - Deklarisana promenljiva a na liniji 7
+INFO  21:12:47,677 - Deklarisana promenljiva r1 na liniji 9
+INFO  21:12:47,677 - Obradjuje se funkcija main na liniji 12
+INFO  21:12:47,689 - Parsiranje uspesno zavrseno!

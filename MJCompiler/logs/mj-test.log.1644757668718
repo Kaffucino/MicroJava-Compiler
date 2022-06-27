@@ -1,0 +1,135 @@
+INFO  14:07:33,094 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:07:33,124 - #2 program
+INFO  14:07:33,124 - #16 test1
+INFO  14:07:33,125 - #48 const
+INFO  14:07:33,125 - #16 char
+INFO  14:07:33,125 - #16 konst
+INFO  14:07:33,125 - #13 =
+INFO  14:07:33,125 - #15 5
+INFO  14:07:33,125 - #5 ;
+INFO  14:07:33,126 - #16 int
+INFO  14:07:33,126 - #16 a
+INFO  14:07:33,126 - #5 ;
+INFO  14:07:33,127 - #16 char
+INFO  14:07:33,127 - #16 b
+INFO  14:07:33,127 - #5 ;
+INFO  14:07:33,127 - #16 bool
+INFO  14:07:33,127 - #16 c
+INFO  14:07:33,127 - #5 ;
+INFO  14:07:33,127 - #49 record
+INFO  14:07:33,127 - #16 Rekord
+INFO  14:07:33,127 - #3 {
+INFO  14:07:33,128 - #16 int
+INFO  14:07:33,128 - #16 a
+INFO  14:07:33,128 - #5 ;
+INFO  14:07:33,128 - #4 }
+INFO  14:07:33,128 - #16 Rekord2
+INFO  14:07:33,128 - #16 random
+INFO  14:07:33,128 - #5 ;
+INFO  14:07:33,129 - #3 {
+INFO  14:07:33,129 - #16 int
+INFO  14:07:33,129 - #16 func1
+INFO  14:07:33,130 - #6 (
+INFO  14:07:33,130 - #7 )
+INFO  14:07:33,130 - #3 {
+INFO  14:07:33,131 - #10 return
+INFO  14:07:33,131 - #18 true
+INFO  14:07:33,131 - #5 ;
+INFO  14:07:33,132 - #4 }
+INFO  14:07:33,132 - #14 void
+INFO  14:07:33,133 - #16 func2
+INFO  14:07:33,133 - #6 (
+INFO  14:07:33,133 - #16 int
+INFO  14:07:33,133 - #16 p1
+INFO  14:07:33,133 - #8 ,
+INFO  14:07:33,133 - #16 char
+INFO  14:07:33,133 - #16 p2
+INFO  14:07:33,133 - #50 [
+INFO  14:07:33,133 - #51 ]
+INFO  14:07:33,133 - #7 )
+INFO  14:07:33,134 - #3 {
+INFO  14:07:33,134 - #4 }
+INFO  14:07:33,134 - #14 void
+INFO  14:07:33,134 - #16 func3
+INFO  14:07:33,134 - #6 (
+INFO  14:07:33,134 - #7 )
+INFO  14:07:33,134 - #3 {
+INFO  14:07:33,134 - #4 }
+INFO  14:07:33,134 - #14 void
+INFO  14:07:33,134 - #16 main
+INFO  14:07:33,134 - #6 (
+INFO  14:07:33,134 - #7 )
+INFO  14:07:33,135 - #3 {
+INFO  14:07:33,135 - #16 a
+INFO  14:07:33,135 - #13 =
+INFO  14:07:33,135 - #17 'A'
+INFO  14:07:33,136 - #5 ;
+INFO  14:07:33,136 - #16 b
+INFO  14:07:33,136 - #13 =
+INFO  14:07:33,137 - #15 77
+INFO  14:07:33,139 - #5 ;
+INFO  14:07:33,139 - #16 c
+INFO  14:07:33,139 - #13 =
+INFO  14:07:33,139 - #15 1
+INFO  14:07:33,140 - #5 ;
+INFO  14:07:33,140 - #19 if
+INFO  14:07:33,140 - #6 (
+INFO  14:07:33,140 - #16 b
+INFO  14:07:33,140 - #24 >
+INFO  14:07:33,140 - #15 3
+INFO  14:07:33,141 - #7 )
+INFO  14:07:33,142 - #9 print
+INFO  14:07:33,143 - #6 (
+INFO  14:07:33,143 - #17 'a'
+INFO  14:07:33,143 - #7 )
+INFO  14:07:33,143 - #5 ;
+INFO  14:07:33,143 - #19 if
+INFO  14:07:33,144 - #6 (
+INFO  14:07:33,144 - #16 func3
+INFO  14:07:33,144 - #6 (
+INFO  14:07:33,144 - #7 )
+INFO  14:07:33,144 - #7 )
+INFO  14:07:33,144 - #9 print
+INFO  14:07:33,144 - #6 (
+INFO  14:07:33,144 - #17 'F'
+INFO  14:07:33,144 - #7 )
+INFO  14:07:33,144 - #5 ;
+INFO  14:07:33,144 - #16 func2
+INFO  14:07:33,144 - #6 (
+INFO  14:07:33,144 - #16 a
+INFO  14:07:33,144 - #7 )
+INFO  14:07:33,145 - #5 ;
+INFO  14:07:33,145 - #16 func1
+INFO  14:07:33,145 - #6 (
+INFO  14:07:33,145 - #7 )
+INFO  14:07:33,145 - #5 ;
+INFO  14:07:33,145 - #31 break
+INFO  14:07:33,146 - #5 ;
+INFO  14:07:33,146 - #4 }
+INFO  14:07:33,146 - #4 }
+INFO  14:07:33,154 - Trenutan tip konstante je:  char na liniji 3
+ERROR 14:07:33,154 - Greska na liniji 3 : Tip char ne odgovara vrednosti konstante konst
+INFO  14:07:33,154 - Deklarisana promenljiva a na liniji 5
+INFO  14:07:33,154 - Deklarisana promenljiva b na liniji 6
+INFO  14:07:33,154 - Deklarisana promenljiva c na liniji 7
+INFO  14:07:33,154 - Deklarisana je rekord :  Rekord na liniji 10
+ERROR 14:07:33,154 - Promenljiva a je vec deklarisana!
+ERROR 14:07:33,154 - Nije pronadjen tip Rekord2 u tabeli simbola
+INFO  14:07:33,154 - Deklarisana promenljiva random na liniji 13
+INFO  14:07:33,154 - Obradjuje se funkcija func1 na liniji 17
+ERROR 14:07:33,154 - Semanticka greska na liniji 19: funkcija func1 kao povratni tip prihvata: int
+INFO  14:07:33,155 - Obradjuje se funkcija func2 na liniji 22
+INFO  14:07:33,155 - Naveden argument p2 na liniji 22
+INFO  14:07:33,155 - Naveden argument p1 na liniji 22
+INFO  14:07:33,155 - Obradjuje se funkcija func3 na liniji 27
+INFO  14:07:33,155 - Obradjuje se funkcija main na liniji 32
+ERROR 14:07:33,155 - Semanticka greska na liniji 33 nekompatibilni tipovi prilikom dodele!
+ERROR 14:07:33,155 - Semanticka greska na liniji 34 nekompatibilni tipovi prilikom dodele!
+ERROR 14:07:33,155 - Semanticka greska na liniji 35 nekompatibilni tipovi prilikom dodele!
+ERROR 14:07:33,155 - Semanticka greska na liniji 38 promenljiva: b mora biti tipa int!
+ERROR 14:07:33,155 - Semanticka greska na liniji 40 povratni tip funkcije:  mora biti tipa bool!
+INFO  14:07:33,155 - Pronadjen poziv funkcije func2 na liniji 45
+ERROR 14:07:33,155 - Pogresan broj argumenta u funkciji: func2 na liniji 45
+INFO  14:07:33,155 - Pronadjen poziv funkcije func1 na liniji 46
+ERROR 14:07:33,155 - Semanticka greska!  break moze da se javi samo u okviru do-while petlje! 
+ERROR 14:07:33,156 - Parsiranje NIJE uspesno zavrseno!

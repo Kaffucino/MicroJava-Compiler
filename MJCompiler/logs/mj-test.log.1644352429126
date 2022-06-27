@@ -1,0 +1,45 @@
+INFO  21:32:46,830 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:32:46,860 - #2 program
+INFO  21:32:46,860 - #16 Prog
+INFO  21:32:46,860 - #49 record
+INFO  21:32:46,861 - #16 Test
+INFO  21:32:46,861 - #3 {
+INFO  21:32:46,861 - #16 int
+INFO  21:32:46,861 - #16 a
+INFO  21:32:46,861 - #5 ;
+INFO  21:32:46,862 - #16 char
+INFO  21:32:46,862 - #16 b
+INFO  21:32:46,862 - #5 ;
+INFO  21:32:46,862 - #4 }
+INFO  21:32:46,863 - #16 int
+INFO  21:32:46,863 - #16 a
+INFO  21:32:46,863 - #5 ;
+INFO  21:32:46,863 - #16 Test
+INFO  21:32:46,863 - #16 t
+INFO  21:32:46,863 - #5 ;
+INFO  21:32:46,863 - #3 {
+INFO  21:32:46,864 - #14 void
+INFO  21:32:46,864 - #16 main
+INFO  21:32:46,864 - #6 (
+INFO  21:32:46,866 - #7 )
+INFO  21:32:46,866 - #3 {
+INFO  21:32:46,867 - #16 t
+INFO  21:32:46,867 - #13 =
+INFO  21:32:46,867 - #36 new
+INFO  21:32:46,867 - #16 Test
+INFO  21:32:46,868 - #5 ;
+INFO  21:32:46,869 - #16 t
+INFO  21:32:46,869 - #43 .
+INFO  21:32:46,869 - #16 a
+INFO  21:32:46,869 - #13 =
+INFO  21:32:46,869 - #15 1
+INFO  21:32:46,869 - #5 ;
+INFO  21:32:46,869 - #4 }
+INFO  21:32:46,870 - #4 }
+INFO  21:32:46,877 - Deklarisana je rekord :  Test na liniji 3
+INFO  21:32:46,877 - Deklarisana promenljiva a na liniji 5
+INFO  21:32:46,877 - Deklarisana promenljiva b na liniji 6
+INFO  21:32:46,877 - Deklarisana promenljiva a na liniji 9
+INFO  21:32:46,877 - Deklarisana promenljiva t na liniji 11
+INFO  21:32:46,878 - Obradjuje se funkcija main na liniji 15
+INFO  21:32:46,888 - Parsiranje uspesno zavrseno!

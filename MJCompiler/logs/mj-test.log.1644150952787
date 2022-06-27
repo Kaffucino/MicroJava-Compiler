@@ -1,0 +1,39 @@
+INFO  13:35:39,127 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:35:39,158 - #2 program
+INFO  13:35:39,159 - #16 Cofi
+INFO  13:35:39,159 - #3 {
+INFO  13:35:39,159 - #16 int
+INFO  13:35:39,159 - #16 sum
+INFO  13:35:39,160 - #6 (
+INFO  13:35:39,160 - #16 int
+INFO  13:35:39,160 - #16 a
+INFO  13:35:39,160 - #8 ,
+INFO  13:35:39,160 - #16 int
+INFO  13:35:39,161 - #16 b
+INFO  13:35:39,161 - #7 )
+INFO  13:35:39,161 - #3 {
+INFO  13:35:39,161 - #10 return
+INFO  13:35:39,161 - #16 a
+INFO  13:35:39,161 - #11 +
+INFO  13:35:39,162 - #16 b
+INFO  13:35:39,163 - #5 ;
+INFO  13:35:39,164 - #4 }
+INFO  13:35:39,164 - #14 void
+INFO  13:35:39,165 - #16 main
+INFO  13:35:39,165 - #6 (
+INFO  13:35:39,165 - #7 )
+INFO  13:35:39,166 - #3 {
+INFO  13:35:39,166 - #16 sum
+INFO  13:35:39,166 - #6 (
+INFO  13:35:39,166 - #15 1
+INFO  13:35:39,166 - #7 )
+INFO  13:35:39,167 - #5 ;
+INFO  13:35:39,167 - #4 }
+INFO  13:35:39,167 - #4 }
+INFO  13:35:39,174 - Obradjuje se funkcija sum na liniji 4
+INFO  13:35:39,174 - Naveden argument b na liniji 4
+INFO  13:35:39,174 - Naveden argument a na liniji 4
+INFO  13:35:39,174 - Obradjuje se funkcija main na liniji 9
+INFO  13:35:39,174 - Pronadjen poziv funkcije sum na liniji 11
+ERROR 13:35:39,174 - Pogresan broj argumenta u funkciji: sum na liniji 11
+ERROR 13:35:39,175 - Parsiranje NIJE uspesno zavrseno!

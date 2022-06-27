@@ -1,0 +1,17 @@
+INFO  00:04:12,663 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:04:12,690 - #2 program
+INFO  00:04:12,690 - #16 Cofi
+INFO  00:04:12,691 - #3 {
+INFO  00:04:12,691 - #14 void
+INFO  00:04:12,691 - #16 main
+INFO  00:04:12,692 - #6 (
+INFO  00:04:12,692 - #7 )
+INFO  00:04:12,692 - #3 {
+INFO  00:04:12,693 - #10 return
+INFO  00:04:12,693 - #15 1
+INFO  00:04:12,693 - #5 ;
+INFO  00:04:12,694 - #4 }
+INFO  00:04:12,694 - #4 }
+INFO  00:04:12,700 - Obradjuje se funkcija main na liniji 6
+ERROR 00:04:12,700 - Semanticka greska na liniji 6: funkcija main ne moze imati return iskaz ako je povratni tip void!
+ERROR 00:04:12,701 - Parsiranje NIJE uspesno zavrseno!

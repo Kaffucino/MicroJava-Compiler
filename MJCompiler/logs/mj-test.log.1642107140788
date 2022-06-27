@@ -1,0 +1,68 @@
+INFO  01:11:20,149 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:11:20,179 - #2 program
+INFO  01:11:20,179 - #16 PR
+INFO  01:11:20,179 - #16 int
+INFO  01:11:20,179 - #16 x
+INFO  01:11:20,179 - #8 ,
+INFO  01:11:20,180 - #16 z
+INFO  01:11:20,180 - #5 ;
+INFO  01:11:20,180 - #3 {
+INFO  01:11:20,181 - #16 int
+INFO  01:11:20,181 - #16 fun
+INFO  01:11:20,181 - #6 (
+INFO  01:11:20,181 - #16 int
+INFO  01:11:20,181 - #16 x
+INFO  01:11:20,181 - #8 ,
+INFO  01:11:20,181 - #16 int
+INFO  01:11:20,181 - #16 y
+INFO  01:11:20,181 - #7 )
+INFO  01:11:20,182 - #3 {
+INFO  01:11:20,182 - #10 return
+INFO  01:11:20,182 - #15 0
+INFO  01:11:20,182 - #5 ;
+INFO  01:11:20,183 - #4 }
+INFO  01:11:20,184 - #16 int
+INFO  01:11:20,189 - #16 main
+INFO  01:11:20,189 - #6 (
+INFO  01:11:20,189 - #7 )
+INFO  01:11:20,190 - #16 int
+INFO  01:11:20,190 - #16 y
+INFO  01:11:20,190 - #8 ,
+INFO  01:11:20,190 - #16 zz
+INFO  01:11:20,190 - #50 [
+INFO  01:11:20,190 - #51 ]
+INFO  01:11:20,190 - #5 ;
+INFO  01:11:20,190 - #3 {
+INFO  01:11:20,191 - #16 zz
+INFO  01:11:20,191 - #13 =
+INFO  01:11:20,191 - #36 new
+INFO  01:11:20,192 - #16 int
+INFO  01:11:20,192 - #50 [
+INFO  01:11:20,192 - #15 3
+INFO  01:11:20,192 - #51 ]
+INFO  01:11:20,192 - #5 ;
+INFO  01:11:20,192 - #16 zz
+INFO  01:11:20,192 - #50 [
+INFO  01:11:20,192 - #15 2
+INFO  01:11:20,192 - #51 ]
+INFO  01:11:20,192 - #13 =
+INFO  01:11:20,192 - #15 2
+INFO  01:11:20,192 - #5 ;
+INFO  01:11:20,192 - #16 y
+INFO  01:11:20,192 - #13 =
+INFO  01:11:20,193 - #17 'a'
+INFO  01:11:20,193 - #5 ;
+INFO  01:11:20,193 - #16 fun
+INFO  01:11:20,193 - #6 (
+INFO  01:11:20,193 - #7 )
+INFO  01:11:20,193 - #5 ;
+INFO  01:11:20,193 - #4 }
+INFO  01:11:20,193 - #4 }
+INFO  01:11:20,199 - Deklarisana promenljiva z na liniji 3
+INFO  01:11:20,199 - Deklarisana promenljiva x na liniji 3
+INFO  01:11:20,199 - Obradjuje se funkcija fun na liniji 9
+INFO  01:11:20,200 - Obradjuje se funkcija main na liniji 14
+INFO  01:11:20,200 - Deklarisana promenljiva zz na liniji 14
+INFO  01:11:20,200 - Deklarisana promenljiva y na liniji 14
+INFO  01:11:20,200 - Pronadjen poziv funkcije fun na liniji 21
+INFO  01:11:20,210 - Parsiranje uspesno zavrseno!

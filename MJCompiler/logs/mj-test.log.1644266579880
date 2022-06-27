@@ -1,0 +1,61 @@
+INFO  21:42:52,790 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:42:52,820 - #2 program
+INFO  21:42:52,820 - #16 test301
+INFO  21:42:52,820 - #48 const
+INFO  21:42:52,821 - #16 int
+INFO  21:42:52,821 - #16 pet
+INFO  21:42:52,821 - #13 =
+INFO  21:42:52,821 - #15 5
+INFO  21:42:52,821 - #8 ,
+INFO  21:42:52,822 - #16 sest
+INFO  21:42:52,822 - #13 =
+INFO  21:42:52,822 - #15 6
+INFO  21:42:52,822 - #8 ,
+INFO  21:42:52,822 - #16 sedam
+INFO  21:42:52,822 - #13 =
+INFO  21:42:52,822 - #15 7
+INFO  21:42:52,822 - #5 ;
+INFO  21:42:52,823 - #48 const
+INFO  21:42:52,823 - #16 osam
+INFO  21:42:52,823 - #13 =
+ERROR 21:42:52,823 - 
+Sintaksna greska na liniji 8
+INFO  21:42:52,823 - #15 8
+INFO  21:42:52,828 - #5 ;
+INFO  21:42:52,828 - #3 {
+INFO  21:42:52,829 - #14 void
+ERROR 21:42:52,829 - Izvrsen oporavak do ; u liniji 8
+INFO  21:42:52,830 - #16 main
+INFO  21:42:52,830 - #6 (
+INFO  21:42:52,831 - #7 )
+INFO  21:42:52,831 - #3 {
+INFO  21:42:52,831 - #9 print
+INFO  21:42:52,831 - #6 (
+INFO  21:42:52,831 - #16 pet
+INFO  21:42:52,831 - #7 )
+INFO  21:42:52,833 - #5 ;
+INFO  21:42:52,833 - #9 print
+INFO  21:42:52,833 - #6 (
+INFO  21:42:52,833 - #16 sest
+INFO  21:42:52,833 - #7 )
+INFO  21:42:52,834 - #5 ;
+INFO  21:42:52,834 - #9 print
+INFO  21:42:52,834 - #6 (
+INFO  21:42:52,834 - #16 sedam
+INFO  21:42:52,834 - #7 )
+INFO  21:42:52,834 - #5 ;
+INFO  21:42:52,834 - #9 print
+INFO  21:42:52,834 - #6 (
+INFO  21:42:52,834 - #16 osam
+INFO  21:42:52,834 - #7 )
+INFO  21:42:52,834 - #5 ;
+INFO  21:42:52,834 - #4 }
+INFO  21:42:52,834 - #4 }
+INFO  21:42:52,841 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:42:52,841 - Dodata u listu konstanta sest na liniji 7
+INFO  21:42:52,841 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:42:52,842 - Obradjuje se funkcija main na liniji 13
+ERROR 21:42:52,842 - Greska na liniji 21 : ime osam nije deklarisano! 
+ERROR 21:42:52,842 - Semanticka greska na liniji 21  osam ne postoji!
+ERROR 21:42:52,842 - Semanticka greska na liniji 21  osam mora biti int, char ili bool!
+ERROR 21:42:52,845 - Parsiranje NIJE uspesno zavrseno!

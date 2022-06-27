@@ -1,0 +1,71 @@
+INFO  18:32:14,892 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:32:14,923 - #2 program
+INFO  18:32:14,923 - #16 test302
+INFO  18:32:14,923 - #48 const
+INFO  18:32:14,923 - #16 int
+INFO  18:32:14,924 - #16 jedan
+INFO  18:32:14,924 - #13 =
+INFO  18:32:14,924 - #15 1
+INFO  18:32:14,924 - #5 ;
+INFO  18:32:14,924 - #16 int
+INFO  18:32:14,925 - #16 i
+INFO  18:32:14,925 - #5 ;
+INFO  18:32:14,925 - #16 int
+INFO  18:32:14,925 - #16 niz2
+INFO  18:32:14,926 - #5 ;
+INFO  18:32:14,926 - #49 record
+INFO  18:32:14,926 - #16 Test
+INFO  18:32:14,926 - #3 {
+INFO  18:32:14,926 - #16 int
+INFO  18:32:14,926 - #16 niz
+INFO  18:32:14,926 - #50 [
+INFO  18:32:14,927 - #51 ]
+INFO  18:32:14,927 - #5 ;
+INFO  18:32:14,928 - #16 int
+INFO  18:32:14,929 - #16 a
+INFO  18:32:14,929 - #5 ;
+INFO  18:32:14,929 - #4 }
+INFO  18:32:14,929 - #16 int
+INFO  18:32:14,929 - #16 nizz
+INFO  18:32:14,929 - #50 [
+INFO  18:32:14,929 - #51 ]
+INFO  18:32:14,929 - #5 ;
+INFO  18:32:14,929 - #16 Test
+INFO  18:32:14,929 - #16 t1
+INFO  18:32:14,930 - #8 ,
+INFO  18:32:14,930 - #16 t2
+INFO  18:32:14,930 - #5 ;
+INFO  18:32:14,930 - #3 {
+INFO  18:32:14,930 - #14 void
+INFO  18:32:14,930 - #16 main
+INFO  18:32:14,931 - #6 (
+INFO  18:32:14,931 - #7 )
+INFO  18:32:14,931 - #3 {
+INFO  18:32:14,932 - #16 t1
+INFO  18:32:14,932 - #13 =
+INFO  18:32:14,932 - #36 new
+INFO  18:32:14,932 - #16 Test
+INFO  18:32:14,933 - #5 ;
+INFO  18:32:14,934 - #16 t1
+INFO  18:32:14,934 - #43 .
+INFO  18:32:14,934 - #16 niz
+INFO  18:32:14,934 - #13 =
+INFO  18:32:14,934 - #36 new
+INFO  18:32:14,934 - #16 int
+INFO  18:32:14,934 - #50 [
+INFO  18:32:14,934 - #15 10
+INFO  18:32:14,934 - #51 ]
+INFO  18:32:14,934 - #5 ;
+INFO  18:32:14,934 - #4 }
+INFO  18:32:14,935 - #4 }
+INFO  18:32:14,942 - Trenutan tip konstante je:  int na liniji 5
+INFO  18:32:14,942 - Deklarisana promenljiva i na liniji 7
+INFO  18:32:14,943 - Deklarisana promenljiva niz2 na liniji 9
+INFO  18:32:14,943 - Deklarisana je rekord :  Test na liniji 11
+INFO  18:32:14,943 - Deklarisana promenljiva niz na liniji 12
+INFO  18:32:14,943 - Deklarisana promenljiva a na liniji 13
+INFO  18:32:14,943 - Deklarisana promenljiva nizz na liniji 17
+INFO  18:32:14,943 - Deklarisana promenljiva t2 na liniji 18
+INFO  18:32:14,946 - Deklarisana promenljiva t1 na liniji 18
+INFO  18:32:14,946 - Obradjuje se funkcija main na liniji 24
+INFO  18:32:14,957 - Parsiranje uspesno zavrseno!

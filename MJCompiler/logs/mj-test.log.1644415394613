@@ -1,0 +1,103 @@
+INFO  15:02:18,675 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:02:18,707 - #2 program
+INFO  15:02:18,707 - #16 Test
+INFO  15:02:18,707 - #49 record
+INFO  15:02:18,707 - #16 Rekord
+INFO  15:02:18,707 - #3 {
+INFO  15:02:18,708 - #16 int
+INFO  15:02:18,708 - #16 a
+INFO  15:02:18,708 - #5 ;
+INFO  15:02:18,709 - #16 int
+INFO  15:02:18,709 - #16 niz
+INFO  15:02:18,709 - #50 [
+INFO  15:02:18,709 - #51 ]
+INFO  15:02:18,709 - #5 ;
+INFO  15:02:18,709 - #16 int
+INFO  15:02:18,709 - #16 b
+INFO  15:02:18,709 - #5 ;
+INFO  15:02:18,709 - #4 }
+INFO  15:02:18,710 - #16 int
+INFO  15:02:18,710 - #16 nizz
+INFO  15:02:18,710 - #50 [
+INFO  15:02:18,710 - #51 ]
+INFO  15:02:18,710 - #5 ;
+INFO  15:02:18,712 - #16 Rekord
+INFO  15:02:18,712 - #16 r
+INFO  15:02:18,712 - #5 ;
+INFO  15:02:18,712 - #3 {
+INFO  15:02:18,713 - #14 void
+INFO  15:02:18,713 - #16 main
+INFO  15:02:18,713 - #6 (
+INFO  15:02:18,714 - #7 )
+INFO  15:02:18,714 - #3 {
+INFO  15:02:18,715 - #16 r
+INFO  15:02:18,715 - #13 =
+INFO  15:02:18,715 - #36 new
+INFO  15:02:18,715 - #16 Rekord
+INFO  15:02:18,715 - #5 ;
+INFO  15:02:18,717 - #16 r
+INFO  15:02:18,717 - #43 .
+INFO  15:02:18,717 - #16 niz
+INFO  15:02:18,717 - #13 =
+INFO  15:02:18,717 - #36 new
+INFO  15:02:18,717 - #16 int
+INFO  15:02:18,717 - #50 [
+INFO  15:02:18,717 - #15 6
+INFO  15:02:18,717 - #51 ]
+INFO  15:02:18,717 - #5 ;
+INFO  15:02:18,718 - #16 r
+INFO  15:02:18,718 - #43 .
+INFO  15:02:18,718 - #16 niz
+INFO  15:02:18,718 - #50 [
+INFO  15:02:18,718 - #15 4
+INFO  15:02:18,718 - #51 ]
+INFO  15:02:18,718 - #13 =
+INFO  15:02:18,718 - #15 3
+INFO  15:02:18,718 - #5 ;
+INFO  15:02:18,718 - #16 r
+INFO  15:02:18,718 - #43 .
+INFO  15:02:18,718 - #16 niz
+INFO  15:02:18,718 - #50 [
+INFO  15:02:18,718 - #15 5
+INFO  15:02:18,718 - #51 ]
+INFO  15:02:18,718 - #13 =
+INFO  15:02:18,719 - #16 r
+INFO  15:02:18,719 - #43 .
+INFO  15:02:18,719 - #16 niz
+INFO  15:02:18,719 - #50 [
+INFO  15:02:18,719 - #15 4
+INFO  15:02:18,719 - #51 ]
+INFO  15:02:18,719 - #11 +
+INFO  15:02:18,719 - #15 2
+INFO  15:02:18,720 - #5 ;
+INFO  15:02:18,720 - #16 r
+INFO  15:02:18,720 - #43 .
+INFO  15:02:18,720 - #16 niz
+INFO  15:02:18,720 - #50 [
+INFO  15:02:18,721 - #15 2
+INFO  15:02:18,721 - #51 ]
+INFO  15:02:18,721 - #13 =
+INFO  15:02:18,721 - #16 r
+INFO  15:02:18,721 - #43 .
+INFO  15:02:18,721 - #16 niz
+INFO  15:02:18,721 - #50 [
+INFO  15:02:18,721 - #15 4
+INFO  15:02:18,721 - #51 ]
+INFO  15:02:18,721 - #11 +
+INFO  15:02:18,721 - #16 r
+INFO  15:02:18,721 - #43 .
+INFO  15:02:18,721 - #16 niz
+INFO  15:02:18,721 - #50 [
+INFO  15:02:18,721 - #15 5
+INFO  15:02:18,721 - #51 ]
+INFO  15:02:18,722 - #5 ;
+INFO  15:02:18,722 - #4 }
+INFO  15:02:18,722 - #4 }
+INFO  15:02:18,729 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  15:02:18,730 - Deklarisana promenljiva a na liniji 5
+INFO  15:02:18,730 - Deklarisana promenljiva niz na liniji 7
+INFO  15:02:18,730 - Deklarisana promenljiva b na liniji 9
+INFO  15:02:18,730 - Deklarisana promenljiva nizz na liniji 12
+INFO  15:02:18,730 - Deklarisana promenljiva r na liniji 13
+INFO  15:02:18,730 - Obradjuje se funkcija main na liniji 17
+INFO  15:02:18,741 - Parsiranje uspesno zavrseno!

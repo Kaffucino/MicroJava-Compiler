@@ -1,0 +1,71 @@
+INFO  18:02:58,198 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:02:58,231 - #2 program
+INFO  18:02:58,231 - #16 COfa
+INFO  18:02:58,231 - #16 int
+INFO  18:02:58,231 - #16 x
+INFO  18:02:58,232 - #50 [
+INFO  18:02:58,232 - #51 ]
+INFO  18:02:58,232 - #5 ;
+INFO  18:02:58,232 - #16 char
+INFO  18:02:58,232 - #16 z
+INFO  18:02:58,232 - #5 ;
+INFO  18:02:58,232 - #16 char
+INFO  18:02:58,233 - #16 z
+INFO  18:02:58,233 - #5 ;
+INFO  18:02:58,233 - #16 int
+INFO  18:02:58,233 - #16 y
+INFO  18:02:58,233 - #5 ;
+INFO  18:02:58,233 - #3 {
+INFO  18:02:58,233 - #14 void
+INFO  18:02:58,233 - #16 zbir
+INFO  18:02:58,234 - #6 (
+INFO  18:02:58,234 - #7 )
+INFO  18:02:58,234 - #3 {
+INFO  18:02:58,235 - #4 }
+INFO  18:02:58,240 - #16 int
+INFO  18:02:58,241 - #16 main
+INFO  18:02:58,241 - #6 (
+INFO  18:02:58,241 - #7 )
+INFO  18:02:58,241 - #3 {
+INFO  18:02:58,241 - #16 x
+INFO  18:02:58,241 - #13 =
+INFO  18:02:58,242 - #36 new
+INFO  18:02:58,242 - #16 int
+INFO  18:02:58,242 - #50 [
+INFO  18:02:58,242 - #16 z
+INFO  18:02:58,242 - #11 +
+INFO  18:02:58,243 - #15 5
+INFO  18:02:58,243 - #51 ]
+INFO  18:02:58,244 - #5 ;
+INFO  18:02:58,244 - #16 zbir
+INFO  18:02:58,244 - #6 (
+INFO  18:02:58,244 - #7 )
+INFO  18:02:58,244 - #5 ;
+INFO  18:02:58,244 - #19 if
+INFO  18:02:58,245 - #6 (
+INFO  18:02:58,245 - #16 x
+INFO  18:02:58,245 - #45 ||
+INFO  18:02:58,245 - #16 x
+INFO  18:02:58,245 - #7 )
+INFO  18:02:58,246 - #3 {
+INFO  18:02:58,246 - #16 y
+INFO  18:02:58,246 - #13 =
+INFO  18:02:58,246 - #16 x
+INFO  18:02:58,246 - #50 [
+INFO  18:02:58,246 - #16 y
+INFO  18:02:58,246 - #51 ]
+INFO  18:02:58,246 - #5 ;
+INFO  18:02:58,247 - #4 }
+INFO  18:02:58,247 - #10 return
+INFO  18:02:58,247 - #15 20
+INFO  18:02:58,247 - #5 ;
+INFO  18:02:58,248 - #4 }
+INFO  18:02:58,248 - #4 }
+INFO  18:02:58,254 - Deklarisana promenljiva x na liniji 3
+INFO  18:02:58,255 - Deklarisana promenljiva z na liniji 4
+ERROR 18:02:58,255 - Promenljiva z je vec deklarisana!
+INFO  18:02:58,255 - Deklarisana promenljiva y na liniji 7
+INFO  18:02:58,255 - Obradjuje se funkcija zbir na liniji 10
+INFO  18:02:58,257 - Obradjuje se funkcija main na liniji 13
+INFO  18:02:58,258 - Pronadjen poziv funkcije zbir na liniji 16
+ERROR 18:02:58,258 - Parsiranje NIJE uspesno zavrseno!

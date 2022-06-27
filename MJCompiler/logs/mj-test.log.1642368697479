@@ -1,0 +1,44 @@
+INFO  22:31:12,797 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:31:12,827 - #2 program
+INFO  22:31:12,827 - #16 Cofi
+INFO  22:31:12,827 - #16 int
+INFO  22:31:12,827 - #16 y
+INFO  22:31:12,828 - #5 ;
+INFO  22:31:12,828 - #3 {
+INFO  22:31:12,829 - #16 int
+INFO  22:31:12,829 - #16 main
+INFO  22:31:12,829 - #6 (
+INFO  22:31:12,830 - #7 )
+INFO  22:31:12,830 - #16 int
+INFO  22:31:12,830 - #16 x
+INFO  22:31:12,830 - #5 ;
+INFO  22:31:12,830 - #3 {
+INFO  22:31:12,831 - #10 return
+INFO  22:31:12,831 - #16 y
+INFO  22:31:12,831 - #5 ;
+INFO  22:31:12,832 - #16 x
+INFO  22:31:12,833 - #13 =
+INFO  22:31:12,833 - #17 'a'
+INFO  22:31:12,833 - #5 ;
+INFO  22:31:12,833 - #4 }
+INFO  22:31:12,834 - #14 void
+INFO  22:31:12,834 - #16 main2
+INFO  22:31:12,834 - #6 (
+INFO  22:31:12,834 - #7 )
+INFO  22:31:12,834 - #16 int
+INFO  22:31:12,834 - #16 x
+INFO  22:31:12,835 - #5 ;
+INFO  22:31:12,835 - #3 {
+INFO  22:31:12,835 - #16 z
+INFO  22:31:12,835 - #13 =
+INFO  22:31:12,835 - #15 3
+INFO  22:31:12,835 - #5 ;
+INFO  22:31:12,835 - #4 }
+INFO  22:31:12,835 - #4 }
+INFO  22:31:12,841 - Deklarisana promenljiva y na liniji 3
+INFO  22:31:12,842 - Obradjuje se funkcija main na liniji 7
+INFO  22:31:12,842 - Deklarisana promenljiva x na liniji 7
+INFO  22:31:12,842 - Obradjuje se funkcija main2 na liniji 13
+INFO  22:31:12,842 - Deklarisana promenljiva x na liniji 13
+ERROR 22:31:12,842 - Greska na liniji 15 : ime z nije deklarisano! 
+ERROR 22:31:12,843 - Parsiranje NIJE uspesno zavrseno!

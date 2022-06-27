@@ -1,0 +1,30 @@
+program lexGreska
+
+int a;
+int niz[];
+
+bool b;
+
+
+{
+
+int func(int cc, int dd, tip){
+
+a=1;
+
+return a;
+}
+
+void main(){
+b = ;
+
+if(b =){
+	
+	b=false;
+}
+
+
+
+}
+
+}

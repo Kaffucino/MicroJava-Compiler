@@ -1,0 +1,46 @@
+INFO  22:17:32,980 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:17:33,016 - #2 program
+INFO  22:17:33,016 - #16 test302
+INFO  22:17:33,016 - #48 const
+INFO  22:17:33,016 - #16 int
+INFO  22:17:33,016 - #16 jedan
+INFO  22:17:33,017 - #13 =
+INFO  22:17:33,017 - #15 1
+INFO  22:17:33,017 - #5 ;
+INFO  22:17:33,017 - #16 int
+INFO  22:17:33,018 - #16 i
+INFO  22:17:33,018 - #5 ;
+INFO  22:17:33,018 - #3 {
+INFO  22:17:33,019 - #14 void
+INFO  22:17:33,019 - #16 main
+INFO  22:17:33,019 - #6 (
+INFO  22:17:33,020 - #7 )
+INFO  22:17:33,020 - #3 {
+INFO  22:17:33,021 - #16 i
+INFO  22:17:33,021 - #13 =
+INFO  22:17:33,021 - #15 0
+INFO  22:17:33,022 - #5 ;
+INFO  22:17:33,022 - #34 do
+INFO  22:17:33,027 - #3 {
+INFO  22:17:33,028 - #16 i
+INFO  22:17:33,028 - #46 ++
+INFO  22:17:33,028 - #5 ;
+INFO  22:17:33,028 - #4 }
+INFO  22:17:33,029 - #35 while
+INFO  22:17:33,029 - #6 (
+INFO  22:17:33,029 - #16 i
+INFO  22:17:33,029 - #24 >
+INFO  22:17:33,030 - #15 3
+INFO  22:17:33,030 - #7 )
+INFO  22:17:33,032 - #5 ;
+INFO  22:17:33,032 - #9 print
+INFO  22:17:33,032 - #6 (
+INFO  22:17:33,032 - #16 i
+INFO  22:17:33,032 - #7 )
+INFO  22:17:33,032 - #5 ;
+INFO  22:17:33,032 - #4 }
+INFO  22:17:33,032 - #4 }
+INFO  22:17:33,042 - Trenutan tip konstante je:  int na liniji 5
+INFO  22:17:33,042 - Deklarisana promenljiva i na liniji 7
+INFO  22:17:33,043 - Obradjuje se funkcija main na liniji 13
+INFO  22:17:33,054 - Parsiranje uspesno zavrseno!

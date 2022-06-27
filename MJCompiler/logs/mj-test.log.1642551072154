@@ -1,0 +1,21 @@
+INFO  01:05:08,832 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  01:05:08,862 - #2 program
+INFO  01:05:08,862 - #16 COfa
+INFO  01:05:08,862 - #16 char
+INFO  01:05:08,862 - #16 x
+INFO  01:05:08,863 - #5 ;
+INFO  01:05:08,863 - #3 {
+INFO  01:05:08,863 - #16 bool
+INFO  01:05:08,864 - #16 main
+INFO  01:05:08,864 - #6 (
+INFO  01:05:08,864 - #7 )
+INFO  01:05:08,864 - #3 {
+INFO  01:05:08,865 - #10 return
+INFO  01:05:08,865 - #16 x
+INFO  01:05:08,865 - #5 ;
+INFO  01:05:08,866 - #4 }
+INFO  01:05:08,867 - #4 }
+INFO  01:05:08,873 - Deklarisana promenljiva x na liniji 3
+INFO  01:05:08,873 - Obradjuje se funkcija main na liniji 9
+ERROR 01:05:08,873 - Semanticka greska na liniji 12: funkcija main kao povratni tip prihvata: bool
+ERROR 01:05:08,874 - Parsiranje NIJE uspesno zavrseno!

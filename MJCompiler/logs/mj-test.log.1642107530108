@@ -1,0 +1,43 @@
+INFO  21:58:30,197 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:58:30,227 - #2 program
+INFO  21:58:30,227 - #16 PR
+INFO  21:58:30,227 - #16 int
+INFO  21:58:30,228 - #16 x
+INFO  21:58:30,228 - #8 ,
+INFO  21:58:30,228 - #16 z
+INFO  21:58:30,228 - #5 ;
+INFO  21:58:30,228 - #3 {
+INFO  21:58:30,229 - #16 int
+INFO  21:58:30,229 - #16 fun
+INFO  21:58:30,230 - #6 (
+INFO  21:58:30,230 - #16 int
+INFO  21:58:30,230 - #16 x
+INFO  21:58:30,230 - #8 ,
+INFO  21:58:30,230 - #16 int
+INFO  21:58:30,230 - #16 y
+INFO  21:58:30,230 - #7 )
+INFO  21:58:30,231 - #3 {
+INFO  21:58:30,232 - #10 return
+INFO  21:58:30,232 - #15 0
+INFO  21:58:30,232 - #5 ;
+INFO  21:58:30,233 - #4 }
+INFO  21:58:30,233 - #16 int
+INFO  21:58:30,239 - #16 main
+INFO  21:58:30,239 - #6 (
+INFO  21:58:30,239 - #7 )
+INFO  21:58:30,239 - #16 int
+INFO  21:58:30,239 - #16 y
+INFO  21:58:30,239 - #8 ,
+INFO  21:58:30,239 - #16 zz
+INFO  21:58:30,239 - #50 [
+INFO  21:58:30,239 - #51 ]
+INFO  21:58:30,239 - #5 ;
+INFO  21:58:30,239 - #3 {
+INFO  21:58:30,239 - #4 }
+INFO  21:58:30,240 - #4 }
+INFO  21:58:30,245 - Deklarisana promenljiva z na liniji 3
+INFO  21:58:30,245 - Deklarisana promenljiva x na liniji 3
+INFO  21:58:30,245 - Obradjuje se funkcija fun na liniji 9
+INFO  21:58:30,245 - Obradjuje se funkcija main na liniji 15
+INFO  21:58:30,245 - Deklarisana promenljiva zz na liniji 15
+INFO  21:58:30,245 - Deklarisana promenljiva y na liniji 15

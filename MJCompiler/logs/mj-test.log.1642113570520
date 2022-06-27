@@ -1,0 +1,60 @@
+INFO  23:18:19,656 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:18:19,685 - #2 program
+INFO  23:18:19,685 - #16 PR
+INFO  23:18:19,685 - #16 int
+INFO  23:18:19,686 - #16 x
+INFO  23:18:19,686 - #8 ,
+INFO  23:18:19,686 - #16 z
+INFO  23:18:19,686 - #5 ;
+INFO  23:18:19,686 - #48 const
+INFO  23:18:19,687 - #16 int
+INFO  23:18:19,687 - #16 x
+INFO  23:18:19,687 - #13 =
+INFO  23:18:19,687 - #15 5
+INFO  23:18:19,687 - #8 ,
+INFO  23:18:19,687 - #16 y
+INFO  23:18:19,687 - #13 =
+INFO  23:18:19,687 - #17 'a'
+INFO  23:18:19,687 - #8 ,
+INFO  23:18:19,687 - #16 z
+INFO  23:18:19,687 - #13 =
+INFO  23:18:19,687 - #15 1
+INFO  23:18:19,687 - #5 ;
+INFO  23:18:19,688 - #3 {
+INFO  23:18:19,689 - #16 int
+INFO  23:18:19,690 - #16 fun
+INFO  23:18:19,690 - #6 (
+INFO  23:18:19,691 - #16 int
+INFO  23:18:19,691 - #16 x
+INFO  23:18:19,691 - #8 ,
+INFO  23:18:19,691 - #16 int
+INFO  23:18:19,691 - #16 y
+INFO  23:18:19,691 - #7 )
+INFO  23:18:19,691 - #3 {
+INFO  23:18:19,692 - #10 return
+INFO  23:18:19,692 - #15 0
+INFO  23:18:19,692 - #5 ;
+INFO  23:18:19,693 - #4 }
+INFO  23:18:19,693 - #16 int
+INFO  23:18:19,693 - #16 main
+INFO  23:18:19,694 - #6 (
+INFO  23:18:19,694 - #7 )
+INFO  23:18:19,694 - #16 int
+INFO  23:18:19,694 - #16 y
+INFO  23:18:19,694 - #8 ,
+INFO  23:18:19,694 - #16 zz
+INFO  23:18:19,694 - #50 [
+INFO  23:18:19,694 - #51 ]
+INFO  23:18:19,694 - #5 ;
+INFO  23:18:19,694 - #3 {
+INFO  23:18:19,694 - #4 }
+INFO  23:18:19,694 - #4 }
+INFO  23:18:19,700 - Deklarisana promenljiva z na liniji 3
+INFO  23:18:19,700 - Deklarisana promenljiva x na liniji 3
+INFO  23:18:19,700 - Dodata u listu konstanta z na liniji 5
+INFO  23:18:19,700 - Dodata u listu konstanta y na liniji 5
+INFO  23:18:19,700 - Trenutan tip konstante je:  int na liniji 5
+ERROR 23:18:19,701 - Greska na liniji 5 : Tip int ne odgovara vrednosti konstante y
+INFO  23:18:19,701 - Deklarisana promenljiva zz na liniji 15
+INFO  23:18:19,701 - Deklarisana promenljiva y na liniji 15
+ERROR 23:18:19,701 - Parsiranje NIJE uspesno zavrseno!

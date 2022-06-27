@@ -1,0 +1,41 @@
+INFO  00:35:16,753 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:35:16,786 - #2 program
+INFO  00:35:16,786 - #16 PR
+INFO  00:35:16,786 - #16 int
+INFO  00:35:16,787 - #16 x
+INFO  00:35:16,787 - #8 ,
+INFO  00:35:16,787 - #16 z
+INFO  00:35:16,787 - #5 ;
+INFO  00:35:16,788 - #3 {
+INFO  00:35:16,788 - #16 int
+INFO  00:35:16,788 - #16 main
+INFO  00:35:16,788 - #6 (
+INFO  00:35:16,788 - #7 )
+INFO  00:35:16,789 - #16 int
+INFO  00:35:16,789 - #16 y
+INFO  00:35:16,789 - #8 ,
+INFO  00:35:16,789 - #16 zz
+INFO  00:35:16,789 - #50 [
+INFO  00:35:16,789 - #51 ]
+INFO  00:35:16,789 - #5 ;
+INFO  00:35:16,789 - #3 {
+INFO  00:35:16,790 - #16 zzz
+INFO  00:35:16,790 - #13 =
+INFO  00:35:16,790 - #36 new
+INFO  00:35:16,792 - #16 int
+INFO  00:35:16,792 - #50 [
+INFO  00:35:16,792 - #15 3
+INFO  00:35:16,792 - #51 ]
+INFO  00:35:16,793 - #5 ;
+INFO  00:35:16,794 - #16 y
+INFO  00:35:16,794 - #13 =
+INFO  00:35:16,794 - #17 'a'
+INFO  00:35:16,794 - #5 ;
+INFO  00:35:16,794 - #4 }
+INFO  00:35:16,794 - #4 }
+INFO  00:35:16,800 - Deklarisana promenljiva z na liniji 3
+INFO  00:35:16,800 - Deklarisana promenljiva x na liniji 3
+INFO  00:35:16,800 - Deklarisana promenljiva zz na liniji 7
+INFO  00:35:16,800 - Deklarisana promenljiva y na liniji 7
+ERROR 00:35:16,800 - Greska na liniji 8 : ime zzz nije deklarisano! 
+ERROR 00:35:16,800 - Parsiranje NIJE uspesno zavrseno!

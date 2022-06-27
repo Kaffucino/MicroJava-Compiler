@@ -1,0 +1,64 @@
+INFO  02:19:32,041 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  02:19:32,073 - #2 program
+INFO  02:19:32,073 - #16 Test
+INFO  02:19:32,073 - #49 record
+INFO  02:19:32,074 - #16 Rekord
+INFO  02:19:32,074 - #3 {
+INFO  02:19:32,074 - #16 int
+INFO  02:19:32,074 - #16 a
+INFO  02:19:32,074 - #5 ;
+INFO  02:19:32,075 - #16 int
+INFO  02:19:32,075 - #16 b
+INFO  02:19:32,075 - #5 ;
+INFO  02:19:32,075 - #16 int
+INFO  02:19:32,075 - #16 niz
+INFO  02:19:32,075 - #50 [
+INFO  02:19:32,075 - #51 ]
+INFO  02:19:32,075 - #5 ;
+INFO  02:19:32,075 - #4 }
+INFO  02:19:32,076 - #16 int
+INFO  02:19:32,076 - #16 nizz
+INFO  02:19:32,076 - #50 [
+INFO  02:19:32,076 - #51 ]
+INFO  02:19:32,076 - #5 ;
+INFO  02:19:32,082 - #16 Rekord
+INFO  02:19:32,082 - #16 r
+INFO  02:19:32,082 - #5 ;
+INFO  02:19:32,082 - #3 {
+INFO  02:19:32,082 - #14 void
+INFO  02:19:32,082 - #16 main
+INFO  02:19:32,083 - #6 (
+INFO  02:19:32,083 - #7 )
+INFO  02:19:32,084 - #3 {
+INFO  02:19:32,084 - #16 r
+INFO  02:19:32,084 - #13 =
+INFO  02:19:32,085 - #36 new
+INFO  02:19:32,085 - #16 Rekord
+INFO  02:19:32,085 - #5 ;
+INFO  02:19:32,086 - #16 r
+INFO  02:19:32,086 - #43 .
+INFO  02:19:32,086 - #16 niz
+INFO  02:19:32,086 - #13 =
+INFO  02:19:32,087 - #36 new
+INFO  02:19:32,087 - #16 int
+INFO  02:19:32,087 - #50 [
+INFO  02:19:32,087 - #15 5
+INFO  02:19:32,087 - #51 ]
+INFO  02:19:32,087 - #5 ;
+INFO  02:19:32,087 - #16 nizz
+INFO  02:19:32,087 - #50 [
+INFO  02:19:32,087 - #15 3
+INFO  02:19:32,087 - #51 ]
+INFO  02:19:32,087 - #13 =
+INFO  02:19:32,087 - #15 2
+INFO  02:19:32,088 - #5 ;
+INFO  02:19:32,088 - #4 }
+INFO  02:19:32,088 - #4 }
+INFO  02:19:32,097 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  02:19:32,097 - Deklarisana promenljiva a na liniji 5
+INFO  02:19:32,097 - Deklarisana promenljiva b na liniji 6
+INFO  02:19:32,097 - Deklarisana promenljiva niz na liniji 7
+INFO  02:19:32,097 - Deklarisana promenljiva nizz na liniji 10
+INFO  02:19:32,098 - Deklarisana promenljiva r na liniji 11
+INFO  02:19:32,098 - Obradjuje se funkcija main na liniji 15
+INFO  02:19:32,108 - Parsiranje uspesno zavrseno!

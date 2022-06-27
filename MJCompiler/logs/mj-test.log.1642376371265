@@ -1,0 +1,55 @@
+INFO  00:29:11,342 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:29:11,372 - #2 program
+INFO  00:29:11,373 - #16 Cofi
+INFO  00:29:11,373 - #16 int
+INFO  00:29:11,373 - #16 y
+INFO  00:29:11,373 - #5 ;
+INFO  00:29:11,374 - #16 char
+INFO  00:29:11,374 - #16 zz
+INFO  00:29:11,374 - #5 ;
+INFO  00:29:11,374 - #16 bool
+INFO  00:29:11,374 - #16 zy
+INFO  00:29:11,374 - #5 ;
+INFO  00:29:11,374 - #3 {
+INFO  00:29:11,375 - #14 void
+INFO  00:29:11,375 - #16 main2
+INFO  00:29:11,375 - #6 (
+INFO  00:29:11,375 - #7 )
+INFO  00:29:11,376 - #16 int
+INFO  00:29:11,376 - #16 x
+INFO  00:29:11,376 - #5 ;
+INFO  00:29:11,376 - #3 {
+INFO  00:29:11,376 - #16 x
+INFO  00:29:11,376 - #46 ++
+INFO  00:29:11,378 - #5 ;
+INFO  00:29:11,378 - #4 }
+INFO  00:29:11,379 - #10 return
+ERROR 00:29:11,379 - 
+Sintaksna greska na liniji 15
+INFO  00:29:11,379 - #15 1
+INFO  00:29:11,379 - #5 ;
+INFO  00:29:11,379 - #16 int
+INFO  00:29:11,379 - #16 main
+INFO  00:29:11,379 - #6 (
+INFO  00:29:11,380 - #7 )
+INFO  00:29:11,380 - #16 int
+INFO  00:29:11,380 - #16 x
+INFO  00:29:11,380 - #5 ;
+INFO  00:29:11,380 - #3 {
+INFO  00:29:11,380 - #16 skip
+INFO  00:29:11,380 - #21 :
+ERROR 00:29:11,380 - Izvrsen oporavak do ; u liniji 11
+INFO  00:29:11,380 - #16 x
+INFO  00:29:11,380 - #46 ++
+INFO  00:29:11,381 - #5 ;
+INFO  00:29:11,381 - #10 return
+INFO  00:29:11,381 - #15 1
+INFO  00:29:11,381 - #5 ;
+INFO  00:29:11,382 - #4 }
+INFO  00:29:11,382 - #4 }
+ERROR 00:29:11,383 - 
+Sintaksna greska na liniji 30
+ERROR 00:29:11,383 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 30
+ERROR 00:29:11,388 - Greska na liniji 18 : ime x nije deklarisano! 
+ERROR 00:29:11,388 - Semanticka greska na liniji 18 ++ operator zahteva tip Int!
+ERROR 00:29:11,389 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,57 @@
+INFO  00:41:00,952 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:41:00,985 - #2 program
+INFO  00:41:00,985 - #16 PR
+INFO  00:41:00,985 - #16 int
+INFO  00:41:00,985 - #16 x
+INFO  00:41:00,986 - #8 ,
+INFO  00:41:00,986 - #16 z
+INFO  00:41:00,986 - #5 ;
+INFO  00:41:00,986 - #16 int
+INFO  00:41:00,987 - #16 fun
+INFO  00:41:00,987 - #6 (
+ERROR 00:41:00,987 - 
+Sintaksna greska na liniji 5
+INFO  00:41:00,987 - #7 )
+INFO  00:41:00,987 - #3 {
+INFO  00:41:00,987 - #10 return
+INFO  00:41:00,988 - #15 0
+INFO  00:41:00,988 - #5 ;
+INFO  00:41:00,988 - #4 }
+INFO  00:41:00,988 - #3 {
+INFO  00:41:00,988 - #16 int
+INFO  00:41:00,988 - #16 main
+INFO  00:41:00,988 - #6 (
+INFO  00:41:00,988 - #7 )
+INFO  00:41:00,988 - #16 int
+INFO  00:41:00,988 - #16 y
+INFO  00:41:00,988 - #8 ,
+INFO  00:41:00,988 - #16 zz
+INFO  00:41:00,988 - #50 [
+INFO  00:41:00,988 - #51 ]
+INFO  00:41:00,989 - #5 ;
+INFO  00:41:00,989 - #3 {
+INFO  00:41:00,989 - #16 zz
+INFO  00:41:00,989 - #13 =
+INFO  00:41:00,989 - #36 new
+INFO  00:41:00,989 - #16 int
+INFO  00:41:00,989 - #50 [
+INFO  00:41:00,989 - #15 3
+INFO  00:41:00,989 - #51 ]
+INFO  00:41:00,989 - #5 ;
+INFO  00:41:00,989 - #16 zz
+INFO  00:41:00,989 - #50 [
+INFO  00:41:00,989 - #15 2
+INFO  00:41:00,989 - #51 ]
+INFO  00:41:00,989 - #13 =
+INFO  00:41:00,989 - #15 2
+INFO  00:41:00,989 - #5 ;
+INFO  00:41:00,989 - #16 y
+INFO  00:41:00,989 - #13 =
+ERROR 00:41:00,990 - Izvrsen oporavak do ; u liniji 18
+ERROR 00:41:00,990 - 
+Sintaksna greska na liniji 20
+INFO  00:41:00,990 - #17 'a'
+INFO  00:41:00,990 - #5 ;
+INFO  00:41:00,990 - #4 }
+INFO  00:41:00,990 - #4 }
+ERROR 00:41:00,990 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 23

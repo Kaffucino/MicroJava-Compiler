@@ -1,0 +1,69 @@
+INFO  21:57:41,441 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:57:41,470 - #2 program
+INFO  21:57:41,471 - #16 PR
+INFO  21:57:41,471 - #16 int
+INFO  21:57:41,471 - #16 x
+INFO  21:57:41,471 - #8 ,
+INFO  21:57:41,471 - #16 z
+INFO  21:57:41,471 - #5 ;
+INFO  21:57:41,472 - #3 {
+INFO  21:57:41,473 - #16 int
+INFO  21:57:41,473 - #16 fun
+INFO  21:57:41,473 - #6 (
+INFO  21:57:41,473 - #16 int
+INFO  21:57:41,473 - #16 x
+INFO  21:57:41,473 - #8 ,
+INFO  21:57:41,473 - #16 int
+INFO  21:57:41,473 - #16 y
+INFO  21:57:41,473 - #7 )
+INFO  21:57:41,474 - #3 {
+INFO  21:57:41,475 - #10 return
+INFO  21:57:41,475 - #15 0
+INFO  21:57:41,475 - #5 ;
+INFO  21:57:41,476 - #4 }
+INFO  21:57:41,476 - #16 int
+INFO  21:57:41,482 - #16 main
+INFO  21:57:41,482 - #6 (
+INFO  21:57:41,482 - #7 )
+INFO  21:57:41,482 - #16 int
+INFO  21:57:41,482 - #16 y
+INFO  21:57:41,482 - #8 ,
+INFO  21:57:41,482 - #16 zz
+INFO  21:57:41,482 - #50 [
+INFO  21:57:41,482 - #51 ]
+INFO  21:57:41,483 - #5 ;
+INFO  21:57:41,483 - #3 {
+INFO  21:57:41,483 - #16 zz
+INFO  21:57:41,483 - #13 =
+INFO  21:57:41,484 - #36 new
+INFO  21:57:41,484 - #16 int
+INFO  21:57:41,484 - #50 [
+INFO  21:57:41,484 - #15 3
+INFO  21:57:41,484 - #51 ]
+INFO  21:57:41,484 - #5 ;
+INFO  21:57:41,484 - #16 zz
+INFO  21:57:41,484 - #50 [
+INFO  21:57:41,485 - #15 2
+INFO  21:57:41,485 - #51 ]
+INFO  21:57:41,485 - #13 =
+INFO  21:57:41,485 - #15 2
+INFO  21:57:41,485 - #5 ;
+INFO  21:57:41,485 - #16 y
+INFO  21:57:41,485 - #13 =
+INFO  21:57:41,485 - #17 'a'
+INFO  21:57:41,485 - #5 ;
+INFO  21:57:41,485 - #16 fun
+INFO  21:57:41,485 - #6 (
+INFO  21:57:41,485 - #7 )
+INFO  21:57:41,485 - #5 ;
+INFO  21:57:41,486 - #4 }
+INFO  21:57:41,486 - #4 }
+INFO  21:57:41,492 - Deklarisana promenljiva z na liniji 3
+INFO  21:57:41,492 - Deklarisana promenljiva x na liniji 3
+INFO  21:57:41,492 - Obradjuje se funkcija fun na liniji 9
+INFO  21:57:41,492 - Obradjuje se funkcija main na liniji 15
+INFO  21:57:41,492 - Deklarisana promenljiva zz na liniji 15
+INFO  21:57:41,492 - Deklarisana promenljiva y na liniji 15
+ERROR 21:57:41,493 - Greska na liniji 17 : ime zz nije deklarisano! 
+ERROR 21:57:41,493 - Greska na liniji 19 : ime zz nije deklarisano! 
+INFO  21:57:41,496 - Pronadjen poziv funkcije fun na liniji 22

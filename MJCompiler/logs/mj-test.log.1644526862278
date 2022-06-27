@@ -1,0 +1,46 @@
+INFO  21:59:45,534 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:59:45,573 - #2 program
+INFO  21:59:45,573 - #16 Coaaa
+INFO  21:59:45,573 - #16 bool
+INFO  21:59:45,573 - #16 ibool
+INFO  21:59:45,574 - #5 ;
+INFO  21:59:45,574 - #16 int
+INFO  21:59:45,575 - #16 i
+INFO  21:59:45,575 - #5 ;
+INFO  21:59:45,575 - #3 {
+INFO  21:59:45,575 - #14 void
+INFO  21:59:45,575 - #16 main
+INFO  21:59:45,576 - #6 (
+INFO  21:59:45,576 - #7 )
+INFO  21:59:45,577 - #3 {
+INFO  21:59:45,577 - #16 ibool
+INFO  21:59:45,577 - #13 =
+INFO  21:59:45,578 - #18 false
+INFO  21:59:45,578 - #5 ;
+INFO  21:59:45,579 - #16 i
+INFO  21:59:45,580 - #13 =
+INFO  21:59:45,580 - #15 0
+INFO  21:59:45,580 - #5 ;
+INFO  21:59:45,585 - #34 do
+INFO  21:59:45,585 - #3 {
+INFO  21:59:45,586 - #16 i
+INFO  21:59:45,586 - #46 ++
+INFO  21:59:45,586 - #5 ;
+INFO  21:59:45,586 - #4 }
+INFO  21:59:45,588 - #35 while
+INFO  21:59:45,589 - #6 (
+INFO  21:59:45,589 - #16 ibool
+INFO  21:59:45,589 - #7 )
+INFO  21:59:45,590 - #9 print
+ERROR 21:59:45,590 - 
+Sintaksna greska na liniji 17
+INFO  21:59:45,591 - #6 (
+INFO  21:59:45,591 - #16 i
+INFO  21:59:45,591 - #7 )
+INFO  21:59:45,591 - #5 ;
+INFO  21:59:45,591 - #4 }
+INFO  21:59:45,591 - #4 }
+ERROR 21:59:45,591 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 21
+ERROR 21:59:45,599 - Greska na liniji 15 : ime ibool nije deklarisano! 
+ERROR 21:59:45,599 - Semanticka greska na liniji 15 promenljiva: ibool ne postoji!
+ERROR 21:59:45,599 - Parsiranje NIJE uspesno zavrseno!

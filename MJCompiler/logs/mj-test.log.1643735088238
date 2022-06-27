@@ -1,0 +1,59 @@
+INFO  18:04:35,317 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:04:35,348 - #2 program
+INFO  18:04:35,348 - #16 COfa
+INFO  18:04:35,348 - #16 int
+INFO  18:04:35,348 - #16 x
+INFO  18:04:35,349 - #50 [
+INFO  18:04:35,349 - #51 ]
+INFO  18:04:35,349 - #5 ;
+INFO  18:04:35,349 - #16 int
+INFO  18:04:35,350 - #16 z
+INFO  18:04:35,350 - #5 ;
+INFO  18:04:35,350 - #16 int
+INFO  18:04:35,350 - #16 y
+INFO  18:04:35,350 - #5 ;
+INFO  18:04:35,350 - #3 {
+INFO  18:04:35,351 - #14 void
+INFO  18:04:35,351 - #16 zbir
+INFO  18:04:35,351 - #6 (
+INFO  18:04:35,352 - #7 )
+INFO  18:04:35,352 - #3 {
+INFO  18:04:35,352 - #4 }
+INFO  18:04:35,353 - #16 int
+INFO  18:04:35,353 - #16 main
+INFO  18:04:35,354 - #6 (
+INFO  18:04:35,354 - #7 )
+INFO  18:04:35,355 - #3 {
+INFO  18:04:35,355 - #16 zbir
+INFO  18:04:35,355 - #6 (
+INFO  18:04:35,355 - #7 )
+INFO  18:04:35,355 - #5 ;
+INFO  18:04:35,355 - #19 if
+INFO  18:04:35,355 - #6 (
+INFO  18:04:35,355 - #16 x
+INFO  18:04:35,355 - #45 ||
+INFO  18:04:35,357 - #16 x
+INFO  18:04:35,357 - #7 )
+INFO  18:04:35,358 - #3 {
+INFO  18:04:35,358 - #16 y
+INFO  18:04:35,358 - #13 =
+INFO  18:04:35,358 - #16 x
+INFO  18:04:35,358 - #50 [
+INFO  18:04:35,358 - #16 z
+INFO  18:04:35,358 - #11 +
+INFO  18:04:35,359 - #15 5
+INFO  18:04:35,359 - #51 ]
+INFO  18:04:35,360 - #5 ;
+INFO  18:04:35,360 - #4 }
+INFO  18:04:35,360 - #10 return
+INFO  18:04:35,361 - #15 20
+INFO  18:04:35,361 - #5 ;
+INFO  18:04:35,361 - #4 }
+INFO  18:04:35,361 - #4 }
+INFO  18:04:35,367 - Deklarisana promenljiva x na liniji 3
+INFO  18:04:35,367 - Deklarisana promenljiva z na liniji 4
+INFO  18:04:35,367 - Deklarisana promenljiva y na liniji 6
+INFO  18:04:35,368 - Obradjuje se funkcija zbir na liniji 9
+INFO  18:04:35,368 - Obradjuje se funkcija main na liniji 12
+INFO  18:04:35,368 - Pronadjen poziv funkcije zbir na liniji 15
+INFO  18:04:35,376 - Parsiranje uspesno zavrseno!

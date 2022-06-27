@@ -1,0 +1,33 @@
+INFO  23:41:59,310 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:41:59,339 - #2 program
+INFO  23:41:59,339 - #16 PR
+INFO  23:41:59,339 - #16 int
+INFO  23:41:59,339 - #16 x
+INFO  23:41:59,340 - #8 ,
+INFO  23:41:59,340 - #16 z
+INFO  23:41:59,340 - #5 ;
+INFO  23:41:59,340 - #3 {
+INFO  23:41:59,341 - #16 int
+INFO  23:41:59,341 - #16 main
+INFO  23:41:59,341 - #6 (
+INFO  23:41:59,341 - #7 )
+INFO  23:41:59,342 - #16 int
+INFO  23:41:59,342 - #16 y
+INFO  23:41:59,342 - #5 ;
+INFO  23:41:59,342 - #3 {
+INFO  23:41:59,342 - #19 if
+INFO  23:41:59,342 - #6 (
+INFO  23:41:59,342 - #16 x
+INFO  23:41:59,342 - #24 >
+INFO  23:41:59,344 - #15 5
+INFO  23:41:59,345 - #7 )
+INFO  23:41:59,346 - #16 x
+INFO  23:41:59,348 - #13 =
+INFO  23:41:59,348 - #17 'a'
+INFO  23:41:59,348 - #5 ;
+INFO  23:41:59,348 - #4 }
+INFO  23:41:59,349 - #4 }
+INFO  23:41:59,355 - Deklarisana promenljiva z na liniji 3
+INFO  23:41:59,355 - Deklarisana promenljiva x na liniji 3
+INFO  23:41:59,355 - Deklarisana promenljiva y na liniji 7
+INFO  23:41:59,355 - Print calls = 0

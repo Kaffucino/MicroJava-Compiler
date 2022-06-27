@@ -1,0 +1,126 @@
+INFO  19:56:59,325 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:56:59,354 - #2 program
+INFO  19:56:59,354 - #16 test302
+INFO  19:56:59,354 - #48 const
+INFO  19:56:59,355 - #16 int
+INFO  19:56:59,355 - #16 jedan
+INFO  19:56:59,355 - #13 =
+INFO  19:56:59,355 - #15 1
+INFO  19:56:59,355 - #5 ;
+INFO  19:56:59,355 - #16 int
+INFO  19:56:59,356 - #16 i
+INFO  19:56:59,356 - #5 ;
+INFO  19:56:59,356 - #16 bool
+INFO  19:56:59,356 - #16 ibool
+INFO  19:56:59,357 - #5 ;
+INFO  19:56:59,357 - #16 int
+INFO  19:56:59,357 - #16 niz2
+INFO  19:56:59,357 - #5 ;
+INFO  19:56:59,357 - #49 record
+INFO  19:56:59,357 - #16 Test
+INFO  19:56:59,357 - #3 {
+INFO  19:56:59,357 - #16 int
+INFO  19:56:59,357 - #16 niz
+INFO  19:56:59,359 - #50 [
+INFO  19:56:59,359 - #51 ]
+INFO  19:56:59,359 - #5 ;
+INFO  19:56:59,359 - #16 int
+INFO  19:56:59,359 - #16 a
+INFO  19:56:59,359 - #5 ;
+INFO  19:56:59,359 - #16 int
+INFO  19:56:59,359 - #16 b
+INFO  19:56:59,359 - #5 ;
+INFO  19:56:59,359 - #16 int
+INFO  19:56:59,359 - #16 c
+INFO  19:56:59,359 - #5 ;
+INFO  19:56:59,359 - #16 int
+INFO  19:56:59,359 - #16 d
+INFO  19:56:59,359 - #5 ;
+INFO  19:56:59,359 - #4 }
+INFO  19:56:59,360 - #16 Test
+INFO  19:56:59,361 - #16 t1
+INFO  19:56:59,361 - #8 ,
+INFO  19:56:59,361 - #16 t2
+INFO  19:56:59,361 - #5 ;
+INFO  19:56:59,361 - #3 {
+INFO  19:56:59,361 - #14 void
+INFO  19:56:59,361 - #16 main
+INFO  19:56:59,362 - #6 (
+INFO  19:56:59,362 - #7 )
+INFO  19:56:59,363 - #3 {
+INFO  19:56:59,363 - #16 t1
+INFO  19:56:59,363 - #13 =
+INFO  19:56:59,364 - #36 new
+INFO  19:56:59,364 - #16 Test
+INFO  19:56:59,364 - #5 ;
+INFO  19:56:59,365 - #16 t1
+INFO  19:56:59,365 - #43 .
+INFO  19:56:59,365 - #16 a
+INFO  19:56:59,365 - #13 =
+INFO  19:56:59,365 - #15 2
+INFO  19:56:59,365 - #5 ;
+INFO  19:56:59,365 - #16 t1
+INFO  19:56:59,366 - #43 .
+INFO  19:56:59,366 - #16 niz
+INFO  19:56:59,366 - #13 =
+INFO  19:56:59,366 - #36 new
+INFO  19:56:59,366 - #16 int
+INFO  19:56:59,366 - #50 [
+INFO  19:56:59,366 - #15 3
+INFO  19:56:59,369 - #51 ]
+INFO  19:56:59,369 - #5 ;
+INFO  19:56:59,369 - #16 t1
+INFO  19:56:59,369 - #43 .
+INFO  19:56:59,369 - #16 niz
+INFO  19:56:59,369 - #50 [
+INFO  19:56:59,369 - #15 0
+INFO  19:56:59,369 - #51 ]
+INFO  19:56:59,369 - #13 =
+INFO  19:56:59,369 - #15 1
+INFO  19:56:59,369 - #28 *
+INFO  19:56:59,369 - #16 t1
+INFO  19:56:59,370 - #43 .
+INFO  19:56:59,370 - #16 a
+INFO  19:56:59,370 - #5 ;
+INFO  19:56:59,370 - #16 t1
+INFO  19:56:59,370 - #43 .
+INFO  19:56:59,370 - #16 niz
+INFO  19:56:59,370 - #50 [
+INFO  19:56:59,370 - #15 1
+INFO  19:56:59,370 - #51 ]
+INFO  19:56:59,370 - #13 =
+INFO  19:56:59,371 - #15 2
+INFO  19:56:59,371 - #28 *
+INFO  19:56:59,371 - #16 t1
+INFO  19:56:59,371 - #43 .
+INFO  19:56:59,371 - #16 a
+INFO  19:56:59,371 - #5 ;
+INFO  19:56:59,371 - #16 t1
+INFO  19:56:59,371 - #43 .
+INFO  19:56:59,371 - #16 niz
+INFO  19:56:59,371 - #50 [
+INFO  19:56:59,371 - #15 2
+INFO  19:56:59,371 - #51 ]
+INFO  19:56:59,371 - #13 =
+INFO  19:56:59,371 - #16 t1
+INFO  19:56:59,371 - #43 .
+INFO  19:56:59,371 - #16 a
+INFO  19:56:59,371 - #11 +
+INFO  19:56:59,371 - #15 1
+INFO  19:56:59,372 - #5 ;
+INFO  19:56:59,372 - #4 }
+INFO  19:56:59,372 - #4 }
+INFO  19:56:59,380 - Trenutan tip konstante je:  int na liniji 5
+INFO  19:56:59,380 - Deklarisana promenljiva i na liniji 7
+INFO  19:56:59,380 - Deklarisana promenljiva ibool na liniji 8
+INFO  19:56:59,381 - Deklarisana promenljiva niz2 na liniji 10
+INFO  19:56:59,381 - Deklarisana je rekord :  Test na liniji 12
+INFO  19:56:59,381 - Deklarisana promenljiva niz na liniji 13
+INFO  19:56:59,381 - Deklarisana promenljiva a na liniji 14
+INFO  19:56:59,381 - Deklarisana promenljiva b na liniji 15
+INFO  19:56:59,381 - Deklarisana promenljiva c na liniji 16
+INFO  19:56:59,381 - Deklarisana promenljiva d na liniji 17
+INFO  19:56:59,381 - Deklarisana promenljiva t2 na liniji 20
+INFO  19:56:59,381 - Deklarisana promenljiva t1 na liniji 20
+INFO  19:56:59,381 - Obradjuje se funkcija main na liniji 26
+INFO  19:56:59,392 - Parsiranje uspesno zavrseno!

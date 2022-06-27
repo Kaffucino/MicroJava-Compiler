@@ -1,0 +1,57 @@
+INFO  15:08:00,165 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:08:00,196 - #2 program
+INFO  15:08:00,196 - #16 test302
+INFO  15:08:00,196 - #48 const
+INFO  15:08:00,197 - #16 int
+INFO  15:08:00,197 - #16 jedan
+INFO  15:08:00,197 - #13 =
+INFO  15:08:00,198 - #15 1
+INFO  15:08:00,198 - #5 ;
+INFO  15:08:00,198 - #16 int
+INFO  15:08:00,199 - #16 i
+INFO  15:08:00,199 - #5 ;
+INFO  15:08:00,199 - #16 int
+INFO  15:08:00,200 - #16 j
+INFO  15:08:00,200 - #5 ;
+INFO  15:08:00,200 - #3 {
+INFO  15:08:00,200 - #14 void
+INFO  15:08:00,200 - #16 main
+INFO  15:08:00,201 - #6 (
+INFO  15:08:00,201 - #7 )
+INFO  15:08:00,201 - #3 {
+INFO  15:08:00,202 - #16 i
+INFO  15:08:00,202 - #13 =
+INFO  15:08:00,202 - #15 0
+INFO  15:08:00,203 - #5 ;
+INFO  15:08:00,204 - #16 j
+INFO  15:08:00,204 - #13 =
+INFO  15:08:00,204 - #15 4
+INFO  15:08:00,204 - #5 ;
+INFO  15:08:00,204 - #34 do
+INFO  15:08:00,205 - #3 {
+INFO  15:08:00,205 - #16 i
+INFO  15:08:00,205 - #46 ++
+INFO  15:08:00,205 - #5 ;
+INFO  15:08:00,205 - #16 j
+INFO  15:08:00,205 - #47 --
+INFO  15:08:00,205 - #5 ;
+INFO  15:08:00,205 - #4 }
+INFO  15:08:00,206 - #35 while
+INFO  15:08:00,206 - #6 (
+INFO  15:08:00,206 - #16 j
+INFO  15:08:00,206 - #24 >
+INFO  15:08:00,206 - #15 2
+INFO  15:08:00,207 - #7 )
+INFO  15:08:00,208 - #5 ;
+INFO  15:08:00,208 - #9 print
+INFO  15:08:00,208 - #6 (
+INFO  15:08:00,208 - #16 i
+INFO  15:08:00,208 - #7 )
+INFO  15:08:00,208 - #5 ;
+INFO  15:08:00,208 - #4 }
+INFO  15:08:00,209 - #4 }
+INFO  15:08:00,216 - Trenutan tip konstante je:  int na liniji 5
+INFO  15:08:00,216 - Deklarisana promenljiva i na liniji 7
+INFO  15:08:00,216 - Deklarisana promenljiva j na liniji 8
+INFO  15:08:00,216 - Obradjuje se funkcija main na liniji 12
+INFO  15:08:00,231 - Parsiranje uspesno zavrseno!

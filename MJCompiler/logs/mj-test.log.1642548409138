@@ -1,0 +1,26 @@
+INFO  00:24:54,859 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:24:54,890 - #2 program
+INFO  00:24:54,890 - #16 COfa
+INFO  00:24:54,890 - #16 bool
+INFO  00:24:54,891 - #16 x
+INFO  00:24:54,892 - #5 ;
+INFO  00:24:54,893 - #3 {
+INFO  00:24:54,893 - #16 int
+INFO  00:24:54,893 - #16 main
+INFO  00:24:54,894 - #6 (
+INFO  00:24:54,895 - #7 )
+INFO  00:24:54,896 - #3 {
+INFO  00:24:54,896 - #37 read
+INFO  00:24:54,897 - #6 (
+INFO  00:24:54,897 - #16 x
+INFO  00:24:54,897 - #7 )
+INFO  00:24:54,897 - #5 ;
+INFO  00:24:54,897 - #10 return
+INFO  00:24:54,897 - #15 1
+INFO  00:24:54,897 - #5 ;
+INFO  00:24:54,899 - #4 }
+INFO  00:24:54,900 - #4 }
+INFO  00:24:54,906 - Deklarisana promenljiva x na liniji 3
+INFO  00:24:54,906 - Obradjuje se funkcija main na liniji 7
+ERROR 00:24:54,906 - Semanticka greska na liniji 9  x mora biti int, char ili bool!
+ERROR 00:24:54,907 - Parsiranje NIJE uspesno zavrseno!

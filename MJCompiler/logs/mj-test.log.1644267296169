@@ -1,0 +1,71 @@
+INFO  21:54:47,595 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:54:47,625 - #2 program
+INFO  21:54:47,625 - #16 test301
+INFO  21:54:47,625 - #48 const
+INFO  21:54:47,625 - #16 int
+INFO  21:54:47,625 - #16 pet
+INFO  21:54:47,626 - #13 =
+INFO  21:54:47,626 - #15 5
+INFO  21:54:47,626 - #8 ,
+INFO  21:54:47,626 - #16 sest
+INFO  21:54:47,626 - #13 =
+INFO  21:54:47,626 - #15 6
+INFO  21:54:47,626 - #8 ,
+INFO  21:54:47,626 - #16 sedam
+INFO  21:54:47,626 - #13 =
+INFO  21:54:47,626 - #15 7
+INFO  21:54:47,626 - #5 ;
+INFO  21:54:47,627 - #48 const
+INFO  21:54:47,627 - #16 int
+INFO  21:54:47,627 - #16 osam
+INFO  21:54:47,627 - #13 =
+INFO  21:54:47,627 - #15 8
+INFO  21:54:47,627 - #5 ;
+INFO  21:54:47,629 - #16 int
+INFO  21:54:47,629 - #16 a
+INFO  21:54:47,629 - #5 ;
+INFO  21:54:47,629 - #3 {
+INFO  21:54:47,630 - #14 void
+INFO  21:54:47,630 - #16 main
+INFO  21:54:47,630 - #6 (
+INFO  21:54:47,631 - #7 )
+INFO  21:54:47,632 - #3 {
+INFO  21:54:47,632 - #16 a
+INFO  21:54:47,632 - #13 =
+INFO  21:54:47,632 - #15 5
+INFO  21:54:47,633 - #5 ;
+INFO  21:54:47,634 - #16 b
+INFO  21:54:47,634 - #13 =
+INFO  21:54:47,634 - #15 6
+INFO  21:54:47,634 - #5 ;
+INFO  21:54:47,634 - #9 print
+INFO  21:54:47,634 - #6 (
+INFO  21:54:47,634 - #16 pet
+INFO  21:54:47,634 - #7 )
+INFO  21:54:47,634 - #5 ;
+INFO  21:54:47,634 - #9 print
+INFO  21:54:47,635 - #6 (
+INFO  21:54:47,635 - #16 sest
+INFO  21:54:47,635 - #7 )
+INFO  21:54:47,635 - #5 ;
+INFO  21:54:47,635 - #9 print
+INFO  21:54:47,635 - #6 (
+INFO  21:54:47,635 - #16 sedam
+INFO  21:54:47,635 - #7 )
+INFO  21:54:47,635 - #5 ;
+INFO  21:54:47,635 - #9 print
+INFO  21:54:47,635 - #6 (
+INFO  21:54:47,635 - #16 a
+INFO  21:54:47,635 - #7 )
+INFO  21:54:47,635 - #5 ;
+INFO  21:54:47,635 - #4 }
+INFO  21:54:47,636 - #4 }
+INFO  21:54:47,643 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:54:47,643 - Dodata u listu konstanta sest na liniji 7
+INFO  21:54:47,643 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:54:47,643 - Trenutan tip konstante je:  int na liniji 8
+INFO  21:54:47,643 - Deklarisana promenljiva a na liniji 11
+INFO  21:54:47,643 - Obradjuje se funkcija main na liniji 14
+ERROR 21:54:47,643 - Greska na liniji 19 : ime b nije deklarisano! 
+ERROR 21:54:47,643 - Semanticka greska na liniji 19 nekompatibilni tipovi prilikom dodele!
+ERROR 21:54:47,644 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,15 @@
+INFO  23:54:54,043 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:54:54,072 - #2 program
+INFO  23:54:54,072 - #16 Cofi
+INFO  23:54:54,072 - #3 {
+INFO  23:54:54,073 - #14 void
+INFO  23:54:54,073 - #16 main
+INFO  23:54:54,073 - #6 (
+INFO  23:54:54,074 - #7 )
+INFO  23:54:54,074 - #3 {
+INFO  23:54:54,075 - #10 return
+INFO  23:54:54,075 - #15 0
+INFO  23:54:54,075 - #5 ;
+INFO  23:54:54,076 - #4 }
+INFO  23:54:54,076 - #4 }
+INFO  23:54:54,082 - Obradjuje se funkcija main na liniji 6

@@ -1,0 +1,50 @@
+program Greske
+
+const char konst = true;
+
+int a;
+char b;
+bool c;
+
+
+record Rekord{
+int a;
+}
+
+Rekord2 random;
+
+
+{
+
+int func1(){
+
+return true;
+}
+
+void func2(int p1, char p2, bool p3){
+
+
+}
+
+void func3(){
+
+
+}
+
+void main(){
+	a = 'a';
+	b = 56;
+	c = 1;
+	
+	if(b > 3) print('A');
+	func1(1, 2);
+	func2(b, c, a);
+	func2(a);
+	func3();
+
+	break;
+
+}
+
+}
+

@@ -1,0 +1,46 @@
+INFO  15:11:54,266 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:11:54,296 - #2 program
+INFO  15:11:54,296 - #16 COfa
+INFO  15:11:54,296 - #16 int
+INFO  15:11:54,296 - #16 x
+INFO  15:11:54,297 - #50 [
+INFO  15:11:54,297 - #51 ]
+INFO  15:11:54,297 - #5 ;
+INFO  15:11:54,297 - #16 char
+INFO  15:11:54,297 - #16 z
+INFO  15:11:54,297 - #5 ;
+INFO  15:11:54,297 - #16 int
+INFO  15:11:54,298 - #16 y
+INFO  15:11:54,298 - #5 ;
+INFO  15:11:54,298 - #3 {
+INFO  15:11:54,298 - #16 int
+INFO  15:11:54,298 - #16 main
+INFO  15:11:54,298 - #6 (
+INFO  15:11:54,299 - #7 )
+INFO  15:11:54,299 - #3 {
+INFO  15:11:54,299 - #19 if
+INFO  15:11:54,299 - #6 (
+INFO  15:11:54,299 - #16 x
+INFO  15:11:54,299 - #45 ||
+INFO  15:11:54,301 - #16 x
+INFO  15:11:54,302 - #7 )
+INFO  15:11:54,302 - #3 {
+INFO  15:11:54,303 - #16 y
+INFO  15:11:54,303 - #13 =
+INFO  15:11:54,303 - #16 x
+INFO  15:11:54,303 - #50 [
+INFO  15:11:54,303 - #16 y
+INFO  15:11:54,303 - #51 ]
+INFO  15:11:54,303 - #5 ;
+INFO  15:11:54,303 - #4 }
+INFO  15:11:54,304 - #10 return
+INFO  15:11:54,305 - #16 x
+INFO  15:11:54,305 - #5 ;
+INFO  15:11:54,305 - #4 }
+INFO  15:11:54,305 - #4 }
+INFO  15:11:54,311 - Deklarisana promenljiva x na liniji 3
+INFO  15:11:54,312 - Deklarisana promenljiva z na liniji 6
+INFO  15:11:54,312 - Deklarisana promenljiva y na liniji 7
+INFO  15:11:54,312 - Obradjuje se funkcija main na liniji 11
+ERROR 15:11:54,312 - Semanticka greska na liniji 14 : promenljiva x ne predstavlja niz! 
+ERROR 15:11:54,312 - Parsiranje NIJE uspesno zavrseno!

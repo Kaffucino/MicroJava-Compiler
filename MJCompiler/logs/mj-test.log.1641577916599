@@ -1,0 +1,56 @@
+INFO  18:51:37,564 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:51:37,592 - #2 program
+INFO  18:51:37,593 - #16 PROG
+INFO  18:51:37,593 - #16 char
+INFO  18:51:37,593 - #16 x
+INFO  18:51:37,593 - #13 =
+ERROR 18:51:37,593 - 
+Sintaksna greska na liniji 4
+INFO  18:51:37,594 - #17 'a'
+INFO  18:51:37,594 - #8 ,
+INFO  18:51:37,594 - #16 y
+INFO  18:51:37,594 - #5 ;
+ERROR 18:51:37,594 - Izvrsen oporavak do , u liniji 4
+ERROR 18:51:37,594 - 
+Sintaksna greska na liniji 4
+INFO  18:51:37,594 - #16 bool
+INFO  18:51:37,594 - #16 z
+INFO  18:51:37,594 - #8 ,
+INFO  18:51:37,594 - #16 zz
+INFO  18:51:37,594 - #13 =
+INFO  18:51:37,595 - #18 false
+INFO  18:51:37,595 - #5 ;
+INFO  18:51:37,595 - #16 int
+INFO  18:51:37,595 - #16 u
+ERROR 18:51:37,595 - Izvrsen oporavak do ; u liniji 5
+INFO  18:51:37,595 - #8 ,
+INFO  18:51:37,595 - #16 uu
+INFO  18:51:37,595 - #13 =
+ERROR 18:51:37,595 - 
+Sintaksna greska na liniji 6
+INFO  18:51:37,595 - #15 5
+INFO  18:51:37,595 - #5 ;
+INFO  18:51:37,595 - #16 int
+INFO  18:51:37,595 - #16 zz
+ERROR 18:51:37,595 - Izvrsen oporavak do ; u liniji 6
+INFO  18:51:37,595 - #8 ,
+INFO  18:51:37,596 - #16 z5
+INFO  18:51:37,596 - #13 =
+ERROR 18:51:37,596 - 
+Sintaksna greska na liniji 7
+INFO  18:51:37,596 - #15 5
+INFO  18:51:37,596 - #8 ,
+INFO  18:51:37,596 - #16 z6
+INFO  18:51:37,596 - #5 ;
+ERROR 18:51:37,596 - Izvrsen oporavak do , u liniji 7
+ERROR 18:51:37,596 - 
+Sintaksna greska na liniji 7
+INFO  18:51:37,596 - #3 {
+INFO  18:51:37,596 - #16 int
+INFO  18:51:37,596 - #16 main
+INFO  18:51:37,596 - #6 (
+INFO  18:51:37,596 - #7 )
+INFO  18:51:37,596 - #3 {
+INFO  18:51:37,596 - #4 }
+INFO  18:51:37,596 - #4 }
+ERROR 18:51:37,596 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

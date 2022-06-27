@@ -1,0 +1,32 @@
+INFO  13:35:21,248 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:35:21,281 - #2 program
+INFO  13:35:21,281 - #16 Cofi
+INFO  13:35:21,281 - #3 {
+INFO  13:35:21,282 - #16 int
+INFO  13:35:21,282 - #16 sum
+INFO  13:35:21,282 - #6 (
+INFO  13:35:21,283 - #16 int
+INFO  13:35:21,283 - #16 a
+INFO  13:35:21,283 - #8 ,
+INFO  13:35:21,283 - #16 int
+INFO  13:35:21,283 - #16 b
+INFO  13:35:21,283 - #7 )
+INFO  13:35:21,283 - #3 {
+INFO  13:35:21,284 - #10 return
+INFO  13:35:21,284 - #16 a
+INFO  13:35:21,284 - #11 +
+INFO  13:35:21,285 - #16 b
+INFO  13:35:21,286 - #5 ;
+INFO  13:35:21,286 - #4 }
+INFO  13:35:21,287 - #14 void
+INFO  13:35:21,287 - #16 main
+INFO  13:35:21,287 - #6 (
+INFO  13:35:21,292 - #7 )
+INFO  13:35:21,293 - #3 {
+INFO  13:35:21,293 - #4 }
+INFO  13:35:21,293 - #4 }
+INFO  13:35:21,300 - Obradjuje se funkcija sum na liniji 4
+INFO  13:35:21,300 - Naveden argument b na liniji 4
+INFO  13:35:21,300 - Naveden argument a na liniji 4
+INFO  13:35:21,301 - Obradjuje se funkcija main na liniji 9
+INFO  13:35:21,308 - Parsiranje uspesno zavrseno!

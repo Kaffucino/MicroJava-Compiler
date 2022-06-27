@@ -1,0 +1,72 @@
+INFO  13:59:51,223 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:59:51,252 - #2 program
+INFO  13:59:51,252 - #16 lexGreska
+INFO  13:59:51,252 - #16 int
+INFO  13:59:51,252 - #16 i
+INFO  13:59:51,253 - #5 ;
+INFO  13:59:51,253 - #16 int
+INFO  13:59:51,253 - #16 j
+INFO  13:59:51,254 - #5 ;
+INFO  13:59:51,254 - #16 bool
+INFO  13:59:51,254 - #16 a
+INFO  13:59:51,254 - #5 ;
+INFO  13:59:51,254 - #3 {
+INFO  13:59:51,254 - #16 int
+INFO  13:59:51,254 - #16 Greska
+INFO  13:59:51,254 - #6 (
+INFO  13:59:51,255 - #16 int
+INFO  13:59:51,255 - #16 f
+INFO  13:59:51,255 - #8 ,
+INFO  13:59:51,255 - #16 int
+INFO  13:59:51,256 - #16 ff
+INFO  13:59:51,256 - #8 ,
+INFO  13:59:51,256 - #16 char
+INFO  13:59:51,256 - #16 fff
+INFO  13:59:51,256 - #8 ,
+INFO  13:59:51,256 - #16 tip
+INFO  13:59:51,256 - #7 )
+ERROR 13:59:51,256 - 
+Sintaksna greska na liniji 10
+INFO  13:59:51,256 - #3 {
+INFO  13:59:51,256 - #16 i
+INFO  13:59:51,256 - #13 =
+ERROR 13:59:51,257 - Izvrsen oporavak do ) u liniji 10
+INFO  13:59:51,258 - #15 0
+INFO  13:59:51,258 - #5 ;
+INFO  13:59:51,259 - #10 return
+INFO  13:59:51,260 - #16 i
+INFO  13:59:51,260 - #5 ;
+INFO  13:59:51,260 - #4 }
+INFO  13:59:51,261 - #14 void
+INFO  13:59:51,261 - #16 main
+INFO  13:59:51,261 - #6 (
+INFO  13:59:51,261 - #7 )
+INFO  13:59:51,261 - #3 {
+INFO  13:59:51,262 - #16 a
+INFO  13:59:51,262 - #13 =
+INFO  13:59:51,262 - #5 ;
+ERROR 13:59:51,262 - 
+Sintaksna greska na liniji 18
+INFO  13:59:51,262 - #19 if
+INFO  13:59:51,262 - #6 (
+INFO  13:59:51,262 - #16 a
+ERROR 13:59:51,262 - Izvrsen oporavak do ; u liniji 18
+INFO  13:59:51,263 - #13 =
+ERROR 13:59:51,263 - 
+Sintaksna greska na liniji 20
+INFO  13:59:51,263 - #7 )
+INFO  13:59:51,263 - #3 {
+INFO  13:59:51,263 - #16 a
+INFO  13:59:51,263 - #13 =
+ERROR 13:59:51,263 - Izvrsen oporavak do ) u liniji 20
+INFO  13:59:51,264 - #18 false
+INFO  13:59:51,264 - #5 ;
+INFO  13:59:51,264 - #4 }
+INFO  13:59:51,264 - #4 }
+INFO  13:59:51,265 - #4 }
+INFO  13:59:51,273 - Deklarisana promenljiva i na liniji 3
+INFO  13:59:51,273 - Deklarisana promenljiva j na liniji 4
+INFO  13:59:51,273 - Deklarisana promenljiva a na liniji 5
+INFO  13:59:51,273 - Obradjuje se funkcija Greska na liniji 10
+INFO  13:59:51,274 - Obradjuje se funkcija main na liniji 17
+ERROR 13:59:51,277 - Parsiranje NIJE uspesno zavrseno!

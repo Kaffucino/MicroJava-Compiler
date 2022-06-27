@@ -1,0 +1,60 @@
+INFO  18:03:48,821 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:03:48,850 - #2 program
+INFO  18:03:48,850 - #16 COfa
+INFO  18:03:48,850 - #16 int
+INFO  18:03:48,850 - #16 x
+INFO  18:03:48,851 - #50 [
+INFO  18:03:48,851 - #51 ]
+INFO  18:03:48,851 - #5 ;
+INFO  18:03:48,851 - #16 char
+INFO  18:03:48,851 - #16 z
+INFO  18:03:48,851 - #5 ;
+INFO  18:03:48,851 - #16 int
+INFO  18:03:48,852 - #16 y
+INFO  18:03:48,852 - #5 ;
+INFO  18:03:48,852 - #3 {
+INFO  18:03:48,852 - #14 void
+INFO  18:03:48,853 - #16 zbir
+INFO  18:03:48,853 - #6 (
+INFO  18:03:48,853 - #7 )
+INFO  18:03:48,854 - #3 {
+INFO  18:03:48,854 - #4 }
+INFO  18:03:48,854 - #16 int
+INFO  18:03:48,854 - #16 main
+INFO  18:03:48,856 - #6 (
+INFO  18:03:48,856 - #7 )
+INFO  18:03:48,856 - #3 {
+INFO  18:03:48,856 - #16 zbir
+INFO  18:03:48,856 - #6 (
+INFO  18:03:48,857 - #7 )
+INFO  18:03:48,857 - #5 ;
+INFO  18:03:48,857 - #19 if
+INFO  18:03:48,857 - #6 (
+INFO  18:03:48,857 - #16 x
+INFO  18:03:48,857 - #45 ||
+INFO  18:03:48,859 - #16 x
+INFO  18:03:48,859 - #7 )
+INFO  18:03:48,860 - #3 {
+INFO  18:03:48,860 - #16 y
+INFO  18:03:48,860 - #13 =
+INFO  18:03:48,860 - #16 x
+INFO  18:03:48,860 - #50 [
+INFO  18:03:48,860 - #16 z
+INFO  18:03:48,860 - #11 +
+INFO  18:03:48,860 - #15 5
+INFO  18:03:48,861 - #51 ]
+INFO  18:03:48,861 - #5 ;
+INFO  18:03:48,861 - #4 }
+INFO  18:03:48,861 - #10 return
+INFO  18:03:48,862 - #15 20
+INFO  18:03:48,862 - #5 ;
+INFO  18:03:48,862 - #4 }
+INFO  18:03:48,862 - #4 }
+INFO  18:03:48,868 - Deklarisana promenljiva x na liniji 3
+INFO  18:03:48,868 - Deklarisana promenljiva z na liniji 4
+INFO  18:03:48,868 - Deklarisana promenljiva y na liniji 6
+INFO  18:03:48,868 - Obradjuje se funkcija zbir na liniji 9
+INFO  18:03:48,868 - Obradjuje se funkcija main na liniji 12
+INFO  18:03:48,868 - Pronadjen poziv funkcije zbir na liniji 15
+ERROR 18:03:48,869 - Semanticka greska na liniji 17 za indexiranje je potreban tip int!
+ERROR 18:03:48,869 - Parsiranje NIJE uspesno zavrseno!

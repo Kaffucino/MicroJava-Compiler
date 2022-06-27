@@ -1,0 +1,30 @@
+INFO  13:49:42,694 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:49:42,723 - #2 program
+INFO  13:49:42,723 - #16 COfa
+INFO  13:49:42,723 - #16 int
+INFO  13:49:42,723 - #16 x
+INFO  13:49:42,724 - #5 ;
+INFO  13:49:42,724 - #3 {
+INFO  13:49:42,724 - #14 void
+INFO  13:49:42,724 - #16 main
+INFO  13:49:42,725 - #6 (
+INFO  13:49:42,725 - #7 )
+INFO  13:49:42,726 - #3 {
+INFO  13:49:42,726 - #19 if
+INFO  13:49:42,726 - #6 (
+INFO  13:49:42,726 - #16 x
+INFO  13:49:42,726 - #46 ++
+ERROR 13:49:42,726 - 
+Sintaksna greska na liniji 11
+INFO  13:49:42,726 - #7 )
+INFO  13:49:42,726 - #3 {
+INFO  13:49:42,727 - #16 x
+INFO  13:49:42,727 - #46 ++
+ERROR 13:49:42,727 - Izvrsen oporavak do ) u liniji 11
+INFO  13:49:42,728 - #5 ;
+INFO  13:49:42,728 - #4 }
+INFO  13:49:42,729 - #4 }
+INFO  13:49:42,729 - #4 }
+INFO  13:49:42,735 - Deklarisana promenljiva x na liniji 3
+INFO  13:49:42,735 - Obradjuje se funkcija main na liniji 9
+ERROR 13:49:42,736 - Parsiranje NIJE uspesno zavrseno!

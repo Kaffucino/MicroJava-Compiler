@@ -1,0 +1,68 @@
+INFO  13:59:16,944 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:59:16,978 - #2 program
+INFO  13:59:16,978 - #16 lexGreska
+INFO  13:59:16,978 - #16 int
+INFO  13:59:16,979 - #16 i
+INFO  13:59:16,979 - #5 ;
+INFO  13:59:16,980 - #16 int
+INFO  13:59:16,980 - #16 j
+INFO  13:59:16,980 - #5 ;
+INFO  13:59:16,980 - #16 bool
+INFO  13:59:16,980 - #16 istina
+INFO  13:59:16,980 - #5 ;
+INFO  13:59:16,980 - #3 {
+INFO  13:59:16,981 - #16 int
+INFO  13:59:16,981 - #16 Greska
+INFO  13:59:16,981 - #6 (
+INFO  13:59:16,981 - #16 int
+INFO  13:59:16,981 - #16 f
+INFO  13:59:16,981 - #8 ,
+INFO  13:59:16,981 - #16 int
+INFO  13:59:16,982 - #16 ff
+INFO  13:59:16,982 - #8 ,
+INFO  13:59:16,982 - #16 char
+INFO  13:59:16,984 - #16 fff
+INFO  13:59:16,984 - #8 ,
+INFO  13:59:16,984 - #16 tip
+INFO  13:59:16,984 - #7 )
+ERROR 13:59:16,984 - 
+Sintaksna greska na liniji 10
+INFO  13:59:16,984 - #3 {
+INFO  13:59:16,984 - #16 i
+INFO  13:59:16,984 - #13 =
+ERROR 13:59:16,984 - Izvrsen oporavak do ) u liniji 10
+INFO  13:59:16,986 - #15 0
+INFO  13:59:16,986 - #5 ;
+INFO  13:59:16,987 - #10 return
+INFO  13:59:16,987 - #16 i
+INFO  13:59:16,987 - #5 ;
+INFO  13:59:16,988 - #4 }
+INFO  13:59:16,988 - #14 void
+INFO  13:59:16,988 - #16 main
+INFO  13:59:16,989 - #6 (
+INFO  13:59:16,989 - #7 )
+INFO  13:59:16,989 - #3 {
+INFO  13:59:16,989 - #16 istina
+INFO  13:59:16,989 - #13 =
+INFO  13:59:16,989 - #5 ;
+ERROR 13:59:16,989 - 
+Sintaksna greska na liniji 18
+INFO  13:59:16,989 - #19 if
+INFO  13:59:16,989 - #6 (
+INFO  13:59:16,989 - #16 istina
+ERROR 13:59:16,989 - Izvrsen oporavak do ; u liniji 18
+INFO  13:59:16,990 - #13 =
+ERROR 13:59:16,990 - 
+Sintaksna greska na liniji 20
+INFO  13:59:16,990 - #7 )
+INFO  13:59:16,990 - #3 {
+INFO  13:59:16,990 - #4 }
+INFO  13:59:16,990 - #4 }
+ERROR 13:59:16,990 - Izvrsen oporavak do ) u liniji 20
+INFO  13:59:16,992 - #4 }
+INFO  13:59:16,999 - Deklarisana promenljiva i na liniji 3
+INFO  13:59:16,999 - Deklarisana promenljiva j na liniji 4
+INFO  13:59:16,999 - Deklarisana promenljiva istina na liniji 5
+INFO  13:59:16,999 - Obradjuje se funkcija Greska na liniji 10
+INFO  13:59:17,000 - Obradjuje se funkcija main na liniji 17
+ERROR 13:59:17,000 - Parsiranje NIJE uspesno zavrseno!

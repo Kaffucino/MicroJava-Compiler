@@ -1,0 +1,35 @@
+program TestMax
+
+
+int niz[];
+int i;
+int duzina;
+int max;
+
+{
+
+	
+	void main(){
+	niz = new int[5];
+	duzina = len(niz);
+	niz[1]=1;
+	niz[2]=2;
+	niz[3]=3;
+	niz[4]=4;
+	i=0;
+	max = niz[1];
+	
+	
+	do{
+	
+	if(max < niz[i])
+		max=niz[i];
+	
+	i++;
+	}while(i<duzina);
+	print(max);
+	
+	
+	}
+
+}

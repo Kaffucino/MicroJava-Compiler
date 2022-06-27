@@ -1,0 +1,25 @@
+INFO  21:41:26,542 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:41:26,575 - #2 program
+INFO  21:41:26,576 - #16 test301
+INFO  21:41:26,576 - #48 const
+INFO  21:41:26,576 - #16 int
+INFO  21:41:26,576 - #16 pet
+INFO  21:41:26,577 - #13 =
+INFO  21:41:26,577 - #15 5
+INFO  21:41:26,577 - #5 ;
+INFO  21:41:26,577 - #3 {
+INFO  21:41:26,578 - #14 void
+INFO  21:41:26,578 - #16 main
+INFO  21:41:26,578 - #6 (
+INFO  21:41:26,579 - #7 )
+INFO  21:41:26,579 - #3 {
+INFO  21:41:26,579 - #9 print
+INFO  21:41:26,580 - #6 (
+INFO  21:41:26,580 - #16 pet
+INFO  21:41:26,580 - #7 )
+INFO  21:41:26,581 - #5 ;
+INFO  21:41:26,581 - #4 }
+INFO  21:41:26,582 - #4 }
+INFO  21:41:26,590 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:41:26,596 - Obradjuje se funkcija main na liniji 13
+INFO  21:41:26,605 - Parsiranje uspesno zavrseno!

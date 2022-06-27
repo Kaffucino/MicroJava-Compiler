@@ -1,0 +1,52 @@
+INFO  18:58:58,951 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:58:58,981 - #2 program
+INFO  18:58:58,981 - #16 Cofi
+INFO  18:58:58,981 - #16 int
+INFO  18:58:58,982 - #16 niz
+INFO  18:58:58,982 - #50 [
+INFO  18:58:58,982 - #51 ]
+INFO  18:58:58,983 - #5 ;
+INFO  18:58:58,983 - #3 {
+INFO  18:58:58,983 - #14 void
+INFO  18:58:58,983 - #16 main
+INFO  18:58:58,984 - #6 (
+INFO  18:58:58,984 - #7 )
+INFO  18:58:58,984 - #16 int
+INFO  18:58:58,985 - #16 i
+INFO  18:58:58,985 - #5 ;
+INFO  18:58:58,985 - #3 {
+INFO  18:58:58,985 - #16 niz
+INFO  18:58:58,985 - #13 =
+INFO  18:58:58,986 - #36 new
+INFO  18:58:58,986 - #16 int
+INFO  18:58:58,987 - #50 [
+INFO  18:58:58,987 - #15 3
+INFO  18:58:58,987 - #51 ]
+INFO  18:58:58,988 - #5 ;
+INFO  18:58:58,988 - #16 niz
+INFO  18:58:58,988 - #50 [
+INFO  18:58:58,989 - #15 0
+INFO  18:58:58,989 - #51 ]
+INFO  18:58:58,989 - #13 =
+INFO  18:58:58,989 - #15 1
+INFO  18:58:58,989 - #5 ;
+INFO  18:58:58,989 - #16 niz
+INFO  18:58:58,989 - #50 [
+INFO  18:58:58,989 - #15 0
+INFO  18:58:58,989 - #51 ]
+INFO  18:58:58,989 - #46 ++
+INFO  18:58:58,989 - #5 ;
+INFO  18:58:58,989 - #9 print
+INFO  18:58:58,989 - #6 (
+INFO  18:58:58,989 - #16 niz
+INFO  18:58:58,989 - #50 [
+INFO  18:58:58,989 - #15 0
+INFO  18:58:58,989 - #51 ]
+INFO  18:58:58,989 - #7 )
+INFO  18:58:58,990 - #5 ;
+INFO  18:58:58,990 - #4 }
+INFO  18:58:58,990 - #4 }
+INFO  18:58:58,998 - Deklarisana promenljiva niz na liniji 3
+INFO  18:58:58,998 - Obradjuje se funkcija main na liniji 6
+INFO  18:58:58,998 - Deklarisana promenljiva i na liniji 6
+INFO  18:58:59,009 - Parsiranje uspesno zavrseno!

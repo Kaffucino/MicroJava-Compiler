@@ -1,0 +1,49 @@
+INFO  16:32:50,719 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:32:50,754 - #2 program
+INFO  16:32:50,755 - #16 Prog
+INFO  16:32:50,755 - #16 int
+INFO  16:32:50,755 - #16 y
+INFO  16:32:50,756 - #5 ;
+INFO  16:32:50,756 - #16 int
+INFO  16:32:50,756 - #16 zz
+INFO  16:32:50,756 - #5 ;
+INFO  16:32:50,756 - #3 {
+INFO  16:32:50,757 - #14 void
+INFO  16:32:50,757 - #16 main
+INFO  16:32:50,757 - #6 (
+INFO  16:32:50,758 - #7 )
+INFO  16:32:50,758 - #16 int
+INFO  16:32:50,758 - #16 x
+INFO  16:32:50,758 - #5 ;
+INFO  16:32:50,758 - #3 {
+INFO  16:32:50,759 - #16 x
+INFO  16:32:50,759 - #13 =
+INFO  16:32:50,759 - #15 5
+INFO  16:32:50,760 - #5 ;
+INFO  16:32:50,761 - #16 zz
+INFO  16:32:50,761 - #13 =
+INFO  16:32:50,762 - #37 read
+ERROR 16:32:50,762 - 
+Sintaksna greska na liniji 12
+INFO  16:32:50,762 - #6 (
+INFO  16:32:50,762 - #16 x
+INFO  16:32:50,762 - #7 )
+INFO  16:32:50,763 - #5 ;
+INFO  16:32:50,763 - #9 print
+INFO  16:32:50,763 - #6 (
+INFO  16:32:50,763 - #16 zz
+ERROR 16:32:50,763 - Izvrsen oporavak do ; u liniji 12
+INFO  16:32:50,763 - #7 )
+INFO  16:32:50,763 - #5 ;
+INFO  16:32:50,764 - #9 print
+INFO  16:32:50,764 - #6 (
+INFO  16:32:50,764 - #16 y
+INFO  16:32:50,764 - #7 )
+INFO  16:32:50,764 - #5 ;
+INFO  16:32:50,764 - #4 }
+INFO  16:32:50,765 - #4 }
+INFO  16:32:50,773 - Deklarisana promenljiva y na liniji 3
+INFO  16:32:50,773 - Deklarisana promenljiva zz na liniji 4
+INFO  16:32:50,773 - Obradjuje se funkcija main na liniji 9
+INFO  16:32:50,773 - Deklarisana promenljiva x na liniji 9
+ERROR 16:32:50,774 - Parsiranje NIJE uspesno zavrseno!

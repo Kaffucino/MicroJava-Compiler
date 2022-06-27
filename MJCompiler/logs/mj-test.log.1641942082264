@@ -1,0 +1,28 @@
+INFO  00:01:01,766 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:01:01,795 - #2 program
+INFO  00:01:01,795 - #16 PR
+INFO  00:01:01,795 - #16 int
+INFO  00:01:01,796 - #16 x
+INFO  00:01:01,796 - #8 ,
+INFO  00:01:01,796 - #16 z
+INFO  00:01:01,796 - #5 ;
+INFO  00:01:01,797 - #3 {
+INFO  00:01:01,797 - #16 int
+INFO  00:01:01,797 - #16 main
+INFO  00:01:01,797 - #6 (
+INFO  00:01:01,797 - #7 )
+INFO  00:01:01,798 - #16 int
+INFO  00:01:01,798 - #16 y
+INFO  00:01:01,798 - #5 ;
+INFO  00:01:01,798 - #3 {
+INFO  00:01:01,798 - #16 zz
+INFO  00:01:01,798 - #13 =
+INFO  00:01:01,799 - #15 6
+INFO  00:01:01,799 - #5 ;
+INFO  00:01:01,800 - #4 }
+INFO  00:01:01,801 - #4 }
+INFO  00:01:01,807 - Deklarisana promenljiva z na liniji 3
+INFO  00:01:01,807 - Deklarisana promenljiva x na liniji 3
+INFO  00:01:01,807 - Deklarisana promenljiva y na liniji 7
+ERROR 00:01:01,807 - Greska na liniji 9 : ime zz nije deklarisano! 
+ERROR 00:01:01,807 - Parsiranje NIJE uspesno zavrseno!

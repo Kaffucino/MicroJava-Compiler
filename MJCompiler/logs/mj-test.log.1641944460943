@@ -1,0 +1,47 @@
+INFO  00:36:10,069 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:36:10,098 - #2 program
+INFO  00:36:10,098 - #16 PR
+INFO  00:36:10,098 - #16 int
+INFO  00:36:10,098 - #16 x
+INFO  00:36:10,099 - #8 ,
+INFO  00:36:10,099 - #16 z
+INFO  00:36:10,099 - #5 ;
+INFO  00:36:10,099 - #3 {
+INFO  00:36:10,100 - #16 int
+INFO  00:36:10,100 - #16 main
+INFO  00:36:10,100 - #6 (
+INFO  00:36:10,100 - #7 )
+INFO  00:36:10,100 - #16 int
+INFO  00:36:10,100 - #16 y
+INFO  00:36:10,100 - #8 ,
+INFO  00:36:10,100 - #16 zz
+INFO  00:36:10,100 - #50 [
+INFO  00:36:10,100 - #51 ]
+INFO  00:36:10,101 - #5 ;
+INFO  00:36:10,101 - #3 {
+INFO  00:36:10,101 - #16 zz
+INFO  00:36:10,101 - #13 =
+INFO  00:36:10,102 - #36 new
+INFO  00:36:10,104 - #16 int
+INFO  00:36:10,104 - #50 [
+INFO  00:36:10,104 - #15 3
+INFO  00:36:10,104 - #51 ]
+INFO  00:36:10,105 - #5 ;
+INFO  00:36:10,105 - #16 zz
+INFO  00:36:10,105 - #50 [
+INFO  00:36:10,105 - #15 2
+INFO  00:36:10,105 - #51 ]
+INFO  00:36:10,105 - #13 =
+INFO  00:36:10,106 - #15 2
+INFO  00:36:10,106 - #5 ;
+INFO  00:36:10,106 - #16 y
+INFO  00:36:10,106 - #13 =
+INFO  00:36:10,106 - #17 'a'
+INFO  00:36:10,106 - #5 ;
+INFO  00:36:10,106 - #4 }
+INFO  00:36:10,107 - #4 }
+INFO  00:36:10,113 - Deklarisana promenljiva z na liniji 3
+INFO  00:36:10,113 - Deklarisana promenljiva x na liniji 3
+INFO  00:36:10,113 - Deklarisana promenljiva zz na liniji 7
+INFO  00:36:10,113 - Deklarisana promenljiva y na liniji 7
+INFO  00:36:10,121 - Parsiranje uspesno zavrseno!

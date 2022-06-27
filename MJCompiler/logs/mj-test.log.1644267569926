@@ -1,0 +1,73 @@
+INFO  21:54:56,171 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:54:56,201 - #2 program
+INFO  21:54:56,201 - #16 test301
+INFO  21:54:56,201 - #48 const
+INFO  21:54:56,201 - #16 int
+INFO  21:54:56,201 - #16 pet
+INFO  21:54:56,202 - #13 =
+INFO  21:54:56,202 - #15 5
+INFO  21:54:56,202 - #8 ,
+INFO  21:54:56,202 - #16 sest
+INFO  21:54:56,202 - #13 =
+INFO  21:54:56,202 - #15 6
+INFO  21:54:56,202 - #8 ,
+INFO  21:54:56,202 - #16 sedam
+INFO  21:54:56,202 - #13 =
+INFO  21:54:56,202 - #15 7
+INFO  21:54:56,202 - #5 ;
+INFO  21:54:56,203 - #48 const
+INFO  21:54:56,203 - #16 int
+INFO  21:54:56,203 - #16 osam
+INFO  21:54:56,203 - #13 =
+INFO  21:54:56,203 - #15 8
+INFO  21:54:56,203 - #5 ;
+INFO  21:54:56,208 - #16 int
+INFO  21:54:56,208 - #16 a
+INFO  21:54:56,208 - #5 ;
+INFO  21:54:56,209 - #16 int
+INFO  21:54:56,209 - #16 b
+INFO  21:54:56,209 - #5 ;
+INFO  21:54:56,209 - #3 {
+INFO  21:54:56,209 - #14 void
+INFO  21:54:56,210 - #16 main
+INFO  21:54:56,210 - #6 (
+INFO  21:54:56,210 - #7 )
+INFO  21:54:56,211 - #3 {
+INFO  21:54:56,211 - #16 a
+INFO  21:54:56,211 - #13 =
+INFO  21:54:56,211 - #15 5
+INFO  21:54:56,212 - #5 ;
+INFO  21:54:56,213 - #16 b
+INFO  21:54:56,213 - #13 =
+INFO  21:54:56,213 - #15 6
+INFO  21:54:56,213 - #5 ;
+INFO  21:54:56,213 - #9 print
+INFO  21:54:56,213 - #6 (
+INFO  21:54:56,213 - #16 pet
+INFO  21:54:56,213 - #7 )
+INFO  21:54:56,213 - #5 ;
+INFO  21:54:56,213 - #9 print
+INFO  21:54:56,214 - #6 (
+INFO  21:54:56,214 - #16 sest
+INFO  21:54:56,214 - #7 )
+INFO  21:54:56,214 - #5 ;
+INFO  21:54:56,214 - #9 print
+INFO  21:54:56,214 - #6 (
+INFO  21:54:56,214 - #16 sedam
+INFO  21:54:56,214 - #7 )
+INFO  21:54:56,214 - #5 ;
+INFO  21:54:56,214 - #9 print
+INFO  21:54:56,214 - #6 (
+INFO  21:54:56,214 - #16 a
+INFO  21:54:56,214 - #7 )
+INFO  21:54:56,214 - #5 ;
+INFO  21:54:56,214 - #4 }
+INFO  21:54:56,215 - #4 }
+INFO  21:54:56,222 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:54:56,222 - Dodata u listu konstanta sest na liniji 7
+INFO  21:54:56,222 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:54:56,225 - Trenutan tip konstante je:  int na liniji 8
+INFO  21:54:56,226 - Deklarisana promenljiva a na liniji 11
+INFO  21:54:56,226 - Deklarisana promenljiva b na liniji 12
+INFO  21:54:56,226 - Obradjuje se funkcija main na liniji 14
+INFO  21:54:56,235 - Parsiranje uspesno zavrseno!

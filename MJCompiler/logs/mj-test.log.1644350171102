@@ -1,0 +1,46 @@
+INFO  20:54:32,086 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:54:32,116 - #2 program
+INFO  20:54:32,116 - #16 Prog
+INFO  20:54:32,116 - #49 record
+INFO  20:54:32,116 - #16 Test
+INFO  20:54:32,116 - #3 {
+INFO  20:54:32,117 - #16 int
+INFO  20:54:32,117 - #16 a
+INFO  20:54:32,117 - #5 ;
+INFO  20:54:32,118 - #16 char
+INFO  20:54:32,118 - #16 b
+INFO  20:54:32,118 - #5 ;
+INFO  20:54:32,118 - #4 }
+INFO  20:54:32,118 - #16 int
+INFO  20:54:32,118 - #16 a
+INFO  20:54:32,118 - #5 ;
+INFO  20:54:32,119 - #16 Test
+INFO  20:54:32,119 - #16 t
+INFO  20:54:32,119 - #5 ;
+INFO  20:54:32,119 - #3 {
+INFO  20:54:32,119 - #14 void
+INFO  20:54:32,119 - #16 main
+INFO  20:54:32,120 - #6 (
+INFO  20:54:32,125 - #7 )
+INFO  20:54:32,126 - #3 {
+INFO  20:54:32,126 - #16 t
+INFO  20:54:32,126 - #13 =
+INFO  20:54:32,126 - #36 new
+INFO  20:54:32,127 - #16 Test
+INFO  20:54:32,127 - #5 ;
+INFO  20:54:32,128 - #16 t
+INFO  20:54:32,128 - #43 .
+INFO  20:54:32,128 - #16 a
+INFO  20:54:32,128 - #13 =
+INFO  20:54:32,128 - #15 1
+INFO  20:54:32,128 - #5 ;
+INFO  20:54:32,128 - #4 }
+INFO  20:54:32,129 - #4 }
+INFO  20:54:32,136 - Deklarisana je rekord :  Test na liniji 3
+INFO  20:54:32,136 - Deklarisana promenljiva a na liniji 5
+INFO  20:54:32,136 - Deklarisana promenljiva b na liniji 6
+INFO  20:54:32,137 - Deklarisana promenljiva a na liniji 9
+INFO  20:54:32,137 - Deklarisana promenljiva t na liniji 11
+INFO  20:54:32,137 - Obradjuje se funkcija main na liniji 15
+ERROR 20:54:32,137 - Greska na liniji 17 polje: a u rekordu: t ne postoji! 
+ERROR 20:54:32,138 - Parsiranje NIJE uspesno zavrseno!

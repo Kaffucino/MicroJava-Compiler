@@ -1,0 +1,40 @@
+INFO  15:02:21,782 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:02:21,811 - #2 program
+INFO  15:02:21,811 - #16 COfa
+INFO  15:02:21,811 - #16 int
+INFO  15:02:21,812 - #16 x
+INFO  15:02:21,812 - #5 ;
+INFO  15:02:21,812 - #16 char
+INFO  15:02:21,812 - #16 y
+INFO  15:02:21,812 - #5 ;
+INFO  15:02:21,813 - #3 {
+INFO  15:02:21,813 - #16 int
+INFO  15:02:21,813 - #16 main
+INFO  15:02:21,813 - #6 (
+INFO  15:02:21,814 - #7 )
+INFO  15:02:21,814 - #3 {
+INFO  15:02:21,814 - #19 if
+INFO  15:02:21,814 - #6 (
+INFO  15:02:21,814 - #16 x
+INFO  15:02:21,814 - #45 ||
+INFO  15:02:21,816 - #16 x
+INFO  15:02:21,816 - #7 )
+INFO  15:02:21,817 - #3 {
+INFO  15:02:21,817 - #16 x
+INFO  15:02:21,817 - #13 =
+INFO  15:02:21,819 - #16 x
+INFO  15:02:21,819 - #50 [
+INFO  15:02:21,819 - #16 y
+INFO  15:02:21,819 - #51 ]
+INFO  15:02:21,819 - #5 ;
+INFO  15:02:21,819 - #4 }
+INFO  15:02:21,820 - #10 return
+INFO  15:02:21,821 - #16 x
+INFO  15:02:21,821 - #5 ;
+INFO  15:02:21,821 - #4 }
+INFO  15:02:21,821 - #4 }
+INFO  15:02:21,827 - Deklarisana promenljiva x na liniji 3
+INFO  15:02:21,827 - Deklarisana promenljiva y na liniji 5
+INFO  15:02:21,827 - Obradjuje se funkcija main na liniji 9
+ERROR 15:02:21,827 - Semanticka greska na liniji 12 za indexiranje je potreban tip int!
+ERROR 15:02:21,828 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,199 @@
+INFO  19:51:24,117 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:51:24,148 - #2 program
+INFO  19:51:24,148 - #16 test302
+INFO  19:51:24,148 - #48 const
+INFO  19:51:24,149 - #16 int
+INFO  19:51:24,149 - #16 jedan
+INFO  19:51:24,149 - #13 =
+INFO  19:51:24,149 - #15 1
+INFO  19:51:24,149 - #5 ;
+INFO  19:51:24,150 - #16 int
+INFO  19:51:24,150 - #16 i
+INFO  19:51:24,150 - #5 ;
+INFO  19:51:24,151 - #16 bool
+INFO  19:51:24,151 - #16 ibool
+INFO  19:51:24,151 - #5 ;
+INFO  19:51:24,151 - #16 int
+INFO  19:51:24,151 - #16 niz2
+INFO  19:51:24,151 - #5 ;
+INFO  19:51:24,151 - #49 record
+INFO  19:51:24,151 - #16 Test
+INFO  19:51:24,151 - #3 {
+INFO  19:51:24,152 - #16 int
+INFO  19:51:24,152 - #16 niz
+INFO  19:51:24,157 - #50 [
+INFO  19:51:24,157 - #51 ]
+INFO  19:51:24,157 - #5 ;
+INFO  19:51:24,157 - #16 int
+INFO  19:51:24,157 - #16 a
+INFO  19:51:24,157 - #5 ;
+INFO  19:51:24,157 - #4 }
+INFO  19:51:24,158 - #16 Test
+INFO  19:51:24,158 - #16 t1
+INFO  19:51:24,158 - #8 ,
+INFO  19:51:24,158 - #16 t2
+INFO  19:51:24,158 - #5 ;
+INFO  19:51:24,158 - #3 {
+INFO  19:51:24,159 - #16 int
+INFO  19:51:24,159 - #16 sum
+INFO  19:51:24,159 - #6 (
+INFO  19:51:24,159 - #16 int
+INFO  19:51:24,160 - #16 z
+INFO  19:51:24,160 - #8 ,
+INFO  19:51:24,160 - #16 int
+INFO  19:51:24,160 - #16 d
+INFO  19:51:24,160 - #7 )
+INFO  19:51:24,160 - #3 {
+INFO  19:51:24,161 - #10 return
+INFO  19:51:24,161 - #16 z
+INFO  19:51:24,161 - #11 +
+INFO  19:51:24,162 - #16 d
+INFO  19:51:24,162 - #5 ;
+INFO  19:51:24,163 - #4 }
+INFO  19:51:24,163 - #16 int
+INFO  19:51:24,163 - #16 inkrement
+INFO  19:51:24,163 - #6 (
+INFO  19:51:24,163 - #16 int
+INFO  19:51:24,163 - #16 a
+INFO  19:51:24,163 - #8 ,
+INFO  19:51:24,164 - #16 int
+INFO  19:51:24,164 - #16 inc
+INFO  19:51:24,164 - #7 )
+INFO  19:51:24,164 - #16 int
+INFO  19:51:24,164 - #16 pom
+INFO  19:51:24,164 - #5 ;
+INFO  19:51:24,164 - #3 {
+INFO  19:51:24,164 - #19 if
+INFO  19:51:24,164 - #6 (
+INFO  19:51:24,164 - #16 inc
+INFO  19:51:24,164 - #22 ==
+INFO  19:51:24,167 - #16 jedan
+INFO  19:51:24,168 - #7 )
+INFO  19:51:24,169 - #16 pom
+INFO  19:51:24,169 - #13 =
+INFO  19:51:24,169 - #15 1
+INFO  19:51:24,170 - #5 ;
+INFO  19:51:24,170 - #20 else
+INFO  19:51:24,170 - #19 if
+INFO  19:51:24,170 - #6 (
+INFO  19:51:24,170 - #16 inc
+INFO  19:51:24,170 - #22 ==
+INFO  19:51:24,170 - #15 2
+INFO  19:51:24,170 - #7 )
+INFO  19:51:24,170 - #16 pom
+INFO  19:51:24,170 - #13 =
+INFO  19:51:24,170 - #16 a
+INFO  19:51:24,170 - #5 ;
+INFO  19:51:24,170 - #10 return
+INFO  19:51:24,171 - #16 sum
+INFO  19:51:24,171 - #6 (
+INFO  19:51:24,171 - #16 a
+INFO  19:51:24,171 - #8 ,
+INFO  19:51:24,171 - #16 pom
+INFO  19:51:24,171 - #7 )
+INFO  19:51:24,172 - #5 ;
+INFO  19:51:24,172 - #4 }
+INFO  19:51:24,172 - #16 bool
+INFO  19:51:24,172 - #16 verify
+INFO  19:51:24,172 - #6 (
+INFO  19:51:24,172 - #7 )
+INFO  19:51:24,172 - #3 {
+INFO  19:51:24,173 - #9 print
+INFO  19:51:24,173 - #6 (
+INFO  19:51:24,173 - #17 'v'
+INFO  19:51:24,173 - #7 )
+INFO  19:51:24,173 - #5 ;
+INFO  19:51:24,173 - #10 return
+INFO  19:51:24,173 - #18 false
+INFO  19:51:24,173 - #5 ;
+INFO  19:51:24,173 - #4 }
+INFO  19:51:24,173 - #14 void
+INFO  19:51:24,173 - #16 main
+INFO  19:51:24,173 - #6 (
+INFO  19:51:24,173 - #7 )
+INFO  19:51:24,173 - #3 {
+INFO  19:51:24,174 - #16 t1
+INFO  19:51:24,174 - #13 =
+INFO  19:51:24,174 - #36 new
+INFO  19:51:24,174 - #16 Test
+INFO  19:51:24,174 - #5 ;
+INFO  19:51:24,174 - #16 t1
+INFO  19:51:24,174 - #43 .
+INFO  19:51:24,174 - #16 a
+INFO  19:51:24,174 - #13 =
+INFO  19:51:24,174 - #15 2
+INFO  19:51:24,174 - #5 ;
+INFO  19:51:24,174 - #9 print
+INFO  19:51:24,174 - #6 (
+INFO  19:51:24,174 - #16 t1
+INFO  19:51:24,174 - #43 .
+INFO  19:51:24,174 - #16 a
+INFO  19:51:24,174 - #7 )
+INFO  19:51:24,174 - #5 ;
+INFO  19:51:24,174 - #16 t1
+INFO  19:51:24,174 - #43 .
+INFO  19:51:24,174 - #16 niz
+INFO  19:51:24,175 - #13 =
+INFO  19:51:24,175 - #36 new
+INFO  19:51:24,175 - #16 int
+INFO  19:51:24,175 - #50 [
+INFO  19:51:24,175 - #15 3
+INFO  19:51:24,175 - #51 ]
+INFO  19:51:24,175 - #5 ;
+INFO  19:51:24,175 - #16 t1
+INFO  19:51:24,175 - #43 .
+INFO  19:51:24,175 - #16 niz
+INFO  19:51:24,175 - #50 [
+INFO  19:51:24,175 - #15 0
+INFO  19:51:24,175 - #51 ]
+INFO  19:51:24,175 - #13 =
+INFO  19:51:24,176 - #15 1
+INFO  19:51:24,176 - #5 ;
+INFO  19:51:24,176 - #16 t1
+INFO  19:51:24,176 - #43 .
+INFO  19:51:24,176 - #16 niz
+INFO  19:51:24,176 - #50 [
+INFO  19:51:24,176 - #15 1
+INFO  19:51:24,176 - #51 ]
+INFO  19:51:24,176 - #13 =
+INFO  19:51:24,176 - #15 2
+INFO  19:51:24,176 - #28 *
+INFO  19:51:24,176 - #16 t1
+INFO  19:51:24,176 - #43 .
+INFO  19:51:24,176 - #16 a
+INFO  19:51:24,177 - #5 ;
+INFO  19:51:24,177 - #16 t1
+INFO  19:51:24,177 - #43 .
+INFO  19:51:24,177 - #16 niz
+INFO  19:51:24,177 - #50 [
+INFO  19:51:24,177 - #15 2
+INFO  19:51:24,177 - #51 ]
+INFO  19:51:24,177 - #13 =
+INFO  19:51:24,178 - #16 t1
+INFO  19:51:24,178 - #43 .
+INFO  19:51:24,178 - #16 a
+INFO  19:51:24,178 - #11 +
+INFO  19:51:24,178 - #15 1
+INFO  19:51:24,178 - #5 ;
+INFO  19:51:24,178 - #4 }
+INFO  19:51:24,178 - #4 }
+INFO  19:51:24,185 - Trenutan tip konstante je:  int na liniji 5
+INFO  19:51:24,185 - Deklarisana promenljiva i na liniji 7
+INFO  19:51:24,185 - Deklarisana promenljiva ibool na liniji 8
+INFO  19:51:24,185 - Deklarisana promenljiva niz2 na liniji 10
+INFO  19:51:24,185 - Deklarisana je rekord :  Test na liniji 12
+INFO  19:51:24,185 - Deklarisana promenljiva niz na liniji 13
+INFO  19:51:24,185 - Deklarisana promenljiva a na liniji 14
+INFO  19:51:24,186 - Deklarisana promenljiva t2 na liniji 18
+INFO  19:51:24,186 - Deklarisana promenljiva t1 na liniji 18
+INFO  19:51:24,186 - Obradjuje se funkcija sum na liniji 22
+INFO  19:51:24,186 - Naveden argument d na liniji 22
+INFO  19:51:24,186 - Naveden argument z na liniji 22
+INFO  19:51:24,186 - Obradjuje se funkcija inkrement na liniji 27
+INFO  19:51:24,186 - Naveden argument inc na liniji 27
+INFO  19:51:24,187 - Naveden argument a na liniji 27
+INFO  19:51:24,187 - Deklarisana promenljiva pom na liniji 28
+INFO  19:51:24,187 - Pronadjen poziv funkcije sum na liniji 33
+INFO  19:51:24,187 - Obradjuje se funkcija verify na liniji 36
+INFO  19:51:24,187 - Obradjuje se funkcija main na liniji 41
+INFO  19:51:24,197 - Parsiranje uspesno zavrseno!

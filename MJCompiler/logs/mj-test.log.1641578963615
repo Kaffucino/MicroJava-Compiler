@@ -1,0 +1,42 @@
+INFO  19:08:56,385 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:08:56,424 - #2 program
+INFO  19:08:56,424 - #16 PROG
+INFO  19:08:56,424 - #16 char
+INFO  19:08:56,425 - #16 x
+INFO  19:08:56,425 - #13 =
+ERROR 19:08:56,425 - 
+Sintaksna greska na liniji 4
+INFO  19:08:56,425 - #17 'a'
+INFO  19:08:56,425 - #8 ,
+INFO  19:08:56,425 - #16 y
+INFO  19:08:56,425 - #5 ;
+ERROR 19:08:56,425 - Izvrsen oporavak do , u liniji 4
+ERROR 19:08:56,426 - 
+Sintaksna greska na liniji 4
+INFO  19:08:56,426 - #16 bool
+INFO  19:08:56,426 - #16 z
+INFO  19:08:56,426 - #8 ,
+INFO  19:08:56,426 - #16 zz
+INFO  19:08:56,426 - #13 =
+INFO  19:08:56,426 - #18 false
+INFO  19:08:56,426 - #5 ;
+INFO  19:08:56,426 - #3 {
+INFO  19:08:56,427 - #16 int
+ERROR 19:08:56,427 - Izvrsen oporavak do ; u liniji 5
+INFO  19:08:56,428 - #16 main
+INFO  19:08:56,428 - #6 (
+INFO  19:08:56,428 - #7 )
+INFO  19:08:56,428 - #3 {
+INFO  19:08:56,429 - #19 if
+INFO  19:08:56,429 - #6 (
+INFO  19:08:56,429 - #16 a
+INFO  19:08:56,429 - #24 >
+INFO  19:08:56,430 - #15 5
+INFO  19:08:56,432 - #7 )
+INFO  19:08:56,434 - #3 {
+INFO  19:08:56,434 - #16 x
+INFO  19:08:56,434 - #46 ++
+INFO  19:08:56,434 - #5 ;
+INFO  19:08:56,434 - #4 }
+INFO  19:08:56,434 - #4 }
+INFO  19:08:56,435 - #4 }

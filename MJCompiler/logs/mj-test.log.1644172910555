@@ -1,0 +1,30 @@
+INFO  19:40:08,275 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:40:08,303 - #2 program
+INFO  19:40:08,303 - #16 Prog
+INFO  19:40:08,304 - #3 {
+INFO  19:40:08,304 - #14 void
+INFO  19:40:08,304 - #16 main
+INFO  19:40:08,305 - #6 (
+INFO  19:40:08,305 - #7 )
+INFO  19:40:08,305 - #16 int
+INFO  19:40:08,305 - #16 x
+INFO  19:40:08,306 - #5 ;
+INFO  19:40:08,306 - #3 {
+INFO  19:40:08,307 - #9 print
+INFO  19:40:08,307 - #6 (
+INFO  19:40:08,307 - #15 1
+INFO  19:40:08,307 - #7 )
+INFO  19:40:08,308 - #5 ;
+INFO  19:40:08,308 - #9 print
+INFO  19:40:08,308 - #6 (
+INFO  19:40:08,308 - #16 a
+INFO  19:40:08,308 - #7 )
+INFO  19:40:08,308 - #5 ;
+INFO  19:40:08,309 - #4 }
+INFO  19:40:08,309 - #4 }
+INFO  19:40:08,317 - Obradjuje se funkcija main na liniji 4
+INFO  19:40:08,317 - Deklarisana promenljiva x na liniji 4
+ERROR 19:40:08,318 - Greska na liniji 6 : ime a nije deklarisano! 
+ERROR 19:40:08,318 - Semanticka greska na liniji 6  a ne postoji!
+ERROR 19:40:08,318 - Semanticka greska na liniji 6  a mora biti int, char ili bool!
+ERROR 19:40:08,318 - Parsiranje NIJE uspesno zavrseno!

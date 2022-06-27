@@ -1,0 +1,74 @@
+INFO  19:33:33,765 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:33:33,796 - #2 program
+INFO  19:33:33,796 - #16 Cofa
+INFO  19:33:33,796 - #49 record
+INFO  19:33:33,796 - #16 Rek
+INFO  19:33:33,796 - #3 {
+INFO  19:33:33,797 - #16 int
+INFO  19:33:33,797 - #16 niz
+INFO  19:33:33,797 - #50 [
+INFO  19:33:33,797 - #51 ]
+INFO  19:33:33,797 - #5 ;
+INFO  19:33:33,797 - #16 int
+INFO  19:33:33,798 - #16 b
+INFO  19:33:33,798 - #5 ;
+INFO  19:33:33,798 - #4 }
+INFO  19:33:33,798 - #16 Rek
+INFO  19:33:33,798 - #16 r
+INFO  19:33:33,798 - #5 ;
+INFO  19:33:33,798 - #3 {
+INFO  19:33:33,799 - #14 void
+INFO  19:33:33,800 - #16 main
+INFO  19:33:33,800 - #6 (
+INFO  19:33:33,800 - #7 )
+INFO  19:33:33,801 - #3 {
+INFO  19:33:33,801 - #16 r
+INFO  19:33:33,801 - #13 =
+INFO  19:33:33,801 - #36 new
+INFO  19:33:33,802 - #16 Rek
+INFO  19:33:33,802 - #5 ;
+INFO  19:33:33,803 - #16 r
+INFO  19:33:33,803 - #43 .
+INFO  19:33:33,803 - #16 niz
+INFO  19:33:33,803 - #13 =
+INFO  19:33:33,803 - #36 new
+INFO  19:33:33,803 - #16 int
+INFO  19:33:33,803 - #50 [
+INFO  19:33:33,804 - #15 5
+INFO  19:33:33,804 - #51 ]
+INFO  19:33:33,804 - #5 ;
+INFO  19:33:33,804 - #16 r
+INFO  19:33:33,804 - #43 .
+INFO  19:33:33,804 - #16 niz
+INFO  19:33:33,804 - #50 [
+INFO  19:33:33,804 - #15 0
+INFO  19:33:33,804 - #51 ]
+INFO  19:33:33,804 - #13 =
+INFO  19:33:33,804 - #15 5
+INFO  19:33:33,804 - #5 ;
+INFO  19:33:33,804 - #16 r
+INFO  19:33:33,804 - #43 .
+INFO  19:33:33,804 - #16 niz
+INFO  19:33:33,804 - #50 [
+INFO  19:33:33,805 - #15 0
+INFO  19:33:33,805 - #51 ]
+INFO  19:33:33,805 - #46 ++
+INFO  19:33:33,805 - #5 ;
+INFO  19:33:33,805 - #9 print
+INFO  19:33:33,805 - #6 (
+INFO  19:33:33,805 - #16 r
+INFO  19:33:33,805 - #43 .
+INFO  19:33:33,805 - #16 niz
+INFO  19:33:33,805 - #50 [
+INFO  19:33:33,805 - #15 0
+INFO  19:33:33,805 - #51 ]
+INFO  19:33:33,805 - #7 )
+INFO  19:33:33,805 - #5 ;
+INFO  19:33:33,805 - #4 }
+INFO  19:33:33,805 - #4 }
+INFO  19:33:33,815 - Deklarisana je rekord :  Rek na liniji 3
+INFO  19:33:33,815 - Deklarisana promenljiva niz na liniji 5
+INFO  19:33:33,815 - Deklarisana promenljiva b na liniji 6
+INFO  19:33:33,815 - Deklarisana promenljiva r na liniji 9
+INFO  19:33:33,815 - Obradjuje se funkcija main na liniji 13
+INFO  19:33:33,826 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,28 @@
+INFO  23:52:50,454 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:52:50,487 - #2 program
+INFO  23:52:50,487 - #16 PR
+INFO  23:52:50,488 - #16 int
+INFO  23:52:50,488 - #16 x
+INFO  23:52:50,489 - #8 ,
+INFO  23:52:50,489 - #16 z
+INFO  23:52:50,489 - #5 ;
+INFO  23:52:50,489 - #3 {
+INFO  23:52:50,490 - #16 int
+INFO  23:52:50,490 - #16 main
+INFO  23:52:50,490 - #6 (
+INFO  23:52:50,490 - #7 )
+INFO  23:52:50,490 - #16 int
+INFO  23:52:50,490 - #16 y
+INFO  23:52:50,490 - #5 ;
+INFO  23:52:50,490 - #3 {
+INFO  23:52:50,491 - #16 ff
+INFO  23:52:50,491 - #13 =
+INFO  23:52:50,491 - #15 6
+INFO  23:52:50,492 - #5 ;
+INFO  23:52:50,493 - #4 }
+INFO  23:52:50,493 - #4 }
+INFO  23:52:50,500 - Deklarisana promenljiva z na liniji 3
+INFO  23:52:50,505 - Deklarisana promenljiva x na liniji 3
+INFO  23:52:50,505 - Deklarisana promenljiva y na liniji 7
+ERROR 23:52:50,505 - Greska na liniji 9 : ime ff nije deklarisano! 
+ERROR 23:52:50,505 - Parsiranje NIJE uspesno zavrseno!

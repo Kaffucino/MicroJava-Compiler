@@ -1,0 +1,45 @@
+INFO  15:35:01,635 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:35:01,672 - #2 program
+INFO  15:35:01,673 - #16 COfa
+INFO  15:35:01,673 - #16 int
+INFO  15:35:01,673 - #16 x
+INFO  15:35:01,673 - #50 [
+INFO  15:35:01,674 - #51 ]
+INFO  15:35:01,674 - #5 ;
+INFO  15:35:01,674 - #16 char
+INFO  15:35:01,674 - #16 z
+INFO  15:35:01,674 - #5 ;
+INFO  15:35:01,674 - #16 int
+INFO  15:35:01,675 - #16 y
+INFO  15:35:01,675 - #5 ;
+INFO  15:35:01,675 - #3 {
+INFO  15:35:01,675 - #16 int
+INFO  15:35:01,675 - #16 main
+INFO  15:35:01,675 - #6 (
+INFO  15:35:01,676 - #7 )
+INFO  15:35:01,676 - #3 {
+INFO  15:35:01,677 - #19 if
+INFO  15:35:01,677 - #6 (
+INFO  15:35:01,677 - #16 x
+INFO  15:35:01,677 - #45 ||
+INFO  15:35:01,681 - #16 x
+INFO  15:35:01,681 - #7 )
+INFO  15:35:01,682 - #3 {
+INFO  15:35:01,682 - #16 y
+INFO  15:35:01,683 - #13 =
+INFO  15:35:01,683 - #16 x
+INFO  15:35:01,683 - #50 [
+INFO  15:35:01,683 - #16 y
+INFO  15:35:01,683 - #51 ]
+INFO  15:35:01,683 - #5 ;
+INFO  15:35:01,684 - #4 }
+INFO  15:35:01,684 - #10 return
+INFO  15:35:01,685 - #16 x
+INFO  15:35:01,685 - #5 ;
+INFO  15:35:01,686 - #4 }
+INFO  15:35:01,686 - #4 }
+INFO  15:35:01,695 - Deklarisana promenljiva x na liniji 3
+INFO  15:35:01,695 - Deklarisana promenljiva z na liniji 6
+INFO  15:35:01,695 - Deklarisana promenljiva y na liniji 7
+INFO  15:35:01,695 - Obradjuje se funkcija main na liniji 11
+ERROR 15:35:01,695 - Semanticka greska na liniji 16: funkcija main kao povratni tip prihvata: int

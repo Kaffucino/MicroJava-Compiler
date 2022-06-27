@@ -1,0 +1,53 @@
+INFO  00:21:36,780 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:21:36,809 - #2 program
+INFO  00:21:36,809 - #16 Cofi
+INFO  00:21:36,809 - #16 int
+INFO  00:21:36,810 - #16 y
+INFO  00:21:36,810 - #5 ;
+INFO  00:21:36,811 - #16 char
+INFO  00:21:36,811 - #16 zz
+INFO  00:21:36,811 - #5 ;
+INFO  00:21:36,811 - #16 bool
+INFO  00:21:36,811 - #16 zy
+INFO  00:21:36,811 - #5 ;
+INFO  00:21:36,811 - #3 {
+INFO  00:21:36,811 - #14 void
+INFO  00:21:36,812 - #16 main2
+INFO  00:21:36,812 - #6 (
+INFO  00:21:36,812 - #7 )
+INFO  00:21:36,813 - #16 int
+INFO  00:21:36,813 - #16 x
+INFO  00:21:36,813 - #5 ;
+INFO  00:21:36,813 - #3 {
+INFO  00:21:36,813 - #16 x
+INFO  00:21:36,813 - #46 ++
+INFO  00:21:36,819 - #5 ;
+INFO  00:21:36,819 - #4 }
+INFO  00:21:36,819 - #16 int
+INFO  00:21:36,820 - #16 main
+INFO  00:21:36,820 - #6 (
+INFO  00:21:36,820 - #7 )
+INFO  00:21:36,820 - #16 int
+INFO  00:21:36,820 - #16 x
+INFO  00:21:36,820 - #5 ;
+INFO  00:21:36,820 - #3 {
+INFO  00:21:36,820 - #16 x
+INFO  00:21:36,820 - #46 ++
+INFO  00:21:36,820 - #5 ;
+INFO  00:21:36,820 - #42 goto
+INFO  00:21:36,820 - #16 skip
+INFO  00:21:36,821 - #5 ;
+INFO  00:21:36,821 - #10 return
+INFO  00:21:36,821 - #15 1
+INFO  00:21:36,821 - #5 ;
+INFO  00:21:36,822 - #4 }
+INFO  00:21:36,822 - #4 }
+INFO  00:21:36,828 - Deklarisana promenljiva y na liniji 3
+INFO  00:21:36,828 - Deklarisana promenljiva zz na liniji 4
+INFO  00:21:36,828 - Deklarisana promenljiva zy na liniji 5
+INFO  00:21:36,828 - Obradjuje se funkcija main2 na liniji 9
+INFO  00:21:36,828 - Deklarisana promenljiva x na liniji 9
+INFO  00:21:36,828 - Obradjuje se funkcija main na liniji 16
+INFO  00:21:36,828 - Deklarisana promenljiva x na liniji 16
+ERROR 00:21:36,829 - Semanticka greska na liniji 20: labela skip nije definisana u funkciji: main
+ERROR 00:21:36,829 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,60 @@
+INFO  23:09:35,044 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:09:35,075 - #2 program
+INFO  23:09:35,076 - #16 Test
+INFO  23:09:35,076 - #49 record
+INFO  23:09:35,076 - #16 Rekord
+INFO  23:09:35,076 - #3 {
+INFO  23:09:35,076 - #16 int
+INFO  23:09:35,076 - #16 a
+INFO  23:09:35,077 - #5 ;
+INFO  23:09:35,077 - #16 int
+INFO  23:09:35,077 - #16 b
+INFO  23:09:35,077 - #5 ;
+INFO  23:09:35,077 - #4 }
+INFO  23:09:35,078 - #16 int
+INFO  23:09:35,078 - #16 cc
+INFO  23:09:35,078 - #5 ;
+INFO  23:09:35,078 - #16 Rekord
+INFO  23:09:35,078 - #16 r
+INFO  23:09:35,078 - #5 ;
+INFO  23:09:35,078 - #3 {
+INFO  23:09:35,079 - #14 void
+INFO  23:09:35,079 - #16 main
+INFO  23:09:35,079 - #6 (
+INFO  23:09:35,082 - #7 )
+INFO  23:09:35,082 - #3 {
+INFO  23:09:35,082 - #16 r
+INFO  23:09:35,082 - #13 =
+INFO  23:09:35,083 - #36 new
+INFO  23:09:35,084 - #16 Rekord
+INFO  23:09:35,084 - #5 ;
+INFO  23:09:35,085 - #16 r
+INFO  23:09:35,085 - #43 .
+INFO  23:09:35,086 - #16 a
+INFO  23:09:35,086 - #13 =
+INFO  23:09:35,086 - #15 1
+INFO  23:09:35,086 - #5 ;
+INFO  23:09:35,086 - #16 cc
+INFO  23:09:35,086 - #13 =
+INFO  23:09:35,086 - #16 r
+INFO  23:09:35,086 - #43 .
+INFO  23:09:35,086 - #16 a
+INFO  23:09:35,086 - #46 ++
+ERROR 23:09:35,086 - 
+Sintaksna greska na liniji 19
+INFO  23:09:35,086 - #5 ;
+INFO  23:09:35,086 - #9 print
+INFO  23:09:35,086 - #6 (
+INFO  23:09:35,087 - #16 cc
+ERROR 23:09:35,087 - Izvrsen oporavak do ; u liniji 19
+INFO  23:09:35,087 - #7 )
+INFO  23:09:35,087 - #5 ;
+INFO  23:09:35,087 - #4 }
+INFO  23:09:35,088 - #4 }
+INFO  23:09:35,095 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  23:09:35,095 - Deklarisana promenljiva a na liniji 5
+INFO  23:09:35,095 - Deklarisana promenljiva b na liniji 6
+INFO  23:09:35,096 - Deklarisana promenljiva cc na liniji 9
+INFO  23:09:35,096 - Deklarisana promenljiva r na liniji 11
+INFO  23:09:35,096 - Obradjuje se funkcija main na liniji 15
+ERROR 23:09:35,097 - Parsiranje NIJE uspesno zavrseno!

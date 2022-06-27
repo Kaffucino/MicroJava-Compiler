@@ -1,0 +1,623 @@
+INFO  22:10:04,805 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:10:04,838 - #2 program
+INFO  22:10:04,838 - #16 Ime
+INFO  22:10:04,838 - #48 const
+INFO  22:10:04,838 - #16 tip
+INFO  22:10:04,838 - #16 x
+INFO  22:10:04,838 - #13 =
+INFO  22:10:04,838 - #15 8
+INFO  22:10:04,838 - #8 ,
+INFO  22:10:04,838 - #16 y
+INFO  22:10:04,838 - #13 =
+INFO  22:10:04,838 - #17 'i'
+INFO  22:10:04,839 - #8 ,
+INFO  22:10:04,839 - #16 z
+INFO  22:10:04,839 - #13 =
+INFO  22:10:04,839 - #18 true
+INFO  22:10:04,839 - #5 ;
+INFO  22:10:04,840 - #16 int
+INFO  22:10:04,841 - #16 x
+INFO  22:10:04,841 - #50 [
+INFO  22:10:04,841 - #51 ]
+INFO  22:10:04,841 - #8 ,
+INFO  22:10:04,841 - #16 y
+INFO  22:10:04,841 - #8 ,
+INFO  22:10:04,846 - #16 a
+INFO  22:10:04,846 - #50 [
+INFO  22:10:04,846 - #51 ]
+INFO  22:10:04,846 - #8 ,
+INFO  22:10:04,846 - #16 f
+INFO  22:10:04,846 - #5 ;
+INFO  22:10:04,847 - #32 class
+INFO  22:10:04,847 - #16 Board
+INFO  22:10:04,847 - #38 extends
+INFO  22:10:04,847 - #16 Polje
+INFO  22:10:04,847 - #3 {
+INFO  22:10:04,848 - #16 int
+INFO  22:10:04,848 - #16 a
+INFO  22:10:04,848 - #5 ;
+INFO  22:10:04,848 - #3 {
+INFO  22:10:04,849 - #14 void
+INFO  22:10:04,850 - #16 funckija
+INFO  22:10:04,850 - #6 (
+INFO  22:10:04,850 - #16 x
+INFO  22:10:04,850 - #7 )
+ERROR 22:10:04,850 - 
+Sintaksna greska na liniji 6
+INFO  22:10:04,850 - #16 int
+INFO  22:10:04,850 - #16 y
+INFO  22:10:04,851 - #5 ;
+ERROR 22:10:04,851 - Izvrsen oporavak do ) u liniji 6
+INFO  22:10:04,852 - #3 {
+INFO  22:10:04,852 - #3 {
+INFO  22:10:04,852 - #39 continue
+INFO  22:10:04,852 - #5 ;
+INFO  22:10:04,852 - #10 return
+INFO  22:10:04,852 - #12 -
+INFO  22:10:04,853 - #15 5
+INFO  22:10:04,853 - #11 +
+INFO  22:10:04,854 - #15 7
+INFO  22:10:04,854 - #28 *
+INFO  22:10:04,855 - #15 2
+INFO  22:10:04,855 - #12 -
+INFO  22:10:04,855 - #6 (
+INFO  22:10:04,856 - #15 13
+INFO  22:10:04,856 - #28 *
+INFO  22:10:04,856 - #15 7
+INFO  22:10:04,856 - #7 )
+INFO  22:10:04,857 - #11 +
+INFO  22:10:04,857 - #36 new
+INFO  22:10:04,857 - #16 int
+INFO  22:10:04,861 - #50 [
+INFO  22:10:04,861 - #15 5
+INFO  22:10:04,861 - #51 ]
+INFO  22:10:04,861 - #5 ;
+INFO  22:10:04,862 - #16 a
+INFO  22:10:04,862 - #43 .
+INFO  22:10:04,862 - #16 b
+INFO  22:10:04,862 - #50 [
+INFO  22:10:04,862 - #15 3
+INFO  22:10:04,862 - #51 ]
+INFO  22:10:04,862 - #43 .
+INFO  22:10:04,862 - #16 c
+INFO  22:10:04,862 - #6 (
+INFO  22:10:04,863 - #15 5
+INFO  22:10:04,863 - #8 ,
+INFO  22:10:04,863 - #15 17
+INFO  22:10:04,863 - #7 )
+INFO  22:10:04,865 - #5 ;
+INFO  22:10:04,865 - #34 do
+INFO  22:10:04,865 - #3 {
+INFO  22:10:04,865 - #10 return
+INFO  22:10:04,865 - #5 ;
+INFO  22:10:04,865 - #4 }
+INFO  22:10:04,866 - #35 while
+INFO  22:10:04,867 - #6 (
+INFO  22:10:04,867 - #15 5
+INFO  22:10:04,867 - #22 ==
+INFO  22:10:04,867 - #15 7
+INFO  22:10:04,868 - #45 ||
+INFO  22:10:04,869 - #15 5
+INFO  22:10:04,869 - #27 <=
+INFO  22:10:04,869 - #15 3
+INFO  22:10:04,869 - #44 &&
+INFO  22:10:04,869 - #15 7
+INFO  22:10:04,869 - #23 !=
+INFO  22:10:04,869 - #15 2
+INFO  22:10:04,870 - #7 )
+INFO  22:10:04,871 - #5 ;
+INFO  22:10:04,871 - #19 if
+INFO  22:10:04,871 - #6 (
+INFO  22:10:04,871 - #15 5
+INFO  22:10:04,872 - #22 ==
+INFO  22:10:04,872 - #15 6
+INFO  22:10:04,872 - #7 )
+INFO  22:10:04,872 - #3 {
+INFO  22:10:04,872 - #16 x
+INFO  22:10:04,872 - #13 =
+INFO  22:10:04,872 - #15 3
+INFO  22:10:04,873 - #5 ;
+INFO  22:10:04,874 - #4 }
+INFO  22:10:04,874 - #4 }
+INFO  22:10:04,874 - #4 }
+INFO  22:10:04,874 - #4 }
+INFO  22:10:04,875 - #4 }
+INFO  22:10:04,875 - #49 record
+INFO  22:10:04,875 - #16 rekord
+INFO  22:10:04,875 - #3 {
+INFO  22:10:04,875 - #16 int
+INFO  22:10:04,875 - #16 a
+INFO  22:10:04,875 - #5 ;
+INFO  22:10:04,875 - #16 char
+INFO  22:10:04,875 - #16 b
+INFO  22:10:04,875 - #5 ;
+INFO  22:10:04,875 - #4 }
+INFO  22:10:04,876 - #3 {
+INFO  22:10:04,876 - #4 }
+INFO  22:10:04,880 - Program(
+ Ime
+  AllDeclarationList(
+    ConstDeclarationList(
+      ConstDeclList(
+        Type(
+         tip
+        ) [Type]
+       x
+        NumConst(
+         8
+        ) [NumConst]
+        ConstDeclMore(
+         y
+          CharConst(
+           'i'
+          ) [CharConst]
+          ConstDeclMore(
+           z
+            BoolConst(
+             true
+            ) [BoolConst]
+            ConstDeclNo(
+            ) [ConstDeclNo]
+          ) [ConstDeclMore]
+        ) [ConstDeclMore]
+      ) [ConstDeclList]
+    ) [ConstDeclarationList]
+    AllDeclarationList(
+      VarDeclarationList(
+        VarDeclListArray(
+          Type(
+           int
+          ) [Type]
+         x
+          VarDeclMore(
+           y
+            VarDeclMoreArray(
+             a
+              VarDeclMore(
+               f
+                VarDeclNo(
+                ) [VarDeclNo]
+              ) [VarDeclMore]
+            ) [VarDeclMoreArray]
+          ) [VarDeclMore]
+        ) [VarDeclListArray]
+      ) [VarDeclarationList]
+      AllDeclarationList(
+        ClassDeclarationsss(
+          ClassDeclaration(
+           Board
+            ClassDeclExtendsYes(
+              Type(
+               Polje
+              ) [Type]
+            ) [ClassDeclExtendsYes]
+            MethodDeclVariablesYes(
+              VarDeclListNormal(
+                Type(
+                 int
+                ) [Type]
+               a
+                VarDeclNo(
+                ) [VarDeclNo]
+              ) [VarDeclListNormal]
+              MethodDeclVariablesNo(
+              ) [MethodDeclVariablesNo]
+            ) [MethodDeclVariablesYes]
+            ClassDeclBodyYes(
+              ClassConstructorNO(
+              ) [ClassConstructorNO]
+              MethodDeclListaMore(
+                MethodDeclaration(
+                  MethodDeclTypeVoid(
+                  ) [MethodDeclTypeVoid]
+                 funckija
+                  MethodDeclParsYes(
+                    FormParsDerived1(
+                    ) [FormParsDerived1]
+                  ) [MethodDeclParsYes]
+                  MethodDeclVariablesYes(
+                    VarDeclListNormal(
+                      Type(
+                       int
+                      ) [Type]
+                     y
+                      VarDeclNo(
+                      ) [VarDeclNo]
+                    ) [VarDeclListNormal]
+                    MethodDeclVariablesNo(
+                    ) [MethodDeclVariablesNo]
+                  ) [MethodDeclVariablesYes]
+                  StatementsListMore(
+                    MoreStatements(
+                      Statements(
+                        StatementsListMore(
+                          StatementNoLabel(
+                            SingleStatementDesignatorCONTINUE(
+                            ) [SingleStatementDesignatorCONTINUE]
+                          ) [StatementNoLabel]
+                          StatementsListMore(
+                            StatementNoLabel(
+                              SingleStatementDesignatorRETURNExpr(
+                                ExprMinus(
+                                  Term(
+                                    FactorNum(
+                                     5
+                                    ) [FactorNum]
+                                    TermListNo(
+                                    ) [TermListNo]
+                                  ) [Term]
+                                  ExprListMore(
+                                    OpPlus(
+                                    ) [OpPlus]
+                                    Term(
+                                      FactorNum(
+                                       7
+                                      ) [FactorNum]
+                                      TermListMore(
+                                        MulStar(
+                                        ) [MulStar]
+                                        FactorNum(
+                                         2
+                                        ) [FactorNum]
+                                        TermListNo(
+                                        ) [TermListNo]
+                                      ) [TermListMore]
+                                    ) [Term]
+                                    ExprListMore(
+                                      OpMinus(
+                                      ) [OpMinus]
+                                      Term(
+                                        FactorExpr(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactorNum(
+                                               13
+                                              ) [FactorNum]
+                                              TermListMore(
+                                                MulStar(
+                                                ) [MulStar]
+                                                FactorNum(
+                                                 7
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [TermListMore]
+                                            ) [Term]
+                                            ExprListNoMore(
+                                            ) [ExprListNoMore]
+                                          ) [ExprNoMinus]
+                                        ) [FactorExpr]
+                                        TermListNo(
+                                        ) [TermListNo]
+                                      ) [Term]
+                                      ExprListMore(
+                                        OpPlus(
+                                        ) [OpPlus]
+                                        Term(
+                                          FactorNewTypeExpr(
+                                            Type(
+                                             int
+                                            ) [Type]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactorNum(
+                                                 5
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Term]
+                                              ExprListNoMore(
+                                              ) [ExprListNoMore]
+                                            ) [ExprNoMinus]
+                                          ) [FactorNewTypeExpr]
+                                          TermListNo(
+                                          ) [TermListNo]
+                                        ) [Term]
+                                        ExprListNoMore(
+                                        ) [ExprListNoMore]
+                                      ) [ExprListMore]
+                                    ) [ExprListMore]
+                                  ) [ExprListMore]
+                                ) [ExprMinus]
+                              ) [SingleStatementDesignatorRETURNExpr]
+                            ) [StatementNoLabel]
+                            StatementsListMore(
+                              StatementNoLabel(
+                                SingleStatementDesignatorState(
+                                  DesignatorStatementParsYes(
+                                    DesignatorIDENT(
+                                     a
+                                      DotDesiList(
+                                       b
+                                        ExprDesiList(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactorNum(
+                                               3
+                                              ) [FactorNum]
+                                              TermListNo(
+                                              ) [TermListNo]
+                                            ) [Term]
+                                            ExprListNoMore(
+                                            ) [ExprListNoMore]
+                                          ) [ExprNoMinus]
+                                          DotDesiList(
+                                           c
+                                            EndDesiList(
+                                            ) [EndDesiList]
+                                          ) [DotDesiList]
+                                        ) [ExprDesiList]
+                                      ) [DotDesiList]
+                                    ) [DesignatorIDENT]
+                                    ActPars(
+                                      ExprNoMinus(
+                                        Term(
+                                          FactorNum(
+                                           5
+                                          ) [FactorNum]
+                                          TermListNo(
+                                          ) [TermListNo]
+                                        ) [Term]
+                                        ExprListNoMore(
+                                        ) [ExprListNoMore]
+                                      ) [ExprNoMinus]
+                                      ActParsListMore(
+                                        ExprNoMinus(
+                                          Term(
+                                            FactorNum(
+                                             17
+                                            ) [FactorNum]
+                                            TermListNo(
+                                            ) [TermListNo]
+                                          ) [Term]
+                                          ExprListNoMore(
+                                          ) [ExprListNoMore]
+                                        ) [ExprNoMinus]
+                                        ActParsListNo(
+                                        ) [ActParsListNo]
+                                      ) [ActParsListMore]
+                                    ) [ActPars]
+                                  ) [DesignatorStatementParsYes]
+                                ) [SingleStatementDesignatorState]
+                              ) [StatementNoLabel]
+                              StatementsListMore(
+                                StatementNoLabel(
+                                  SingleStatementDOState(
+                                    MoreStatements(
+                                      Statements(
+                                        StatementsListMore(
+                                          StatementNoLabel(
+                                            SingleStatementDesignatorRETURN(
+                                            ) [SingleStatementDesignatorRETURN]
+                                          ) [StatementNoLabel]
+                                          StatementsListNo(
+                                          ) [StatementsListNo]
+                                        ) [StatementsListMore]
+                                      ) [Statements]
+                                    ) [MoreStatements]
+                                    Condition(
+                                      CondTerm(
+                                        ContFactTwo(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactorNum(
+                                               5
+                                              ) [FactorNum]
+                                              TermListNo(
+                                              ) [TermListNo]
+                                            ) [Term]
+                                            ExprListNoMore(
+                                            ) [ExprListNoMore]
+                                          ) [ExprNoMinus]
+                                          RelopDEqual(
+                                          ) [RelopDEqual]
+                                          ExprNoMinus(
+                                            Term(
+                                              FactorNum(
+                                               7
+                                              ) [FactorNum]
+                                              TermListNo(
+                                              ) [TermListNo]
+                                            ) [Term]
+                                            ExprListNoMore(
+                                            ) [ExprListNoMore]
+                                          ) [ExprNoMinus]
+                                        ) [ContFactTwo]
+                                        CondTermListNo(
+                                        ) [CondTermListNo]
+                                      ) [CondTerm]
+                                      ConditionListMore(
+                                        CondTerm(
+                                          ContFactTwo(
+                                            ExprNoMinus(
+                                              Term(
+                                                FactorNum(
+                                                 5
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Term]
+                                              ExprListNoMore(
+                                              ) [ExprListNoMore]
+                                            ) [ExprNoMinus]
+                                            RelopLE(
+                                            ) [RelopLE]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactorNum(
+                                                 3
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Term]
+                                              ExprListNoMore(
+                                              ) [ExprListNoMore]
+                                            ) [ExprNoMinus]
+                                          ) [ContFactTwo]
+                                          CondTermListMore(
+                                            ContFactTwo(
+                                              ExprNoMinus(
+                                                Term(
+                                                  FactorNum(
+                                                   7
+                                                  ) [FactorNum]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Term]
+                                                ExprListNoMore(
+                                                ) [ExprListNoMore]
+                                              ) [ExprNoMinus]
+                                              RelopNEqual(
+                                              ) [RelopNEqual]
+                                              ExprNoMinus(
+                                                Term(
+                                                  FactorNum(
+                                                   2
+                                                  ) [FactorNum]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Term]
+                                                ExprListNoMore(
+                                                ) [ExprListNoMore]
+                                              ) [ExprNoMinus]
+                                            ) [ContFactTwo]
+                                            CondTermListNo(
+                                            ) [CondTermListNo]
+                                          ) [CondTermListMore]
+                                        ) [CondTerm]
+                                        ConditionListNo(
+                                        ) [ConditionListNo]
+                                      ) [ConditionListMore]
+                                    ) [Condition]
+                                  ) [SingleStatementDOState]
+                                ) [StatementNoLabel]
+                                StatementsListMore(
+                                  StatementNoLabel(
+                                    SingleStatementIFState(
+                                      Condition(
+                                        CondTerm(
+                                          ContFactTwo(
+                                            ExprNoMinus(
+                                              Term(
+                                                FactorNum(
+                                                 5
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Term]
+                                              ExprListNoMore(
+                                              ) [ExprListNoMore]
+                                            ) [ExprNoMinus]
+                                            RelopDEqual(
+                                            ) [RelopDEqual]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactorNum(
+                                                 6
+                                                ) [FactorNum]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Term]
+                                              ExprListNoMore(
+                                              ) [ExprListNoMore]
+                                            ) [ExprNoMinus]
+                                          ) [ContFactTwo]
+                                          CondTermListNo(
+                                          ) [CondTermListNo]
+                                        ) [CondTerm]
+                                        ConditionListNo(
+                                        ) [ConditionListNo]
+                                      ) [Condition]
+                                      MoreStatements(
+                                        Statements(
+                                          StatementsListMore(
+                                            StatementNoLabel(
+                                              SingleStatementDesignatorState(
+                                                DesignatorStatementAssign(
+                                                  DesignatorIDENT(
+                                                   x
+                                                    EndDesiList(
+                                                    ) [EndDesiList]
+                                                  ) [DesignatorIDENT]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  ExprNoMinus(
+                                                    Term(
+                                                      FactorNum(
+                                                       3
+                                                      ) [FactorNum]
+                                                      TermListNo(
+                                                      ) [TermListNo]
+                                                    ) [Term]
+                                                    ExprListNoMore(
+                                                    ) [ExprListNoMore]
+                                                  ) [ExprNoMinus]
+                                                ) [DesignatorStatementAssign]
+                                              ) [SingleStatementDesignatorState]
+                                            ) [StatementNoLabel]
+                                            StatementsListNo(
+                                            ) [StatementsListNo]
+                                          ) [StatementsListMore]
+                                        ) [Statements]
+                                      ) [MoreStatements]
+                                      ElseNo(
+                                      ) [ElseNo]
+                                    ) [SingleStatementIFState]
+                                  ) [StatementNoLabel]
+                                  StatementsListNo(
+                                  ) [StatementsListNo]
+                                ) [StatementsListMore]
+                              ) [StatementsListMore]
+                            ) [StatementsListMore]
+                          ) [StatementsListMore]
+                        ) [StatementsListMore]
+                      ) [Statements]
+                    ) [MoreStatements]
+                    StatementsListNo(
+                    ) [StatementsListNo]
+                  ) [StatementsListMore]
+                ) [MethodDeclaration]
+                MethodDeclListaNoMore(
+                ) [MethodDeclListaNoMore]
+              ) [MethodDeclListaMore]
+            ) [ClassDeclBodyYes]
+          ) [ClassDeclaration]
+        ) [ClassDeclarationsss]
+        AllDeclarationList(
+          RecordDeclaration(
+            RecordDecls(
+             rekord
+              MoreVarDeclMore(
+                VarDeclListNormal(
+                  Type(
+                   int
+                  ) [Type]
+                 a
+                  VarDeclNo(
+                  ) [VarDeclNo]
+                ) [VarDeclListNormal]
+                MoreVarDeclMore(
+                  VarDeclListNormal(
+                    Type(
+                     char
+                    ) [Type]
+                   b
+                    VarDeclNo(
+                    ) [VarDeclNo]
+                  ) [VarDeclListNormal]
+                  MoreVarDeclNo(
+                  ) [MoreVarDeclNo]
+                ) [MoreVarDeclMore]
+              ) [MoreVarDeclMore]
+            ) [RecordDecls]
+          ) [RecordDeclaration]
+          NoAllDeclarationList(
+          ) [NoAllDeclarationList]
+        ) [AllDeclarationList]
+      ) [AllDeclarationList]
+    ) [AllDeclarationList]
+  ) [AllDeclarationList]
+  MethodDeclListaNoMore(
+  ) [MethodDeclListaNoMore]
+) [Program]
+INFO  22:10:04,882 - ===================================

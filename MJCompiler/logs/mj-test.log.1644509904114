@@ -1,0 +1,72 @@
+INFO  17:17:45,163 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:17:45,196 - #2 program
+INFO  17:17:45,196 - #16 test302
+INFO  17:17:45,196 - #48 const
+INFO  17:17:45,197 - #16 int
+INFO  17:17:45,197 - #16 jedan
+INFO  17:17:45,197 - #13 =
+INFO  17:17:45,197 - #15 1
+INFO  17:17:45,197 - #5 ;
+INFO  17:17:45,198 - #16 int
+INFO  17:17:45,198 - #16 i
+INFO  17:17:45,198 - #5 ;
+INFO  17:17:45,198 - #16 int
+INFO  17:17:45,199 - #16 j
+INFO  17:17:45,199 - #5 ;
+INFO  17:17:45,199 - #16 int
+INFO  17:17:45,199 - #16 z
+INFO  17:17:45,199 - #5 ;
+INFO  17:17:45,199 - #3 {
+INFO  17:17:45,200 - #14 void
+INFO  17:17:45,200 - #16 main
+INFO  17:17:45,200 - #6 (
+INFO  17:17:45,200 - #7 )
+INFO  17:17:45,202 - #3 {
+INFO  17:17:45,202 - #16 i
+INFO  17:17:45,202 - #13 =
+INFO  17:17:45,203 - #15 0
+INFO  17:17:45,203 - #5 ;
+INFO  17:17:45,205 - #16 j
+INFO  17:17:45,205 - #13 =
+INFO  17:17:45,205 - #15 4
+INFO  17:17:45,205 - #5 ;
+INFO  17:17:45,205 - #16 z
+INFO  17:17:45,205 - #13 =
+INFO  17:17:45,205 - #15 5
+INFO  17:17:45,205 - #5 ;
+INFO  17:17:45,205 - #34 do
+INFO  17:17:45,205 - #3 {
+INFO  17:17:45,205 - #16 i
+INFO  17:17:45,206 - #46 ++
+INFO  17:17:45,206 - #5 ;
+INFO  17:17:45,206 - #16 j
+INFO  17:17:45,206 - #47 --
+INFO  17:17:45,206 - #5 ;
+INFO  17:17:45,206 - #16 z
+INFO  17:17:45,206 - #47 --
+INFO  17:17:45,206 - #5 ;
+INFO  17:17:45,206 - #4 }
+INFO  17:17:45,207 - #35 while
+INFO  17:17:45,207 - #6 (
+INFO  17:17:45,207 - #16 j
+INFO  17:17:45,207 - #23 !=
+INFO  17:17:45,208 - #15 0
+INFO  17:17:45,208 - #44 &&
+INFO  17:17:45,208 - #16 i
+INFO  17:17:45,209 - #23 !=
+INFO  17:17:45,209 - #15 10
+INFO  17:17:45,209 - #7 )
+INFO  17:17:45,210 - #5 ;
+INFO  17:17:45,211 - #9 print
+INFO  17:17:45,211 - #6 (
+INFO  17:17:45,211 - #16 i
+INFO  17:17:45,211 - #7 )
+INFO  17:17:45,211 - #5 ;
+INFO  17:17:45,211 - #4 }
+INFO  17:17:45,211 - #4 }
+INFO  17:17:45,220 - Trenutan tip konstante je:  int na liniji 5
+INFO  17:17:45,220 - Deklarisana promenljiva i na liniji 7
+INFO  17:17:45,223 - Deklarisana promenljiva j na liniji 8
+INFO  17:17:45,223 - Deklarisana promenljiva z na liniji 9
+INFO  17:17:45,223 - Obradjuje se funkcija main na liniji 12
+INFO  17:17:45,235 - Parsiranje uspesno zavrseno!

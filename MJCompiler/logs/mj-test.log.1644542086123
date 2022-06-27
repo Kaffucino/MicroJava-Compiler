@@ -1,0 +1,68 @@
+INFO  02:13:48,132 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  02:13:48,167 - #2 program
+INFO  02:13:48,167 - #16 Cofi
+INFO  02:13:48,167 - #16 int
+INFO  02:13:48,167 - #16 i
+INFO  02:13:48,168 - #5 ;
+INFO  02:13:48,169 - #16 int
+INFO  02:13:48,169 - #16 j
+INFO  02:13:48,169 - #5 ;
+INFO  02:13:48,169 - #16 int
+INFO  02:13:48,169 - #16 z
+INFO  02:13:48,169 - #5 ;
+INFO  02:13:48,169 - #3 {
+INFO  02:13:48,170 - #14 void
+INFO  02:13:48,170 - #16 main
+INFO  02:13:48,170 - #6 (
+INFO  02:13:48,171 - #7 )
+INFO  02:13:48,171 - #3 {
+INFO  02:13:48,171 - #16 i
+INFO  02:13:48,172 - #13 =
+INFO  02:13:48,172 - #15 0
+INFO  02:13:48,172 - #5 ;
+INFO  02:13:48,173 - #16 j
+INFO  02:13:48,174 - #13 =
+INFO  02:13:48,175 - #15 5
+INFO  02:13:48,175 - #5 ;
+INFO  02:13:48,175 - #16 z
+INFO  02:13:48,175 - #13 =
+INFO  02:13:48,175 - #15 0
+INFO  02:13:48,175 - #5 ;
+INFO  02:13:48,175 - #34 do
+INFO  02:13:48,175 - #3 {
+INFO  02:13:48,176 - #16 i
+INFO  02:13:48,176 - #46 ++
+INFO  02:13:48,176 - #5 ;
+INFO  02:13:48,176 - #16 j
+INFO  02:13:48,176 - #47 --
+INFO  02:13:48,176 - #5 ;
+INFO  02:13:48,176 - #16 z
+INFO  02:13:48,176 - #46 ++
+INFO  02:13:48,176 - #5 ;
+INFO  02:13:48,176 - #4 }
+INFO  02:13:48,177 - #35 while
+INFO  02:13:48,177 - #6 (
+INFO  02:13:48,177 - #16 i
+INFO  02:13:48,177 - #26 <
+INFO  02:13:48,178 - #15 5
+INFO  02:13:48,178 - #45 ||
+INFO  02:13:48,179 - #16 j
+INFO  02:13:48,179 - #24 >
+INFO  02:13:48,179 - #15 2
+INFO  02:13:48,180 - #44 &&
+INFO  02:13:48,180 - #16 z
+INFO  02:13:48,180 - #23 !=
+INFO  02:13:48,180 - #15 3
+INFO  02:13:48,180 - #45 ||
+INFO  02:13:48,180 - #16 j
+INFO  02:13:48,180 - #23 !=
+INFO  02:13:48,181 - #15 10
+INFO  02:13:48,181 - #7 )
+INFO  02:13:48,181 - #5 ;
+INFO  02:13:48,182 - #4 }
+INFO  02:13:48,182 - #4 }
+INFO  02:13:48,192 - Deklarisana promenljiva i na liniji 3
+INFO  02:13:48,192 - Deklarisana promenljiva j na liniji 4
+INFO  02:13:48,192 - Deklarisana promenljiva z na liniji 5
+INFO  02:13:48,192 - Obradjuje se funkcija main na liniji 8
+INFO  02:13:48,207 - Parsiranje uspesno zavrseno!

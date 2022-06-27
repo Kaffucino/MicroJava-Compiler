@@ -1,0 +1,50 @@
+INFO  20:37:41,764 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:37:41,795 - #2 program
+INFO  20:37:41,795 - #16 Prog
+INFO  20:37:41,795 - #49 record
+INFO  20:37:41,795 - #16 Test
+INFO  20:37:41,795 - #3 {
+INFO  20:37:41,796 - #16 int
+INFO  20:37:41,796 - #16 a
+INFO  20:37:41,796 - #5 ;
+INFO  20:37:41,797 - #16 char
+INFO  20:37:41,797 - #16 b
+INFO  20:37:41,797 - #5 ;
+INFO  20:37:41,797 - #4 }
+INFO  20:37:41,797 - #16 int
+INFO  20:37:41,797 - #16 a
+INFO  20:37:41,798 - #5 ;
+INFO  20:37:41,798 - #16 Test
+INFO  20:37:41,798 - #16 t
+INFO  20:37:41,798 - #5 ;
+INFO  20:37:41,798 - #3 {
+INFO  20:37:41,799 - #14 void
+INFO  20:37:41,799 - #16 main
+INFO  20:37:41,799 - #6 (
+INFO  20:37:41,800 - #7 )
+INFO  20:37:41,800 - #3 {
+INFO  20:37:41,800 - #16 t
+INFO  20:37:41,800 - #13 =
+INFO  20:37:41,801 - #36 new
+INFO  20:37:41,801 - #16 Test
+INFO  20:37:41,801 - #5 ;
+INFO  20:37:41,802 - #16 t
+INFO  20:37:41,802 - #43 .
+INFO  20:37:41,802 - #16 a
+INFO  20:37:41,802 - #13 =
+INFO  20:37:41,802 - #15 1
+INFO  20:37:41,802 - #5 ;
+INFO  20:37:41,803 - #4 }
+INFO  20:37:41,803 - #4 }
+INFO  20:37:41,811 - Deklarisana je rekord :  Test na liniji 3
+INFO  20:37:41,811 - Deklarisana promenljiva a na liniji 5
+INFO  20:37:41,811 - Deklarisana promenljiva b na liniji 6
+INFO  20:37:41,811 - Deklarisana promenljiva a na liniji 9
+ERROR 20:37:41,811 - Nije pronadjen tip Test u tabeli simbola
+INFO  20:37:41,811 - Deklarisana promenljiva t na liniji 11
+INFO  20:37:41,811 - Obradjuje se funkcija main na liniji 15
+ERROR 20:37:41,811 - Nije pronadjen tip Test u tabeli simbola
+ERROR 20:37:41,811 - Semanticka greska na liniji 16 nekompatibilni tipovi prilikom dodele!
+ERROR 20:37:41,811 - Greska na liniji 17 polje: a u rekordu: t ne postoji! 
+ERROR 20:37:41,811 - Semanticka greska na liniji 17 nekompatibilni tipovi prilikom dodele!
+ERROR 20:37:41,812 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,43 @@
+INFO  20:59:52,443 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:59:52,479 - #2 program
+INFO  20:59:52,479 - #16 Test
+INFO  20:59:52,479 - #16 int
+INFO  20:59:52,479 - #16 niz
+INFO  20:59:52,480 - #50 [
+INFO  20:59:52,480 - #51 ]
+INFO  20:59:52,480 - #5 ;
+INFO  20:59:52,480 - #16 int
+INFO  20:59:52,480 - #16 a
+INFO  20:59:52,480 - #5 ;
+INFO  20:59:52,480 - #16 int
+INFO  20:59:52,480 - #16 b
+INFO  20:59:52,481 - #5 ;
+INFO  20:59:52,481 - #3 {
+INFO  20:59:52,481 - #14 void
+INFO  20:59:52,481 - #16 main
+INFO  20:59:52,482 - #6 (
+INFO  20:59:52,482 - #7 )
+INFO  20:59:52,482 - #3 {
+INFO  20:59:52,483 - #16 niz
+INFO  20:59:52,483 - #13 =
+INFO  20:59:52,483 - #36 new
+INFO  20:59:52,486 - #16 int
+INFO  20:59:52,486 - #50 [
+INFO  20:59:52,486 - #15 5
+INFO  20:59:52,486 - #51 ]
+INFO  20:59:52,488 - #5 ;
+INFO  20:59:52,488 - #37 read
+INFO  20:59:52,488 - #6 (
+INFO  20:59:52,489 - #16 niz
+INFO  20:59:52,489 - #50 [
+INFO  20:59:52,489 - #15 2
+INFO  20:59:52,489 - #51 ]
+INFO  20:59:52,489 - #7 )
+INFO  20:59:52,489 - #5 ;
+INFO  20:59:52,489 - #4 }
+INFO  20:59:52,489 - #4 }
+INFO  20:59:52,497 - Deklarisana promenljiva niz na liniji 2
+INFO  20:59:52,497 - Deklarisana promenljiva a na liniji 3
+INFO  20:59:52,497 - Deklarisana promenljiva b na liniji 4
+INFO  20:59:52,497 - Obradjuje se funkcija main na liniji 6
+INFO  20:59:52,508 - Parsiranje uspesno zavrseno!

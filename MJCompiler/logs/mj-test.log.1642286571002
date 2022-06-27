@@ -1,0 +1,14 @@
+INFO  23:41:40,562 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:41:40,597 - #2 program
+INFO  23:41:40,597 - #16 Cofi
+INFO  23:41:40,597 - #3 {
+INFO  23:41:40,598 - #16 int
+INFO  23:41:40,598 - #16 main
+INFO  23:41:40,598 - #6 (
+INFO  23:41:40,599 - #7 )
+INFO  23:41:40,599 - #3 {
+INFO  23:41:40,600 - #10 return
+INFO  23:41:40,600 - #15 0
+INFO  23:41:40,600 - #5 ;
+INFO  23:41:40,601 - #4 }
+INFO  23:41:40,602 - #4 }

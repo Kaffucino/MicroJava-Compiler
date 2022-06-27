@@ -1,0 +1,37 @@
+INFO  22:11:59,482 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:11:59,517 - #2 program
+INFO  22:11:59,517 - #16 COFa
+INFO  22:11:59,517 - #16 int
+INFO  22:11:59,518 - #16 x
+INFO  22:11:59,518 - #13 =
+ERROR 22:11:59,518 - 
+Sintaksna greska na liniji 3
+INFO  22:11:59,518 - #15 5
+INFO  22:11:59,518 - #8 ,
+INFO  22:11:59,519 - #16 y
+INFO  22:11:59,519 - #5 ;
+INFO  22:11:59,519 - #3 {
+INFO  22:11:59,519 - #4 }
+ERROR 22:11:59,519 - Izvrsen oporavak do ; u liniji 3
+INFO  22:11:59,521 - Program(
+ COFa
+  AllDeclarationList(
+    VarDeclarationList(
+      VarDeclListNormal(
+        Type(
+         int
+        ) [Type]
+       x
+        VarDeclVarDeclNoComma(
+          VarDeclNoCommaDerived1(
+          ) [VarDeclNoCommaDerived1]
+        ) [VarDeclVarDeclNoComma]
+      ) [VarDeclListNormal]
+    ) [VarDeclarationList]
+    NoAllDeclarationList(
+    ) [NoAllDeclarationList]
+  ) [AllDeclarationList]
+  MethodDeclListaNoMore(
+  ) [MethodDeclListaNoMore]
+) [Program]
+INFO  22:11:59,522 - ===================================

@@ -1,0 +1,39 @@
+INFO  16:47:36,730 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:47:36,759 - #2 program
+INFO  16:47:36,759 - #16 Cofi
+INFO  16:47:36,759 - #16 Record
+INFO  16:47:36,760 - #16 Test
+INFO  16:47:36,760 - #3 {
+ERROR 16:47:36,760 - 
+Sintaksna greska na liniji 4
+INFO  16:47:36,760 - #16 int
+INFO  16:47:36,760 - #16 a
+INFO  16:47:36,760 - #5 ;
+INFO  16:47:36,761 - #16 char
+INFO  16:47:36,761 - #16 b
+INFO  16:47:36,761 - #5 ;
+INFO  16:47:36,761 - #4 }
+INFO  16:47:36,761 - #16 Test
+INFO  16:47:36,761 - #16 t
+INFO  16:47:36,761 - #5 ;
+INFO  16:47:36,761 - #3 {
+INFO  16:47:36,761 - #14 void
+INFO  16:47:36,761 - #16 main
+INFO  16:47:36,761 - #6 (
+INFO  16:47:36,761 - #7 )
+INFO  16:47:36,763 - #3 {
+INFO  16:47:36,763 - #16 t
+INFO  16:47:36,763 - #13 =
+INFO  16:47:36,763 - #36 new
+INFO  16:47:36,763 - #16 Test
+INFO  16:47:36,763 - #5 ;
+INFO  16:47:36,763 - #9 print
+INFO  16:47:36,763 - #6 (
+INFO  16:47:36,763 - #15 1
+INFO  16:47:36,763 - #7 )
+INFO  16:47:36,763 - #5 ;
+INFO  16:47:36,764 - #4 }
+INFO  16:47:36,764 - #4 }
+ERROR 16:47:36,764 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 22
+ERROR 16:47:36,770 - Nije pronadjen tip Record u tabeli simbola
+ERROR 16:47:36,770 - Parsiranje NIJE uspesno zavrseno!

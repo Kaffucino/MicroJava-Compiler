@@ -1,0 +1,58 @@
+INFO  15:47:02,098 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:47:02,129 - #2 program
+INFO  15:47:02,129 - #16 COfa
+INFO  15:47:02,129 - #16 char
+INFO  15:47:02,129 - #16 x
+INFO  15:47:02,130 - #50 [
+INFO  15:47:02,130 - #51 ]
+INFO  15:47:02,130 - #5 ;
+INFO  15:47:02,130 - #16 char
+INFO  15:47:02,131 - #16 z
+INFO  15:47:02,131 - #5 ;
+INFO  15:47:02,131 - #16 int
+INFO  15:47:02,131 - #16 y
+INFO  15:47:02,131 - #5 ;
+INFO  15:47:02,131 - #3 {
+INFO  15:47:02,131 - #14 void
+INFO  15:47:02,131 - #16 zbir
+INFO  15:47:02,132 - #6 (
+INFO  15:47:02,132 - #7 )
+INFO  15:47:02,133 - #3 {
+INFO  15:47:02,133 - #4 }
+INFO  15:47:02,133 - #16 int
+INFO  15:47:02,134 - #16 main
+INFO  15:47:02,139 - #6 (
+INFO  15:47:02,139 - #7 )
+INFO  15:47:02,139 - #3 {
+INFO  15:47:02,139 - #16 zbir
+INFO  15:47:02,139 - #6 (
+INFO  15:47:02,139 - #7 )
+INFO  15:47:02,140 - #5 ;
+INFO  15:47:02,140 - #19 if
+INFO  15:47:02,140 - #6 (
+INFO  15:47:02,140 - #16 x
+INFO  15:47:02,140 - #45 ||
+INFO  15:47:02,142 - #16 x
+INFO  15:47:02,142 - #7 )
+INFO  15:47:02,143 - #3 {
+INFO  15:47:02,143 - #16 y
+INFO  15:47:02,143 - #13 =
+INFO  15:47:02,143 - #16 x
+INFO  15:47:02,143 - #50 [
+INFO  15:47:02,143 - #16 y
+INFO  15:47:02,143 - #51 ]
+INFO  15:47:02,143 - #5 ;
+INFO  15:47:02,144 - #4 }
+INFO  15:47:02,144 - #10 return
+INFO  15:47:02,145 - #15 20
+INFO  15:47:02,145 - #5 ;
+INFO  15:47:02,145 - #4 }
+INFO  15:47:02,145 - #4 }
+INFO  15:47:02,151 - Deklarisana promenljiva x na liniji 3
+INFO  15:47:02,151 - Deklarisana promenljiva z na liniji 6
+INFO  15:47:02,151 - Deklarisana promenljiva y na liniji 7
+INFO  15:47:02,151 - Obradjuje se funkcija zbir na liniji 10
+INFO  15:47:02,151 - Obradjuje se funkcija main na liniji 13
+INFO  15:47:02,151 - Pronadjen poziv funkcije zbir na liniji 14
+ERROR 15:47:02,152 - Semanticka greska na liniji 16 nekompatibilni tipovi prilikom dodele!
+ERROR 15:47:02,152 - Parsiranje NIJE uspesno zavrseno!

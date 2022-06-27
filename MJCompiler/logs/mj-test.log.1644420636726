@@ -1,0 +1,77 @@
+INFO  16:30:30,710 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:30:30,741 - #2 program
+INFO  16:30:30,741 - #16 test302
+INFO  16:30:30,741 - #48 const
+INFO  16:30:30,741 - #16 int
+INFO  16:30:30,741 - #16 jedan
+INFO  16:30:30,742 - #13 =
+INFO  16:30:30,742 - #15 1
+INFO  16:30:30,742 - #5 ;
+INFO  16:30:30,743 - #16 int
+INFO  16:30:30,743 - #16 i
+INFO  16:30:30,743 - #5 ;
+INFO  16:30:30,744 - #16 bool
+INFO  16:30:30,744 - #16 ibool
+INFO  16:30:30,744 - #5 ;
+INFO  16:30:30,744 - #16 int
+INFO  16:30:30,744 - #16 niz2
+INFO  16:30:30,744 - #5 ;
+INFO  16:30:30,744 - #49 record
+INFO  16:30:30,744 - #16 Test
+INFO  16:30:30,744 - #3 {
+INFO  16:30:30,745 - #16 int
+INFO  16:30:30,745 - #16 niz
+INFO  16:30:30,750 - #50 [
+INFO  16:30:30,750 - #51 ]
+INFO  16:30:30,750 - #5 ;
+INFO  16:30:30,750 - #16 int
+INFO  16:30:30,750 - #16 a
+INFO  16:30:30,751 - #5 ;
+INFO  16:30:30,751 - #4 }
+INFO  16:30:30,751 - #16 Test
+INFO  16:30:30,751 - #16 t1
+INFO  16:30:30,751 - #8 ,
+INFO  16:30:30,751 - #16 t2
+INFO  16:30:30,751 - #5 ;
+INFO  16:30:30,752 - #3 {
+INFO  16:30:30,752 - #14 void
+INFO  16:30:30,752 - #16 main
+INFO  16:30:30,752 - #6 (
+INFO  16:30:30,753 - #7 )
+INFO  16:30:30,753 - #3 {
+INFO  16:30:30,754 - #16 t1
+INFO  16:30:30,754 - #13 =
+INFO  16:30:30,754 - #36 new
+INFO  16:30:30,754 - #16 Test
+INFO  16:30:30,755 - #5 ;
+INFO  16:30:30,756 - #16 t1
+INFO  16:30:30,756 - #43 .
+INFO  16:30:30,756 - #16 a
+INFO  16:30:30,756 - #13 =
+INFO  16:30:30,756 - #15 5
+INFO  16:30:30,756 - #5 ;
+INFO  16:30:30,756 - #9 print
+INFO  16:30:30,756 - #6 (
+INFO  16:30:30,756 - #16 t
+INFO  16:30:30,756 - #43 .
+INFO  16:30:30,756 - #16 a
+INFO  16:30:30,756 - #7 )
+INFO  16:30:30,756 - #5 ;
+INFO  16:30:30,757 - #4 }
+INFO  16:30:30,757 - #4 }
+INFO  16:30:30,765 - Trenutan tip konstante je:  int na liniji 5
+INFO  16:30:30,765 - Deklarisana promenljiva i na liniji 7
+INFO  16:30:30,765 - Deklarisana promenljiva ibool na liniji 8
+INFO  16:30:30,765 - Deklarisana promenljiva niz2 na liniji 10
+INFO  16:30:30,765 - Deklarisana je rekord :  Test na liniji 12
+INFO  16:30:30,765 - Deklarisana promenljiva niz na liniji 13
+INFO  16:30:30,766 - Deklarisana promenljiva a na liniji 14
+INFO  16:30:30,768 - Deklarisana promenljiva t2 na liniji 19
+INFO  16:30:30,768 - Deklarisana promenljiva t1 na liniji 19
+INFO  16:30:30,768 - Obradjuje se funkcija main na liniji 25
+ERROR 16:30:30,769 - Greska na liniji 31 : ime t nije deklarisano! 
+ERROR 16:30:30,769 - Greska na liniji 31 polje: a u rekordu: t ne postoji! 
+ERROR 16:30:30,769 - Semanticka greska na liniji 31  t ne postoji!
+ERROR 16:30:30,769 - Greska na liniji 31 polje: a u rekordu: t ne postoji! 
+ERROR 16:30:30,769 - Semanticka greska na liniji 31  t mora biti int, char ili bool!
+ERROR 16:30:30,770 - Parsiranje NIJE uspesno zavrseno!

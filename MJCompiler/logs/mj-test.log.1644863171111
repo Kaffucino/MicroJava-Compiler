@@ -1,0 +1,71 @@
+INFO  19:24:47,850 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  19:24:47,883 - #2 program
+INFO  19:24:47,883 - #16 Cofa
+INFO  19:24:47,883 - #49 record
+INFO  19:24:47,884 - #16 Rek
+INFO  19:24:47,884 - #3 {
+INFO  19:24:47,884 - #16 int
+INFO  19:24:47,884 - #16 a
+INFO  19:24:47,885 - #5 ;
+INFO  19:24:47,885 - #16 int
+INFO  19:24:47,885 - #16 b
+INFO  19:24:47,885 - #5 ;
+INFO  19:24:47,885 - #4 }
+INFO  19:24:47,886 - #16 Rek
+INFO  19:24:47,886 - #16 r
+INFO  19:24:47,886 - #5 ;
+INFO  19:24:47,886 - #3 {
+INFO  19:24:47,887 - #14 void
+INFO  19:24:47,887 - #16 main
+INFO  19:24:47,887 - #6 (
+INFO  19:24:47,887 - #7 )
+INFO  19:24:47,888 - #3 {
+INFO  19:24:47,888 - #16 r
+INFO  19:24:47,888 - #13 =
+INFO  19:24:47,889 - #36 new
+INFO  19:24:47,889 - #16 Rek
+INFO  19:24:47,890 - #5 ;
+INFO  19:24:47,891 - #16 r
+INFO  19:24:47,891 - #43 .
+INFO  19:24:47,891 - #16 a
+INFO  19:24:47,891 - #13 =
+INFO  19:24:47,891 - #15 1
+INFO  19:24:47,891 - #5 ;
+INFO  19:24:47,891 - #16 r
+INFO  19:24:47,891 - #43 .
+INFO  19:24:47,891 - #16 b
+INFO  19:24:47,892 - #13 =
+INFO  19:24:47,892 - #15 5
+INFO  19:24:47,892 - #5 ;
+INFO  19:24:47,892 - #16 r
+INFO  19:24:47,892 - #43 .
+INFO  19:24:47,892 - #16 a
+INFO  19:24:47,892 - #46 ++
+INFO  19:24:47,892 - #5 ;
+INFO  19:24:47,892 - #16 r
+INFO  19:24:47,892 - #43 .
+INFO  19:24:47,892 - #16 b
+INFO  19:24:47,892 - #46 ++
+INFO  19:24:47,892 - #5 ;
+INFO  19:24:47,892 - #9 print
+INFO  19:24:47,892 - #6 (
+INFO  19:24:47,892 - #16 r
+INFO  19:24:47,892 - #43 .
+INFO  19:24:47,893 - #16 a
+INFO  19:24:47,893 - #7 )
+INFO  19:24:47,893 - #5 ;
+INFO  19:24:47,893 - #9 print
+INFO  19:24:47,893 - #6 (
+INFO  19:24:47,893 - #16 r
+INFO  19:24:47,893 - #43 .
+INFO  19:24:47,893 - #16 b
+INFO  19:24:47,893 - #7 )
+INFO  19:24:47,893 - #5 ;
+INFO  19:24:47,893 - #4 }
+INFO  19:24:47,894 - #4 }
+INFO  19:24:47,902 - Deklarisana je rekord :  Rek na liniji 3
+INFO  19:24:47,902 - Deklarisana promenljiva a na liniji 5
+INFO  19:24:47,902 - Deklarisana promenljiva b na liniji 6
+INFO  19:24:47,905 - Deklarisana promenljiva r na liniji 9
+INFO  19:24:47,906 - Obradjuje se funkcija main na liniji 13
+INFO  19:24:47,916 - Parsiranje uspesno zavrseno!

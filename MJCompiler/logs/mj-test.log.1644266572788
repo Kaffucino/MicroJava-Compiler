@@ -1,0 +1,45 @@
+INFO  21:42:22,425 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:42:22,461 - #2 program
+INFO  21:42:22,461 - #16 test301
+INFO  21:42:22,461 - #48 const
+INFO  21:42:22,461 - #16 int
+INFO  21:42:22,461 - #16 pet
+INFO  21:42:22,462 - #13 =
+INFO  21:42:22,462 - #15 5
+INFO  21:42:22,462 - #8 ,
+INFO  21:42:22,462 - #16 sest
+INFO  21:42:22,462 - #13 =
+INFO  21:42:22,462 - #15 6
+INFO  21:42:22,462 - #8 ,
+INFO  21:42:22,462 - #16 sedam
+INFO  21:42:22,462 - #13 =
+INFO  21:42:22,462 - #15 7
+INFO  21:42:22,462 - #5 ;
+INFO  21:42:22,463 - #3 {
+INFO  21:42:22,464 - #14 void
+INFO  21:42:22,464 - #16 main
+INFO  21:42:22,465 - #6 (
+INFO  21:42:22,465 - #7 )
+INFO  21:42:22,465 - #3 {
+INFO  21:42:22,471 - #9 print
+INFO  21:42:22,471 - #6 (
+INFO  21:42:22,471 - #16 pet
+INFO  21:42:22,471 - #7 )
+INFO  21:42:22,472 - #5 ;
+INFO  21:42:22,472 - #9 print
+INFO  21:42:22,472 - #6 (
+INFO  21:42:22,472 - #16 sest
+INFO  21:42:22,473 - #7 )
+INFO  21:42:22,473 - #5 ;
+INFO  21:42:22,473 - #9 print
+INFO  21:42:22,473 - #6 (
+INFO  21:42:22,473 - #16 sedam
+INFO  21:42:22,473 - #7 )
+INFO  21:42:22,473 - #5 ;
+INFO  21:42:22,473 - #4 }
+INFO  21:42:22,473 - #4 }
+INFO  21:42:22,482 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:42:22,482 - Dodata u listu konstanta sest na liniji 7
+INFO  21:42:22,482 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:42:22,482 - Obradjuje se funkcija main na liniji 13
+INFO  21:42:22,492 - Parsiranje uspesno zavrseno!

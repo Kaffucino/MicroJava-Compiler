@@ -1,0 +1,30 @@
+INFO  23:42:24,913 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:42:24,943 - #2 program
+INFO  23:42:24,943 - #16 COFI
+INFO  23:42:24,943 - #32 class
+INFO  23:42:24,943 - #16 Predmet
+INFO  23:42:24,943 - #3 {
+INFO  23:42:24,944 - #16 int
+INFO  23:42:24,944 - #16 tezina
+INFO  23:42:24,944 - #5 ;
+INFO  23:42:24,944 - #16 int
+INFO  23:42:24,944 - #16 koefTezine
+INFO  23:42:24,945 - #5 ;
+INFO  23:42:24,945 - #16 char
+INFO  23:42:24,945 - #16 vrsta
+INFO  23:42:24,945 - #5 ;
+INFO  23:42:24,945 - #4 }
+INFO  23:42:24,945 - #3 {
+INFO  23:42:24,946 - #14 void
+INFO  23:42:24,946 - #16 main
+INFO  23:42:24,946 - #6 (
+INFO  23:42:24,947 - #7 )
+INFO  23:42:24,947 - #3 {
+INFO  23:42:24,947 - #4 }
+INFO  23:42:24,953 - #4 }
+INFO  23:42:24,959 - Deklarisana promenljiva tezina na liniji 5
+INFO  23:42:24,959 - Deklarisana promenljiva koefTezine na liniji 6
+INFO  23:42:24,960 - Deklarisana promenljiva vrsta na liniji 7
+INFO  23:42:24,960 - Deklarisana je klasa :  Predmet na liniji 3
+INFO  23:42:24,960 - Obradjuje se funkcija main na liniji 14
+INFO  23:42:24,968 - Parsiranje uspesno zavrseno!

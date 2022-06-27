@@ -1,0 +1,116 @@
+INFO  15:30:01,288 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:30:01,317 - #2 program
+INFO  15:30:01,317 - #16 PR
+INFO  15:30:01,317 - #16 char
+INFO  15:30:01,317 - #16 x
+INFO  15:30:01,318 - #5 ;
+INFO  15:30:01,318 - #48 const
+INFO  15:30:01,318 - #16 bool
+INFO  15:30:01,318 - #16 Cofi
+INFO  15:30:01,318 - #13 =
+INFO  15:30:01,318 - #18 true
+INFO  15:30:01,318 - #5 ;
+INFO  15:30:01,319 - #32 class
+INFO  15:30:01,319 - #16 Table
+INFO  15:30:01,319 - #38 extends
+INFO  15:30:01,319 - #16 Lola
+INFO  15:30:01,319 - #3 {
+INFO  15:30:01,320 - #16 int
+INFO  15:30:01,320 - #16 pos
+INFO  15:30:01,320 - #50 [
+INFO  15:30:01,320 - #51 ]
+INFO  15:30:01,320 - #8 ,
+INFO  15:30:01,320 - #16 neg
+INFO  15:30:01,322 - #50 [
+INFO  15:30:01,322 - #51 ]
+INFO  15:30:01,322 - #5 ;
+INFO  15:30:01,322 - #3 {
+INFO  15:30:01,322 - #14 void
+INFO  15:30:01,323 - #16 putp
+INFO  15:30:01,323 - #6 (
+INFO  15:30:01,324 - #7 )
+INFO  15:30:01,324 - #3 {
+INFO  15:30:01,324 - #4 }
+INFO  15:30:01,324 - #4 }
+INFO  15:30:01,325 - #4 }
+INFO  15:30:01,325 - #32 class
+INFO  15:30:01,325 - #16 Lola
+INFO  15:30:01,325 - #3 {
+INFO  15:30:01,325 - #16 int
+INFO  15:30:01,325 - #16 c
+INFO  15:30:01,325 - #8 ,
+INFO  15:30:01,325 - #16 cc
+INFO  15:30:01,325 - #5 ;
+INFO  15:30:01,326 - #3 {
+INFO  15:30:01,326 - #14 void
+INFO  15:30:01,326 - #16 putp
+INFO  15:30:01,326 - #6 (
+INFO  15:30:01,326 - #7 )
+INFO  15:30:01,326 - #3 {
+INFO  15:30:01,326 - #4 }
+INFO  15:30:01,326 - #4 }
+INFO  15:30:01,326 - #4 }
+INFO  15:30:01,326 - #3 {
+INFO  15:30:01,326 - #16 int
+INFO  15:30:01,326 - #16 fun
+INFO  15:30:01,326 - #6 (
+INFO  15:30:01,326 - #16 int
+INFO  15:30:01,326 - #16 x
+INFO  15:30:01,327 - #8 ,
+INFO  15:30:01,327 - #16 int
+INFO  15:30:01,327 - #16 y
+INFO  15:30:01,327 - #7 )
+INFO  15:30:01,327 - #16 int
+INFO  15:30:01,327 - #16 z
+INFO  15:30:01,327 - #5 ;
+INFO  15:30:01,327 - #3 {
+INFO  15:30:01,327 - #10 return
+INFO  15:30:01,328 - #15 0
+INFO  15:30:01,328 - #5 ;
+INFO  15:30:01,332 - #4 }
+INFO  15:30:01,332 - #16 int
+INFO  15:30:01,332 - #16 fun2
+INFO  15:30:01,332 - #6 (
+INFO  15:30:01,332 - #16 int
+INFO  15:30:01,332 - #16 x
+INFO  15:30:01,332 - #8 ,
+INFO  15:30:01,332 - #16 int
+INFO  15:30:01,332 - #16 y
+INFO  15:30:01,332 - #7 )
+INFO  15:30:01,332 - #16 int
+INFO  15:30:01,332 - #16 z
+INFO  15:30:01,332 - #5 ;
+INFO  15:30:01,333 - #3 {
+INFO  15:30:01,333 - #10 return
+INFO  15:30:01,333 - #15 0
+INFO  15:30:01,333 - #5 ;
+INFO  15:30:01,333 - #4 }
+INFO  15:30:01,333 - #16 int
+INFO  15:30:01,333 - #16 main
+INFO  15:30:01,333 - #6 (
+INFO  15:30:01,333 - #7 )
+INFO  15:30:01,333 - #16 int
+INFO  15:30:01,333 - #16 y
+INFO  15:30:01,333 - #8 ,
+INFO  15:30:01,333 - #16 zz
+INFO  15:30:01,333 - #50 [
+INFO  15:30:01,333 - #51 ]
+INFO  15:30:01,333 - #5 ;
+INFO  15:30:01,333 - #3 {
+INFO  15:30:01,333 - #4 }
+INFO  15:30:01,333 - #4 }
+INFO  15:30:01,338 - Deklarisana promenljiva x na liniji 5
+INFO  15:30:01,339 - Trenutan tip konstante je:  bool na liniji 7
+ERROR 15:30:01,339 - Nije pronadjen tip Lola u tabeli simbola
+ERROR 15:30:01,339 - Greska na liniji 11 : Klasa Lola ne postoji! 
+INFO  15:30:01,339 - Deklarisana promenljiva neg na liniji 12
+INFO  15:30:01,339 - Deklarisana promenljiva pos na liniji 12
+INFO  15:30:01,339 - Deklarisana je klasa :  Table na liniji 7
+INFO  15:30:01,339 - Deklarisana promenljiva cc na liniji 22
+INFO  15:30:01,339 - Deklarisana promenljiva c na liniji 22
+INFO  15:30:01,339 - Deklarisana je klasa :  Lola na liniji 7
+INFO  15:30:01,339 - Deklarisana promenljiva z na liniji 37
+ERROR 15:30:01,339 - Promenljiva z je vec deklarisana!
+INFO  15:30:01,339 - Deklarisana promenljiva zz na liniji 49
+INFO  15:30:01,339 - Deklarisana promenljiva y na liniji 49
+ERROR 15:30:01,340 - Parsiranje NIJE uspesno zavrseno!

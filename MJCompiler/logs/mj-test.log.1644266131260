@@ -1,0 +1,41 @@
+INFO  21:35:15,594 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:35:15,626 - #2 program
+INFO  21:35:15,627 - #16 test301
+INFO  21:35:15,627 - #48 const
+INFO  21:35:15,627 - #16 int
+INFO  21:35:15,627 - #16 pet
+INFO  21:35:15,627 - #13 =
+INFO  21:35:15,627 - #15 5
+INFO  21:35:15,628 - #5 ;
+INFO  21:35:15,628 - #16 int
+INFO  21:35:15,628 - #16 a
+INFO  21:35:15,629 - #5 ;
+INFO  21:35:15,629 - #3 {
+INFO  21:35:15,630 - #14 void
+INFO  21:35:15,630 - #16 main
+INFO  21:35:15,630 - #6 (
+INFO  21:35:15,631 - #7 )
+INFO  21:35:15,631 - #16 int
+INFO  21:35:15,631 - #16 bodovi
+INFO  21:35:15,631 - #5 ;
+INFO  21:35:15,631 - #3 {
+INFO  21:35:15,631 - #16 a
+INFO  21:35:15,632 - #13 =
+INFO  21:35:15,634 - #15 1
+INFO  21:35:15,634 - #12 -
+INFO  21:35:15,635 - #15 2
+INFO  21:35:15,636 - #12 -
+INFO  21:35:15,636 - #15 2
+INFO  21:35:15,636 - #5 ;
+INFO  21:35:15,636 - #9 print
+INFO  21:35:15,637 - #6 (
+INFO  21:35:15,637 - #16 pet
+INFO  21:35:15,637 - #7 )
+INFO  21:35:15,637 - #5 ;
+INFO  21:35:15,637 - #4 }
+INFO  21:35:15,637 - #4 }
+INFO  21:35:15,645 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:35:15,645 - Deklarisana promenljiva a na liniji 8
+INFO  21:35:15,645 - Obradjuje se funkcija main na liniji 14
+INFO  21:35:15,645 - Deklarisana promenljiva bodovi na liniji 15
+INFO  21:35:15,655 - Parsiranje uspesno zavrseno!

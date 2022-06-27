@@ -1,0 +1,49 @@
+INFO  22:01:17,618 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:01:17,650 - #2 program
+INFO  22:01:17,651 - #16 Coaaa
+INFO  22:01:17,651 - #16 int
+INFO  22:01:17,651 - #16 i
+INFO  22:01:17,652 - #5 ;
+INFO  22:01:17,652 - #16 bool
+INFO  22:01:17,652 - #16 verfiy
+INFO  22:01:17,652 - #6 (
+ERROR 22:01:17,652 - 
+Sintaksna greska na liniji 5
+INFO  22:01:17,652 - #7 )
+INFO  22:01:17,653 - #3 {
+INFO  22:01:17,653 - #10 return
+INFO  22:01:17,653 - #18 false
+INFO  22:01:17,653 - #5 ;
+INFO  22:01:17,653 - #4 }
+INFO  22:01:17,653 - #3 {
+INFO  22:01:17,653 - #14 void
+INFO  22:01:17,653 - #16 main
+INFO  22:01:17,653 - #6 (
+INFO  22:01:17,653 - #7 )
+INFO  22:01:17,653 - #3 {
+INFO  22:01:17,655 - #16 i
+INFO  22:01:17,655 - #13 =
+INFO  22:01:17,655 - #15 0
+INFO  22:01:17,655 - #5 ;
+INFO  22:01:17,655 - #34 do
+INFO  22:01:17,655 - #3 {
+INFO  22:01:17,655 - #16 i
+INFO  22:01:17,655 - #46 ++
+INFO  22:01:17,655 - #5 ;
+INFO  22:01:17,655 - #4 }
+INFO  22:01:17,655 - #35 while
+INFO  22:01:17,655 - #6 (
+INFO  22:01:17,655 - #16 verfiy
+INFO  22:01:17,655 - #6 (
+INFO  22:01:17,656 - #7 )
+INFO  22:01:17,656 - #7 )
+INFO  22:01:17,656 - #5 ;
+INFO  22:01:17,656 - #9 print
+INFO  22:01:17,656 - #6 (
+INFO  22:01:17,656 - #16 i
+INFO  22:01:17,656 - #7 )
+INFO  22:01:17,656 - #5 ;
+INFO  22:01:17,656 - #4 }
+INFO  22:01:17,656 - #4 }
+ERROR 22:01:17,656 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 25
+ERROR 22:01:17,663 - Parsiranje NIJE uspesno zavrseno!

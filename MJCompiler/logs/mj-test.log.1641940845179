@@ -1,0 +1,30 @@
+INFO  23:40:31,798 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:40:31,828 - #2 program
+INFO  23:40:31,828 - #16 PR
+INFO  23:40:31,828 - #16 int
+INFO  23:40:31,828 - #16 x
+INFO  23:40:31,829 - #8 ,
+INFO  23:40:31,829 - #16 y
+INFO  23:40:31,829 - #5 ;
+INFO  23:40:31,829 - #3 {
+INFO  23:40:31,830 - #16 int
+INFO  23:40:31,830 - #16 main
+INFO  23:40:31,830 - #6 (
+INFO  23:40:31,830 - #7 )
+INFO  23:40:31,830 - #16 int
+INFO  23:40:31,830 - #16 y
+INFO  23:40:31,830 - #5 ;
+INFO  23:40:31,830 - #3 {
+INFO  23:40:31,831 - #19 if
+INFO  23:40:31,831 - #6 (
+INFO  23:40:31,831 - #16 x
+INFO  23:40:31,831 - #24 >
+INFO  23:40:31,832 - #15 5
+INFO  23:40:31,833 - #7 )
+INFO  23:40:31,834 - #16 x
+INFO  23:40:31,836 - #13 =
+INFO  23:40:31,836 - #17 'a'
+INFO  23:40:31,837 - #5 ;
+INFO  23:40:31,837 - #4 }
+INFO  23:40:31,838 - #4 }
+INFO  23:40:31,844 - Deklarisana promenljiva y na liniji 3

@@ -1,0 +1,68 @@
+INFO  21:47:40,352 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:47:40,383 - #2 program
+INFO  21:47:40,383 - #16 test301
+INFO  21:47:40,383 - #48 const
+INFO  21:47:40,384 - #16 int
+INFO  21:47:40,384 - #16 pet
+INFO  21:47:40,384 - #13 =
+INFO  21:47:40,384 - #15 5
+INFO  21:47:40,384 - #8 ,
+INFO  21:47:40,384 - #16 sest
+INFO  21:47:40,384 - #13 =
+INFO  21:47:40,384 - #15 6
+INFO  21:47:40,385 - #8 ,
+INFO  21:47:40,385 - #16 sedam
+INFO  21:47:40,385 - #13 =
+INFO  21:47:40,385 - #15 7
+INFO  21:47:40,385 - #5 ;
+INFO  21:47:40,385 - #48 const
+INFO  21:47:40,386 - #16 int
+INFO  21:47:40,386 - #16 osam
+INFO  21:47:40,386 - #13 =
+INFO  21:47:40,386 - #15 8
+INFO  21:47:40,386 - #5 ;
+INFO  21:47:40,391 - #16 int
+INFO  21:47:40,391 - #16 a
+INFO  21:47:40,391 - #13 =
+ERROR 21:47:40,391 - 
+Sintaksna greska na liniji 11
+INFO  21:47:40,391 - #15 5
+INFO  21:47:40,391 - #5 ;
+INFO  21:47:40,391 - #3 {
+INFO  21:47:40,392 - #14 void
+ERROR 21:47:40,392 - Izvrsen oporavak do ; u liniji 11
+INFO  21:47:40,393 - #16 main
+INFO  21:47:40,393 - #6 (
+INFO  21:47:40,393 - #7 )
+INFO  21:47:40,394 - #3 {
+INFO  21:47:40,394 - #9 print
+INFO  21:47:40,394 - #6 (
+INFO  21:47:40,394 - #16 pet
+INFO  21:47:40,394 - #7 )
+INFO  21:47:40,395 - #5 ;
+INFO  21:47:40,396 - #9 print
+INFO  21:47:40,396 - #6 (
+INFO  21:47:40,396 - #16 sest
+INFO  21:47:40,396 - #7 )
+INFO  21:47:40,396 - #5 ;
+INFO  21:47:40,396 - #9 print
+INFO  21:47:40,396 - #6 (
+INFO  21:47:40,396 - #16 sedam
+INFO  21:47:40,396 - #7 )
+INFO  21:47:40,396 - #5 ;
+INFO  21:47:40,396 - #9 print
+INFO  21:47:40,396 - #6 (
+INFO  21:47:40,396 - #16 a
+INFO  21:47:40,396 - #7 )
+INFO  21:47:40,396 - #5 ;
+INFO  21:47:40,396 - #4 }
+INFO  21:47:40,397 - #4 }
+INFO  21:47:40,404 - Dodata u listu konstanta sedam na liniji 7
+INFO  21:47:40,404 - Dodata u listu konstanta sest na liniji 7
+INFO  21:47:40,404 - Trenutan tip konstante je:  int na liniji 7
+INFO  21:47:40,404 - Trenutan tip konstante je:  int na liniji 8
+INFO  21:47:40,404 - Obradjuje se funkcija main na liniji 14
+ERROR 21:47:40,404 - Greska na liniji 22 : ime a nije deklarisano! 
+ERROR 21:47:40,404 - Semanticka greska na liniji 22  a ne postoji!
+ERROR 21:47:40,404 - Semanticka greska na liniji 22  a mora biti int, char ili bool!
+ERROR 21:47:40,405 - Parsiranje NIJE uspesno zavrseno!

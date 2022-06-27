@@ -1,0 +1,76 @@
+INFO  00:41:49,231 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:41:49,260 - #2 program
+INFO  00:41:49,260 - #16 Test
+INFO  00:41:49,260 - #49 record
+INFO  00:41:49,260 - #16 Rekord
+INFO  00:41:49,260 - #3 {
+INFO  00:41:49,261 - #16 int
+INFO  00:41:49,261 - #16 a
+INFO  00:41:49,261 - #5 ;
+INFO  00:41:49,261 - #16 int
+INFO  00:41:49,261 - #16 b
+INFO  00:41:49,261 - #5 ;
+INFO  00:41:49,261 - #16 int
+INFO  00:41:49,262 - #16 niz
+INFO  00:41:49,262 - #50 [
+INFO  00:41:49,262 - #51 ]
+INFO  00:41:49,262 - #5 ;
+INFO  00:41:49,262 - #4 }
+INFO  00:41:49,262 - #16 int
+INFO  00:41:49,262 - #16 nizz
+INFO  00:41:49,262 - #50 [
+INFO  00:41:49,262 - #51 ]
+INFO  00:41:49,263 - #5 ;
+INFO  00:41:49,267 - #16 Rekord
+INFO  00:41:49,267 - #16 r
+INFO  00:41:49,268 - #5 ;
+INFO  00:41:49,268 - #3 {
+INFO  00:41:49,268 - #14 void
+INFO  00:41:49,268 - #16 main
+INFO  00:41:49,269 - #6 (
+INFO  00:41:49,269 - #7 )
+INFO  00:41:49,269 - #3 {
+INFO  00:41:49,270 - #16 r
+INFO  00:41:49,270 - #13 =
+INFO  00:41:49,270 - #36 new
+INFO  00:41:49,270 - #16 Rekord
+INFO  00:41:49,270 - #5 ;
+INFO  00:41:49,272 - #16 r
+INFO  00:41:49,272 - #43 .
+INFO  00:41:49,272 - #16 niz
+INFO  00:41:49,272 - #13 =
+INFO  00:41:49,272 - #36 new
+INFO  00:41:49,272 - #16 int
+INFO  00:41:49,272 - #50 [
+INFO  00:41:49,272 - #15 5
+INFO  00:41:49,272 - #51 ]
+INFO  00:41:49,272 - #5 ;
+INFO  00:41:49,272 - #16 r
+INFO  00:41:49,272 - #43 .
+INFO  00:41:49,272 - #16 niz
+INFO  00:41:49,272 - #50 [
+INFO  00:41:49,273 - #15 2
+INFO  00:41:49,273 - #51 ]
+INFO  00:41:49,273 - #13 =
+INFO  00:41:49,273 - #15 2
+INFO  00:41:49,273 - #5 ;
+INFO  00:41:49,273 - #9 print
+INFO  00:41:49,273 - #6 (
+INFO  00:41:49,273 - #16 r
+INFO  00:41:49,273 - #43 .
+INFO  00:41:49,273 - #16 niz
+INFO  00:41:49,273 - #50 [
+INFO  00:41:49,273 - #15 2
+INFO  00:41:49,273 - #51 ]
+INFO  00:41:49,273 - #7 )
+INFO  00:41:49,273 - #5 ;
+INFO  00:41:49,273 - #4 }
+INFO  00:41:49,274 - #4 }
+INFO  00:41:49,285 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  00:41:49,285 - Deklarisana promenljiva a na liniji 5
+INFO  00:41:49,285 - Deklarisana promenljiva b na liniji 6
+INFO  00:41:49,285 - Deklarisana promenljiva niz na liniji 7
+INFO  00:41:49,285 - Deklarisana promenljiva nizz na liniji 10
+INFO  00:41:49,285 - Deklarisana promenljiva r na liniji 11
+INFO  00:41:49,285 - Obradjuje se funkcija main na liniji 15
+INFO  00:41:49,295 - Parsiranje uspesno zavrseno!

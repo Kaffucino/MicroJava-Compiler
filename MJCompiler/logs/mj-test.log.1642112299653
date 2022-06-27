@@ -1,0 +1,60 @@
+INFO  23:17:44,091 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:17:44,120 - #2 program
+INFO  23:17:44,120 - #16 PR
+INFO  23:17:44,120 - #16 int
+INFO  23:17:44,121 - #16 x
+INFO  23:17:44,121 - #8 ,
+INFO  23:17:44,121 - #16 z
+INFO  23:17:44,121 - #5 ;
+INFO  23:17:44,121 - #48 const
+INFO  23:17:44,122 - #16 int
+INFO  23:17:44,122 - #16 x
+INFO  23:17:44,122 - #13 =
+INFO  23:17:44,122 - #18 true
+INFO  23:17:44,122 - #8 ,
+INFO  23:17:44,122 - #16 y
+INFO  23:17:44,122 - #13 =
+INFO  23:17:44,122 - #17 'a'
+INFO  23:17:44,123 - #8 ,
+INFO  23:17:44,123 - #16 z
+INFO  23:17:44,123 - #13 =
+INFO  23:17:44,123 - #15 1
+INFO  23:17:44,123 - #5 ;
+INFO  23:17:44,124 - #3 {
+INFO  23:17:44,125 - #16 int
+INFO  23:17:44,126 - #16 fun
+INFO  23:17:44,127 - #6 (
+INFO  23:17:44,127 - #16 int
+INFO  23:17:44,127 - #16 x
+INFO  23:17:44,127 - #8 ,
+INFO  23:17:44,127 - #16 int
+INFO  23:17:44,127 - #16 y
+INFO  23:17:44,127 - #7 )
+INFO  23:17:44,128 - #3 {
+INFO  23:17:44,128 - #10 return
+INFO  23:17:44,128 - #15 0
+INFO  23:17:44,128 - #5 ;
+INFO  23:17:44,130 - #4 }
+INFO  23:17:44,130 - #16 int
+INFO  23:17:44,130 - #16 main
+INFO  23:17:44,130 - #6 (
+INFO  23:17:44,130 - #7 )
+INFO  23:17:44,131 - #16 int
+INFO  23:17:44,131 - #16 y
+INFO  23:17:44,131 - #8 ,
+INFO  23:17:44,131 - #16 zz
+INFO  23:17:44,131 - #50 [
+INFO  23:17:44,131 - #51 ]
+INFO  23:17:44,131 - #5 ;
+INFO  23:17:44,131 - #3 {
+INFO  23:17:44,131 - #4 }
+INFO  23:17:44,131 - #4 }
+INFO  23:17:44,136 - Deklarisana promenljiva z na liniji 3
+INFO  23:17:44,137 - Deklarisana promenljiva x na liniji 3
+INFO  23:17:44,137 - Dodata u listu konstanta z na liniji 5
+INFO  23:17:44,137 - Dodata u listu konstanta y na liniji 5
+INFO  23:17:44,137 - Trenutan tip konstante je:  int na liniji 5
+ERROR 23:17:44,137 - Greska na liniji 5 : Tip int ne odgovara vrednosti konstante x
+INFO  23:17:44,137 - Deklarisana promenljiva zz na liniji 15
+INFO  23:17:44,137 - Deklarisana promenljiva y na liniji 15
+ERROR 23:17:44,137 - Parsiranje NIJE uspesno zavrseno!

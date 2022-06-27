@@ -1,0 +1,50 @@
+INFO  21:00:55,299 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:00:55,331 - #2 program
+INFO  21:00:55,331 - #16 Test
+INFO  21:00:55,331 - #16 int
+INFO  21:00:55,332 - #16 niz
+INFO  21:00:55,332 - #50 [
+INFO  21:00:55,332 - #51 ]
+INFO  21:00:55,332 - #5 ;
+INFO  21:00:55,332 - #49 record
+INFO  21:00:55,332 - #16 Rec
+INFO  21:00:55,333 - #3 {
+INFO  21:00:55,333 - #16 int
+INFO  21:00:55,333 - #16 niz
+INFO  21:00:55,333 - #50 [
+INFO  21:00:55,333 - #51 ]
+INFO  21:00:55,333 - #5 ;
+INFO  21:00:55,333 - #16 int
+INFO  21:00:55,333 - #16 a
+INFO  21:00:55,333 - #5 ;
+INFO  21:00:55,333 - #4 }
+INFO  21:00:55,334 - #16 Rec
+INFO  21:00:55,334 - #16 r1
+INFO  21:00:55,334 - #5 ;
+INFO  21:00:55,336 - #3 {
+INFO  21:00:55,336 - #14 void
+INFO  21:00:55,336 - #16 main
+INFO  21:00:55,337 - #6 (
+INFO  21:00:55,338 - #7 )
+INFO  21:00:55,338 - #3 {
+INFO  21:00:55,339 - #16 r1
+INFO  21:00:55,339 - #13 =
+INFO  21:00:55,339 - #36 new
+INFO  21:00:55,340 - #16 Rec
+INFO  21:00:55,340 - #5 ;
+INFO  21:00:55,341 - #37 read
+INFO  21:00:55,341 - #6 (
+INFO  21:00:55,341 - #16 r1
+INFO  21:00:55,341 - #43 .
+INFO  21:00:55,341 - #16 a
+INFO  21:00:55,341 - #7 )
+INFO  21:00:55,341 - #5 ;
+INFO  21:00:55,341 - #4 }
+INFO  21:00:55,342 - #4 }
+INFO  21:00:55,349 - Deklarisana promenljiva niz na liniji 2
+INFO  21:00:55,349 - Deklarisana je rekord :  Rec na liniji 4
+ERROR 21:00:55,349 - Promenljiva niz je vec deklarisana!
+INFO  21:00:55,349 - Deklarisana promenljiva a na liniji 7
+INFO  21:00:55,349 - Deklarisana promenljiva r1 na liniji 9
+INFO  21:00:55,350 - Obradjuje se funkcija main na liniji 12
+ERROR 21:00:55,350 - Parsiranje NIJE uspesno zavrseno!

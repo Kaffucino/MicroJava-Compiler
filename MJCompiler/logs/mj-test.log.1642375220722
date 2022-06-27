@@ -1,0 +1,51 @@
+INFO  23:57:20,213 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:57:20,242 - #2 program
+INFO  23:57:20,242 - #16 Cofi
+INFO  23:57:20,242 - #16 int
+INFO  23:57:20,243 - #16 y
+INFO  23:57:20,243 - #5 ;
+INFO  23:57:20,243 - #16 char
+INFO  23:57:20,244 - #16 zz
+INFO  23:57:20,244 - #5 ;
+INFO  23:57:20,244 - #16 bool
+INFO  23:57:20,244 - #16 zy
+INFO  23:57:20,244 - #5 ;
+INFO  23:57:20,244 - #3 {
+INFO  23:57:20,244 - #16 int
+INFO  23:57:20,244 - #16 main
+INFO  23:57:20,245 - #6 (
+INFO  23:57:20,245 - #7 )
+INFO  23:57:20,245 - #16 int
+INFO  23:57:20,245 - #16 x
+INFO  23:57:20,245 - #5 ;
+INFO  23:57:20,245 - #3 {
+INFO  23:57:20,246 - #42 goto
+INFO  23:57:20,246 - #16 skip
+INFO  23:57:20,246 - #5 ;
+INFO  23:57:20,246 - #16 skip
+INFO  23:57:20,247 - #21 :
+INFO  23:57:20,247 - #16 x
+INFO  23:57:20,247 - #46 ++
+INFO  23:57:20,247 - #5 ;
+INFO  23:57:20,247 - #10 return
+INFO  23:57:20,247 - #15 1
+INFO  23:57:20,247 - #5 ;
+INFO  23:57:20,249 - #4 }
+INFO  23:57:20,249 - #14 void
+INFO  23:57:20,249 - #16 main2
+INFO  23:57:20,250 - #6 (
+INFO  23:57:20,250 - #7 )
+INFO  23:57:20,250 - #16 int
+INFO  23:57:20,250 - #16 x
+INFO  23:57:20,250 - #5 ;
+INFO  23:57:20,250 - #3 {
+INFO  23:57:20,250 - #4 }
+INFO  23:57:20,250 - #4 }
+INFO  23:57:20,256 - Deklarisana promenljiva y na liniji 3
+INFO  23:57:20,256 - Deklarisana promenljiva zz na liniji 4
+INFO  23:57:20,256 - Deklarisana promenljiva zy na liniji 5
+INFO  23:57:20,256 - Obradjuje se funkcija main na liniji 10
+INFO  23:57:20,256 - Deklarisana promenljiva x na liniji 10
+INFO  23:57:20,256 - Obradjuje se funkcija main2 na liniji 20
+INFO  23:57:20,256 - Deklarisana promenljiva x na liniji 20
+INFO  23:57:20,264 - Parsiranje uspesno zavrseno!

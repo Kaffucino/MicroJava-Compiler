@@ -1,0 +1,83 @@
+INFO  21:14:03,819 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  21:14:03,858 - #2 program
+INFO  21:14:03,858 - #16 Test
+INFO  21:14:03,858 - #16 int
+INFO  21:14:03,859 - #16 niz2
+INFO  21:14:03,859 - #50 [
+INFO  21:14:03,859 - #51 ]
+INFO  21:14:03,859 - #5 ;
+INFO  21:14:03,860 - #49 record
+INFO  21:14:03,860 - #16 Rec
+INFO  21:14:03,860 - #3 {
+INFO  21:14:03,860 - #16 int
+INFO  21:14:03,860 - #16 niz
+INFO  21:14:03,860 - #50 [
+INFO  21:14:03,860 - #51 ]
+INFO  21:14:03,860 - #5 ;
+INFO  21:14:03,861 - #16 int
+INFO  21:14:03,861 - #16 a
+INFO  21:14:03,861 - #5 ;
+INFO  21:14:03,861 - #4 }
+INFO  21:14:03,861 - #16 Rec
+INFO  21:14:03,861 - #16 r1
+INFO  21:14:03,861 - #5 ;
+INFO  21:14:03,862 - #3 {
+INFO  21:14:03,863 - #14 void
+INFO  21:14:03,863 - #16 main
+INFO  21:14:03,865 - #6 (
+INFO  21:14:03,865 - #7 )
+INFO  21:14:03,865 - #3 {
+INFO  21:14:03,865 - #16 r1
+INFO  21:14:03,865 - #13 =
+INFO  21:14:03,866 - #36 new
+INFO  21:14:03,866 - #16 Rec
+INFO  21:14:03,866 - #5 ;
+INFO  21:14:03,868 - #16 r1
+INFO  21:14:03,868 - #43 .
+INFO  21:14:03,868 - #16 niz
+INFO  21:14:03,868 - #13 =
+INFO  21:14:03,868 - #36 new
+INFO  21:14:03,868 - #16 int
+INFO  21:14:03,868 - #50 [
+INFO  21:14:03,869 - #15 5
+INFO  21:14:03,869 - #51 ]
+INFO  21:14:03,869 - #5 ;
+INFO  21:14:03,869 - #37 read
+INFO  21:14:03,869 - #6 (
+INFO  21:14:03,869 - #16 r1
+INFO  21:14:03,869 - #43 .
+INFO  21:14:03,869 - #16 niz
+INFO  21:14:03,869 - #50 [
+INFO  21:14:03,869 - #15 0
+INFO  21:14:03,869 - #51 ]
+INFO  21:14:03,869 - #7 )
+INFO  21:14:03,869 - #5 ;
+INFO  21:14:03,869 - #37 read
+INFO  21:14:03,870 - #6 (
+INFO  21:14:03,870 - #16 r1
+INFO  21:14:03,871 - #43 .
+INFO  21:14:03,871 - #16 niz
+INFO  21:14:03,871 - #50 [
+INFO  21:14:03,871 - #15 3
+INFO  21:14:03,871 - #51 ]
+INFO  21:14:03,871 - #7 )
+INFO  21:14:03,871 - #5 ;
+INFO  21:14:03,871 - #9 print
+INFO  21:14:03,871 - #6 (
+INFO  21:14:03,871 - #16 r1
+INFO  21:14:03,871 - #43 .
+INFO  21:14:03,871 - #16 niz
+INFO  21:14:03,871 - #50 [
+INFO  21:14:03,872 - #15 0
+INFO  21:14:03,872 - #51 ]
+INFO  21:14:03,872 - #7 )
+INFO  21:14:03,872 - #5 ;
+INFO  21:14:03,872 - #4 }
+INFO  21:14:03,873 - #4 }
+INFO  21:14:03,885 - Deklarisana promenljiva niz2 na liniji 2
+INFO  21:14:03,885 - Deklarisana je rekord :  Rec na liniji 4
+INFO  21:14:03,885 - Deklarisana promenljiva niz na liniji 6
+INFO  21:14:03,885 - Deklarisana promenljiva a na liniji 7
+INFO  21:14:03,886 - Deklarisana promenljiva r1 na liniji 9
+INFO  21:14:03,886 - Obradjuje se funkcija main na liniji 12
+INFO  21:14:03,897 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,57 @@
+INFO  23:12:23,544 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:12:23,575 - #2 program
+INFO  23:12:23,575 - #16 Coaaa
+INFO  23:12:23,575 - #16 int
+INFO  23:12:23,576 - #16 i
+INFO  23:12:23,576 - #5 ;
+INFO  23:12:23,577 - #3 {
+INFO  23:12:23,577 - #16 bool
+INFO  23:12:23,577 - #16 verify
+INFO  23:12:23,578 - #6 (
+INFO  23:12:23,578 - #7 )
+INFO  23:12:23,579 - #3 {
+INFO  23:12:23,579 - #10 return
+INFO  23:12:23,579 - #18 false
+INFO  23:12:23,579 - #5 ;
+INFO  23:12:23,580 - #4 }
+INFO  23:12:23,581 - #14 void
+INFO  23:12:23,581 - #16 main
+INFO  23:12:23,581 - #6 (
+INFO  23:12:23,581 - #7 )
+INFO  23:12:23,581 - #3 {
+INFO  23:12:23,581 - #16 i
+INFO  23:12:23,581 - #13 =
+INFO  23:12:23,587 - #15 0
+INFO  23:12:23,587 - #5 ;
+INFO  23:12:23,587 - #34 do
+INFO  23:12:23,588 - #3 {
+INFO  23:12:23,588 - #16 i
+INFO  23:12:23,588 - #46 ++
+INFO  23:12:23,588 - #5 ;
+INFO  23:12:23,588 - #19 if
+INFO  23:12:23,588 - #6 (
+INFO  23:12:23,589 - #16 i
+INFO  23:12:23,589 - #22 ==
+INFO  23:12:23,589 - #15 5
+INFO  23:12:23,590 - #7 )
+INFO  23:12:23,591 - #39 continue
+INFO  23:12:23,592 - #5 ;
+INFO  23:12:23,592 - #4 }
+INFO  23:12:23,593 - #35 while
+INFO  23:12:23,593 - #6 (
+INFO  23:12:23,593 - #16 i
+INFO  23:12:23,593 - #26 <
+INFO  23:12:23,593 - #15 5
+INFO  23:12:23,594 - #7 )
+INFO  23:12:23,594 - #5 ;
+INFO  23:12:23,594 - #9 print
+INFO  23:12:23,594 - #6 (
+INFO  23:12:23,594 - #16 i
+INFO  23:12:23,594 - #7 )
+INFO  23:12:23,594 - #5 ;
+INFO  23:12:23,594 - #4 }
+INFO  23:12:23,594 - #4 }
+INFO  23:12:23,603 - Deklarisana promenljiva i na liniji 3
+INFO  23:12:23,603 - Obradjuje se funkcija verify na liniji 8
+INFO  23:12:23,604 - Obradjuje se funkcija main na liniji 14
+INFO  23:12:23,615 - Parsiranje uspesno zavrseno!

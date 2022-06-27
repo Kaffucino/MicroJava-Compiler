@@ -1,0 +1,35 @@
+INFO  23:03:58,120 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:03:58,149 - #2 program
+INFO  23:03:58,149 - #16 Test
+INFO  23:03:58,149 - #49 record
+INFO  23:03:58,150 - #16 Rekord
+INFO  23:03:58,150 - #3 {
+INFO  23:03:58,150 - #16 int
+INFO  23:03:58,150 - #16 a
+INFO  23:03:58,151 - #5 ;
+INFO  23:03:58,151 - #16 int
+INFO  23:03:58,151 - #16 b
+INFO  23:03:58,151 - #5 ;
+INFO  23:03:58,151 - #4 }
+INFO  23:03:58,152 - #16 Rekord
+INFO  23:03:58,152 - #16 r
+INFO  23:03:58,152 - #5 ;
+INFO  23:03:58,152 - #3 {
+INFO  23:03:58,152 - #14 void
+INFO  23:03:58,152 - #16 main
+INFO  23:03:58,153 - #6 (
+INFO  23:03:58,153 - #7 )
+INFO  23:03:58,153 - #3 {
+INFO  23:03:58,154 - #16 r
+INFO  23:03:58,154 - #43 .
+INFO  23:03:58,154 - #16 a
+INFO  23:03:58,154 - #13 =
+INFO  23:03:58,154 - #15 1
+INFO  23:03:58,155 - #5 ;
+INFO  23:03:58,156 - #4 }
+INFO  23:03:58,156 - #4 }
+INFO  23:03:58,163 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  23:03:58,163 - Deklarisana promenljiva a na liniji 5
+INFO  23:03:58,163 - Deklarisana promenljiva b na liniji 6
+INFO  23:03:58,164 - Deklarisana promenljiva r na liniji 9
+INFO  23:03:58,164 - Obradjuje se funkcija main na liniji 13

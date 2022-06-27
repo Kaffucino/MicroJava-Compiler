@@ -1,0 +1,47 @@
+INFO  16:35:24,431 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:35:24,460 - #2 program
+INFO  16:35:24,460 - #16 Prog
+INFO  16:35:24,460 - #16 int
+INFO  16:35:24,461 - #16 y
+INFO  16:35:24,461 - #5 ;
+INFO  16:35:24,461 - #3 {
+INFO  16:35:24,462 - #14 void
+INFO  16:35:24,462 - #16 main
+INFO  16:35:24,463 - #6 (
+INFO  16:35:24,463 - #7 )
+INFO  16:35:24,463 - #16 int
+INFO  16:35:24,463 - #16 x
+INFO  16:35:24,463 - #5 ;
+INFO  16:35:24,463 - #3 {
+INFO  16:35:24,464 - #16 x
+INFO  16:35:24,464 - #13 =
+INFO  16:35:24,464 - #15 5
+INFO  16:35:24,465 - #5 ;
+INFO  16:35:24,466 - #16 y
+INFO  16:35:24,466 - #13 =
+INFO  16:35:24,466 - #15 77
+INFO  16:35:24,466 - #5 ;
+INFO  16:35:24,466 - #37 read
+INFO  16:35:24,466 - #6 (
+INFO  16:35:24,467 - #16 x
+INFO  16:35:24,467 - #7 )
+INFO  16:35:24,467 - #5 ;
+INFO  16:35:24,467 - #9 print
+INFO  16:35:24,467 - #6 (
+INFO  16:35:24,467 - #16 zz
+INFO  16:35:24,467 - #7 )
+INFO  16:35:24,467 - #5 ;
+INFO  16:35:24,467 - #9 print
+INFO  16:35:24,467 - #6 (
+INFO  16:35:24,467 - #16 y
+INFO  16:35:24,467 - #7 )
+INFO  16:35:24,467 - #5 ;
+INFO  16:35:24,467 - #4 }
+INFO  16:35:24,468 - #4 }
+INFO  16:35:24,474 - Deklarisana promenljiva y na liniji 3
+INFO  16:35:24,474 - Obradjuje se funkcija main na liniji 8
+INFO  16:35:24,475 - Deklarisana promenljiva x na liniji 8
+ERROR 16:35:24,475 - Greska na liniji 13 : ime zz nije deklarisano! 
+ERROR 16:35:24,475 - Semanticka greska na liniji 13  zz ne postoji!
+ERROR 16:35:24,475 - Semanticka greska na liniji 13  zz mora biti int, char ili bool!
+ERROR 16:35:24,476 - Parsiranje NIJE uspesno zavrseno!

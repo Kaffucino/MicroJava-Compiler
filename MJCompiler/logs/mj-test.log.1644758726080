@@ -1,0 +1,104 @@
+INFO  14:24:12,255 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:24:12,284 - #2 program
+INFO  14:24:12,284 - #16 test2
+INFO  14:24:12,284 - #16 int
+INFO  14:24:12,285 - #16 y
+INFO  14:24:12,285 - #50 [
+INFO  14:24:12,285 - #51 ]
+INFO  14:24:12,285 - #5 ;
+INFO  14:24:12,285 - #16 int
+INFO  14:24:12,286 - #16 x
+INFO  14:24:12,286 - #50 [
+INFO  14:24:12,286 - #51 ]
+INFO  14:24:12,286 - #5 ;
+INFO  14:24:12,286 - #16 int
+INFO  14:24:12,286 - #16 i
+INFO  14:24:12,286 - #5 ;
+INFO  14:24:12,286 - #49 record
+INFO  14:24:12,286 - #16 prvi
+INFO  14:24:12,286 - #3 {
+INFO  14:24:12,286 - #4 }
+INFO  14:24:12,287 - #49 record
+INFO  14:24:12,287 - #16 drugi
+INFO  14:24:12,287 - #3 {
+INFO  14:24:12,287 - #4 }
+INFO  14:24:12,287 - #16 prvi
+INFO  14:24:12,287 - #16 a
+INFO  14:24:12,287 - #5 ;
+INFO  14:24:12,287 - #16 drugi
+INFO  14:24:12,287 - #16 b
+INFO  14:24:12,288 - #5 ;
+INFO  14:24:12,288 - #3 {
+INFO  14:24:12,288 - #14 void
+INFO  14:24:12,288 - #16 main
+INFO  14:24:12,288 - #6 (
+INFO  14:24:12,289 - #7 )
+INFO  14:24:12,289 - #3 {
+INFO  14:24:12,290 - #16 x
+INFO  14:24:12,290 - #13 =
+INFO  14:24:12,290 - #36 new
+INFO  14:24:12,291 - #16 char
+INFO  14:24:12,291 - #50 [
+INFO  14:24:12,291 - #15 5
+INFO  14:24:12,291 - #51 ]
+INFO  14:24:12,292 - #5 ;
+INFO  14:24:12,292 - #16 a
+INFO  14:24:12,292 - #13 =
+INFO  14:24:12,292 - #36 new
+INFO  14:24:12,292 - #16 drugi
+INFO  14:24:12,292 - #5 ;
+INFO  14:24:12,292 - #16 i
+INFO  14:24:12,292 - #13 =
+INFO  14:24:12,292 - #36 new
+INFO  14:24:12,292 - #16 int
+INFO  14:24:12,293 - #5 ;
+INFO  14:24:12,293 - #16 a
+INFO  14:24:12,293 - #13 =
+INFO  14:24:12,293 - #36 new
+INFO  14:24:12,293 - #16 prvi
+INFO  14:24:12,293 - #5 ;
+INFO  14:24:12,293 - #16 b
+INFO  14:24:12,293 - #13 =
+INFO  14:24:12,293 - #36 new
+INFO  14:24:12,293 - #16 drugi
+INFO  14:24:12,293 - #5 ;
+INFO  14:24:12,293 - #16 x
+INFO  14:24:12,293 - #13 =
+INFO  14:24:12,293 - #36 new
+INFO  14:24:12,294 - #16 int
+INFO  14:24:12,294 - #50 [
+INFO  14:24:12,294 - #15 3
+INFO  14:24:12,294 - #51 ]
+INFO  14:24:12,294 - #5 ;
+INFO  14:24:12,294 - #16 y
+INFO  14:24:12,294 - #13 =
+INFO  14:24:12,294 - #36 new
+INFO  14:24:12,294 - #16 int
+INFO  14:24:12,294 - #50 [
+INFO  14:24:12,294 - #15 4
+INFO  14:24:12,295 - #51 ]
+INFO  14:24:12,295 - #5 ;
+INFO  14:24:12,295 - #19 if
+INFO  14:24:12,295 - #6 (
+INFO  14:24:12,295 - #16 a
+INFO  14:24:12,296 - #24 >
+INFO  14:24:12,296 - #16 b
+INFO  14:24:12,296 - #7 )
+INFO  14:24:12,298 - #3 {
+INFO  14:24:12,298 - #4 }
+INFO  14:24:12,298 - #4 }
+INFO  14:24:12,299 - #4 }
+INFO  14:24:12,305 - Deklarisana promenljiva y na liniji 4
+INFO  14:24:12,305 - Deklarisana promenljiva x na liniji 5
+INFO  14:24:12,305 - Deklarisana promenljiva i na liniji 6
+INFO  14:24:12,305 - Deklarisana je rekord :  prvi na liniji 7
+INFO  14:24:12,306 - Deklarisana je rekord :  drugi na liniji 10
+INFO  14:24:12,306 - Deklarisana promenljiva a na liniji 14
+INFO  14:24:12,306 - Deklarisana promenljiva b na liniji 15
+INFO  14:24:12,306 - Obradjuje se funkcija main na liniji 19
+ERROR 14:24:12,306 - Semanticka greska na liniji 21 nekompatibilni tipovi prilikom dodele!
+ERROR 14:24:12,306 - Semanticka greska na liniji 23 Navedeni rekord ne postoji!
+ERROR 14:24:12,306 - Semanticka greska na liniji 23 nekompatibilni tipovi prilikom dodele!
+ERROR 14:24:12,306 - Semanticka greska na liniji 29 promenljiva: b mora biti tipa int!
+ERROR 14:24:12,306 - Semanticka greska na liniji 29 promenljiva: a mora biti tipa int!
+ERROR 14:24:12,307 - Parsiranje NIJE uspesno zavrseno!

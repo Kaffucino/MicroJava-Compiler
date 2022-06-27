@@ -1,0 +1,71 @@
+INFO  00:14:19,843 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:14:19,877 - #2 program
+INFO  00:14:19,878 - #16 test301
+INFO  00:14:19,878 - #48 const
+INFO  00:14:19,878 - #16 int
+INFO  00:14:19,878 - #16 nula
+INFO  00:14:19,879 - #13 =
+INFO  00:14:19,879 - #15 0
+INFO  00:14:19,879 - #5 ;
+INFO  00:14:19,879 - #48 const
+INFO  00:14:19,881 - #16 int
+INFO  00:14:19,881 - #16 jedan
+INFO  00:14:19,881 - #13 =
+INFO  00:14:19,881 - #15 1
+INFO  00:14:19,881 - #5 ;
+INFO  00:14:19,881 - #48 const
+INFO  00:14:19,881 - #16 int
+INFO  00:14:19,881 - #16 pet
+INFO  00:14:19,881 - #13 =
+INFO  00:14:19,881 - #15 5
+INFO  00:14:19,881 - #5 ;
+INFO  00:14:19,882 - #48 const
+INFO  00:14:19,882 - #16 char
+INFO  00:14:19,883 - #16 chr
+INFO  00:14:19,883 - #13 =
+INFO  00:14:19,883 - #17 'b'
+INFO  00:14:19,883 - #5 ;
+INFO  00:14:19,883 - #48 const
+INFO  00:14:19,883 - #16 bool
+INFO  00:14:19,883 - #16 bll
+INFO  00:14:19,883 - #13 =
+INFO  00:14:19,883 - #18 true
+INFO  00:14:19,883 - #5 ;
+INFO  00:14:19,884 - #16 int
+INFO  00:14:19,884 - #16 a
+INFO  00:14:19,884 - #5 ;
+INFO  00:14:19,885 - #3 {
+INFO  00:14:19,886 - #14 void
+INFO  00:14:19,886 - #16 main
+INFO  00:14:19,886 - #6 (
+INFO  00:14:19,887 - #7 )
+INFO  00:14:19,887 - #16 int
+INFO  00:14:19,887 - #16 bodovi
+INFO  00:14:19,887 - #5 ;
+INFO  00:14:19,887 - #3 {
+INFO  00:14:19,888 - #16 a
+INFO  00:14:19,888 - #13 =
+INFO  00:14:19,888 - #15 6
+INFO  00:14:19,889 - #5 ;
+INFO  00:14:19,890 - #16 bodovi
+INFO  00:14:19,890 - #13 =
+INFO  00:14:19,890 - #15 1
+INFO  00:14:19,890 - #12 -
+INFO  00:14:19,890 - #16 a
+INFO  00:14:19,891 - #5 ;
+INFO  00:14:19,891 - #9 print
+INFO  00:14:19,891 - #6 (
+INFO  00:14:19,892 - #16 bodovi
+INFO  00:14:19,892 - #7 )
+INFO  00:14:19,892 - #5 ;
+INFO  00:14:19,892 - #4 }
+INFO  00:14:19,892 - #4 }
+INFO  00:14:19,902 - Trenutan tip konstante je:  int na liniji 5
+INFO  00:14:19,902 - Trenutan tip konstante je:  int na liniji 6
+INFO  00:14:19,903 - Trenutan tip konstante je:  int na liniji 7
+INFO  00:14:19,903 - Trenutan tip konstante je:  char na liniji 8
+INFO  00:14:19,903 - Trenutan tip konstante je:  bool na liniji 9
+INFO  00:14:19,903 - Deklarisana promenljiva a na liniji 10
+INFO  00:14:19,905 - Obradjuje se funkcija main na liniji 16
+INFO  00:14:19,906 - Deklarisana promenljiva bodovi na liniji 17
+INFO  00:14:19,918 - Parsiranje uspesno zavrseno!

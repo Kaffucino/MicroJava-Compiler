@@ -1,0 +1,67 @@
+INFO  18:03:23,400 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  18:03:23,430 - #2 program
+INFO  18:03:23,430 - #16 COfa
+INFO  18:03:23,430 - #16 int
+INFO  18:03:23,430 - #16 x
+INFO  18:03:23,431 - #50 [
+INFO  18:03:23,431 - #51 ]
+INFO  18:03:23,431 - #5 ;
+INFO  18:03:23,431 - #16 char
+INFO  18:03:23,431 - #16 z
+INFO  18:03:23,431 - #5 ;
+INFO  18:03:23,431 - #16 int
+INFO  18:03:23,432 - #16 y
+INFO  18:03:23,432 - #5 ;
+INFO  18:03:23,432 - #3 {
+INFO  18:03:23,432 - #14 void
+INFO  18:03:23,432 - #16 zbir
+INFO  18:03:23,433 - #6 (
+INFO  18:03:23,433 - #7 )
+INFO  18:03:23,433 - #3 {
+INFO  18:03:23,434 - #4 }
+INFO  18:03:23,434 - #16 int
+INFO  18:03:23,434 - #16 main
+INFO  18:03:23,436 - #6 (
+INFO  18:03:23,436 - #7 )
+INFO  18:03:23,436 - #3 {
+INFO  18:03:23,436 - #16 x
+INFO  18:03:23,436 - #13 =
+INFO  18:03:23,437 - #36 new
+INFO  18:03:23,437 - #16 int
+INFO  18:03:23,437 - #50 [
+INFO  18:03:23,437 - #16 z
+INFO  18:03:23,437 - #11 +
+INFO  18:03:23,438 - #15 5
+INFO  18:03:23,438 - #51 ]
+INFO  18:03:23,439 - #5 ;
+INFO  18:03:23,439 - #16 zbir
+INFO  18:03:23,439 - #6 (
+INFO  18:03:23,439 - #7 )
+INFO  18:03:23,439 - #5 ;
+INFO  18:03:23,440 - #19 if
+INFO  18:03:23,440 - #6 (
+INFO  18:03:23,440 - #16 x
+INFO  18:03:23,440 - #45 ||
+INFO  18:03:23,440 - #16 x
+INFO  18:03:23,440 - #7 )
+INFO  18:03:23,441 - #3 {
+INFO  18:03:23,441 - #16 y
+INFO  18:03:23,441 - #13 =
+INFO  18:03:23,441 - #16 x
+INFO  18:03:23,441 - #50 [
+INFO  18:03:23,441 - #16 y
+INFO  18:03:23,441 - #51 ]
+INFO  18:03:23,441 - #5 ;
+INFO  18:03:23,442 - #4 }
+INFO  18:03:23,442 - #10 return
+INFO  18:03:23,442 - #15 20
+INFO  18:03:23,442 - #5 ;
+INFO  18:03:23,443 - #4 }
+INFO  18:03:23,443 - #4 }
+INFO  18:03:23,449 - Deklarisana promenljiva x na liniji 3
+INFO  18:03:23,449 - Deklarisana promenljiva z na liniji 4
+INFO  18:03:23,449 - Deklarisana promenljiva y na liniji 6
+INFO  18:03:23,449 - Obradjuje se funkcija zbir na liniji 9
+INFO  18:03:23,449 - Obradjuje se funkcija main na liniji 12
+INFO  18:03:23,449 - Pronadjen poziv funkcije zbir na liniji 15
+INFO  18:03:23,457 - Parsiranje uspesno zavrseno!

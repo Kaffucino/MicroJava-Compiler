@@ -1,0 +1,71 @@
+INFO  15:14:39,477 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:14:39,511 - #2 program
+INFO  15:14:39,511 - #16 lexGreska
+INFO  15:14:39,511 - #16 int
+INFO  15:14:39,511 - #16 a
+INFO  15:14:39,512 - #5 ;
+INFO  15:14:39,512 - #16 int
+INFO  15:14:39,513 - #16 niz
+INFO  15:14:39,513 - #50 [
+INFO  15:14:39,513 - #51 ]
+INFO  15:14:39,513 - #5 ;
+INFO  15:14:39,513 - #16 bool
+INFO  15:14:39,513 - #16 b
+INFO  15:14:39,513 - #5 ;
+INFO  15:14:39,513 - #3 {
+INFO  15:14:39,514 - #16 int
+INFO  15:14:39,514 - #16 func
+INFO  15:14:39,514 - #6 (
+INFO  15:14:39,514 - #16 int
+INFO  15:14:39,515 - #16 cc
+INFO  15:14:39,515 - #8 ,
+INFO  15:14:39,515 - #16 int
+INFO  15:14:39,515 - #16 dd
+INFO  15:14:39,517 - #8 ,
+INFO  15:14:39,517 - #16 tip
+INFO  15:14:39,517 - #7 )
+ERROR 15:14:39,517 - 
+Sintaksna greska na liniji 11
+INFO  15:14:39,518 - #3 {
+INFO  15:14:39,518 - #16 a
+INFO  15:14:39,518 - #13 =
+ERROR 15:14:39,519 - Izvrsen oporavak do ) u liniji 11
+INFO  15:14:39,520 - #15 1
+INFO  15:14:39,521 - #5 ;
+INFO  15:14:39,522 - #10 return
+INFO  15:14:39,522 - #16 a
+INFO  15:14:39,522 - #5 ;
+INFO  15:14:39,522 - #4 }
+INFO  15:14:39,523 - #14 void
+INFO  15:14:39,523 - #16 main
+INFO  15:14:39,524 - #6 (
+INFO  15:14:39,524 - #7 )
+INFO  15:14:39,524 - #3 {
+INFO  15:14:39,524 - #16 b
+INFO  15:14:39,524 - #13 =
+INFO  15:14:39,524 - #5 ;
+ERROR 15:14:39,524 - 
+Sintaksna greska na liniji 19
+INFO  15:14:39,524 - #19 if
+INFO  15:14:39,525 - #6 (
+INFO  15:14:39,525 - #16 b
+ERROR 15:14:39,525 - Izvrsen oporavak do ; u liniji 19
+INFO  15:14:39,525 - #13 =
+ERROR 15:14:39,526 - 
+Sintaksna greska na liniji 21
+INFO  15:14:39,526 - #7 )
+INFO  15:14:39,526 - #3 {
+INFO  15:14:39,526 - #16 b
+INFO  15:14:39,526 - #13 =
+ERROR 15:14:39,526 - Izvrsen oporavak do ) u liniji 21
+INFO  15:14:39,526 - #18 false
+INFO  15:14:39,526 - #5 ;
+INFO  15:14:39,526 - #4 }
+INFO  15:14:39,526 - #4 }
+INFO  15:14:39,528 - #4 }
+INFO  15:14:39,536 - Deklarisana promenljiva a na liniji 3
+INFO  15:14:39,537 - Deklarisana promenljiva niz na liniji 4
+INFO  15:14:39,537 - Deklarisana promenljiva b na liniji 6
+INFO  15:14:39,537 - Obradjuje se funkcija func na liniji 11
+INFO  15:14:39,537 - Obradjuje se funkcija main na liniji 18
+ERROR 15:14:39,538 - Parsiranje NIJE uspesno zavrseno!

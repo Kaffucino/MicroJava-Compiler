@@ -1,0 +1,55 @@
+INFO  23:09:52,914 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:09:52,950 - #2 program
+INFO  23:09:52,950 - #16 PR
+INFO  23:09:52,950 - #16 int
+INFO  23:09:52,950 - #16 x
+INFO  23:09:52,950 - #8 ,
+INFO  23:09:52,950 - #16 z
+INFO  23:09:52,951 - #5 ;
+INFO  23:09:52,951 - #48 const
+INFO  23:09:52,951 - #16 bool
+INFO  23:09:52,951 - #16 xx
+INFO  23:09:52,951 - #13 =
+INFO  23:09:52,951 - #18 true
+INFO  23:09:52,951 - #8 ,
+INFO  23:09:52,951 - #16 yyyy
+INFO  23:09:52,951 - #13 =
+INFO  23:09:52,952 - #18 false
+INFO  23:09:52,952 - #5 ;
+INFO  23:09:52,952 - #3 {
+INFO  23:09:52,953 - #16 int
+INFO  23:09:52,953 - #16 fun
+INFO  23:09:52,953 - #6 (
+INFO  23:09:52,954 - #16 int
+INFO  23:09:52,954 - #16 x
+INFO  23:09:52,954 - #8 ,
+INFO  23:09:52,954 - #16 int
+INFO  23:09:52,954 - #16 y
+INFO  23:09:52,954 - #7 )
+INFO  23:09:52,955 - #3 {
+INFO  23:09:52,955 - #10 return
+INFO  23:09:52,955 - #15 0
+INFO  23:09:52,955 - #5 ;
+INFO  23:09:52,957 - #4 }
+INFO  23:09:52,957 - #16 int
+INFO  23:09:52,957 - #16 main
+INFO  23:09:52,958 - #6 (
+INFO  23:09:52,958 - #7 )
+INFO  23:09:52,958 - #16 int
+INFO  23:09:52,958 - #16 y
+INFO  23:09:52,958 - #8 ,
+INFO  23:09:52,958 - #16 zz
+INFO  23:09:52,958 - #50 [
+INFO  23:09:52,958 - #51 ]
+INFO  23:09:52,958 - #5 ;
+INFO  23:09:52,958 - #3 {
+INFO  23:09:52,958 - #4 }
+INFO  23:09:52,958 - #4 }
+INFO  23:09:52,964 - Deklarisana promenljiva z na liniji 3
+INFO  23:09:52,964 - Deklarisana promenljiva x na liniji 3
+ERROR 23:09:52,964 - Nije pronadjen tip bool u tabeli simbola
+INFO  23:09:52,964 - Dodata u listu konstanta yyyy na liniji 5
+INFO  23:09:52,964 - Trenutan tip konstante je:  bool na liniji 5
+INFO  23:09:52,965 - Deklarisana promenljiva zz na liniji 15
+INFO  23:09:52,965 - Deklarisana promenljiva y na liniji 15
+ERROR 23:09:52,965 - Parsiranje NIJE uspesno zavrseno!

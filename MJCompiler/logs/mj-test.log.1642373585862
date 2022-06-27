@@ -1,0 +1,48 @@
+INFO  23:52:58,357 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:52:58,387 - #2 program
+INFO  23:52:58,387 - #16 Cofi
+INFO  23:52:58,387 - #16 int
+INFO  23:52:58,388 - #16 y
+INFO  23:52:58,388 - #5 ;
+INFO  23:52:58,388 - #16 char
+INFO  23:52:58,389 - #16 zz
+INFO  23:52:58,389 - #5 ;
+INFO  23:52:58,389 - #16 bool
+INFO  23:52:58,389 - #16 zy
+INFO  23:52:58,389 - #5 ;
+INFO  23:52:58,389 - #3 {
+INFO  23:52:58,389 - #16 int
+INFO  23:52:58,389 - #16 main
+INFO  23:52:58,389 - #6 (
+INFO  23:52:58,390 - #7 )
+INFO  23:52:58,390 - #16 int
+INFO  23:52:58,390 - #16 x
+INFO  23:52:58,390 - #5 ;
+INFO  23:52:58,390 - #3 {
+INFO  23:52:58,391 - #10 return
+INFO  23:52:58,391 - #16 y
+INFO  23:52:58,396 - #5 ;
+INFO  23:52:58,397 - #16 z
+INFO  23:52:58,397 - #47 --
+INFO  23:52:58,397 - #5 ;
+INFO  23:52:58,397 - #4 }
+INFO  23:52:58,398 - #14 void
+INFO  23:52:58,398 - #16 main2
+INFO  23:52:58,398 - #6 (
+INFO  23:52:58,398 - #7 )
+INFO  23:52:58,398 - #16 int
+INFO  23:52:58,398 - #16 x
+INFO  23:52:58,398 - #5 ;
+INFO  23:52:58,398 - #3 {
+INFO  23:52:58,398 - #4 }
+INFO  23:52:58,398 - #4 }
+INFO  23:52:58,404 - Deklarisana promenljiva y na liniji 3
+INFO  23:52:58,405 - Deklarisana promenljiva zz na liniji 4
+INFO  23:52:58,405 - Deklarisana promenljiva zy na liniji 5
+INFO  23:52:58,405 - Obradjuje se funkcija main na liniji 9
+INFO  23:52:58,405 - Deklarisana promenljiva x na liniji 9
+ERROR 23:52:58,405 - Greska na liniji 11 : ime z nije deklarisano! 
+ERROR 23:52:58,405 - Semanticka greska na liniji 11 -- operator zahteva tip Int!
+INFO  23:52:58,405 - Obradjuje se funkcija main2 na liniji 14
+INFO  23:52:58,405 - Deklarisana promenljiva x na liniji 14
+ERROR 23:52:58,405 - Parsiranje NIJE uspesno zavrseno!

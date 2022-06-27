@@ -1,0 +1,112 @@
+INFO  15:25:28,045 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  15:25:28,075 - #2 program
+INFO  15:25:28,075 - #16 PR
+INFO  15:25:28,075 - #16 char
+INFO  15:25:28,075 - #16 x
+INFO  15:25:28,076 - #5 ;
+INFO  15:25:28,076 - #48 const
+INFO  15:25:28,076 - #16 bool
+INFO  15:25:28,076 - #16 Cofi
+INFO  15:25:28,076 - #13 =
+INFO  15:25:28,076 - #18 true
+INFO  15:25:28,076 - #5 ;
+INFO  15:25:28,077 - #32 class
+INFO  15:25:28,077 - #16 Table
+INFO  15:25:28,077 - #38 extends
+INFO  15:25:28,077 - #16 Loli
+INFO  15:25:28,077 - #3 {
+INFO  15:25:28,078 - #16 int
+INFO  15:25:28,078 - #16 pos
+INFO  15:25:28,078 - #50 [
+INFO  15:25:28,078 - #51 ]
+INFO  15:25:28,078 - #8 ,
+INFO  15:25:28,078 - #16 neg
+INFO  15:25:28,079 - #50 [
+INFO  15:25:28,080 - #51 ]
+INFO  15:25:28,080 - #5 ;
+INFO  15:25:28,080 - #3 {
+INFO  15:25:28,080 - #14 void
+INFO  15:25:28,081 - #16 putp
+INFO  15:25:28,081 - #6 (
+INFO  15:25:28,082 - #16 int
+INFO  15:25:28,082 - #16 a
+INFO  15:25:28,082 - #8 ,
+INFO  15:25:28,082 - #16 int
+INFO  15:25:28,082 - #16 idx
+INFO  15:25:28,082 - #7 )
+INFO  15:25:28,083 - #3 {
+INFO  15:25:28,083 - #40 this
+INFO  15:25:28,083 - #43 .
+INFO  15:25:28,083 - #16 pos
+INFO  15:25:28,083 - #50 [
+INFO  15:25:28,083 - #16 idx
+INFO  15:25:28,083 - #51 ]
+INFO  15:25:28,084 - #13 =
+INFO  15:25:28,085 - #16 a
+INFO  15:25:28,085 - #5 ;
+INFO  15:25:28,085 - #4 }
+INFO  15:25:28,086 - #4 }
+INFO  15:25:28,086 - #4 }
+INFO  15:25:28,086 - #3 {
+INFO  15:25:28,087 - #16 int
+INFO  15:25:28,087 - #16 fun
+INFO  15:25:28,087 - #6 (
+INFO  15:25:28,087 - #16 int
+INFO  15:25:28,087 - #16 x
+INFO  15:25:28,087 - #8 ,
+INFO  15:25:28,087 - #16 int
+INFO  15:25:28,087 - #16 y
+INFO  15:25:28,087 - #7 )
+INFO  15:25:28,087 - #16 int
+INFO  15:25:28,087 - #16 z
+INFO  15:25:28,087 - #5 ;
+INFO  15:25:28,087 - #3 {
+INFO  15:25:28,088 - #10 return
+INFO  15:25:28,088 - #15 0
+INFO  15:25:28,088 - #5 ;
+INFO  15:25:28,088 - #4 }
+INFO  15:25:28,088 - #16 int
+INFO  15:25:28,088 - #16 fun2
+INFO  15:25:28,088 - #6 (
+INFO  15:25:28,088 - #16 int
+INFO  15:25:28,088 - #16 x
+INFO  15:25:28,088 - #8 ,
+INFO  15:25:28,088 - #16 int
+INFO  15:25:28,088 - #16 y
+INFO  15:25:28,088 - #7 )
+INFO  15:25:28,088 - #16 int
+INFO  15:25:28,088 - #16 z
+INFO  15:25:28,088 - #5 ;
+INFO  15:25:28,088 - #3 {
+INFO  15:25:28,088 - #10 return
+INFO  15:25:28,088 - #15 0
+INFO  15:25:28,088 - #5 ;
+INFO  15:25:28,088 - #4 }
+INFO  15:25:28,088 - #16 int
+INFO  15:25:28,089 - #16 main
+INFO  15:25:28,089 - #6 (
+INFO  15:25:28,089 - #7 )
+INFO  15:25:28,089 - #16 int
+INFO  15:25:28,089 - #16 y
+INFO  15:25:28,089 - #8 ,
+INFO  15:25:28,089 - #16 zz
+INFO  15:25:28,089 - #50 [
+INFO  15:25:28,089 - #51 ]
+INFO  15:25:28,089 - #5 ;
+INFO  15:25:28,089 - #3 {
+INFO  15:25:28,090 - #4 }
+INFO  15:25:28,090 - #4 }
+INFO  15:25:28,096 - Deklarisana promenljiva x na liniji 5
+INFO  15:25:28,096 - Trenutan tip konstante je:  bool na liniji 7
+ERROR 15:25:28,096 - Nije pronadjen tip Loli u tabeli simbola
+ERROR 15:25:28,096 - Greska na liniji 9 : Klasa Loli ne postoji! 
+INFO  15:25:28,096 - Deklarisana promenljiva neg na liniji 10
+INFO  15:25:28,096 - Deklarisana promenljiva pos na liniji 10
+ERROR 15:25:28,096 - Greska na liniji 12 : ime idx nije deklarisano! 
+ERROR 15:25:28,096 - Greska na liniji 12 : ime a nije deklarisano! 
+INFO  15:25:28,096 - Deklarisana je klasa :  Table na liniji 7
+INFO  15:25:28,097 - Deklarisana promenljiva z na liniji 21
+ERROR 15:25:28,097 - Promenljiva z je vec deklarisana!
+INFO  15:25:28,097 - Deklarisana promenljiva zz na liniji 33
+INFO  15:25:28,097 - Deklarisana promenljiva y na liniji 33
+ERROR 15:25:28,097 - Parsiranje NIJE uspesno zavrseno!

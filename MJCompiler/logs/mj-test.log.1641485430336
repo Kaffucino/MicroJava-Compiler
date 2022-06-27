@@ -1,0 +1,47 @@
+INFO  17:10:06,056 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  17:10:06,081 - #2 program
+INFO  17:10:06,081 - #16 Program
+INFO  17:10:06,081 - #32 class
+INFO  17:10:06,081 - #16 A
+INFO  17:10:06,081 - #3 {
+INFO  17:10:06,082 - #16 int
+INFO  17:10:06,082 - #16 x
+INFO  17:10:06,082 - #50 [
+INFO  17:10:06,082 - #51 ]
+INFO  17:10:06,082 - #8 ,
+INFO  17:10:06,082 - #16 y
+INFO  17:10:06,082 - #50 [
+INFO  17:10:06,082 - #51 ]
+INFO  17:10:06,082 - #5 ;
+INFO  17:10:06,083 - #4 }
+INFO  17:10:06,084 - #48 const
+INFO  17:10:06,084 - #16 int
+INFO  17:10:06,084 - #16 pi
+INFO  17:10:06,084 - #13 =
+INFO  17:10:06,084 - #15 3
+INFO  17:10:06,084 - #8 ,
+INFO  17:10:06,084 - #16 e
+INFO  17:10:06,085 - #13 =
+INFO  17:10:06,085 - #15 2
+INFO  17:10:06,085 - #5 ;
+INFO  17:10:06,085 - #32 class
+INFO  17:10:06,086 - #16 B
+INFO  17:10:06,086 - #38 extends
+INFO  17:10:06,086 - #16 A
+INFO  17:10:06,086 - #3 {
+INFO  17:10:06,086 - #16 int
+INFO  17:10:06,086 - #16 i
+INFO  17:10:06,086 - #5 ;
+INFO  17:10:06,086 - #3 {
+INFO  17:10:06,086 - #16 int
+INFO  17:10:06,086 - #16 getValue
+INFO  17:10:06,087 - #6 (
+INFO  17:10:06,087 - #16 int
+INFO  17:10:06,087 - #16 a
+INFO  17:10:06,087 - #7 )
+INFO  17:10:06,087 - #3 {
+INFO  17:10:06,087 - #10 return
+INFO  17:10:06,087 - #40 this
+ERROR 17:10:06,087 - 
+Sintaksna greska na liniji 8
+ERROR 17:10:06,087 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

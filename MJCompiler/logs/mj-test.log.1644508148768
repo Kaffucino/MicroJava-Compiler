@@ -1,0 +1,76 @@
+INFO  16:48:43,304 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  16:48:43,341 - #2 program
+INFO  16:48:43,341 - #16 test302
+INFO  16:48:43,341 - #48 const
+INFO  16:48:43,341 - #16 int
+INFO  16:48:43,341 - #16 jedan
+INFO  16:48:43,342 - #13 =
+INFO  16:48:43,342 - #15 1
+INFO  16:48:43,342 - #5 ;
+INFO  16:48:43,342 - #16 int
+INFO  16:48:43,343 - #16 i
+INFO  16:48:43,343 - #5 ;
+INFO  16:48:43,343 - #16 int
+INFO  16:48:43,343 - #16 j
+INFO  16:48:43,344 - #5 ;
+INFO  16:48:43,344 - #16 int
+INFO  16:48:43,344 - #16 z
+INFO  16:48:43,344 - #5 ;
+INFO  16:48:43,344 - #3 {
+INFO  16:48:43,344 - #14 void
+INFO  16:48:43,344 - #16 main
+INFO  16:48:43,344 - #6 (
+INFO  16:48:43,345 - #7 )
+INFO  16:48:43,347 - #3 {
+INFO  16:48:43,348 - #16 i
+INFO  16:48:43,348 - #13 =
+INFO  16:48:43,348 - #15 0
+INFO  16:48:43,348 - #5 ;
+INFO  16:48:43,350 - #16 j
+INFO  16:48:43,350 - #13 =
+INFO  16:48:43,350 - #15 4
+INFO  16:48:43,350 - #5 ;
+INFO  16:48:43,350 - #16 z
+INFO  16:48:43,350 - #13 =
+INFO  16:48:43,350 - #15 5
+INFO  16:48:43,350 - #5 ;
+INFO  16:48:43,350 - #34 do
+INFO  16:48:43,350 - #3 {
+INFO  16:48:43,350 - #16 i
+INFO  16:48:43,350 - #46 ++
+INFO  16:48:43,350 - #5 ;
+INFO  16:48:43,351 - #16 j
+INFO  16:48:43,351 - #47 --
+INFO  16:48:43,351 - #5 ;
+INFO  16:48:43,351 - #16 z
+INFO  16:48:43,351 - #47 --
+INFO  16:48:43,351 - #5 ;
+INFO  16:48:43,351 - #4 }
+INFO  16:48:43,352 - #35 while
+INFO  16:48:43,352 - #6 (
+INFO  16:48:43,352 - #16 j
+INFO  16:48:43,352 - #23 !=
+INFO  16:48:43,352 - #15 0
+INFO  16:48:43,353 - #44 &&
+INFO  16:48:43,353 - #16 i
+INFO  16:48:43,353 - #23 !=
+INFO  16:48:43,353 - #15 10
+INFO  16:48:43,353 - #45 ||
+INFO  16:48:43,354 - #16 z
+INFO  16:48:43,354 - #24 >
+INFO  16:48:43,354 - #15 1
+INFO  16:48:43,355 - #7 )
+INFO  16:48:43,356 - #5 ;
+INFO  16:48:43,356 - #9 print
+INFO  16:48:43,356 - #6 (
+INFO  16:48:43,356 - #16 i
+INFO  16:48:43,356 - #7 )
+INFO  16:48:43,356 - #5 ;
+INFO  16:48:43,356 - #4 }
+INFO  16:48:43,359 - #4 }
+INFO  16:48:43,367 - Trenutan tip konstante je:  int na liniji 5
+INFO  16:48:43,367 - Deklarisana promenljiva i na liniji 7
+INFO  16:48:43,367 - Deklarisana promenljiva j na liniji 8
+INFO  16:48:43,367 - Deklarisana promenljiva z na liniji 9
+INFO  16:48:43,367 - Obradjuje se funkcija main na liniji 12
+INFO  16:48:43,378 - Parsiranje uspesno zavrseno!

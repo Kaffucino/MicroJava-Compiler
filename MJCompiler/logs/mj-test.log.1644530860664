@@ -1,0 +1,67 @@
+INFO  23:07:29,682 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:07:29,713 - #2 program
+INFO  23:07:29,713 - #16 Coaaa
+INFO  23:07:29,713 - #16 int
+INFO  23:07:29,714 - #16 i
+INFO  23:07:29,714 - #5 ;
+INFO  23:07:29,714 - #3 {
+INFO  23:07:29,715 - #16 bool
+INFO  23:07:29,715 - #16 verify
+INFO  23:07:29,715 - #6 (
+INFO  23:07:29,716 - #7 )
+INFO  23:07:29,716 - #3 {
+INFO  23:07:29,716 - #10 return
+INFO  23:07:29,716 - #18 false
+INFO  23:07:29,716 - #5 ;
+INFO  23:07:29,717 - #4 }
+INFO  23:07:29,718 - #14 void
+INFO  23:07:29,718 - #16 main
+INFO  23:07:29,719 - #6 (
+INFO  23:07:29,719 - #7 )
+INFO  23:07:29,719 - #3 {
+INFO  23:07:29,719 - #16 i
+INFO  23:07:29,720 - #13 =
+INFO  23:07:29,725 - #15 0
+INFO  23:07:29,725 - #5 ;
+INFO  23:07:29,726 - #34 do
+INFO  23:07:29,726 - #3 {
+INFO  23:07:29,726 - #16 i
+INFO  23:07:29,726 - #46 ++
+INFO  23:07:29,726 - #5 ;
+INFO  23:07:29,726 - #19 if
+INFO  23:07:29,726 - #6 (
+INFO  23:07:29,727 - #16 i
+INFO  23:07:29,727 - #22 ==
+INFO  23:07:29,727 - #15 5
+INFO  23:07:29,728 - #7 )
+INFO  23:07:29,729 - #3 {
+INFO  23:07:29,729 - #39 continue
+INFO  23:07:29,729 - #5 ;
+INFO  23:07:29,729 - #4 }
+INFO  23:07:29,730 - #20 else
+INFO  23:07:29,730 - #3 {
+INFO  23:07:29,731 - #9 print
+INFO  23:07:29,731 - #6 (
+INFO  23:07:29,731 - #17 'A'
+INFO  23:07:29,731 - #7 )
+INFO  23:07:29,731 - #5 ;
+INFO  23:07:29,731 - #4 }
+INFO  23:07:29,731 - #4 }
+INFO  23:07:29,731 - #35 while
+INFO  23:07:29,731 - #6 (
+INFO  23:07:29,731 - #16 i
+INFO  23:07:29,731 - #26 <
+INFO  23:07:29,731 - #15 5
+INFO  23:07:29,732 - #7 )
+INFO  23:07:29,732 - #5 ;
+INFO  23:07:29,732 - #9 print
+INFO  23:07:29,732 - #6 (
+INFO  23:07:29,732 - #16 i
+INFO  23:07:29,732 - #7 )
+INFO  23:07:29,732 - #5 ;
+INFO  23:07:29,732 - #4 }
+INFO  23:07:29,732 - #4 }
+INFO  23:07:29,741 - Deklarisana promenljiva i na liniji 3
+INFO  23:07:29,741 - Obradjuje se funkcija verify na liniji 8
+INFO  23:07:29,741 - Obradjuje se funkcija main na liniji 14
+INFO  23:07:29,752 - Parsiranje uspesno zavrseno!

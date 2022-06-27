@@ -1,0 +1,14 @@
+INFO  00:01:59,022 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:01:59,056 - #2 program
+INFO  00:01:59,056 - #16 Cofi
+INFO  00:01:59,056 - #3 {
+INFO  00:01:59,057 - #16 int
+INFO  00:01:59,057 - #16 main
+INFO  00:01:59,057 - #6 (
+INFO  00:01:59,058 - #7 )
+INFO  00:01:59,058 - #3 {
+INFO  00:01:59,058 - #4 }
+INFO  00:01:59,059 - #4 }
+INFO  00:01:59,065 - Obradjuje se funkcija main na liniji 6
+ERROR 00:01:59,065 - Semanticka greska na liniji 6: funkcija main nema return iskaz!
+ERROR 00:01:59,065 - Parsiranje NIJE uspesno zavrseno!

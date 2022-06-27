@@ -1,0 +1,58 @@
+INFO  23:15:20,621 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:15:20,676 - #2 program
+INFO  23:15:20,676 - #16 Test
+INFO  23:15:20,676 - #49 record
+INFO  23:15:20,677 - #16 Rekord
+INFO  23:15:20,677 - #3 {
+INFO  23:15:20,677 - #16 int
+INFO  23:15:20,677 - #16 a
+INFO  23:15:20,678 - #5 ;
+INFO  23:15:20,678 - #16 int
+INFO  23:15:20,678 - #16 b
+INFO  23:15:20,678 - #5 ;
+INFO  23:15:20,678 - #4 }
+INFO  23:15:20,679 - #16 int
+INFO  23:15:20,679 - #16 cc
+INFO  23:15:20,679 - #5 ;
+INFO  23:15:20,679 - #16 Rekord
+INFO  23:15:20,679 - #16 r
+INFO  23:15:20,679 - #5 ;
+INFO  23:15:20,679 - #3 {
+INFO  23:15:20,680 - #14 void
+INFO  23:15:20,680 - #16 main
+INFO  23:15:20,680 - #6 (
+INFO  23:15:20,682 - #7 )
+INFO  23:15:20,683 - #3 {
+INFO  23:15:20,683 - #16 r
+INFO  23:15:20,683 - #13 =
+INFO  23:15:20,685 - #36 new
+INFO  23:15:20,685 - #16 Rekord
+INFO  23:15:20,685 - #5 ;
+INFO  23:15:20,689 - #16 r
+INFO  23:15:20,689 - #43 .
+INFO  23:15:20,689 - #16 a
+INFO  23:15:20,689 - #13 =
+INFO  23:15:20,689 - #15 1
+INFO  23:15:20,689 - #5 ;
+INFO  23:15:20,690 - #16 r
+INFO  23:15:20,690 - #43 .
+INFO  23:15:20,690 - #16 a
+INFO  23:15:20,690 - #5 ;
+ERROR 23:15:20,690 - 
+Sintaksna greska na liniji 19
+INFO  23:15:20,690 - #16 cc
+INFO  23:15:20,690 - #13 =
+INFO  23:15:20,690 - #16 r
+ERROR 23:15:20,691 - Izvrsen oporavak do ; u liniji 19
+INFO  23:15:20,691 - #43 .
+INFO  23:15:20,691 - #16 a
+INFO  23:15:20,691 - #5 ;
+INFO  23:15:20,692 - #4 }
+INFO  23:15:20,692 - #4 }
+INFO  23:15:20,701 - Deklarisana je rekord :  Rekord na liniji 3
+INFO  23:15:20,701 - Deklarisana promenljiva a na liniji 5
+INFO  23:15:20,701 - Deklarisana promenljiva b na liniji 6
+INFO  23:15:20,702 - Deklarisana promenljiva cc na liniji 9
+INFO  23:15:20,702 - Deklarisana promenljiva r na liniji 11
+INFO  23:15:20,702 - Obradjuje se funkcija main na liniji 15
+ERROR 23:15:20,704 - Parsiranje NIJE uspesno zavrseno!

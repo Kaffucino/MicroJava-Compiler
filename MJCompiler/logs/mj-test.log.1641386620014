@@ -1,0 +1,44 @@
+INFO  13:43:31,558 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:43:31,567 - #2 program
+INFO  13:43:31,567 - #15 MJProgram
+INFO  13:43:31,567 - #15 int
+INFO  13:43:31,567 - #15 x
+INFO  13:43:31,568 - #22 [
+INFO  13:43:31,568 - #23 ]
+INFO  13:43:31,568 - #8 ,
+INFO  13:43:31,568 - #15 y
+INFO  13:43:31,568 - #8 ,
+INFO  13:43:31,568 - #15 z
+INFO  13:43:31,568 - #22 [
+INFO  13:43:31,568 - #23 ]
+INFO  13:43:31,568 - #8 ,
+INFO  13:43:31,568 - #15 w
+INFO  13:43:31,568 - #5 ;
+INFO  13:43:31,568 - #20 const
+INFO  13:43:31,569 - #15 int
+INFO  13:43:31,569 - #15 y
+INFO  13:43:31,569 - #12 =
+INFO  13:43:31,569 - #14 5
+INFO  13:43:31,569 - #8 ,
+INFO  13:43:31,569 - #15 z
+INFO  13:43:31,569 - #12 =
+INFO  13:43:31,571 - #14 6
+INFO  13:43:31,571 - #8 ,
+INFO  13:43:31,571 - #15 w
+INFO  13:43:31,571 - #12 =
+INFO  13:43:31,571 - #14 8
+INFO  13:43:31,571 - #5 ;
+INFO  13:43:31,571 - #20 const
+INFO  13:43:31,572 - #15 bool
+INFO  13:43:31,572 - #15 lol
+INFO  13:43:31,572 - #12 =
+INFO  13:43:31,572 - #17 false
+INFO  13:43:31,572 - #5 ;
+INFO  13:43:31,572 - #20 const
+INFO  13:43:31,572 - #15 char
+INFO  13:43:31,572 - #15 zz
+INFO  13:43:31,572 - #12 =
+INFO  13:43:31,572 - #15 a
+ERROR 13:43:31,572 - 
+Sintaksna greska na liniji 6
+ERROR 13:43:31,572 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

@@ -1,0 +1,58 @@
+INFO  23:56:46,506 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:56:46,535 - #2 program
+INFO  23:56:46,536 - #16 Cofi
+INFO  23:56:46,536 - #16 int
+INFO  23:56:46,536 - #16 y
+INFO  23:56:46,536 - #5 ;
+INFO  23:56:46,537 - #16 char
+INFO  23:56:46,537 - #16 zz
+INFO  23:56:46,537 - #5 ;
+INFO  23:56:46,537 - #16 bool
+INFO  23:56:46,537 - #16 zy
+INFO  23:56:46,537 - #5 ;
+INFO  23:56:46,537 - #3 {
+INFO  23:56:46,537 - #16 skip
+INFO  23:56:46,538 - #21 :
+ERROR 23:56:46,538 - 
+Sintaksna greska na liniji 8
+INFO  23:56:46,538 - #16 y
+INFO  23:56:46,538 - #46 ++
+INFO  23:56:46,538 - #5 ;
+INFO  23:56:46,538 - #42 goto
+INFO  23:56:46,538 - #16 skip
+INFO  23:56:46,538 - #5 ;
+INFO  23:56:46,543 - #16 int
+INFO  23:56:46,543 - #16 main
+INFO  23:56:46,543 - #6 (
+INFO  23:56:46,543 - #7 )
+INFO  23:56:46,543 - #16 int
+INFO  23:56:46,543 - #16 x
+INFO  23:56:46,543 - #5 ;
+INFO  23:56:46,544 - #3 {
+INFO  23:56:46,544 - #16 skip
+INFO  23:56:46,544 - #21 :
+INFO  23:56:46,544 - #16 x
+INFO  23:56:46,544 - #46 ++
+INFO  23:56:46,544 - #5 ;
+INFO  23:56:46,544 - #42 goto
+INFO  23:56:46,544 - #16 skip
+INFO  23:56:46,544 - #5 ;
+INFO  23:56:46,544 - #10 return
+INFO  23:56:46,544 - #15 1
+INFO  23:56:46,544 - #5 ;
+INFO  23:56:46,544 - #4 }
+INFO  23:56:46,544 - #14 void
+INFO  23:56:46,544 - #16 main2
+INFO  23:56:46,544 - #6 (
+INFO  23:56:46,544 - #7 )
+INFO  23:56:46,544 - #16 int
+INFO  23:56:46,545 - #16 x
+INFO  23:56:46,545 - #5 ;
+INFO  23:56:46,545 - #3 {
+INFO  23:56:46,545 - #4 }
+INFO  23:56:46,545 - #4 }
+ERROR 23:56:46,545 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 24
+INFO  23:56:46,550 - Deklarisana promenljiva y na liniji 3
+INFO  23:56:46,550 - Deklarisana promenljiva zz na liniji 4
+INFO  23:56:46,550 - Deklarisana promenljiva zy na liniji 5
+ERROR 23:56:46,551 - Parsiranje NIJE uspesno zavrseno!

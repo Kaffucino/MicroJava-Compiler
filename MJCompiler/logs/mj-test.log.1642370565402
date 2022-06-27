@@ -1,0 +1,40 @@
+INFO  23:02:32,981 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  23:02:33,011 - #2 program
+INFO  23:02:33,011 - #16 Cofi
+INFO  23:02:33,011 - #16 int
+INFO  23:02:33,011 - #16 y
+INFO  23:02:33,012 - #5 ;
+INFO  23:02:33,012 - #3 {
+INFO  23:02:33,013 - #16 int
+INFO  23:02:33,013 - #16 main
+INFO  23:02:33,013 - #6 (
+INFO  23:02:33,013 - #7 )
+INFO  23:02:33,014 - #16 int
+INFO  23:02:33,014 - #16 x
+INFO  23:02:33,014 - #5 ;
+INFO  23:02:33,014 - #3 {
+INFO  23:02:33,014 - #16 x
+INFO  23:02:33,014 - #13 =
+INFO  23:02:33,015 - #17 'a'
+INFO  23:02:33,015 - #5 ;
+INFO  23:02:33,016 - #10 return
+INFO  23:02:33,016 - #16 y
+INFO  23:02:33,016 - #5 ;
+INFO  23:02:33,016 - #4 }
+INFO  23:02:33,017 - #14 void
+INFO  23:02:33,020 - #16 main2
+INFO  23:02:33,020 - #6 (
+INFO  23:02:33,020 - #7 )
+INFO  23:02:33,020 - #16 int
+INFO  23:02:33,020 - #16 x
+INFO  23:02:33,020 - #5 ;
+INFO  23:02:33,020 - #3 {
+INFO  23:02:33,020 - #4 }
+INFO  23:02:33,020 - #4 }
+INFO  23:02:33,026 - Deklarisana promenljiva y na liniji 3
+INFO  23:02:33,026 - Obradjuje se funkcija main na liniji 8
+INFO  23:02:33,026 - Deklarisana promenljiva x na liniji 8
+ERROR 23:02:33,026 - Semanticka greska na liniji 9 nekompatibilni tipovi za dodelu!
+INFO  23:02:33,026 - Obradjuje se funkcija main2 na liniji 14
+INFO  23:02:33,026 - Deklarisana promenljiva x na liniji 14
+ERROR 23:02:33,027 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,66 @@
+INFO  22:28:59,582 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:28:59,611 - #2 program
+INFO  22:28:59,611 - #16 Prog
+INFO  22:28:59,612 - #49 record
+INFO  22:28:59,612 - #16 Test
+INFO  22:28:59,612 - #3 {
+INFO  22:28:59,612 - #16 int
+INFO  22:28:59,612 - #16 c
+INFO  22:28:59,613 - #5 ;
+INFO  22:28:59,613 - #16 int
+INFO  22:28:59,613 - #16 b
+INFO  22:28:59,613 - #5 ;
+INFO  22:28:59,613 - #4 }
+INFO  22:28:59,614 - #16 int
+INFO  22:28:59,614 - #16 a
+INFO  22:28:59,614 - #5 ;
+INFO  22:28:59,614 - #16 char
+INFO  22:28:59,614 - #16 cc
+INFO  22:28:59,614 - #5 ;
+INFO  22:28:59,614 - #16 Test
+INFO  22:28:59,614 - #16 t
+INFO  22:28:59,614 - #5 ;
+INFO  22:28:59,614 - #3 {
+INFO  22:28:59,615 - #14 void
+INFO  22:28:59,615 - #16 main
+INFO  22:28:59,615 - #6 (
+INFO  22:28:59,616 - #7 )
+INFO  22:28:59,616 - #3 {
+INFO  22:28:59,616 - #16 t
+INFO  22:28:59,616 - #13 =
+INFO  22:28:59,617 - #36 new
+INFO  22:28:59,617 - #16 Test
+INFO  22:28:59,617 - #5 ;
+INFO  22:28:59,619 - #16 t
+INFO  22:28:59,619 - #43 .
+INFO  22:28:59,619 - #16 c
+INFO  22:28:59,619 - #13 =
+INFO  22:28:59,619 - #15 2
+INFO  22:28:59,619 - #5 ;
+INFO  22:28:59,619 - #16 t
+INFO  22:28:59,619 - #43 .
+INFO  22:28:59,619 - #16 b
+INFO  22:28:59,619 - #13 =
+INFO  22:28:59,619 - #16 t
+INFO  22:28:59,619 - #43 .
+INFO  22:28:59,619 - #16 c
+INFO  22:28:59,620 - #11 +
+INFO  22:28:59,620 - #15 3
+INFO  22:28:59,620 - #5 ;
+INFO  22:28:59,620 - #9 print
+INFO  22:28:59,620 - #6 (
+INFO  22:28:59,620 - #16 t
+INFO  22:28:59,620 - #43 .
+INFO  22:28:59,620 - #16 b
+INFO  22:28:59,621 - #7 )
+INFO  22:28:59,621 - #5 ;
+INFO  22:28:59,621 - #4 }
+INFO  22:28:59,621 - #4 }
+INFO  22:28:59,629 - Deklarisana je rekord :  Test na liniji 3
+INFO  22:28:59,629 - Deklarisana promenljiva c na liniji 5
+INFO  22:28:59,629 - Deklarisana promenljiva b na liniji 6
+INFO  22:28:59,630 - Deklarisana promenljiva a na liniji 9
+INFO  22:28:59,630 - Deklarisana promenljiva cc na liniji 10
+INFO  22:28:59,630 - Deklarisana promenljiva t na liniji 11
+INFO  22:28:59,630 - Obradjuje se funkcija main na liniji 15
+INFO  22:28:59,641 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,164 @@
+INFO  14:22:39,223 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  14:22:39,252 - #2 program
+INFO  14:22:39,252 - #16 test1
+INFO  14:22:39,252 - #48 const
+INFO  14:22:39,253 - #16 char
+INFO  14:22:39,253 - #16 konst
+INFO  14:22:39,253 - #13 =
+INFO  14:22:39,253 - #15 5
+INFO  14:22:39,253 - #5 ;
+INFO  14:22:39,254 - #16 int
+INFO  14:22:39,254 - #16 a
+INFO  14:22:39,254 - #5 ;
+INFO  14:22:39,254 - #16 char
+INFO  14:22:39,255 - #16 niz
+INFO  14:22:39,255 - #50 [
+INFO  14:22:39,255 - #51 ]
+INFO  14:22:39,255 - #5 ;
+INFO  14:22:39,255 - #16 char
+INFO  14:22:39,255 - #16 b
+INFO  14:22:39,255 - #5 ;
+INFO  14:22:39,255 - #16 bool
+INFO  14:22:39,255 - #16 c
+INFO  14:22:39,255 - #5 ;
+INFO  14:22:39,261 - #49 record
+INFO  14:22:39,261 - #16 Rekord
+INFO  14:22:39,261 - #3 {
+INFO  14:22:39,261 - #16 int
+INFO  14:22:39,261 - #16 a
+INFO  14:22:39,261 - #5 ;
+INFO  14:22:39,261 - #4 }
+INFO  14:22:39,262 - #16 Rekord2
+INFO  14:22:39,262 - #16 random
+INFO  14:22:39,262 - #5 ;
+INFO  14:22:39,262 - #3 {
+INFO  14:22:39,262 - #16 int
+INFO  14:22:39,262 - #16 func1
+INFO  14:22:39,262 - #6 (
+INFO  14:22:39,263 - #7 )
+INFO  14:22:39,263 - #3 {
+INFO  14:22:39,263 - #10 return
+INFO  14:22:39,263 - #18 true
+INFO  14:22:39,263 - #5 ;
+INFO  14:22:39,264 - #4 }
+INFO  14:22:39,265 - #14 void
+INFO  14:22:39,265 - #16 func2
+INFO  14:22:39,265 - #6 (
+INFO  14:22:39,266 - #16 int
+INFO  14:22:39,266 - #16 p1
+INFO  14:22:39,266 - #8 ,
+INFO  14:22:39,266 - #16 char
+INFO  14:22:39,266 - #16 p2
+INFO  14:22:39,266 - #50 [
+INFO  14:22:39,266 - #51 ]
+INFO  14:22:39,266 - #7 )
+INFO  14:22:39,266 - #3 {
+INFO  14:22:39,266 - #4 }
+INFO  14:22:39,266 - #14 void
+INFO  14:22:39,266 - #16 func3
+INFO  14:22:39,266 - #6 (
+INFO  14:22:39,267 - #7 )
+INFO  14:22:39,267 - #3 {
+INFO  14:22:39,267 - #4 }
+INFO  14:22:39,267 - #14 void
+INFO  14:22:39,267 - #16 main
+INFO  14:22:39,267 - #6 (
+INFO  14:22:39,267 - #7 )
+INFO  14:22:39,267 - #3 {
+INFO  14:22:39,267 - #16 a
+INFO  14:22:39,267 - #13 =
+INFO  14:22:39,270 - #17 'A'
+INFO  14:22:39,270 - #5 ;
+INFO  14:22:39,271 - #16 b
+INFO  14:22:39,271 - #13 =
+INFO  14:22:39,271 - #15 77
+INFO  14:22:39,271 - #5 ;
+INFO  14:22:39,271 - #16 c
+INFO  14:22:39,271 - #13 =
+INFO  14:22:39,271 - #15 1
+INFO  14:22:39,271 - #5 ;
+INFO  14:22:39,271 - #19 if
+INFO  14:22:39,271 - #6 (
+INFO  14:22:39,271 - #16 b
+INFO  14:22:39,271 - #24 >
+INFO  14:22:39,272 - #15 3
+INFO  14:22:39,272 - #7 )
+INFO  14:22:39,274 - #9 print
+INFO  14:22:39,274 - #6 (
+INFO  14:22:39,274 - #17 'a'
+INFO  14:22:39,274 - #7 )
+INFO  14:22:39,274 - #5 ;
+INFO  14:22:39,274 - #19 if
+INFO  14:22:39,275 - #6 (
+INFO  14:22:39,275 - #16 func3
+INFO  14:22:39,275 - #6 (
+INFO  14:22:39,275 - #7 )
+INFO  14:22:39,275 - #7 )
+INFO  14:22:39,275 - #9 print
+INFO  14:22:39,275 - #6 (
+INFO  14:22:39,275 - #17 'F'
+INFO  14:22:39,275 - #7 )
+INFO  14:22:39,275 - #5 ;
+INFO  14:22:39,275 - #16 func1
+INFO  14:22:39,275 - #6 (
+INFO  14:22:39,275 - #16 a
+INFO  14:22:39,275 - #8 ,
+INFO  14:22:39,275 - #16 b
+INFO  14:22:39,275 - #7 )
+INFO  14:22:39,276 - #5 ;
+INFO  14:22:39,276 - #16 func1
+INFO  14:22:39,276 - #6 (
+INFO  14:22:39,276 - #16 a
+INFO  14:22:39,276 - #8 ,
+INFO  14:22:39,276 - #16 b
+INFO  14:22:39,276 - #8 ,
+INFO  14:22:39,276 - #16 a
+INFO  14:22:39,276 - #7 )
+INFO  14:22:39,276 - #5 ;
+INFO  14:22:39,276 - #16 func2
+INFO  14:22:39,276 - #6 (
+INFO  14:22:39,277 - #16 a
+INFO  14:22:39,277 - #8 ,
+INFO  14:22:39,277 - #16 niz
+INFO  14:22:39,277 - #7 )
+INFO  14:22:39,277 - #5 ;
+INFO  14:22:39,277 - #16 func1
+INFO  14:22:39,277 - #6 (
+INFO  14:22:39,277 - #7 )
+INFO  14:22:39,277 - #5 ;
+INFO  14:22:39,277 - #31 break
+INFO  14:22:39,277 - #5 ;
+INFO  14:22:39,277 - #4 }
+INFO  14:22:39,277 - #4 }
+INFO  14:22:39,284 - Trenutan tip konstante je:  char na liniji 3
+ERROR 14:22:39,284 - Greska na liniji 3 : Tip char ne odgovara vrednosti konstante konst
+INFO  14:22:39,284 - Deklarisana promenljiva a na liniji 5
+INFO  14:22:39,284 - Deklarisana promenljiva niz na liniji 6
+INFO  14:22:39,284 - Deklarisana promenljiva b na liniji 7
+INFO  14:22:39,284 - Deklarisana promenljiva c na liniji 8
+INFO  14:22:39,284 - Deklarisana je rekord :  Rekord na liniji 11
+ERROR 14:22:39,284 - Promenljiva a je vec deklarisana!
+ERROR 14:22:39,284 - Nije pronadjen tip Rekord2 u tabeli simbola
+INFO  14:22:39,284 - Deklarisana promenljiva random na liniji 14
+INFO  14:22:39,284 - Obradjuje se funkcija func1 na liniji 18
+ERROR 14:22:39,284 - Semanticka greska na liniji 20: funkcija func1 kao povratni tip prihvata: int
+INFO  14:22:39,285 - Obradjuje se funkcija func2 na liniji 23
+INFO  14:22:39,285 - Naveden argument p2 na liniji 23
+INFO  14:22:39,285 - Naveden argument p1 na liniji 23
+INFO  14:22:39,285 - Obradjuje se funkcija func3 na liniji 28
+INFO  14:22:39,285 - Obradjuje se funkcija main na liniji 33
+ERROR 14:22:39,285 - Semanticka greska na liniji 34 nekompatibilni tipovi prilikom dodele!
+ERROR 14:22:39,285 - Semanticka greska na liniji 35 nekompatibilni tipovi prilikom dodele!
+ERROR 14:22:39,285 - Semanticka greska na liniji 36 nekompatibilni tipovi prilikom dodele!
+ERROR 14:22:39,285 - Semanticka greska na liniji 39 promenljiva: b mora biti tipa int!
+ERROR 14:22:39,285 - Semanticka greska na liniji 41 povratni tip funkcije:  mora biti tipa bool!
+INFO  14:22:39,285 - Pronadjen poziv funkcije func1 na liniji 44
+ERROR 14:22:39,285 - Pogresan tip argumenta u funkciji: func1 na liniji 44
+ERROR 14:22:39,285 - Pogresan broj argumenta u funkciji: func1 na liniji 44
+INFO  14:22:39,285 - Pronadjen poziv funkcije func1 na liniji 45
+ERROR 14:22:39,285 - Pogresan tip argumenta u funkciji: func1 na liniji 45
+ERROR 14:22:39,285 - Pogresan broj argumenta u funkciji: func1 na liniji 45
+INFO  14:22:39,286 - Pronadjen poziv funkcije func2 na liniji 46
+INFO  14:22:39,286 - Pronadjen poziv funkcije func1 na liniji 47
+ERROR 14:22:39,286 - Semanticka greska!  break moze da se javi samo u okviru do-while petlje! 
+ERROR 14:22:39,286 - Parsiranje NIJE uspesno zavrseno!

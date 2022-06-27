@@ -1,0 +1,27 @@
+INFO  13:49:30,335 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  13:49:30,365 - #2 program
+INFO  13:49:30,365 - #16 COfa
+INFO  13:49:30,365 - #16 int
+INFO  13:49:30,366 - #16 x
+INFO  13:49:30,366 - #5 ;
+INFO  13:49:30,367 - #3 {
+INFO  13:49:30,367 - #14 void
+INFO  13:49:30,368 - #16 main
+INFO  13:49:30,368 - #6 (
+INFO  13:49:30,368 - #7 )
+INFO  13:49:30,369 - #3 {
+INFO  13:49:30,369 - #19 if
+INFO  13:49:30,369 - #6 (
+INFO  13:49:30,369 - #16 z
+INFO  13:49:30,369 - #7 )
+INFO  13:49:30,373 - #3 {
+INFO  13:49:30,373 - #16 x
+INFO  13:49:30,373 - #46 ++
+INFO  13:49:30,373 - #5 ;
+INFO  13:49:30,374 - #4 }
+INFO  13:49:30,374 - #4 }
+INFO  13:49:30,375 - #4 }
+INFO  13:49:30,381 - Deklarisana promenljiva x na liniji 3
+INFO  13:49:30,382 - Obradjuje se funkcija main na liniji 9
+ERROR 13:49:30,382 - Greska na liniji 11 : ime z nije deklarisano! 
+ERROR 13:49:30,382 - Parsiranje NIJE uspesno zavrseno!

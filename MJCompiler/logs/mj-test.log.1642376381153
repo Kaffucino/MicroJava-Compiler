@@ -1,0 +1,64 @@
+INFO  00:39:31,267 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  00:39:31,298 - #2 program
+INFO  00:39:31,299 - #16 Cofi
+INFO  00:39:31,299 - #16 int
+INFO  00:39:31,299 - #16 y
+INFO  00:39:31,299 - #5 ;
+INFO  00:39:31,300 - #16 char
+INFO  00:39:31,300 - #16 zz
+INFO  00:39:31,300 - #5 ;
+INFO  00:39:31,300 - #16 bool
+INFO  00:39:31,300 - #16 zy
+INFO  00:39:31,300 - #5 ;
+INFO  00:39:31,300 - #3 {
+INFO  00:39:31,300 - #14 void
+INFO  00:39:31,301 - #16 main2
+INFO  00:39:31,301 - #6 (
+INFO  00:39:31,301 - #7 )
+INFO  00:39:31,302 - #16 int
+INFO  00:39:31,302 - #16 x
+INFO  00:39:31,302 - #5 ;
+INFO  00:39:31,302 - #3 {
+INFO  00:39:31,302 - #16 x
+INFO  00:39:31,302 - #46 ++
+INFO  00:39:31,308 - #5 ;
+INFO  00:39:31,308 - #4 }
+INFO  00:39:31,309 - #16 int
+INFO  00:39:31,309 - #16 main
+INFO  00:39:31,309 - #6 (
+INFO  00:39:31,309 - #7 )
+INFO  00:39:31,309 - #16 int
+INFO  00:39:31,309 - #16 x
+INFO  00:39:31,309 - #5 ;
+INFO  00:39:31,309 - #3 {
+INFO  00:39:31,309 - #16 skip
+INFO  00:39:31,309 - #21 :
+INFO  00:39:31,310 - #16 x
+INFO  00:39:31,310 - #46 ++
+INFO  00:39:31,310 - #5 ;
+INFO  00:39:31,310 - #34 do
+INFO  00:39:31,310 - #3 {
+INFO  00:39:31,310 - #16 x
+INFO  00:39:31,310 - #46 ++
+INFO  00:39:31,310 - #5 ;
+INFO  00:39:31,310 - #4 }
+INFO  00:39:31,310 - #35 while
+INFO  00:39:31,311 - #6 (
+INFO  00:39:31,311 - #16 x
+INFO  00:39:31,311 - #24 >
+INFO  00:39:31,312 - #15 5
+INFO  00:39:31,312 - #7 )
+INFO  00:39:31,314 - #5 ;
+INFO  00:39:31,314 - #10 return
+INFO  00:39:31,314 - #15 1
+INFO  00:39:31,314 - #5 ;
+INFO  00:39:31,314 - #4 }
+INFO  00:39:31,314 - #4 }
+INFO  00:39:31,320 - Deklarisana promenljiva y na liniji 3
+INFO  00:39:31,320 - Deklarisana promenljiva zz na liniji 4
+INFO  00:39:31,320 - Deklarisana promenljiva zy na liniji 5
+INFO  00:39:31,320 - Obradjuje se funkcija main2 na liniji 9
+INFO  00:39:31,320 - Deklarisana promenljiva x na liniji 9
+INFO  00:39:31,320 - Obradjuje se funkcija main na liniji 15
+INFO  00:39:31,321 - Deklarisana promenljiva x na liniji 15
+INFO  00:39:31,328 - Parsiranje uspesno zavrseno!

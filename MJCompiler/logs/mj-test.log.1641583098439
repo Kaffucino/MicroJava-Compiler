@@ -1,0 +1,16 @@
+INFO  20:17:56,600 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:17:56,641 - #2 program
+INFO  20:17:56,641 - #16 p
+INFO  20:17:56,641 - #3 {
+INFO  20:17:56,642 - #16 int
+INFO  20:17:56,642 - #16 main
+INFO  20:17:56,642 - #6 (
+INFO  20:17:56,643 - #15 5
+ERROR 20:17:56,643 - 
+Sintaksna greska na liniji 5
+INFO  20:17:56,643 - #8 ,
+INFO  20:17:56,643 - #15 5
+INFO  20:17:56,643 - #7 )
+INFO  20:17:56,643 - #5 ;
+INFO  20:17:56,643 - #4 }
+ERROR 20:17:56,644 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7

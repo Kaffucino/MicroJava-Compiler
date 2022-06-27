@@ -1,0 +1,23 @@
+INFO  20:46:02,484 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  20:46:02,513 - #2 program
+INFO  20:46:02,514 - #16 MJ
+INFO  20:46:02,514 - #16 int
+INFO  20:46:02,514 - #16 x
+INFO  20:46:02,515 - #8 ,
+INFO  20:46:02,515 - #16 y
+INFO  20:46:02,515 - #5 ;
+INFO  20:46:02,515 - #3 {
+INFO  20:46:02,516 - #16 int
+INFO  20:46:02,516 - #16 main
+INFO  20:46:02,516 - #6 (
+INFO  20:46:02,516 - #7 )
+INFO  20:46:02,516 - #3 {
+INFO  20:46:02,517 - #16 x
+INFO  20:46:02,517 - #30 %
+ERROR 20:46:02,517 - 
+Sintaksna greska na liniji 7
+INFO  20:46:02,517 - #16 y
+INFO  20:46:02,517 - #5 ;
+INFO  20:46:02,517 - #4 }
+INFO  20:46:02,517 - #4 }
+ERROR 20:46:02,517 - Izvrsen oporavak do ; u liniji 7

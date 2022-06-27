@@ -1,0 +1,55 @@
+INFO  22:24:44,086 - Compiling source file: C:\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  22:24:44,116 - #2 program
+INFO  22:24:44,116 - #16 test302
+INFO  22:24:44,116 - #48 const
+INFO  22:24:44,117 - #16 int
+INFO  22:24:44,117 - #16 jedan
+INFO  22:24:44,117 - #13 =
+INFO  22:24:44,117 - #15 1
+INFO  22:24:44,118 - #5 ;
+INFO  22:24:44,118 - #3 {
+INFO  22:24:44,119 - #14 void
+INFO  22:24:44,119 - #16 main
+INFO  22:24:44,119 - #6 (
+INFO  22:24:44,120 - #7 )
+INFO  22:24:44,120 - #16 int
+INFO  22:24:44,120 - #16 niz
+INFO  22:24:44,120 - #50 [
+INFO  22:24:44,120 - #51 ]
+INFO  22:24:44,120 - #5 ;
+INFO  22:24:44,121 - #3 {
+INFO  22:24:44,121 - #16 niz
+INFO  22:24:44,121 - #13 =
+INFO  22:24:44,122 - #36 new
+INFO  22:24:44,123 - #16 int
+INFO  22:24:44,123 - #50 [
+INFO  22:24:44,124 - #15 5
+INFO  22:24:44,124 - #51 ]
+INFO  22:24:44,125 - #5 ;
+INFO  22:24:44,125 - #16 niz
+INFO  22:24:44,125 - #50 [
+INFO  22:24:44,125 - #15 2
+INFO  22:24:44,125 - #51 ]
+INFO  22:24:44,125 - #13 =
+INFO  22:24:44,125 - #15 3
+INFO  22:24:44,125 - #5 ;
+INFO  22:24:44,126 - #16 niz
+INFO  22:24:44,126 - #50 [
+INFO  22:24:44,126 - #15 2
+INFO  22:24:44,126 - #51 ]
+INFO  22:24:44,126 - #46 ++
+INFO  22:24:44,126 - #5 ;
+INFO  22:24:44,126 - #9 print
+INFO  22:24:44,126 - #6 (
+INFO  22:24:44,126 - #16 niz
+INFO  22:24:44,126 - #50 [
+INFO  22:24:44,126 - #15 2
+INFO  22:24:44,126 - #51 ]
+INFO  22:24:44,126 - #7 )
+INFO  22:24:44,126 - #5 ;
+INFO  22:24:44,126 - #4 }
+INFO  22:24:44,127 - #4 }
+INFO  22:24:44,134 - Trenutan tip konstante je:  int na liniji 5
+INFO  22:24:44,134 - Obradjuje se funkcija main na liniji 12
+INFO  22:24:44,134 - Deklarisana promenljiva niz na liniji 13
+INFO  22:24:44,144 - Parsiranje uspesno zavrseno!
